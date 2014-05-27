@@ -1,0 +1,4 @@
+ElectionTypeID	ElectionType
+1	General
+2	Primary
+3	Special

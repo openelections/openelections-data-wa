@@ -1,0 +1,119 @@
+PartyID	PartyName	PartyCode
+88	PA	PA
+89	FL	FL
+90	FDM	FDM
+91	CON	CON
+92	Ross. Supp.	Ross. Supp.
+93	COM	COM
+94	FP	FP
+95	LBT	LBT
+96	AH	AH
+97	IU	IU
+98	FS	FS
+99	BP	BP
+100	Christian Nat.	Christian Nat.
+101	IC	IC
+102	ER	ER
+103	NL	NL
+104	OWL	OWL
+105	Ind. Labor	Ind. Labor
+106	American Independent	American Independent
+107	PF	PF
+108	GRN	GRN
+109	P	P
+110	NP	NP
+111	REF	REF
+112	B	B
+113	AMERICAN	AMERICAN
+114	Peace and Freedom	Peace and Freedom
+115	Prohibition	Prohibition
+116	POP	POP
+117	CP	CP
+118	Ind.-Soc.	Ind.-Soc.
+119	UST	UST
+120	NA	NA
+121	WORKERS	WORKERS
+122	AC	AC
+123	U.S. Labor	U.S. Labor
+124	I	I
+125	Socialist Labor	Socialist Labor
+126	TP	TP
+127	C	C
+128	D	D
+129	Socialist	Socialist
+130	WW	WW
+131	SOC	SOC
+132	BR	BR
+133	LB	LB
+134	SWP	SWP
+135	Soc.-Lab.	Soc.-Lab.
+136	USL	USL
+137	SW	SW
+138	R	R
+139	E	E
+140	SL	SL
+141	New Party	New Party
+142	NDPL	NDPL
+143	CIT	CIT
+144	WT	WT
+145	PR	PR
+146	Conservative	Conservative
+147	Socialist Workers	Socialist Workers
+148	NM	NM
+149	Constit.	Constit.
+150	Progressive	Progressive
+151	LABOR	LABOR
+152	S	S
+153	WCF	WCF
+154	AI	AI
+155	IND	IND
+156	Soc.-  Lab.	Soc.-  Lab.
+157	WWP	WWP
+158	LIB	LIB
+159	GC	GC
+160	People's	People's
+161	BUFFALO	BUFFALO
+162	LBP	LBP
+163	PP	PP
+164	LI	LI
+165	Taxpayers	Taxpayers
+166	Free Ballot	Free Ballot
+167	L	L
+168	RFM	RFM
+169	PROG	PROG
+170	CPY	CPY
+171	Communist	Communist
+172	CST	CST
+173	NLP	NLP
+174	Constitutional	CV
+175	N	N
+176	IL	IL
+177	W	W
+178	A	A
+179	NPY	NPY
+180	CNV	CNV
+181	TAX	TAX
+182	FB	FB
+183	PEO	PEO
+184	ISWP	ISWP
+185	FLC	FLC
+186	LA	LA
+187	ALL	ALL
+188	SP	SP
+189	SE	SE
+190	IS	IS
+191	SD	SD
+192	WC	WC
+193	IP	IP
+194	G	G
+195		
+196	ST	ST
+197	U	U
+198	CH	CH
+199	FED	FED
+200	STA	STA
+201	IPR	IPR
+202	CNP	CNP
+203	WSL	WSL
+204	CN	CN
+205	ULS	ULS

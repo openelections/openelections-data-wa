@@ -1,0 +1,41 @@
+CountyID	CountyName	CountyCode
+1	Adams	AD
+2	Asotin	AS
+3	Benton	BE
+4	Chelan	CH
+5	Clallam	CM
+6	Clark	CR
+7	Columbia	CU
+8	Cowlitz	CZ
+9	Douglas	DG
+10	Ferry	FE
+11	Franklin	FR
+12	Garfield	GA
+13	Grant	GR
+14	Grays Harbor	GY
+15	Island	IS
+16	Jefferson	JE
+17	King	KI
+18	Kitsap	KP
+19	Kittitas	KS
+20	Klickitat	KT
+21	Lewis	LE
+22	Lincoln	LI
+23	Mason	MA
+24	Okanogan	OK
+25	Pacific	PA
+26	Pend Oreille	PE
+27	Pierce	PI
+28	San Juan	SJ
+29	Skagit	SK
+30	Skamania	SM
+31	Snohomish	SN
+32	Spokane	SP
+33	Stevens	ST
+34	Thurston	TH
+35	Wahkiakum	WK
+36	Walla Walla	WL
+37	Whatcom	WM
+38	Whitman	WT
+39	Yakima	YA
+40	Chehalis	CS

@@ -1,0 +1,8 @@
+OfficeTypeID	OfficeType	DisplayOrder
+1	Federal	2
+2	Statewide	3
+3	Judicial - Supreme Court	5
+4	Legislative	4
+5	Measures	1
+6	Judicial - Court of Appeals	7
+7	Judicial - Superior Court	8
