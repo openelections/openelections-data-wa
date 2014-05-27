@@ -4,7 +4,7 @@ import argparse
 import os
 import os.path
 
-from openelexdata.us.wa import loaddata
+from openelexdata.us.wa import loaddata, createcsvs
 
 thisdir = os.path.dirname(os.path.realpath(__file__))
 project_root = os.path.abspath(os.path.join(thisdir, os.pardir)) 
@@ -16,7 +16,14 @@ if __name__ == "__main__":
     parser_loaddata = subparsers.add_parser('loaddata', help="Load raw data into a database")
     parser_loaddata.add_argument("--datadir", help="Directory containing raw data",
         default=os.path.join(project_root, "raw"))
+    parser_createcsvs = subparsers.add_parser('createcsvs', help="Write CSV files "
+        "from data")
+    parser_createcsvs.add_argument('--startyear', help="Year to start writing result CSVs.",
+        type=int, default=2000)
+           
     args = parser.parse_args()
 
     if args.subparser_name == 'loaddata':
         loaddata(args.datadir)
+    elif args.subparser_name == 'createcsvs':
+        createcsvs(args.startyear)

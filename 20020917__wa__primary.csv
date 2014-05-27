@@ -1,0 +1,1300 @@
+firstname,lastname,ballotname,partyname,partycode,officename,officeposition,measuretext,reporting_level,jurisdiction,votes
+Mike The,Mover,Mike The Mover,D,D,U. S. Representative District #1,NA,,county,King,1486
+Mike The,Mover,Mike The Mover,D,D,U. S. Representative District #1,NA,,county,Kitsap,1087
+Mike The,Mover,Mike The Mover,D,D,U. S. Representative District #1,NA,,county,Snohomish,2718
+Mike The,Mover,Mike The Mover,D,D,U. S. Representative District #1,NA,,state,Washington,5291
+Mark  B.,Wilson,Mark B. Wilson,L,L,U. S. Representative District #1,NA,,county,King,813
+Mark  B.,Wilson,Mark B. Wilson,L,L,U. S. Representative District #1,NA,,county,Kitsap,548
+Mark  B.,Wilson,Mark B. Wilson,L,L,U. S. Representative District #1,NA,,county,Snohomish,1664
+Mark  B.,Wilson,Mark B. Wilson,L,L,U. S. Representative District #1,NA,,state,Washington,3025
+Bruce,Guthrie,Bruce Guthrie,L,L,U. S. Representative District #2,NA,,county,Island,362
+Bruce,Guthrie,Bruce Guthrie,L,L,U. S. Representative District #2,NA,,county,King,4
+Bruce,Guthrie,Bruce Guthrie,L,L,U. S. Representative District #2,NA,,county,San Juan,94
+Bruce,Guthrie,Bruce Guthrie,L,L,U. S. Representative District #2,NA,,county,Skagit,289
+Bruce,Guthrie,Bruce Guthrie,L,L,U. S. Representative District #2,NA,,county,Snohomish,1395
+Bruce,Guthrie,Bruce Guthrie,L,L,U. S. Representative District #2,NA,,county,Whatcom,710
+Bruce,Guthrie,Bruce Guthrie,L,L,U. S. Representative District #2,NA,,state,Washington,2854
+Bernard Patrick (Bern),Haggerty,Bernard Patrick (Bern) Haggerty,GRN,GRN,U. S. Representative District #2,NA,,county,Island,301
+Bernard Patrick (Bern),Haggerty,Bernard Patrick (Bern) Haggerty,GRN,GRN,U. S. Representative District #2,NA,,county,King,6
+Bernard Patrick (Bern),Haggerty,Bernard Patrick (Bern) Haggerty,GRN,GRN,U. S. Representative District #2,NA,,county,San Juan,348
+Bernard Patrick (Bern),Haggerty,Bernard Patrick (Bern) Haggerty,GRN,GRN,U. S. Representative District #2,NA,,county,Skagit,376
+Bernard Patrick (Bern),Haggerty,Bernard Patrick (Bern) Haggerty,GRN,GRN,U. S. Representative District #2,NA,,county,Snohomish,972
+Bernard Patrick (Bern),Haggerty,Bernard Patrick (Bern) Haggerty,GRN,GRN,U. S. Representative District #2,NA,,county,Whatcom,1230
+Bernard Patrick (Bern),Haggerty,Bernard Patrick (Bern) Haggerty,GRN,GRN,U. S. Representative District #2,NA,,state,Washington,3233
+Warren E.,Hanson,Warren E. Hanson,R,R,U. S. Representative District #2,NA,,county,Snohomish,4268
+Warren E.,Hanson,Warren E. Hanson,R,R,U. S. Representative District #2,NA,,county,Island,935
+Warren E.,Hanson,Warren E. Hanson,R,R,U. S. Representative District #2,NA,,county,King,8
+Warren E.,Hanson,Warren E. Hanson,R,R,U. S. Representative District #2,NA,,county,San Juan,194
+Warren E.,Hanson,Warren E. Hanson,R,R,U. S. Representative District #2,NA,,county,Skagit,1170
+Warren E.,Hanson,Warren E. Hanson,R,R,U. S. Representative District #2,NA,,county,Whatcom,1966
+Warren E.,Hanson,Warren E. Hanson,R,R,U. S. Representative District #2,NA,,state,Washington,8541
+Rick,Larsen,Rick Larsen,D,D,U. S. Representative District #2,NA,,county,Island,7139
+Rick,Larsen,Rick Larsen,D,D,U. S. Representative District #2,NA,,county,King,62
+Rick,Larsen,Rick Larsen,D,D,U. S. Representative District #2,NA,,county,San Juan,2763
+Rick,Larsen,Rick Larsen,D,D,U. S. Representative District #2,NA,,county,Skagit,10125
+Rick,Larsen,Rick Larsen,D,D,U. S. Representative District #2,NA,,county,Snohomish,26436
+Rick,Larsen,Rick Larsen,D,D,U. S. Representative District #2,NA,,county,Whatcom,12713
+Rick,Larsen,Rick Larsen,D,D,U. S. Representative District #2,NA,,state,Washington,59238
+Herb,Meyer,Herb Meyer,R,R,U. S. Representative District #2,NA,,county,Island,1751
+Herb,Meyer,Herb Meyer,R,R,U. S. Representative District #2,NA,,county,King,13
+Herb,Meyer,Herb Meyer,R,R,U. S. Representative District #2,NA,,county,San Juan,1566
+Herb,Meyer,Herb Meyer,R,R,U. S. Representative District #2,NA,,county,Skagit,4258
+Herb,Meyer,Herb Meyer,R,R,U. S. Representative District #2,NA,,county,Snohomish,7707
+Herb,Meyer,Herb Meyer,R,R,U. S. Representative District #2,NA,,county,Whatcom,6873
+Herb,Meyer,Herb Meyer,R,R,U. S. Representative District #2,NA,,state,Washington,22168
+Norma,Smith,Norma Smith,R,R,U. S. Representative District #2,NA,,county,Island,5735
+Norma,Smith,Norma Smith,R,R,U. S. Representative District #2,NA,,county,King,31
+Norma,Smith,Norma Smith,R,R,U. S. Representative District #2,NA,,county,San Juan,673
+Norma,Smith,Norma Smith,R,R,U. S. Representative District #2,NA,,county,Skagit,4507
+Norma,Smith,Norma Smith,R,R,U. S. Representative District #2,NA,,county,Snohomish,10968
+Norma,Smith,Norma Smith,R,R,U. S. Representative District #2,NA,,county,Whatcom,4451
+Norma,Smith,Norma Smith,R,R,U. S. Representative District #2,NA,,state,Washington,26365
+Brian,Baird,Brian Baird,D,D,U. S. Representative District #3,NA,,county,Clark,32265
+Brian,Baird,Brian Baird,D,D,U. S. Representative District #3,NA,,county,Cowlitz,13517
+Brian,Baird,Brian Baird,D,D,U. S. Representative District #3,NA,,county,Lewis,6971
+Brian,Baird,Brian Baird,D,D,U. S. Representative District #3,NA,,county,Pacific,3731
+Brian,Baird,Brian Baird,D,D,U. S. Representative District #3,NA,,county,Skamania,1095
+Brian,Baird,Brian Baird,D,D,U. S. Representative District #3,NA,,county,Thurston,18834
+Brian,Baird,Brian Baird,D,D,U. S. Representative District #3,NA,,county,Wahkiakum,1127
+Brian,Baird,Brian Baird,D,D,U. S. Representative District #3,NA,,state,Washington,77540
+Joseph,Zarelli,Joseph Zarelli,R,R,U. S. Representative District #3,NA,,county,Clark,29963
+Joseph,Zarelli,Joseph Zarelli,R,R,U. S. Representative District #3,NA,,county,Cowlitz,7925
+Joseph,Zarelli,Joseph Zarelli,R,R,U. S. Representative District #3,NA,,county,Lewis,8701
+Joseph,Zarelli,Joseph Zarelli,R,R,U. S. Representative District #3,NA,,county,Pacific,1518
+Joseph,Zarelli,Joseph Zarelli,R,R,U. S. Representative District #3,NA,,county,Skamania,784
+Joseph,Zarelli,Joseph Zarelli,R,R,U. S. Representative District #3,NA,,county,Thurston,9597
+Joseph,Zarelli,Joseph Zarelli,R,R,U. S. Representative District #3,NA,,county,Wahkiakum,451
+Joseph,Zarelli,Joseph Zarelli,R,R,U. S. Representative District #3,NA,,state,Washington,58939
+Thor,Amundson,Thor Amundson,D,D,U. S. Representative District #4,NA,,county,Adams,83
+Thor,Amundson,Thor Amundson,D,D,U. S. Representative District #4,NA,,county,Benton,1155
+Thor,Amundson,Thor Amundson,D,D,U. S. Representative District #4,NA,,county,Chelan,1103
+Thor,Amundson,Thor Amundson,D,D,U. S. Representative District #4,NA,,county,Douglas,427
+Thor,Amundson,Thor Amundson,D,D,U. S. Representative District #4,NA,,county,Franklin,360
+Thor,Amundson,Thor Amundson,D,D,U. S. Representative District #4,NA,,county,Grant,668
+Thor,Amundson,Thor Amundson,D,D,U. S. Representative District #4,NA,,county,Kittitas,515
+Thor,Amundson,Thor Amundson,D,D,U. S. Representative District #4,NA,,county,Klickitat,388
+Thor,Amundson,Thor Amundson,D,D,U. S. Representative District #4,NA,,county,Skamania,105
+Thor,Amundson,Thor Amundson,D,D,U. S. Representative District #4,NA,,county,Yakima,2538
+Thor,Amundson,Thor Amundson,D,D,U. S. Representative District #4,NA,,state,Washington,7342
+Doc,Hastings,Doc Hastings,R,R,U. S. Representative District #4,NA,,county,Adams,1094
+Doc,Hastings,Doc Hastings,R,R,U. S. Representative District #4,NA,,county,Benton,17515
+Doc,Hastings,Doc Hastings,R,R,U. S. Representative District #4,NA,,county,Chelan,10591
+Doc,Hastings,Doc Hastings,R,R,U. S. Representative District #4,NA,,county,Douglas,5278
+Doc,Hastings,Doc Hastings,R,R,U. S. Representative District #4,NA,,county,Franklin,5627
+Doc,Hastings,Doc Hastings,R,R,U. S. Representative District #4,NA,,county,Grant,9284
+Doc,Hastings,Doc Hastings,R,R,U. S. Representative District #4,NA,,county,Kittitas,3932
+Doc,Hastings,Doc Hastings,R,R,U. S. Representative District #4,NA,,county,Klickitat,2051
+Doc,Hastings,Doc Hastings,R,R,U. S. Representative District #4,NA,,county,Skamania,252
+Doc,Hastings,Doc Hastings,R,R,U. S. Representative District #4,NA,,county,Yakima,20121
+Doc,Hastings,Doc Hastings,R,R,U. S. Representative District #4,NA,,state,Washington,75745
+Craig,Mason,Craig Mason,D,D,U. S. Representative District #4,NA,,county,Adams,164
+Craig,Mason,Craig Mason,D,D,U. S. Representative District #4,NA,,county,Benton,3927
+Craig,Mason,Craig Mason,D,D,U. S. Representative District #4,NA,,county,Chelan,1970
+Craig,Mason,Craig Mason,D,D,U. S. Representative District #4,NA,,county,Douglas,1023
+Craig,Mason,Craig Mason,D,D,U. S. Representative District #4,NA,,county,Franklin,1356
+Craig,Mason,Craig Mason,D,D,U. S. Representative District #4,NA,,county,Grant,1652
+Craig,Mason,Craig Mason,D,D,U. S. Representative District #4,NA,,county,Kittitas,1274
+Craig,Mason,Craig Mason,D,D,U. S. Representative District #4,NA,,county,Klickitat,597
+Craig,Mason,Craig Mason,D,D,U. S. Representative District #4,NA,,county,Skamania,192
+Craig,Mason,Craig Mason,D,D,U. S. Representative District #4,NA,,county,Yakima,6571
+Craig,Mason,Craig Mason,D,D,U. S. Representative District #4,NA,,state,Washington,18726
+Gordon Allen,Pross,Gordon Allen Pross,R,R,U. S. Representative District #4,NA,,county,Adams,65
+Gordon Allen,Pross,Gordon Allen Pross,R,R,U. S. Representative District #4,NA,,county,Benton,1350
+Gordon Allen,Pross,Gordon Allen Pross,R,R,U. S. Representative District #4,NA,,county,Chelan,868
+Gordon Allen,Pross,Gordon Allen Pross,R,R,U. S. Representative District #4,NA,,county,Douglas,432
+Gordon Allen,Pross,Gordon Allen Pross,R,R,U. S. Representative District #4,NA,,county,Franklin,342
+Gordon Allen,Pross,Gordon Allen Pross,R,R,U. S. Representative District #4,NA,,county,Grant,681
+Gordon Allen,Pross,Gordon Allen Pross,R,R,U. S. Representative District #4,NA,,county,Kittitas,450
+Gordon Allen,Pross,Gordon Allen Pross,R,R,U. S. Representative District #4,NA,,county,Klickitat,239
+Gordon Allen,Pross,Gordon Allen Pross,R,R,U. S. Representative District #4,NA,,county,Skamania,84
+Gordon Allen,Pross,Gordon Allen Pross,R,R,U. S. Representative District #4,NA,,county,Yakima,1989
+Gordon Allen,Pross,Gordon Allen Pross,R,R,U. S. Representative District #4,NA,,state,Washington,6500
+Rob,Chase,Rob Chase,L,L,U. S. Representative District #5,NA,,county,Adams,65
+Rob,Chase,Rob Chase,L,L,U. S. Representative District #5,NA,,county,Asotin,232
+Rob,Chase,Rob Chase,L,L,U. S. Representative District #5,NA,,county,Columbia,50
+Rob,Chase,Rob Chase,L,L,U. S. Representative District #5,NA,,county,Ferry,162
+Rob,Chase,Rob Chase,L,L,U. S. Representative District #5,NA,,county,Garfield,20
+Rob,Chase,Rob Chase,L,L,U. S. Representative District #5,NA,,county,Lincoln,144
+Rob,Chase,Rob Chase,L,L,U. S. Representative District #5,NA,,county,Okanogan,615
+Rob,Chase,Rob Chase,L,L,U. S. Representative District #5,NA,,county,Pend Oreille,202
+Rob,Chase,Rob Chase,L,L,U. S. Representative District #5,NA,,county,Spokane,4938
+Rob,Chase,Rob Chase,L,L,U. S. Representative District #5,NA,,county,Stevens,531
+Rob,Chase,Rob Chase,L,L,U. S. Representative District #5,NA,,county,Walla Walla,395
+Rob,Chase,Rob Chase,L,L,U. S. Representative District #5,NA,,county,Whitman,346
+Rob,Chase,Rob Chase,L,L,U. S. Representative District #5,NA,,state,Washington,7700
+Bart,Haggin,Bart Haggin,D,D,U. S. Representative District #5,NA,,county,Adams,227
+Bart,Haggin,Bart Haggin,D,D,U. S. Representative District #5,NA,,county,Asotin,1136
+Bart,Haggin,Bart Haggin,D,D,U. S. Representative District #5,NA,,county,Columbia,279
+Bart,Haggin,Bart Haggin,D,D,U. S. Representative District #5,NA,,county,Ferry,575
+Bart,Haggin,Bart Haggin,D,D,U. S. Representative District #5,NA,,county,Garfield,130
+Bart,Haggin,Bart Haggin,D,D,U. S. Representative District #5,NA,,county,Lincoln,818
+Bart,Haggin,Bart Haggin,D,D,U. S. Representative District #5,NA,,county,Okanogan,2105
+Bart,Haggin,Bart Haggin,D,D,U. S. Representative District #5,NA,,county,Pend Oreille,1024
+Bart,Haggin,Bart Haggin,D,D,U. S. Representative District #5,NA,,county,Spokane,25911
+Bart,Haggin,Bart Haggin,D,D,U. S. Representative District #5,NA,,county,Stevens,2037
+Bart,Haggin,Bart Haggin,D,D,U. S. Representative District #5,NA,,county,Walla Walla,2467
+Bart,Haggin,Bart Haggin,D,D,U. S. Representative District #5,NA,,county,Whitman,1921
+Bart,Haggin,Bart Haggin,D,D,U. S. Representative District #5,NA,,state,Washington,38630
+Leo,Van Hollebeke,Leo  Van Hollebeke,R,R,State Representative District #1,Position #2,,county,King,1639
+Leo,Van Hollebeke,Leo  Van Hollebeke,R,R,State Representative District #1,Position #2,,county,Snohomish,8509
+Leo,Van Hollebeke,Leo  Van Hollebeke,R,R,State Representative District #1,Position #2,,state,Washington,10148
+Ronald,Bauer,Ron Bauer,D,D,State Representative District #2,Position #1,,county,Pierce,2936
+Ronald,Bauer,Ron Bauer,D,D,State Representative District #2,Position #1,,county,Thurston,782
+Ronald,Bauer,Ron Bauer,D,D,State Representative District #2,Position #1,,state,Washington,3718
+Roger,Bush,Roger Bush,R,R,State Representative District #2,Position #1,,county,Pierce,8750
+Roger,Bush,Roger Bush,R,R,State Representative District #2,Position #1,,county,Thurston,1815
+Roger,Bush,Roger Bush,R,R,State Representative District #2,Position #1,,state,Washington,10565
+Larry,Nelson,Larry Nelson,D,D,State Representative District #2,Position #1,,county,Pierce,4463
+Larry,Nelson,Larry Nelson,D,D,State Representative District #2,Position #1,,county,Thurston,929
+Larry,Nelson,Larry Nelson,D,D,State Representative District #2,Position #1,,state,Washington,5392
+George R.,"Nethercutt, Jr.",George R. Nethercutt Jr.,R,R,U. S. Representative District #5,NA,,county,Adams,1528
+George R.,"Nethercutt, Jr.",George R. Nethercutt Jr.,R,R,U. S. Representative District #5,NA,,county,Asotin,2365
+George R.,"Nethercutt, Jr.",George R. Nethercutt Jr.,R,R,U. S. Representative District #5,NA,,county,Columbia,1319
+George R.,"Nethercutt, Jr.",George R. Nethercutt Jr.,R,R,U. S. Representative District #5,NA,,county,Ferry,1580
+George R.,"Nethercutt, Jr.",George R. Nethercutt Jr.,R,R,U. S. Representative District #5,NA,,county,Garfield,423
+George R.,"Nethercutt, Jr.",George R. Nethercutt Jr.,R,R,U. S. Representative District #5,NA,,county,Lincoln,2887
+George R.,"Nethercutt, Jr.",George R. Nethercutt Jr.,R,R,U. S. Representative District #5,NA,,county,Okanogan,5898
+George R.,"Nethercutt, Jr.",George R. Nethercutt Jr.,R,R,U. S. Representative District #5,NA,,county,Pend Oreille,2185
+George R.,"Nethercutt, Jr.",George R. Nethercutt Jr.,R,R,U. S. Representative District #5,NA,,county,Spokane,47210
+George R.,"Nethercutt, Jr.",George R. Nethercutt Jr.,R,R,U. S. Representative District #5,NA,,county,Stevens,6280
+George R.,"Nethercutt, Jr.",George R. Nethercutt Jr.,R,R,U. S. Representative District #5,NA,,county,Walla Walla,6766
+George R.,"Nethercutt, Jr.",George R. Nethercutt Jr.,R,R,U. S. Representative District #5,NA,,county,Whitman,5531
+George R.,"Nethercutt, Jr.",George R. Nethercutt Jr.,R,R,U. S. Representative District #5,NA,,state,Washington,83972
+John A.,Bennett,John A. Bennett,L,L,U. S. Representative District #6,NA,,county,Clallam,1282
+John A.,Bennett,John A. Bennett,L,L,U. S. Representative District #6,NA,,county,Grays Harbor,270
+John A.,Bennett,John A. Bennett,L,L,U. S. Representative District #6,NA,,county,Jefferson,190
+John A.,Bennett,John A. Bennett,L,L,U. S. Representative District #6,NA,,county,Kitsap,481
+John A.,Bennett,John A. Bennett,L,L,U. S. Representative District #6,NA,,county,Mason,342
+John A.,Bennett,John A. Bennett,L,L,U. S. Representative District #6,NA,,county,Pierce,984
+John A.,Bennett,John A. Bennett,L,L,U. S. Representative District #6,NA,,state,Washington,3549
+Norm,Dicks,Norm Dicks,D,D,U. S. Representative District #6,NA,,county,Clallam,9812
+Norm,Dicks,Norm Dicks,D,D,U. S. Representative District #6,NA,,county,Grays Harbor,6937
+Norm,Dicks,Norm Dicks,D,D,U. S. Representative District #6,NA,,county,Jefferson,5656
+Norm,Dicks,Norm Dicks,D,D,U. S. Representative District #6,NA,,county,Kitsap,17559
+Norm,Dicks,Norm Dicks,D,D,U. S. Representative District #6,NA,,county,Mason,6560
+Norm,Dicks,Norm Dicks,D,D,U. S. Representative District #6,NA,,county,Pierce,36931
+Norm,Dicks,Norm Dicks,D,D,U. S. Representative District #6,NA,,state,Washington,83455
+Bob,Lawrence,Bob Lawrence,R,R,U. S. Representative District #6,NA,,county,Clallam,7121
+Bob,Lawrence,Bob Lawrence,R,R,U. S. Representative District #6,NA,,county,Grays Harbor,2397
+Bob,Lawrence,Bob Lawrence,R,R,U. S. Representative District #6,NA,,county,Jefferson,2581
+Bob,Lawrence,Bob Lawrence,R,R,U. S. Representative District #6,NA,,county,Kitsap,6250
+Bob,Lawrence,Bob Lawrence,R,R,U. S. Representative District #6,NA,,county,Mason,2927
+Bob,Lawrence,Bob Lawrence,R,R,U. S. Representative District #6,NA,,county,Pierce,14363
+Bob,Lawrence,Bob Lawrence,R,R,U. S. Representative District #6,NA,,state,Washington,35639
+Douglas,Milholland,Douglas Milholland,D,D,U. S. Representative District #6,NA,,county,Clallam,2367
+Douglas,Milholland,Douglas Milholland,D,D,U. S. Representative District #6,NA,,county,Grays Harbor,608
+Douglas,Milholland,Douglas Milholland,D,D,U. S. Representative District #6,NA,,county,Jefferson,1810
+Douglas,Milholland,Douglas Milholland,D,D,U. S. Representative District #6,NA,,county,Kitsap,1212
+Douglas,Milholland,Douglas Milholland,D,D,U. S. Representative District #6,NA,,county,Mason,672
+Douglas,Milholland,Douglas Milholland,D,D,U. S. Representative District #6,NA,,county,Pierce,3089
+Douglas,Milholland,Douglas Milholland,D,D,U. S. Representative District #6,NA,,state,Washington,9758
+Brian,Bartels,Brian Bartels,L,L,U. S. Representative District #7,NA,,county,King,1874
+Brian,Bartels,Brian Bartels,L,L,U. S. Representative District #7,NA,,state,Washington,1874
+Carol Thorne,Cassady,Carol Thorne Cassady,R,R,U. S. Representative District #7,NA,,county,King,20688
+Carol Thorne,Cassady,Carol Thorne Cassady,R,R,U. S. Representative District #7,NA,,state,Washington,20688
+Stan,Lippmann,Stan Lippmann,L,L,U. S. Representative District #7,NA,,county,King,2238
+Stan,Lippmann,Stan Lippmann,L,L,U. S. Representative District #7,NA,,state,Washington,2238
+Jim,McDermott,Jim McDermott,D,D,U. S. Representative District #7,NA,,county,King,84876
+Jim,McDermott,Jim McDermott,D,D,U. S. Representative District #7,NA,,state,Washington,84876
+Heidi,Behrens-Benedict,Heidi Behrens-Benedict,D,D,U. S. Representative District #8,NA,,county,King,29235
+Heidi,Behrens-Benedict,Heidi Behrens-Benedict,D,D,U. S. Representative District #8,NA,,county,Pierce,6446
+Heidi,Behrens-Benedict,Heidi Behrens-Benedict,D,D,U. S. Representative District #8,NA,,state,Washington,35681
+Jennifer,Dunn,Jennifer Dunn,R,R,U. S. Representative District #8,NA,,county,King,54176
+Jennifer,Dunn,Jennifer Dunn,R,R,U. S. Representative District #8,NA,,county,Pierce,14023
+Jennifer,Dunn,Jennifer Dunn,R,R,U. S. Representative District #8,NA,,state,Washington,68199
+Mark A.,Taff,Mark A. Taff,L,L,U. S. Representative District #8,NA,,county,King,1931
+Mark A.,Taff,Mark A. Taff,L,L,U. S. Representative District #8,NA,,county,Pierce,675
+Mark A.,Taff,Mark A. Taff,L,L,U. S. Representative District #8,NA,,state,Washington,2606
+Sarah,Casada,Sarah Casada,R,R,U. S. Representative District #9,NA,,county,King,13914
+Sarah,Casada,Sarah Casada,R,R,U. S. Representative District #9,NA,,county,Pierce,16076
+Sarah,Casada,Sarah Casada,R,R,U. S. Representative District #9,NA,,county,Thurston,6378
+Sarah,Casada,Sarah Casada,R,R,U. S. Representative District #9,NA,,state,Washington,36368
+J.,Mills,J. Mills,L,L,U. S. Representative District #9,NA,,county,King,927
+J.,Mills,J. Mills,L,L,U. S. Representative District #9,NA,,county,Pierce,1030
+J.,Mills,J. Mills,L,L,U. S. Representative District #9,NA,,county,Thurston,598
+J.,Mills,J. Mills,L,L,U. S. Representative District #9,NA,,state,Washington,2555
+Adam,Smith,Adam Smith,D,D,U. S. Representative District #9,NA,,county,King,25302
+Adam,Smith,Adam Smith,D,D,U. S. Representative District #9,NA,,county,Pierce,20795
+Adam,Smith,Adam Smith,D,D,U. S. Representative District #9,NA,,county,Thurston,11153
+Adam,Smith,Adam Smith,D,D,U. S. Representative District #9,NA,,state,Washington,57250
+Mary,Fairhurst,Mary Fairhurst,NP,NP,State Supreme Court Justice,Position #3,,county,Adams,771
+Mary,Fairhurst,Mary Fairhurst,NP,NP,State Supreme Court Justice,Position #3,,county,Asotin,983
+Mary,Fairhurst,Mary Fairhurst,NP,NP,State Supreme Court Justice,Position #3,,county,Benton,5189
+Mary,Fairhurst,Mary Fairhurst,NP,NP,State Supreme Court Justice,Position #3,,county,Chelan,3238
+Mary,Fairhurst,Mary Fairhurst,NP,NP,State Supreme Court Justice,Position #3,,county,Clallam,4714
+Mary,Fairhurst,Mary Fairhurst,NP,NP,State Supreme Court Justice,Position #3,,county,Clark,15321
+Mary,Fairhurst,Mary Fairhurst,NP,NP,State Supreme Court Justice,Position #3,,county,Columbia,351
+Mary,Fairhurst,Mary Fairhurst,NP,NP,State Supreme Court Justice,Position #3,,county,Cowlitz,6087
+Mary,Fairhurst,Mary Fairhurst,NP,NP,State Supreme Court Justice,Position #3,,county,Douglas,1561
+Mary,Fairhurst,Mary Fairhurst,NP,NP,State Supreme Court Justice,Position #3,,county,Ferry,531
+Mary,Fairhurst,Mary Fairhurst,NP,NP,State Supreme Court Justice,Position #3,,county,Franklin,1765
+Mary,Fairhurst,Mary Fairhurst,NP,NP,State Supreme Court Justice,Position #3,,county,Garfield,147
+Mary,Fairhurst,Mary Fairhurst,NP,NP,State Supreme Court Justice,Position #3,,county,Grant,2972
+Mary,Fairhurst,Mary Fairhurst,NP,NP,State Supreme Court Justice,Position #3,,county,Grays Harbor,3058
+Mary,Fairhurst,Mary Fairhurst,NP,NP,State Supreme Court Justice,Position #3,,county,Island,3816
+Mary,Fairhurst,Mary Fairhurst,NP,NP,State Supreme Court Justice,Position #3,,county,Jefferson,2375
+Mary,Fairhurst,Mary Fairhurst,NP,NP,State Supreme Court Justice,Position #3,,county,King,51941
+Mary,Fairhurst,Mary Fairhurst,NP,NP,State Supreme Court Justice,Position #3,,county,Kitsap,10345
+Mary,Fairhurst,Mary Fairhurst,NP,NP,State Supreme Court Justice,Position #3,,county,Kittitas,1270
+Mary,Fairhurst,Mary Fairhurst,NP,NP,State Supreme Court Justice,Position #3,,county,Klickitat,799
+Mary,Fairhurst,Mary Fairhurst,NP,NP,State Supreme Court Justice,Position #3,,county,Lewis,3587
+Mary,Fairhurst,Mary Fairhurst,NP,NP,State Supreme Court Justice,Position #3,,county,Lincoln,696
+Mary,Fairhurst,Mary Fairhurst,NP,NP,State Supreme Court Justice,Position #3,,county,Mason,2376
+Mary,Fairhurst,Mary Fairhurst,NP,NP,State Supreme Court Justice,Position #3,,county,Okanogan,1837
+Mary,Fairhurst,Mary Fairhurst,NP,NP,State Supreme Court Justice,Position #3,,county,Pacific,1291
+Mary,Fairhurst,Mary Fairhurst,NP,NP,State Supreme Court Justice,Position #3,,county,Pend Oreille,997
+Mary,Fairhurst,Mary Fairhurst,NP,NP,State Supreme Court Justice,Position #3,,county,Pierce,26912
+Mary,Fairhurst,Mary Fairhurst,NP,NP,State Supreme Court Justice,Position #3,,county,San Juan,1180
+Mary,Fairhurst,Mary Fairhurst,NP,NP,State Supreme Court Justice,Position #3,,county,Skagit,4647
+Mary,Fairhurst,Mary Fairhurst,NP,NP,State Supreme Court Justice,Position #3,,county,Skamania,698
+Mary,Fairhurst,Mary Fairhurst,NP,NP,State Supreme Court Justice,Position #3,,county,Snohomish,27185
+Mary,Fairhurst,Mary Fairhurst,NP,NP,State Supreme Court Justice,Position #3,,county,Spokane,23815
+Mary,Fairhurst,Mary Fairhurst,NP,NP,State Supreme Court Justice,Position #3,,county,Stevens,2044
+Mary,Fairhurst,Mary Fairhurst,NP,NP,State Supreme Court Justice,Position #3,,county,Thurston,13286
+Mary,Fairhurst,Mary Fairhurst,NP,NP,State Supreme Court Justice,Position #3,,county,Wahkiakum,364
+Mary,Fairhurst,Mary Fairhurst,NP,NP,State Supreme Court Justice,Position #3,,county,Walla Walla,2027
+Mary,Fairhurst,Mary Fairhurst,NP,NP,State Supreme Court Justice,Position #3,,county,Whatcom,5389
+Mary,Fairhurst,Mary Fairhurst,NP,NP,State Supreme Court Justice,Position #3,,county,Whitman,1646
+Mary,Fairhurst,Mary Fairhurst,NP,NP,State Supreme Court Justice,Position #3,,county,Yakima,8061
+Mary,Fairhurst,Mary Fairhurst,NP,NP,State Supreme Court Justice,Position #3,,state,Washington,245272
+Jim,Johnson,Jim Johnson,NP,NP,State Supreme Court Justice,Position #3,,county,Adams,878
+Jim,Johnson,Jim Johnson,NP,NP,State Supreme Court Justice,Position #3,,county,Asotin,933
+Jim,Johnson,Jim Johnson,NP,NP,State Supreme Court Justice,Position #3,,county,Benton,7548
+Jim,Johnson,Jim Johnson,NP,NP,State Supreme Court Justice,Position #3,,county,Chelan,4353
+Jim,Johnson,Jim Johnson,NP,NP,State Supreme Court Justice,Position #3,,county,Clallam,3883
+Jim,Johnson,Jim Johnson,NP,NP,State Supreme Court Justice,Position #3,,county,Clark,10662
+Jim,Johnson,Jim Johnson,NP,NP,State Supreme Court Justice,Position #3,,county,Columbia,435
+Jim,Johnson,Jim Johnson,NP,NP,State Supreme Court Justice,Position #3,,county,Cowlitz,5030
+Jim,Johnson,Jim Johnson,NP,NP,State Supreme Court Justice,Position #3,,county,Douglas,2111
+Jim,Johnson,Jim Johnson,NP,NP,State Supreme Court Justice,Position #3,,county,Ferry,390
+Jim,Johnson,Jim Johnson,NP,NP,State Supreme Court Justice,Position #3,,county,Franklin,2539
+Jim,Johnson,Jim Johnson,NP,NP,State Supreme Court Justice,Position #3,,county,Garfield,112
+Jim,Johnson,Jim Johnson,NP,NP,State Supreme Court Justice,Position #3,,county,Grant,3429
+Jim,Johnson,Jim Johnson,NP,NP,State Supreme Court Justice,Position #3,,county,Grays Harbor,2136
+Jim,Johnson,Jim Johnson,NP,NP,State Supreme Court Justice,Position #3,,county,Island,3704
+Jim,Johnson,Jim Johnson,NP,NP,State Supreme Court Justice,Position #3,,county,Jefferson,1849
+Jim,Johnson,Jim Johnson,NP,NP,State Supreme Court Justice,Position #3,,county,King,56429
+Jim,Johnson,Jim Johnson,NP,NP,State Supreme Court Justice,Position #3,,county,Kitsap,14343
+Jim,Johnson,Jim Johnson,NP,NP,State Supreme Court Justice,Position #3,,county,Kittitas,1606
+Jim,Johnson,Jim Johnson,NP,NP,State Supreme Court Justice,Position #3,,county,Klickitat,829
+Jim,Johnson,Jim Johnson,NP,NP,State Supreme Court Justice,Position #3,,county,Lewis,5004
+Jim,Johnson,Jim Johnson,NP,NP,State Supreme Court Justice,Position #3,,county,Lincoln,948
+Jim,Johnson,Jim Johnson,NP,NP,State Supreme Court Justice,Position #3,,county,Mason,2855
+Jim,Johnson,Jim Johnson,NP,NP,State Supreme Court Justice,Position #3,,county,Okanogan,1897
+Jim,Johnson,Jim Johnson,NP,NP,State Supreme Court Justice,Position #3,,county,Pacific,916
+Jim,Johnson,Jim Johnson,NP,NP,State Supreme Court Justice,Position #3,,county,Pend Oreille,705
+Jim,Johnson,Jim Johnson,NP,NP,State Supreme Court Justice,Position #3,,county,Pierce,31920
+Jim,Johnson,Jim Johnson,NP,NP,State Supreme Court Justice,Position #3,,county,San Juan,925
+Jim,Johnson,Jim Johnson,NP,NP,State Supreme Court Justice,Position #3,,county,Skagit,4891
+Jim,Johnson,Jim Johnson,NP,NP,State Supreme Court Justice,Position #3,,county,Skamania,594
+Jim,Johnson,Jim Johnson,NP,NP,State Supreme Court Justice,Position #3,,county,Snohomish,23715
+Jim,Johnson,Jim Johnson,NP,NP,State Supreme Court Justice,Position #3,,county,Spokane,18680
+Jim,Johnson,Jim Johnson,NP,NP,State Supreme Court Justice,Position #3,,county,Stevens,1924
+Jim,Johnson,Jim Johnson,NP,NP,State Supreme Court Justice,Position #3,,county,Thurston,9460
+Jim,Johnson,Jim Johnson,NP,NP,State Supreme Court Justice,Position #3,,county,Wahkiakum,295
+Jim,Johnson,Jim Johnson,NP,NP,State Supreme Court Justice,Position #3,,county,Walla Walla,2921
+Jim,Johnson,Jim Johnson,NP,NP,State Supreme Court Justice,Position #3,,county,Whatcom,7519
+Jim,Johnson,Jim Johnson,NP,NP,State Supreme Court Justice,Position #3,,county,Whitman,1736
+Jim,Johnson,Jim Johnson,NP,NP,State Supreme Court Justice,Position #3,,county,Yakima,10211
+Jim,Johnson,Jim Johnson,NP,NP,State Supreme Court Justice,Position #3,,state,Washington,250315
+Stan,Morse,Stan Morse,NP,NP,State Supreme Court Justice,Position #3,,county,Adams,278
+Stan,Morse,Stan Morse,NP,NP,State Supreme Court Justice,Position #3,,county,Asotin,298
+Stan,Morse,Stan Morse,NP,NP,State Supreme Court Justice,Position #3,,county,Benton,2081
+Stan,Morse,Stan Morse,NP,NP,State Supreme Court Justice,Position #3,,county,Chelan,2447
+Stan,Morse,Stan Morse,NP,NP,State Supreme Court Justice,Position #3,,county,Clallam,1346
+Stan,Morse,Stan Morse,NP,NP,State Supreme Court Justice,Position #3,,county,Clark,6940
+Stan,Morse,Stan Morse,NP,NP,State Supreme Court Justice,Position #3,,county,Columbia,107
+Stan,Morse,Stan Morse,NP,NP,State Supreme Court Justice,Position #3,,county,Cowlitz,1861
+Stan,Morse,Stan Morse,NP,NP,State Supreme Court Justice,Position #3,,county,Douglas,918
+Stan,Morse,Stan Morse,NP,NP,State Supreme Court Justice,Position #3,,county,Ferry,217
+Stan,Morse,Stan Morse,NP,NP,State Supreme Court Justice,Position #3,,county,Franklin,729
+Stan,Morse,Stan Morse,NP,NP,State Supreme Court Justice,Position #3,,county,Garfield,34
+Stan,Morse,Stan Morse,NP,NP,State Supreme Court Justice,Position #3,,county,Grant,1012
+Stan,Morse,Stan Morse,NP,NP,State Supreme Court Justice,Position #3,,county,Grays Harbor,919
+Stan,Morse,Stan Morse,NP,NP,State Supreme Court Justice,Position #3,,county,Island,1102
+Stan,Morse,Stan Morse,NP,NP,State Supreme Court Justice,Position #3,,county,Jefferson,664
+Stan,Morse,Stan Morse,NP,NP,State Supreme Court Justice,Position #3,,county,King,14780
+Stan,Morse,Stan Morse,NP,NP,State Supreme Court Justice,Position #3,,county,Kitsap,3947
+Stan,Morse,Stan Morse,NP,NP,State Supreme Court Justice,Position #3,,county,Kittitas,605
+Stan,Morse,Stan Morse,NP,NP,State Supreme Court Justice,Position #3,,county,Klickitat,291
+Stan,Morse,Stan Morse,NP,NP,State Supreme Court Justice,Position #3,,county,Lewis,1202
+Stan,Morse,Stan Morse,NP,NP,State Supreme Court Justice,Position #3,,county,Lincoln,447
+Stan,Morse,Stan Morse,NP,NP,State Supreme Court Justice,Position #3,,county,Mason,701
+Stan,Morse,Stan Morse,NP,NP,State Supreme Court Justice,Position #3,,county,Okanogan,909
+Stan,Morse,Stan Morse,NP,NP,State Supreme Court Justice,Position #3,,county,Pacific,424
+Stan,Morse,Stan Morse,NP,NP,State Supreme Court Justice,Position #3,,county,Pend Oreille,390
+Stan,Morse,Stan Morse,NP,NP,State Supreme Court Justice,Position #3,,county,Pierce,9122
+Stan,Morse,Stan Morse,NP,NP,State Supreme Court Justice,Position #3,,county,San Juan,288
+Stan,Morse,Stan Morse,NP,NP,State Supreme Court Justice,Position #3,,county,Skagit,2285
+Stan,Morse,Stan Morse,NP,NP,State Supreme Court Justice,Position #3,,county,Skamania,236
+Stan,Morse,Stan Morse,NP,NP,State Supreme Court Justice,Position #3,,county,Snohomish,8043
+Stan,Morse,Stan Morse,NP,NP,State Supreme Court Justice,Position #3,,county,Spokane,6943
+Stan,Morse,Stan Morse,NP,NP,State Supreme Court Justice,Position #3,,county,Stevens,942
+Stan,Morse,Stan Morse,NP,NP,State Supreme Court Justice,Position #3,,county,Thurston,3092
+Stan,Morse,Stan Morse,NP,NP,State Supreme Court Justice,Position #3,,county,Wahkiakum,100
+Stan,Morse,Stan Morse,NP,NP,State Supreme Court Justice,Position #3,,county,Walla Walla,662
+Stan,Morse,Stan Morse,NP,NP,State Supreme Court Justice,Position #3,,county,Whatcom,1956
+Stan,Morse,Stan Morse,NP,NP,State Supreme Court Justice,Position #3,,county,Whitman,682
+Stan,Morse,Stan Morse,NP,NP,State Supreme Court Justice,Position #3,,county,Yakima,3103
+Stan,Morse,Stan Morse,NP,NP,State Supreme Court Justice,Position #3,,state,Washington,82103
+Michael,Spearman,Michael Spearman,NP,NP,State Supreme Court Justice,Position #3,,county,Adams,453
+Michael,Spearman,Michael Spearman,NP,NP,State Supreme Court Justice,Position #3,,county,Asotin,573
+Michael,Spearman,Michael Spearman,NP,NP,State Supreme Court Justice,Position #3,,county,Benton,4421
+Michael,Spearman,Michael Spearman,NP,NP,State Supreme Court Justice,Position #3,,county,Chelan,1698
+Michael,Spearman,Michael Spearman,NP,NP,State Supreme Court Justice,Position #3,,county,Clallam,3971
+Michael,Spearman,Michael Spearman,NP,NP,State Supreme Court Justice,Position #3,,county,Clark,10808
+Michael,Spearman,Michael Spearman,NP,NP,State Supreme Court Justice,Position #3,,county,Columbia,214
+Michael,Spearman,Michael Spearman,NP,NP,State Supreme Court Justice,Position #3,,county,Cowlitz,3142
+Michael,Spearman,Michael Spearman,NP,NP,State Supreme Court Justice,Position #3,,county,Douglas,994
+Michael,Spearman,Michael Spearman,NP,NP,State Supreme Court Justice,Position #3,,county,Ferry,347
+Michael,Spearman,Michael Spearman,NP,NP,State Supreme Court Justice,Position #3,,county,Franklin,1111
+Michael,Spearman,Michael Spearman,NP,NP,State Supreme Court Justice,Position #3,,county,Garfield,101
+Michael,Spearman,Michael Spearman,NP,NP,State Supreme Court Justice,Position #3,,county,Grant,1891
+Michael,Spearman,Michael Spearman,NP,NP,State Supreme Court Justice,Position #3,,county,Grays Harbor,1730
+Michael,Spearman,Michael Spearman,NP,NP,State Supreme Court Justice,Position #3,,county,Island,2834
+Michael,Spearman,Michael Spearman,NP,NP,State Supreme Court Justice,Position #3,,county,Jefferson,2018
+Michael,Spearman,Michael Spearman,NP,NP,State Supreme Court Justice,Position #3,,county,King,87754
+Michael,Spearman,Michael Spearman,NP,NP,State Supreme Court Justice,Position #3,,county,Kitsap,14580
+Michael,Spearman,Michael Spearman,NP,NP,State Supreme Court Justice,Position #3,,county,Kittitas,1017
+Michael,Spearman,Michael Spearman,NP,NP,State Supreme Court Justice,Position #3,,county,Klickitat,491
+Michael,Spearman,Michael Spearman,NP,NP,State Supreme Court Justice,Position #3,,county,Lewis,1711
+Michael,Spearman,Michael Spearman,NP,NP,State Supreme Court Justice,Position #3,,county,Lincoln,466
+Michael,Spearman,Michael Spearman,NP,NP,State Supreme Court Justice,Position #3,,county,Mason,1424
+Michael,Spearman,Michael Spearman,NP,NP,State Supreme Court Justice,Position #3,,county,Okanogan,1308
+Michael,Spearman,Michael Spearman,NP,NP,State Supreme Court Justice,Position #3,,county,Pacific,828
+Michael,Spearman,Michael Spearman,NP,NP,State Supreme Court Justice,Position #3,,county,Pend Oreille,439
+Michael,Spearman,Michael Spearman,NP,NP,State Supreme Court Justice,Position #3,,county,Pierce,29530
+Michael,Spearman,Michael Spearman,NP,NP,State Supreme Court Justice,Position #3,,county,San Juan,1174
+Michael,Spearman,Michael Spearman,NP,NP,State Supreme Court Justice,Position #3,,county,Skagit,3569
+Michael,Spearman,Michael Spearman,NP,NP,State Supreme Court Justice,Position #3,,county,Skamania,321
+Michael,Spearman,Michael Spearman,NP,NP,State Supreme Court Justice,Position #3,,county,Snohomish,17587
+Michael,Spearman,Michael Spearman,NP,NP,State Supreme Court Justice,Position #3,,county,Spokane,12431
+Michael,Spearman,Michael Spearman,NP,NP,State Supreme Court Justice,Position #3,,county,Stevens,1078
+Michael,Spearman,Michael Spearman,NP,NP,State Supreme Court Justice,Position #3,,county,Thurston,8755
+Michael,Spearman,Michael Spearman,NP,NP,State Supreme Court Justice,Position #3,,county,Wahkiakum,161
+Michael,Spearman,Michael Spearman,NP,NP,State Supreme Court Justice,Position #3,,county,Walla Walla,1601
+Michael,Spearman,Michael Spearman,NP,NP,State Supreme Court Justice,Position #3,,county,Whatcom,5179
+Michael,Spearman,Michael Spearman,NP,NP,State Supreme Court Justice,Position #3,,county,Whitman,1203
+Michael,Spearman,Michael Spearman,NP,NP,State Supreme Court Justice,Position #3,,county,Yakima,4950
+Michael,Spearman,Michael Spearman,NP,NP,State Supreme Court Justice,Position #3,,state,Washington,233863
+Charles W.,Johnson,Charles W. Johnson,NP,NP,State Supreme Court Justice,Position #4,,county,Adams,723
+Charles W.,Johnson,Charles W. Johnson,NP,NP,State Supreme Court Justice,Position #4,,county,Asotin,795
+Charles W.,Johnson,Charles W. Johnson,NP,NP,State Supreme Court Justice,Position #4,,county,Benton,7708
+Charles W.,Johnson,Charles W. Johnson,NP,NP,State Supreme Court Justice,Position #4,,county,Chelan,4093
+Charles W.,Johnson,Charles W. Johnson,NP,NP,State Supreme Court Justice,Position #4,,county,Clallam,4869
+Charles W.,Johnson,Charles W. Johnson,NP,NP,State Supreme Court Justice,Position #4,,county,Clark,12856
+Charles W.,Johnson,Charles W. Johnson,NP,NP,State Supreme Court Justice,Position #4,,county,Columbia,395
+Charles W.,Johnson,Charles W. Johnson,NP,NP,State Supreme Court Justice,Position #4,,county,Cowlitz,5164
+Charles W.,Johnson,Charles W. Johnson,NP,NP,State Supreme Court Justice,Position #4,,county,Douglas,2100
+Charles W.,Johnson,Charles W. Johnson,NP,NP,State Supreme Court Justice,Position #4,,county,Ferry,406
+Charles W.,Johnson,Charles W. Johnson,NP,NP,State Supreme Court Justice,Position #4,,county,Franklin,2338
+Charles W.,Johnson,Charles W. Johnson,NP,NP,State Supreme Court Justice,Position #4,,county,Garfield,127
+Charles W.,Johnson,Charles W. Johnson,NP,NP,State Supreme Court Justice,Position #4,,county,Grant,2585
+Charles W.,Johnson,Charles W. Johnson,NP,NP,State Supreme Court Justice,Position #4,,county,Grays Harbor,2400
+Charles W.,Johnson,Charles W. Johnson,NP,NP,State Supreme Court Justice,Position #4,,county,Island,3874
+Charles W.,Johnson,Charles W. Johnson,NP,NP,State Supreme Court Justice,Position #4,,county,Jefferson,2557
+Charles W.,Johnson,Charles W. Johnson,NP,NP,State Supreme Court Justice,Position #4,,county,King,106048
+Charles W.,Johnson,Charles W. Johnson,NP,NP,State Supreme Court Justice,Position #4,,county,Kitsap,17791
+Charles W.,Johnson,Charles W. Johnson,NP,NP,State Supreme Court Justice,Position #4,,county,Kittitas,1551
+Charles W.,Johnson,Charles W. Johnson,NP,NP,State Supreme Court Justice,Position #4,,county,Klickitat,823
+Charles W.,Johnson,Charles W. Johnson,NP,NP,State Supreme Court Justice,Position #4,,county,Lewis,4190
+Charles W.,Johnson,Charles W. Johnson,NP,NP,State Supreme Court Justice,Position #4,,county,Lincoln,894
+Charles W.,Johnson,Charles W. Johnson,NP,NP,State Supreme Court Justice,Position #4,,county,Mason,2661
+Charles W.,Johnson,Charles W. Johnson,NP,NP,State Supreme Court Justice,Position #4,,county,Okanogan,2194
+Charles W.,Johnson,Charles W. Johnson,NP,NP,State Supreme Court Justice,Position #4,,county,Pacific,1029
+Charles W.,Johnson,Charles W. Johnson,NP,NP,State Supreme Court Justice,Position #4,,county,Pend Oreille,778
+Charles W.,Johnson,Charles W. Johnson,NP,NP,State Supreme Court Justice,Position #4,,county,Pierce,43792
+Charles W.,Johnson,Charles W. Johnson,NP,NP,State Supreme Court Justice,Position #4,,county,San Juan,1432
+Charles W.,Johnson,Charles W. Johnson,NP,NP,State Supreme Court Justice,Position #4,,county,Skagit,5514
+Charles W.,Johnson,Charles W. Johnson,NP,NP,State Supreme Court Justice,Position #4,,county,Skamania,537
+Charles W.,Johnson,Charles W. Johnson,NP,NP,State Supreme Court Justice,Position #4,,county,Snohomish,26504
+Charles W.,Johnson,Charles W. Johnson,NP,NP,State Supreme Court Justice,Position #4,,county,Spokane,16997
+Charles W.,Johnson,Charles W. Johnson,NP,NP,State Supreme Court Justice,Position #4,,county,Stevens,1754
+Charles W.,Johnson,Charles W. Johnson,NP,NP,State Supreme Court Justice,Position #4,,county,Thurston,12521
+Charles W.,Johnson,Charles W. Johnson,NP,NP,State Supreme Court Justice,Position #4,,county,Wahkiakum,255
+Charles W.,Johnson,Charles W. Johnson,NP,NP,State Supreme Court Justice,Position #4,,county,Walla Walla,2570
+Charles W.,Johnson,Charles W. Johnson,NP,NP,State Supreme Court Justice,Position #4,,county,Whatcom,7004
+Charles W.,Johnson,Charles W. Johnson,NP,NP,State Supreme Court Justice,Position #4,,county,Whitman,1641
+Charles W.,Johnson,Charles W. Johnson,NP,NP,State Supreme Court Justice,Position #4,,county,Yakima,8328
+Charles W.,Johnson,Charles W. Johnson,NP,NP,State Supreme Court Justice,Position #4,,state,Washington,319798
+Stephen,Budd,Stephen Budd,R,R,State Representative District #2,Position #2,,county,Pierce,3375
+Stephen,Budd,Stephen Budd,R,R,State Representative District #2,Position #2,,county,Thurston,892
+Stephen,Budd,Stephen Budd,R,R,State Representative District #2,Position #2,,state,Washington,4267
+Tom,Campbell,Tom Campbell,R,R,State Representative District #2,Position #2,,county,Pierce,11011
+Tom,Campbell,Tom Campbell,R,R,State Representative District #2,Position #2,,county,Thurston,1970
+Tom,Campbell,Tom Campbell,R,R,State Representative District #2,Position #2,,state,Washington,12981
+Pamela (Pam),Loginsky,Pamela (Pam) Loginsky,NP,NP,State Supreme Court Justice,Position #4,,county,Adams,685
+Pamela (Pam),Loginsky,Pamela (Pam) Loginsky,NP,NP,State Supreme Court Justice,Position #4,,county,Asotin,1003
+Pamela (Pam),Loginsky,Pamela (Pam) Loginsky,NP,NP,State Supreme Court Justice,Position #4,,county,Benton,6186
+Pamela (Pam),Loginsky,Pamela (Pam) Loginsky,NP,NP,State Supreme Court Justice,Position #4,,county,Chelan,4145
+Pamela (Pam),Loginsky,Pamela (Pam) Loginsky,NP,NP,State Supreme Court Justice,Position #4,,county,Clallam,5218
+Pamela (Pam),Loginsky,Pamela (Pam) Loginsky,NP,NP,State Supreme Court Justice,Position #4,,county,Clark,16466
+Pamela (Pam),Loginsky,Pamela (Pam) Loginsky,NP,NP,State Supreme Court Justice,Position #4,,county,Columbia,357
+Pamela (Pam),Loginsky,Pamela (Pam) Loginsky,NP,NP,State Supreme Court Justice,Position #4,,county,Cowlitz,6914
+Pamela (Pam),Loginsky,Pamela (Pam) Loginsky,NP,NP,State Supreme Court Justice,Position #4,,county,Douglas,1766
+Pamela (Pam),Loginsky,Pamela (Pam) Loginsky,NP,NP,State Supreme Court Justice,Position #4,,county,Ferry,556
+Pamela (Pam),Loginsky,Pamela (Pam) Loginsky,NP,NP,State Supreme Court Justice,Position #4,,county,Franklin,1978
+Pamela (Pam),Loginsky,Pamela (Pam) Loginsky,NP,NP,State Supreme Court Justice,Position #4,,county,Garfield,135
+Pamela (Pam),Loginsky,Pamela (Pam) Loginsky,NP,NP,State Supreme Court Justice,Position #4,,county,Grant,3190
+Pamela (Pam),Loginsky,Pamela (Pam) Loginsky,NP,NP,State Supreme Court Justice,Position #4,,county,Grays Harbor,3364
+Pamela (Pam),Loginsky,Pamela (Pam) Loginsky,NP,NP,State Supreme Court Justice,Position #4,,county,Island,4448
+Pamela (Pam),Loginsky,Pamela (Pam) Loginsky,NP,NP,State Supreme Court Justice,Position #4,,county,Jefferson,2845
+Pamela (Pam),Loginsky,Pamela (Pam) Loginsky,NP,NP,State Supreme Court Justice,Position #4,,county,King,66011
+Pamela (Pam),Loginsky,Pamela (Pam) Loginsky,NP,NP,State Supreme Court Justice,Position #4,,county,Kitsap,15269
+Pamela (Pam),Loginsky,Pamela (Pam) Loginsky,NP,NP,State Supreme Court Justice,Position #4,,county,Kittitas,1559
+Pamela (Pam),Loginsky,Pamela (Pam) Loginsky,NP,NP,State Supreme Court Justice,Position #4,,county,Klickitat,894
+Pamela (Pam),Loginsky,Pamela (Pam) Loginsky,NP,NP,State Supreme Court Justice,Position #4,,county,Lewis,4085
+Pamela (Pam),Loginsky,Pamela (Pam) Loginsky,NP,NP,State Supreme Court Justice,Position #4,,county,Lincoln,777
+Pamela (Pam),Loginsky,Pamela (Pam) Loginsky,NP,NP,State Supreme Court Justice,Position #4,,county,Mason,2763
+Pamela (Pam),Loginsky,Pamela (Pam) Loginsky,NP,NP,State Supreme Court Justice,Position #4,,county,Okanogan,1870
+Pamela (Pam),Loginsky,Pamela (Pam) Loginsky,NP,NP,State Supreme Court Justice,Position #4,,county,Pacific,1346
+Pamela (Pam),Loginsky,Pamela (Pam) Loginsky,NP,NP,State Supreme Court Justice,Position #4,,county,Pend Oreille,1025
+Pamela (Pam),Loginsky,Pamela (Pam) Loginsky,NP,NP,State Supreme Court Justice,Position #4,,county,Pierce,32628
+Pamela (Pam),Loginsky,Pamela (Pam) Loginsky,NP,NP,State Supreme Court Justice,Position #4,,county,San Juan,1428
+Pamela (Pam),Loginsky,Pamela (Pam) Loginsky,NP,NP,State Supreme Court Justice,Position #4,,county,Skagit,5807
+Pamela (Pam),Loginsky,Pamela (Pam) Loginsky,NP,NP,State Supreme Court Justice,Position #4,,county,Skamania,737
+Pamela (Pam),Loginsky,Pamela (Pam) Loginsky,NP,NP,State Supreme Court Justice,Position #4,,county,Snohomish,32987
+Pamela (Pam),Loginsky,Pamela (Pam) Loginsky,NP,NP,State Supreme Court Justice,Position #4,,county,Spokane,24723
+Pamela (Pam),Loginsky,Pamela (Pam) Loginsky,NP,NP,State Supreme Court Justice,Position #4,,county,Stevens,2409
+Pamela (Pam),Loginsky,Pamela (Pam) Loginsky,NP,NP,State Supreme Court Justice,Position #4,,county,Thurston,12533
+Pamela (Pam),Loginsky,Pamela (Pam) Loginsky,NP,NP,State Supreme Court Justice,Position #4,,county,Wahkiakum,383
+Pamela (Pam),Loginsky,Pamela (Pam) Loginsky,NP,NP,State Supreme Court Justice,Position #4,,county,Walla Walla,2399
+Pamela (Pam),Loginsky,Pamela (Pam) Loginsky,NP,NP,State Supreme Court Justice,Position #4,,county,Whatcom,6324
+Pamela (Pam),Loginsky,Pamela (Pam) Loginsky,NP,NP,State Supreme Court Justice,Position #4,,county,Whitman,1604
+Pamela (Pam),Loginsky,Pamela (Pam) Loginsky,NP,NP,State Supreme Court Justice,Position #4,,county,Yakima,9068
+Pamela (Pam),Loginsky,Pamela (Pam) Loginsky,NP,NP,State Supreme Court Justice,Position #4,,state,Washington,287885
+Doug,Schafer,Doug Schafer,NP,NP,State Supreme Court Justice,Position #4,,county,Adams,865
+Doug,Schafer,Doug Schafer,NP,NP,State Supreme Court Justice,Position #4,,county,Asotin,867
+Doug,Schafer,Doug Schafer,NP,NP,State Supreme Court Justice,Position #4,,county,Benton,4418
+Doug,Schafer,Doug Schafer,NP,NP,State Supreme Court Justice,Position #4,,county,Chelan,2357
+Doug,Schafer,Doug Schafer,NP,NP,State Supreme Court Justice,Position #4,,county,Clallam,3336
+Doug,Schafer,Doug Schafer,NP,NP,State Supreme Court Justice,Position #4,,county,Clark,13379
+Doug,Schafer,Doug Schafer,NP,NP,State Supreme Court Justice,Position #4,,county,Columbia,304
+Doug,Schafer,Doug Schafer,NP,NP,State Supreme Court Justice,Position #4,,county,Cowlitz,3594
+Doug,Schafer,Doug Schafer,NP,NP,State Supreme Court Justice,Position #4,,county,Douglas,1295
+Doug,Schafer,Doug Schafer,NP,NP,State Supreme Court Justice,Position #4,,county,Ferry,470
+Doug,Schafer,Doug Schafer,NP,NP,State Supreme Court Justice,Position #4,,county,Franklin,1536
+Doug,Schafer,Doug Schafer,NP,NP,State Supreme Court Justice,Position #4,,county,Garfield,103
+Doug,Schafer,Doug Schafer,NP,NP,State Supreme Court Justice,Position #4,,county,Grant,2836
+Doug,Schafer,Doug Schafer,NP,NP,State Supreme Court Justice,Position #4,,county,Grays Harbor,1971
+Doug,Schafer,Doug Schafer,NP,NP,State Supreme Court Justice,Position #4,,county,Island,2506
+Doug,Schafer,Doug Schafer,NP,NP,State Supreme Court Justice,Position #4,,county,Jefferson,1254
+Doug,Schafer,Doug Schafer,NP,NP,State Supreme Court Justice,Position #4,,county,King,31586
+Doug,Schafer,Doug Schafer,NP,NP,State Supreme Court Justice,Position #4,,county,Kitsap,9095
+Doug,Schafer,Doug Schafer,NP,NP,State Supreme Court Justice,Position #4,,county,Kittitas,1137
+Doug,Schafer,Doug Schafer,NP,NP,State Supreme Court Justice,Position #4,,county,Klickitat,585
+Doug,Schafer,Doug Schafer,NP,NP,State Supreme Court Justice,Position #4,,county,Lewis,2482
+Doug,Schafer,Doug Schafer,NP,NP,State Supreme Court Justice,Position #4,,county,Lincoln,685
+Doug,Schafer,Doug Schafer,NP,NP,State Supreme Court Justice,Position #4,,county,Mason,1580
+Doug,Schafer,Doug Schafer,NP,NP,State Supreme Court Justice,Position #4,,county,Okanogan,1473
+Doug,Schafer,Doug Schafer,NP,NP,State Supreme Court Justice,Position #4,,county,Pacific,1048
+Doug,Schafer,Doug Schafer,NP,NP,State Supreme Court Justice,Position #4,,county,Pend Oreille,652
+Doug,Schafer,Doug Schafer,NP,NP,State Supreme Court Justice,Position #4,,county,Pierce,21251
+Doug,Schafer,Doug Schafer,NP,NP,State Supreme Court Justice,Position #4,,county,San Juan,591
+Doug,Schafer,Doug Schafer,NP,NP,State Supreme Court Justice,Position #4,,county,Skagit,3315
+Doug,Schafer,Doug Schafer,NP,NP,State Supreme Court Justice,Position #4,,county,Skamania,462
+Doug,Schafer,Doug Schafer,NP,NP,State Supreme Court Justice,Position #4,,county,Snohomish,16100
+Doug,Schafer,Doug Schafer,NP,NP,State Supreme Court Justice,Position #4,,county,Spokane,17295
+Doug,Schafer,Doug Schafer,NP,NP,State Supreme Court Justice,Position #4,,county,Stevens,1607
+Doug,Schafer,Doug Schafer,NP,NP,State Supreme Court Justice,Position #4,,county,Thurston,7006
+Doug,Schafer,Doug Schafer,NP,NP,State Supreme Court Justice,Position #4,,county,Wahkiakum,236
+Doug,Schafer,Doug Schafer,NP,NP,State Supreme Court Justice,Position #4,,county,Walla Walla,1884
+Doug,Schafer,Doug Schafer,NP,NP,State Supreme Court Justice,Position #4,,county,Whatcom,4775
+Doug,Schafer,Doug Schafer,NP,NP,State Supreme Court Justice,Position #4,,county,Whitman,1770
+Doug,Schafer,Doug Schafer,NP,NP,State Supreme Court Justice,Position #4,,county,Yakima,7746
+Doug,Schafer,Doug Schafer,NP,NP,State Supreme Court Justice,Position #4,,state,Washington,175452
+Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,county,Adams,2016
+Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,county,Asotin,2417
+Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,county,Benton,15381
+Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,county,Chelan,9674
+Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,county,Clallam,9805
+Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,county,Clark,37861
+Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,county,Columbia,958
+Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,county,Cowlitz,14834
+Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,county,Douglas,4722
+Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,county,Ferry,1223
+Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,county,Franklin,5180
+Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,county,Garfield,329
+Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,county,Grant,7559
+Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,county,Grays Harbor,6641
+Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,county,Island,8666
+Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,county,Jefferson,5793
+Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,county,King,163389
+Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,county,Kitsap,36303
+Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,county,Kittitas,3844
+Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,county,Klickitat,2122
+Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,county,Lewis,8007
+Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,county,Lincoln,2075
+Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,county,Mason,5387
+Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,county,Okanogan,3880
+Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,county,Pacific,3084
+Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,county,Pend Oreille,2082
+Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,county,Pierce,80986
+Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,county,San Juan,2867
+Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,county,Skagit,12982
+Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,county,Skamania,1542
+Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,county,Snohomish,66612
+Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,county,Spokane,51919
+Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,county,Stevens,4994
+Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,county,Thurston,25218
+Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,county,Wahkiakum,822
+Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,county,Walla Walla,6349
+Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,county,Whatcom,14186
+Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,county,Whitman,4847
+Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,county,Yakima,23158
+Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,state,Washington,659714
+Jeanette,Burrage,Jeanette Burrage,NP,NP,Court of Appeals Division I District #1,Position #5,,county,King,87205
+Jeanette,Burrage,Jeanette Burrage,NP,NP,Court of Appeals Division I District #1,Position #5,,state,Washington,87205
+H. Joseph,Coleman,H. Joseph Coleman,NP,NP,Court of Appeals Division I District #1,Position #5,,county,King,130204
+H. Joseph,Coleman,H. Joseph Coleman,NP,NP,Court of Appeals Division I District #1,Position #5,,state,Washington,130204
+Ann,Schindler,Ann Schindler,NP,NP,Court of Appeals Division I District #1,Position #6,,county,King,158849
+Ann,Schindler,Ann Schindler,NP,NP,Court of Appeals Division I District #1,Position #6,,state,Washington,158849
+William W.,Baker,William W. Baker,NP,NP,Court of Appeals Division I District #2,Position #2,,county,Snohomish,65603
+William W.,Baker,William W. Baker,NP,NP,Court of Appeals Division I District #2,Position #2,,state,Washington,65603
+Elaine,Houghton,Elaine Houghton,NP,NP,Court of Appeals Division II District #1,Position #2,,county,Pierce,81216
+Elaine,Houghton,Elaine Houghton,NP,NP,Court of Appeals Division II District #1,Position #2,,state,Washington,81216
+Joyce (Robin),Hunt,Joyce (Robin) Hunt,NP,NP,Court of Appeals Division II District #2,Position #1,,county,Clallam,10747
+Joyce (Robin),Hunt,Joyce (Robin) Hunt,NP,NP,Court of Appeals Division II District #2,Position #1,,county,Grays Harbor,6529
+Joyce (Robin),Hunt,Joyce (Robin) Hunt,NP,NP,Court of Appeals Division II District #2,Position #1,,county,Jefferson,5863
+Joyce (Robin),Hunt,Joyce (Robin) Hunt,NP,NP,Court of Appeals Division II District #2,Position #1,,county,Kitsap,36462
+Joyce (Robin),Hunt,Joyce (Robin) Hunt,NP,NP,Court of Appeals Division II District #2,Position #1,,county,Mason,5813
+Joyce (Robin),Hunt,Joyce (Robin) Hunt,NP,NP,Court of Appeals Division II District #2,Position #1,,county,Thurston,26104
+Joyce (Robin),Hunt,Joyce (Robin) Hunt,NP,NP,Court of Appeals Division II District #2,Position #1,,state,Washington,91518
+Kenneth H.,Kato,Kenneth H. Kato,NP,NP,Court of Appeals Division III District #1,Position #2,,county,Ferry,571
+Kenneth H.,Kato,Kenneth H. Kato,NP,NP,Court of Appeals Division III District #1,Position #2,,county,Lincoln,953
+Kenneth H.,Kato,Kenneth H. Kato,NP,NP,Court of Appeals Division III District #1,Position #2,,county,Okanogan,2059
+Kenneth H.,Kato,Kenneth H. Kato,NP,NP,Court of Appeals Division III District #1,Position #2,,county,Pend Oreille,953
+Kenneth H.,Kato,Kenneth H. Kato,NP,NP,Court of Appeals Division III District #1,Position #2,,county,Spokane,35560
+Kenneth H.,Kato,Kenneth H. Kato,NP,NP,Court of Appeals Division III District #1,Position #2,,county,Stevens,2146
+Kenneth H.,Kato,Kenneth H. Kato,NP,NP,Court of Appeals Division III District #1,Position #2,,state,Washington,42242
+Brian,O'Brien,Brian O'Brien,NP,NP,Court of Appeals Division III District #1,Position #2,,county,Ferry,959
+Brian,O'Brien,Brian O'Brien,NP,NP,Court of Appeals Division III District #1,Position #2,,county,Lincoln,1576
+Brian,O'Brien,Brian O'Brien,NP,NP,Court of Appeals Division III District #1,Position #2,,county,Okanogan,3531
+Brian,O'Brien,Brian O'Brien,NP,NP,Court of Appeals Division III District #1,Position #2,,county,Pend Oreille,1557
+Brian,O'Brien,Brian O'Brien,NP,NP,Court of Appeals Division III District #1,Position #2,,county,Spokane,29194
+Brian,O'Brien,Brian O'Brien,NP,NP,Court of Appeals Division III District #1,Position #2,,county,Stevens,3697
+Brian,O'Brien,Brian O'Brien,NP,NP,Court of Appeals Division III District #1,Position #2,,state,Washington,40514
+Stephen M.,Brown,Stephen M. Brown,NP,NP,Court of Appeals Division III District #3,Position #1,,county,Chelan,9623
+Stephen M.,Brown,Stephen M. Brown,NP,NP,Court of Appeals Division III District #3,Position #1,,county,Douglas,4787
+Stephen M.,Brown,Stephen M. Brown,NP,NP,Court of Appeals Division III District #3,Position #1,,county,Kittitas,3915
+Stephen M.,Brown,Stephen M. Brown,NP,NP,Court of Appeals Division III District #3,Position #1,,county,Klickitat,2117
+Stephen M.,Brown,Stephen M. Brown,NP,NP,Court of Appeals Division III District #3,Position #1,,county,Yakima,24096
+Stephen M.,Brown,Stephen M. Brown,NP,NP,Court of Appeals Division III District #3,Position #1,,state,Washington,44538
+Gary,Bashor,Gary Bashor,NP,NP,Superior Ct Judge Cowlitz,Position #3,,county,Cowlitz,9711
+Gary,Bashor,Gary Bashor,NP,NP,Superior Ct Judge Cowlitz,Position #3,,state,Washington,9711
+Jill M.,Johanson,Jill M. Johanson,NP,NP,Superior Ct Judge Cowlitz,Position #3,,county,Cowlitz,11283
+Jill M.,Johanson,Jill M. Johanson,NP,NP,Superior Ct Judge Cowlitz,Position #3,,state,Washington,11283
+Steve,Gonzalez,Steve Gonzalez,NP,NP,Superior Ct Judge King,Position #5,,county,King,105896
+Steve,Gonzalez,Steve Gonzalez,NP,NP,Superior Ct Judge King,Position #5,,state,Washington,105896
+David,Larson,David Larson,NP,NP,Superior Ct Judge King,Position #5,,county,King,90916
+David,Larson,David Larson,NP,NP,Superior Ct Judge King,Position #5,,state,Washington,90916
+Steven,Merrival,Steven Merrival,NP,NP,Superior Ct Judge Pierce,Position #16,,county,Pierce,33127
+Steven,Merrival,Steven Merrival,NP,NP,Superior Ct Judge Pierce,Position #16,,state,Washington,33127
+Lisa,Worswick,Lisa Worswick,NP,NP,Superior Ct Judge Pierce,Position #16,,county,Pierce,63594
+Lisa,Worswick,Lisa Worswick,NP,NP,Superior Ct Judge Pierce,Position #16,,state,Washington,63594
+Joshua,Freed,Joshua Freed,R,R,State Representative District #1,Position #1,,county,King,1568
+Joshua,Freed,Joshua Freed,R,R,State Representative District #1,Position #1,,county,Snohomish,7736
+Joshua,Freed,Joshua Freed,R,R,State Representative District #1,Position #1,,state,Washington,9304
+Chuck,Jackson,Chuck Jackson,L,L,State Representative District #1,Position #1,,county,King,91
+Chuck,Jackson,Chuck Jackson,L,L,State Representative District #1,Position #1,,county,Snohomish,669
+Chuck,Jackson,Chuck Jackson,L,L,State Representative District #1,Position #1,,state,Washington,760
+Al,O'Brien,Al O'Brien,D,D,State Representative District #1,Position #1,,county,King,1630
+Al,O'Brien,Al O'Brien,D,D,State Representative District #1,Position #1,,county,Snohomish,8196
+Al,O'Brien,Al O'Brien,D,D,State Representative District #1,Position #1,,state,Washington,9826
+Jeanne A.,Edwards,Jeanne A. Edwards,D,D,State Representative District #1,Position #2,,county,King,1658
+Jeanne A.,Edwards,Jeanne A. Edwards,D,D,State Representative District #1,Position #2,,county,Snohomish,8059
+Jeanne A.,Edwards,Jeanne A. Edwards,D,D,State Representative District #1,Position #2,,state,Washington,9717
+Jeff,Knox,Jeff Knox,R,R,State Representative District #3,Position #1,,county,Spokane,6500
+Jeff,Knox,Jeff Knox,R,R,State Representative District #3,Position #1,,state,Washington,6500
+Alex,Wood,Alex Wood,D,D,State Representative District #3,Position #1,,county,Spokane,10328
+Alex,Wood,Alex Wood,D,D,State Representative District #3,Position #1,,state,Washington,10328
+Jeff,Gombosky,Jeff Gombosky,D,D,State Representative District #3,Position #2,,county,Spokane,11297
+Jeff,Gombosky,Jeff Gombosky,D,D,State Representative District #3,Position #2,,state,Washington,11297
+Ryan,Leonard,Ryan Leonard,R,R,State Representative District #3,Position #2,,county,Spokane,5293
+Ryan,Leonard,Ryan Leonard,R,R,State Representative District #3,Position #2,,state,Washington,5293
+Larry,Crouse,Larry Crouse,R,R,State Representative District #4,Position #1,,county,Spokane,17800
+Larry,Crouse,Larry Crouse,R,R,State Representative District #4,Position #1,,state,Washington,17800
+Lynn,Schindler,Lynn Schindler,R,R,State Representative District #4,Position #2,,county,Spokane,17297
+Lynn,Schindler,Lynn Schindler,R,R,State Representative District #4,Position #2,,state,Washington,17297
+Katrina L.,Culp-Ladopoulos,Katrina L. Culp-Ladopoulos,D,D,State Representative District #5,Position #1,,county,King,5279
+Katrina L.,Culp-Ladopoulos,Katrina L. Culp-Ladopoulos,D,D,State Representative District #5,Position #1,,state,Washington,5279
+Cheryl,Pflug,Cheryl Pflug,R,R,State Representative District #5,Position #1,,county,King,11361
+Cheryl,Pflug,Cheryl Pflug,R,R,State Representative District #5,Position #1,,state,Washington,11361
+Edwin,Anderson,Glenn Anderson,R,R,State Representative District #5,Position #2,,county,King,9875
+Edwin,Anderson,Glenn Anderson,R,R,State Representative District #5,Position #2,,state,Washington,9875
+Loren,Skaggs,Loren Skaggs,D,D,State Representative District #5,Position #2,,county,King,6139
+Loren,Skaggs,Loren Skaggs,D,D,State Representative District #5,Position #2,,state,Washington,6139
+Laurie H.,Dolan,Laurie H. Dolan,D,D,State Senator District #6,,,county,Spokane,13396
+Laurie H.,Dolan,Laurie H. Dolan,D,D,State Senator District #6,,,state,Washington,13396
+Jim,West,Jim West,R,R,State Senator District #6,,,county,Spokane,16227
+Jim,West,Jim West,R,R,State Senator District #6,,,state,Washington,16227
+Tony,Bamonte,Tony Bamonte,D,D,State Representative District #6,Position #1,,county,Spokane,6665
+Tony,Bamonte,Tony Bamonte,D,D,State Representative District #6,Position #1,,state,Washington,6665
+Brad,Benson,Brad Benson,R,R,State Representative District #6,Position #1,,county,Spokane,15927
+Brad,Benson,Brad Benson,R,R,State Representative District #6,Position #1,,state,Washington,15927
+Jan,Konestes,Jan Konestes,D,D,State Representative District #6,Position #1,,county,Spokane,5823
+Jan,Konestes,Jan Konestes,D,D,State Representative District #6,Position #1,,state,Washington,5823
+John E.,Ahern,John E. Ahern,R,R,State Representative District #6,Position #2,,county,Spokane,16219
+John E.,Ahern,John E. Ahern,R,R,State Representative District #6,Position #2,,state,Washington,16219
+Sheila,Collins,Sheila Collins,D,D,State Representative District #6,Position #2,,county,Spokane,12245
+Sheila,Collins,Sheila Collins,D,D,State Representative District #6,Position #2,,state,Washington,12245
+Bob,Morton,Bob Morton,R,R,State Senator District #7,,,county,Ferry,1913
+Bob,Morton,Bob Morton,R,R,State Senator District #7,,,county,Lincoln,3036
+Bob,Morton,Bob Morton,R,R,State Senator District #7,,,county,Okanogan,4355
+Bob,Morton,Bob Morton,R,R,State Senator District #7,,,county,Pend Oreille,2779
+Bob,Morton,Bob Morton,R,R,State Senator District #7,,,county,Spokane,2887
+Bob,Morton,Bob Morton,R,R,State Senator District #7,,,county,Stevens,7511
+Bob,Morton,Bob Morton,R,R,State Senator District #7,,,state,Washington,22481
+R. (Ron),McCoy,R. (Ron) McCoy,D,D,State Representative District #7,Position #1,,county,Ferry,640
+R. (Ron),McCoy,R. (Ron) McCoy,D,D,State Representative District #7,Position #1,,county,Lincoln,847
+R. (Ron),McCoy,R. (Ron) McCoy,D,D,State Representative District #7,Position #1,,county,Okanogan,1322
+R. (Ron),McCoy,R. (Ron) McCoy,D,D,State Representative District #7,Position #1,,county,Pend Oreille,1170
+R. (Ron),McCoy,R. (Ron) McCoy,D,D,State Representative District #7,Position #1,,county,Spokane,1299
+R. (Ron),McCoy,R. (Ron) McCoy,D,D,State Representative District #7,Position #1,,county,Stevens,2513
+R. (Ron),McCoy,R. (Ron) McCoy,D,D,State Representative District #7,Position #1,,state,Washington,7791
+Bob,Sump,Bob Sump,R,R,State Representative District #7,Position #1,,county,Ferry,1661
+Bob,Sump,Bob Sump,R,R,State Representative District #7,Position #1,,county,Lincoln,2455
+Bob,Sump,Bob Sump,R,R,State Representative District #7,Position #1,,county,Okanogan,3751
+Bob,Sump,Bob Sump,R,R,State Representative District #7,Position #1,,county,Pend Oreille,2173
+Bob,Sump,Bob Sump,R,R,State Representative District #7,Position #1,,county,Spokane,2204
+Bob,Sump,Bob Sump,R,R,State Representative District #7,Position #1,,county,Stevens,6180
+Bob,Sump,Bob Sump,R,R,State Representative District #7,Position #1,,state,Washington,18424
+Jack,McLean,Jack McLean,D,D,State Representative District #7,Position #2,,county,Ferry,612
+Jack,McLean,Jack McLean,D,D,State Representative District #7,Position #2,,county,Lincoln,746
+Jack,McLean,Jack McLean,D,D,State Representative District #7,Position #2,,county,Okanogan,1170
+Jack,McLean,Jack McLean,D,D,State Representative District #7,Position #2,,county,Pend Oreille,1016
+Jack,McLean,Jack McLean,D,D,State Representative District #7,Position #2,,county,Spokane,1130
+Jack,McLean,Jack McLean,D,D,State Representative District #7,Position #2,,county,Stevens,2079
+Jack,McLean,Jack McLean,D,D,State Representative District #7,Position #2,,state,Washington,6753
+Cathy,McMorris,Cathy McMorris,R,R,State Representative District #7,Position #2,,county,Ferry,1682
+Cathy,McMorris,Cathy McMorris,R,R,State Representative District #7,Position #2,,county,Lincoln,2668
+Cathy,McMorris,Cathy McMorris,R,R,State Representative District #7,Position #2,,county,Okanogan,4000
+Cathy,McMorris,Cathy McMorris,R,R,State Representative District #7,Position #2,,county,Pend Oreille,2373
+Cathy,McMorris,Cathy McMorris,R,R,State Representative District #7,Position #2,,county,Spokane,2396
+Cathy,McMorris,Cathy McMorris,R,R,State Representative District #7,Position #2,,county,Stevens,6750
+Cathy,McMorris,Cathy McMorris,R,R,State Representative District #7,Position #2,,state,Washington,19869
+Patricia S.,Hale,Patricia S. Hale,R,R,State Senator District #8,,,county,Benton,15790
+Patricia S.,Hale,Patricia S. Hale,R,R,State Senator District #8,,,state,Washington,15790
+Shirley,Hankins,Shirley Hankins,R,R,State Representative District #8,Position #1,,county,Benton,16992
+Shirley,Hankins,Shirley Hankins,R,R,State Representative District #8,Position #1,,state,Washington,16992
+Jerome,Delvin,Jerome Delvin,R,R,State Representative District #8,Position #2,,county,Benton,15620
+Jerome,Delvin,Jerome Delvin,R,R,State Representative District #8,Position #2,,state,Washington,15620
+Don,Cox,Don Cox,R,R,State Representative District #9,Position #1,,county,Adams,2841
+Don,Cox,Don Cox,R,R,State Representative District #9,Position #1,,county,Asotin,2658
+Don,Cox,Don Cox,R,R,State Representative District #9,Position #1,,county,Franklin,1427
+Don,Cox,Don Cox,R,R,State Representative District #9,Position #1,,county,Garfield,461
+Don,Cox,Don Cox,R,R,State Representative District #9,Position #1,,county,Spokane,4447
+Don,Cox,Don Cox,R,R,State Representative District #9,Position #1,,county,Whitman,6695
+Don,Cox,Don Cox,R,R,State Representative District #9,Position #1,,state,Washington,18529
+John,Gearhart,John Gearhart,L,L,State Representative District #9,Position #2,,county,Adams,355
+John,Gearhart,John Gearhart,L,L,State Representative District #9,Position #2,,county,Asotin,849
+John,Gearhart,John Gearhart,L,L,State Representative District #9,Position #2,,county,Franklin,254
+John,Gearhart,John Gearhart,L,L,State Representative District #9,Position #2,,county,Garfield,108
+John,Gearhart,John Gearhart,L,L,State Representative District #9,Position #2,,county,Spokane,831
+John,Gearhart,John Gearhart,L,L,State Representative District #9,Position #2,,county,Whitman,1084
+John,Gearhart,John Gearhart,L,L,State Representative District #9,Position #2,,state,Washington,3481
+Mark G.,Schoesler,Mark G. Schoesler,R,R,State Representative District #9,Position #2,,county,Adams,2890
+Mark G.,Schoesler,Mark G. Schoesler,R,R,State Representative District #9,Position #2,,county,Asotin,2082
+Mark G.,Schoesler,Mark G. Schoesler,R,R,State Representative District #9,Position #2,,county,Franklin,1445
+Mark G.,Schoesler,Mark G. Schoesler,R,R,State Representative District #9,Position #2,,county,Garfield,386
+Mark G.,Schoesler,Mark G. Schoesler,R,R,State Representative District #9,Position #2,,county,Spokane,4307
+Mark G.,Schoesler,Mark G. Schoesler,R,R,State Representative District #9,Position #2,,county,Whitman,6288
+Mark G.,Schoesler,Mark G. Schoesler,R,R,State Representative District #9,Position #2,,state,Washington,17398
+Barry,Sehlin,Barry Sehlin,R,R,State Representative District #10,Position #1,,county,Island,10957
+Barry,Sehlin,Barry Sehlin,R,R,State Representative District #10,Position #1,,county,Skagit,3706
+Barry,Sehlin,Barry Sehlin,R,R,State Representative District #10,Position #1,,county,Snohomish,4096
+Barry,Sehlin,Barry Sehlin,R,R,State Representative District #10,Position #1,,state,Washington,18759
+Barbara,Bailey,Barbara Bailey,R,R,State Representative District #10,Position #2,,county,Island,7560
+Barbara,Bailey,Barbara Bailey,R,R,State Representative District #10,Position #2,,county,Skagit,2426
+Barbara,Bailey,Barbara Bailey,R,R,State Representative District #10,Position #2,,county,Snohomish,2877
+Barbara,Bailey,Barbara Bailey,R,R,State Representative District #10,Position #2,,state,Washington,12863
+Eron M.,Berg,Eron M. Berg,D,D,State Representative District #10,Position #2,,county,Island,7059
+Eron M.,Berg,Eron M. Berg,D,D,State Representative District #10,Position #2,,county,Skagit,2086
+Eron M.,Berg,Eron M. Berg,D,D,State Representative District #10,Position #2,,county,Snohomish,2287
+Eron M.,Berg,Eron M. Berg,D,D,State Representative District #10,Position #2,,state,Washington,11432
+Brett,Wilhelm,Brett Wilhelm,L,L,State Representative District #10,Position #2,,county,Island,486
+Brett,Wilhelm,Brett Wilhelm,L,L,State Representative District #10,Position #2,,county,Skagit,140
+Brett,Wilhelm,Brett Wilhelm,L,L,State Representative District #10,Position #2,,county,Snohomish,271
+Brett,Wilhelm,Brett Wilhelm,L,L,State Representative District #10,Position #2,,state,Washington,897
+Ruth,Gibbs,Ruth Gibbs,R,R,State Representative District #11,Position #1,,county,King,3616
+Ruth,Gibbs,Ruth Gibbs,R,R,State Representative District #11,Position #1,,state,Washington,3616
+Zack,Hudgins,Zack Hudgins,D,D,State Representative District #11,Position #1,,county,King,2805
+Zack,Hudgins,Zack Hudgins,D,D,State Representative District #11,Position #1,,state,Washington,2805
+Robin H.,Jones,Robin H. Jones,D,D,State Representative District #11,Position #1,,county,King,1269
+Robin H.,Jones,Robin H. Jones,D,D,State Representative District #11,Position #1,,state,Washington,1269
+Natalie D.,Reber,Natalie D. Reber,D,D,State Representative District #11,Position #1,,county,King,1616
+Natalie D.,Reber,Natalie D. Reber,D,D,State Representative District #11,Position #1,,state,Washington,1616
+Azziem H.,Underwood,Azziem H. Underwood,D,D,State Representative District #11,Position #1,,county,King,229
+Azziem H.,Underwood,Azziem H. Underwood,D,D,State Representative District #11,Position #1,,state,Washington,229
+Roger,Valdez,Roger Valdez,D,D,State Representative District #11,Position #1,,county,King,1929
+Roger,Valdez,Roger Valdez,D,D,State Representative District #11,Position #1,,state,Washington,1929
+John,Potter,John Potter,R,R,State Representative District #11,Position #2,,county,King,4268
+John,Potter,John Potter,R,R,State Representative District #11,Position #2,,state,Washington,4268
+Velma,Veloria,Velma Veloria,D,D,State Representative District #11,Position #2,,county,King,7251
+Velma,Veloria,Velma Veloria,D,D,State Representative District #11,Position #2,,state,Washington,7251
+Cary,Condotta,Cary Condotta,R,R,State Representative District #12,Position #1,,county,Chelan,7419
+Cary,Condotta,Cary Condotta,R,R,State Representative District #12,Position #1,,county,Douglas,3679
+Cary,Condotta,Cary Condotta,R,R,State Representative District #12,Position #1,,county,Grant,294
+Cary,Condotta,Cary Condotta,R,R,State Representative District #12,Position #1,,county,Okanogan,1303
+Cary,Condotta,Cary Condotta,R,R,State Representative District #12,Position #1,,state,Washington,12695
+Jerry,Paine,Jerry Paine,R,R,State Representative District #12,Position #1,,county,Chelan,4129
+Jerry,Paine,Jerry Paine,R,R,State Representative District #12,Position #1,,county,Douglas,2058
+Jerry,Paine,Jerry Paine,R,R,State Representative District #12,Position #1,,county,Grant,229
+Jerry,Paine,Jerry Paine,R,R,State Representative District #12,Position #1,,county,Okanogan,468
+Jerry,Paine,Jerry Paine,R,R,State Representative District #12,Position #1,,state,Washington,6884
+Todd R.,Smith,Todd R. Smith,D,D,State Representative District #12,Position #1,,county,Chelan,2694
+Todd R.,Smith,Todd R. Smith,D,D,State Representative District #12,Position #1,,county,Douglas,1306
+Todd R.,Smith,Todd R. Smith,D,D,State Representative District #12,Position #1,,county,Grant,409
+Todd R.,Smith,Todd R. Smith,D,D,State Representative District #12,Position #1,,county,Okanogan,1020
+Todd R.,Smith,Todd R. Smith,D,D,State Representative District #12,Position #1,,state,Washington,5429
+Tom,Stahl,Tom Stahl,L,L,State Representative District #12,Position #1,,county,Chelan,296
+Tom,Stahl,Tom Stahl,L,L,State Representative District #12,Position #1,,county,Douglas,243
+Tom,Stahl,Tom Stahl,L,L,State Representative District #12,Position #1,,county,Grant,46
+Tom,Stahl,Tom Stahl,L,L,State Representative District #12,Position #1,,county,Okanogan,135
+Tom,Stahl,Tom Stahl,L,L,State Representative District #12,Position #1,,state,Washington,720
+Michael,Armstrong,Mike Armstrong,R,R,State Representative District #12,Position #2,,county,Chelan,12165
+Michael,Armstrong,Mike Armstrong,R,R,State Representative District #12,Position #2,,county,Douglas,6161
+Michael,Armstrong,Mike Armstrong,R,R,State Representative District #12,Position #2,,county,Grant,798
+Michael,Armstrong,Mike Armstrong,R,R,State Representative District #12,Position #2,,county,Okanogan,1804
+Michael,Armstrong,Mike Armstrong,R,R,State Representative District #12,Position #2,,state,Washington,20928
+Le Roy,Allison,LeRoy Allison,R,R,State Senator District #13,,,county,Grant,4481
+Le Roy,Allison,LeRoy Allison,R,R,State Senator District #13,,,county,Kittitas,1975
+Le Roy,Allison,LeRoy Allison,R,R,State Senator District #13,,,county,Yakima,928
+Le Roy,Allison,LeRoy Allison,R,R,State Senator District #13,,,state,Washington,7384
+Joyce,Mulliken,Joyce Mulliken,R,R,State Senator District #13,,,county,Grant,6942
+Joyce,Mulliken,Joyce Mulliken,R,R,State Senator District #13,,,county,Kittitas,4033
+Joyce,Mulliken,Joyce Mulliken,R,R,State Senator District #13,,,county,Yakima,2337
+Joyce,Mulliken,Joyce Mulliken,R,R,State Senator District #13,,,state,Washington,13312
+Janea,Holmquist,Janea Holmquist,R,R,State Representative District #13,Position #1,,county,Grant,6807
+Janea,Holmquist,Janea Holmquist,R,R,State Representative District #13,Position #1,,county,Kittitas,3973
+Janea,Holmquist,Janea Holmquist,R,R,State Representative District #13,Position #1,,county,Yakima,1704
+Janea,Holmquist,Janea Holmquist,R,R,State Representative District #13,Position #1,,state,Washington,12484
+Carolann,Swartz,Carolann Swartz,R,R,State Representative District #13,Position #1,,county,Grant,4298
+Carolann,Swartz,Carolann Swartz,R,R,State Representative District #13,Position #1,,county,Kittitas,1523
+Carolann,Swartz,Carolann Swartz,R,R,State Representative District #13,Position #1,,county,Yakima,1349
+Carolann,Swartz,Carolann Swartz,R,R,State Representative District #13,Position #1,,state,Washington,7170
+Bill,Hinkle,Bill Hinkle,R,R,State Representative District #13,Position #2,,county,Grant,8629
+Bill,Hinkle,Bill Hinkle,R,R,State Representative District #13,Position #2,,county,Kittitas,4744
+Bill,Hinkle,Bill Hinkle,R,R,State Representative District #13,Position #2,,county,Yakima,2824
+Bill,Hinkle,Bill Hinkle,R,R,State Representative District #13,Position #2,,state,Washington,16197
+Jim,Morrison,Jim Morrison,D,D,State Representative District #14,Position #1,,county,Yakima,5993
+Jim,Morrison,Jim Morrison,D,D,State Representative District #14,Position #1,,state,Washington,5993
+Mary,Skinner,Mary Skinner,R,R,State Representative District #14,Position #1,,county,Yakima,12476
+Mary,Skinner,Mary Skinner,R,R,State Representative District #14,Position #1,,state,Washington,12476
+James,Clements,James Clements,R,R,State Representative District #14,Position #2,,county,Yakima,14202
+James,Clements,James Clements,R,R,State Representative District #14,Position #2,,state,Washington,14202
+Marco,Yolo,Marco Yolo,D,D,State Representative District #14,Position #2,,county,Yakima,4689
+Marco,Yolo,Marco Yolo,D,D,State Representative District #14,Position #2,,state,Washington,4689
+Jim,Honeyford,Jim Honeyford,R,R,State Senator District #15,,,county,Clark,865
+Jim,Honeyford,Jim Honeyford,R,R,State Senator District #15,,,county,Klickitat,2870
+Jim,Honeyford,Jim Honeyford,R,R,State Senator District #15,,,county,Skamania,1945
+Jim,Honeyford,Jim Honeyford,R,R,State Senator District #15,,,county,Yakima,7686
+Jim,Honeyford,Jim Honeyford,R,R,State Senator District #15,,,state,Washington,13366
+Bruce,Chandler,Bruce Chandler,R,R,State Representative District #15,Position #1,,county,Clark,785
+Bruce,Chandler,Bruce Chandler,R,R,State Representative District #15,Position #1,,county,Klickitat,2368
+Bruce,Chandler,Bruce Chandler,R,R,State Representative District #15,Position #1,,county,Skamania,1526
+Bruce,Chandler,Bruce Chandler,R,R,State Representative District #15,Position #1,,county,Yakima,6920
+Bruce,Chandler,Bruce Chandler,R,R,State Representative District #15,Position #1,,state,Washington,11599
+Erwin J.,Salvatori,Erwin J. Salvatori,D,D,State Representative District #15,Position #1,,county,Clark,355
+Erwin J.,Salvatori,Erwin J. Salvatori,D,D,State Representative District #15,Position #1,,county,Klickitat,928
+Erwin J.,Salvatori,Erwin J. Salvatori,D,D,State Representative District #15,Position #1,,county,Skamania,892
+Erwin J.,Salvatori,Erwin J. Salvatori,D,D,State Representative District #15,Position #1,,county,Yakima,1920
+Erwin J.,Salvatori,Erwin J. Salvatori,D,D,State Representative District #15,Position #1,,state,Washington,4095
+Michael H.,Kepcha,Michael H. Kepcha,D,D,State Representative District #15,Position #2,,county,Clark,331
+Michael H.,Kepcha,Michael H. Kepcha,D,D,State Representative District #15,Position #2,,county,Klickitat,834
+Michael H.,Kepcha,Michael H. Kepcha,D,D,State Representative District #15,Position #2,,county,Skamania,805
+Michael H.,Kepcha,Michael H. Kepcha,D,D,State Representative District #15,Position #2,,county,Yakima,1600
+Michael H.,Kepcha,Michael H. Kepcha,D,D,State Representative District #15,Position #2,,state,Washington,3570
+Dan,Newhouse,Dan Newhouse,R,R,State Representative District #15,Position #2,,county,Clark,614
+Dan,Newhouse,Dan Newhouse,R,R,State Representative District #15,Position #2,,county,Klickitat,1813
+Dan,Newhouse,Dan Newhouse,R,R,State Representative District #15,Position #2,,county,Skamania,1221
+Dan,Newhouse,Dan Newhouse,R,R,State Representative District #15,Position #2,,county,Yakima,5628
+Dan,Newhouse,Dan Newhouse,R,R,State Representative District #15,Position #2,,state,Washington,9276
+Donavon,Vlieger,Don Vlieger,R,R,State Representative District #15,Position #2,,county,Clark,195
+Donavon,Vlieger,Don Vlieger,R,R,State Representative District #15,Position #2,,county,Klickitat,698
+Donavon,Vlieger,Don Vlieger,R,R,State Representative District #15,Position #2,,county,Skamania,398
+Donavon,Vlieger,Don Vlieger,R,R,State Representative District #15,Position #2,,county,Yakima,1730
+Donavon,Vlieger,Don Vlieger,R,R,State Representative District #15,Position #2,,state,Washington,3021
+Jody,Clark,Jody Clark,D,D,State Representative District #16,Position #1,,county,Benton,1058
+Jody,Clark,Jody Clark,D,D,State Representative District #16,Position #1,,county,Columbia,343
+Jody,Clark,Jody Clark,D,D,State Representative District #16,Position #1,,county,Franklin,1872
+Jody,Clark,Jody Clark,D,D,State Representative District #16,Position #1,,county,Walla Walla,2724
+Jody,Clark,Jody Clark,D,D,State Representative District #16,Position #1,,state,Washington,5997
+Dave,Mastin,Dave Mastin,R,R,State Representative District #16,Position #1,,county,Benton,1642
+Dave,Mastin,Dave Mastin,R,R,State Representative District #16,Position #1,,county,Columbia,1315
+Dave,Mastin,Dave Mastin,R,R,State Representative District #16,Position #1,,county,Franklin,3859
+Dave,Mastin,Dave Mastin,R,R,State Representative District #16,Position #1,,county,Walla Walla,7115
+Dave,Mastin,Dave Mastin,R,R,State Representative District #16,Position #1,,state,Washington,13931
+Bill,Grant,Bill Grant,D,D,State Representative District #16,Position #2,,county,Benton,1501
+Bill,Grant,Bill Grant,D,D,State Representative District #16,Position #2,,county,Columbia,1372
+Bill,Grant,Bill Grant,D,D,State Representative District #16,Position #2,,county,Franklin,4484
+Bill,Grant,Bill Grant,D,D,State Representative District #16,Position #2,,county,Walla Walla,8211
+Bill,Grant,Bill Grant,D,D,State Representative District #16,Position #2,,state,Washington,15568
+Marc,Boldt,Marc Boldt,R,R,State Representative District #17,Position #1,,county,Clark,9743
+Marc,Boldt,Marc Boldt,R,R,State Representative District #17,Position #1,,state,Washington,9743
+Pat,Campbell,Pat Campbell,R,R,State Representative District #17,Position #1,,county,Clark,7078
+Pat,Campbell,Pat Campbell,R,R,State Representative District #17,Position #1,,state,Washington,7078
+Jim,Dunn,Jim Dunn,R,R,State Representative District #17,Position #2,,county,Clark,10074
+Jim,Dunn,Jim Dunn,R,R,State Representative District #17,Position #2,,state,Washington,10074
+Deb,Wallace,Deb Wallace,D,D,State Representative District #17,Position #2,,county,Clark,8855
+Deb,Wallace,Deb Wallace,D,D,State Representative District #17,Position #2,,state,Washington,8855
+Bill,Crego,Bill Crego,D,D,State Representative District #18,Position #1,,county,Clark,7772
+Bill,Crego,Bill Crego,D,D,State Representative District #18,Position #1,,county,Cowlitz,1910
+Bill,Crego,Bill Crego,D,D,State Representative District #18,Position #1,,state,Washington,9682
+Tom,Mielke,Tom Mielke,R,R,State Representative District #18,Position #1,,county,Clark,13454
+Tom,Mielke,Tom Mielke,R,R,State Representative District #18,Position #1,,county,Cowlitz,3034
+Tom,Mielke,Tom Mielke,R,R,State Representative District #18,Position #1,,state,Washington,16488
+Michele,Cotner,Michele Cotner,D,D,State Representative District #18,Position #2,,county,Clark,4467
+Michele,Cotner,Michele Cotner,D,D,State Representative District #18,Position #2,,county,Cowlitz,1178
+Michele,Cotner,Michele Cotner,D,D,State Representative District #18,Position #2,,state,Washington,5645
+Ed,Orcutt,Ed Orcutt,R,R,State Representative District #18,Position #2,,county,Clark,10654
+Ed,Orcutt,Ed Orcutt,R,R,State Representative District #18,Position #2,,county,Cowlitz,2371
+Ed,Orcutt,Ed Orcutt,R,R,State Representative District #18,Position #2,,state,Washington,13025
+Dave,Seabrook,Dave Seabrook,D,D,State Representative District #18,Position #2,,county,Clark,6024
+Dave,Seabrook,Dave Seabrook,D,D,State Representative District #18,Position #2,,county,Cowlitz,1281
+Dave,Seabrook,Dave Seabrook,D,D,State Representative District #18,Position #2,,state,Washington,7305
+Brian,Hatfield,Brian Hatfield,D,D,State Representative District #19,Position #1,,county,Cowlitz,10967
+Brian,Hatfield,Brian Hatfield,D,D,State Representative District #19,Position #1,,county,Grays Harbor,2568
+Brian,Hatfield,Brian Hatfield,D,D,State Representative District #19,Position #1,,county,Pacific,3721
+Brian,Hatfield,Brian Hatfield,D,D,State Representative District #19,Position #1,,county,Wahkiakum,1094
+Brian,Hatfield,Brian Hatfield,D,D,State Representative District #19,Position #1,,state,Washington,18350
+Mike,Kayser,Mike Kayser,R,R,State Representative District #19,Position #1,,county,Cowlitz,5240
+Mike,Kayser,Mike Kayser,R,R,State Representative District #19,Position #1,,county,Grays Harbor,893
+Mike,Kayser,Mike Kayser,R,R,State Representative District #19,Position #1,,county,Pacific,1556
+Mike,Kayser,Mike Kayser,R,R,State Representative District #19,Position #1,,county,Wahkiakum,487
+Mike,Kayser,Mike Kayser,R,R,State Representative District #19,Position #1,,state,Washington,8176
+Mark L.,Doumit,Mark L. Doumit,D,D,State Representative District #19,Position #2,,county,Cowlitz,10367
+Mark L.,Doumit,Mark L. Doumit,D,D,State Representative District #19,Position #2,,county,Grays Harbor,2468
+Mark L.,Doumit,Mark L. Doumit,D,D,State Representative District #19,Position #2,,county,Pacific,3644
+Mark L.,Doumit,Mark L. Doumit,D,D,State Representative District #19,Position #2,,county,Wahkiakum,1191
+Mark L.,Doumit,Mark L. Doumit,D,D,State Representative District #19,Position #2,,state,Washington,17670
+Paul,Waadevig,Paul Waadevig,R,R,State Representative District #19,Position #2,,county,Cowlitz,5709
+Paul,Waadevig,Paul Waadevig,R,R,State Representative District #19,Position #2,,county,Grays Harbor,946
+Paul,Waadevig,Paul Waadevig,R,R,State Representative District #19,Position #2,,county,Pacific,1518
+Paul,Waadevig,Paul Waadevig,R,R,State Representative District #19,Position #2,,county,Wahkiakum,401
+Paul,Waadevig,Paul Waadevig,R,R,State Representative District #19,Position #2,,state,Washington,8574
+Richard,Debolt,Richard DeBolt,R,R,State Representative District #20,Position #1,,county,Lewis,10950
+Richard,Debolt,Richard DeBolt,R,R,State Representative District #20,Position #1,,county,Thurston,6375
+Richard,Debolt,Richard DeBolt,R,R,State Representative District #20,Position #1,,state,Washington,17325
+Gary,Alexander,Gary Alexander,R,R,State Representative District #20,Position #2,,county,Lewis,10761
+Gary,Alexander,Gary Alexander,R,R,State Representative District #20,Position #2,,county,Thurston,7571
+Gary,Alexander,Gary Alexander,R,R,State Representative District #20,Position #2,,state,Washington,18332
+Cheryl,Potebnya,Cheryl Potebnya,R,R,State Senator District #21,,,county,Snohomish,7579
+Cheryl,Potebnya,Cheryl Potebnya,R,R,State Senator District #21,,,state,Washington,7579
+Paull H.,Shin,Paull H. Shin,D,D,State Senator District #21,,,county,Snohomish,11726
+Paull H.,Shin,Paull H. Shin,D,D,State Senator District #21,,,state,Washington,11726
+Mike,Cooper,Mike Cooper,D,D,State Representative District #21,Position #1,,county,Snohomish,11520
+Mike,Cooper,Mike Cooper,D,D,State Representative District #21,Position #1,,state,Washington,11520
+Jeff,Thorp,Jeff Thorp,R,R,State Representative District #21,Position #1,,county,Snohomish,7453
+Jeff,Thorp,Jeff Thorp,R,R,State Representative District #21,Position #1,,state,Washington,7453
+Micheal J.,Huisman,Micheal J. Huisman,R,R,State Representative District #21,Position #2,,county,Snohomish,7259
+Micheal J.,Huisman,Micheal J. Huisman,R,R,State Representative District #21,Position #2,,state,Washington,7259
+Brian,Sullivan,Brian Sullivan,D,D,State Representative District #21,Position #2,,county,Snohomish,11707
+Brian,Sullivan,Brian Sullivan,D,D,State Representative District #21,Position #2,,state,Washington,11707
+Prophet,Atlantis,Prophet Atlantis,R,R,State Representative District #22,Position #1,,county,Thurston,767
+Prophet,Atlantis,Prophet Atlantis,R,R,State Representative District #22,Position #1,,state,Washington,767
+Mark,Daniels,Mark Daniels,R,R,State Representative District #22,Position #1,,county,Thurston,8258
+Mark,Daniels,Mark Daniels,R,R,State Representative District #22,Position #1,,state,Washington,8258
+Sandra,Romero,Sandra Romero,D,D,State Representative District #22,Position #1,,county,Thurston,18053
+Sandra,Romero,Sandra Romero,D,D,State Representative District #22,Position #1,,state,Washington,18053
+James,Wiest,James Wiest,L,L,State Representative District #22,Position #1,,county,Thurston,944
+James,Wiest,James Wiest,L,L,State Representative District #22,Position #1,,state,Washington,944
+Byron J.,Carden,Byron J. Carden,R,R,State Representative District #22,Position #2,,county,Thurston,1993
+Byron J.,Carden,Byron J. Carden,R,R,State Representative District #22,Position #2,,state,Washington,1993
+Sam,Hunt,Sam Hunt,D,D,State Representative District #22,Position #2,,county,Thurston,18566
+Sam,Hunt,Sam Hunt,D,D,State Representative District #22,Position #2,,state,Washington,18566
+John D.,Olson,John D. Olson,R,R,State Representative District #22,Position #2,,county,Thurston,6049
+John D.,Olson,John D. Olson,R,R,State Representative District #22,Position #2,,state,Washington,6049
+Don,Large,Don Large,R,R,State Representative District #23,Position #1,,county,Kitsap,11403
+Don,Large,Don Large,R,R,State Representative District #23,Position #1,,state,Washington,11403
+Phil,Rockefeller,Phil Rockefeller,D,D,State Representative District #23,Position #1,,county,Kitsap,17810
+Phil,Rockefeller,Phil Rockefeller,D,D,State Representative District #23,Position #1,,state,Washington,17810
+Sherry,Appleton,Sherry Appleton,D,D,State Representative District #23,Position #2,,county,Kitsap,10871
+Sherry,Appleton,Sherry Appleton,D,D,State Representative District #23,Position #2,,state,Washington,10871
+Terrell (Terry) E.,Ducheane,Terrell (Terry) E. Ducheane,D,D,State Representative District #23,Position #2,,county,Kitsap,2843
+Terrell (Terry) E.,Ducheane,Terrell (Terry) E. Ducheane,D,D,State Representative District #23,Position #2,,state,Washington,2843
+Beverly,Woods,Beverly Woods,R,R,State Representative District #23,Position #2,,county,Kitsap,14895
+Beverly,Woods,Beverly Woods,R,R,State Representative District #23,Position #2,,state,Washington,14895
+Jim,Buck,Jim Buck,R,R,State Representative District #24,Position #1,,county,Clallam,13069
+Jim,Buck,Jim Buck,R,R,State Representative District #24,Position #1,,county,Grays Harbor,3111
+Jim,Buck,Jim Buck,R,R,State Representative District #24,Position #1,,county,Jefferson,5384
+Jim,Buck,Jim Buck,R,R,State Representative District #24,Position #1,,state,Washington,21564
+Bill,Thomas,Bill Thomas,D,D,State Representative District #24,Position #1,,county,Clallam,6812
+Bill,Thomas,Bill Thomas,D,D,State Representative District #24,Position #1,,county,Grays Harbor,2105
+Bill,Thomas,Bill Thomas,D,D,State Representative District #24,Position #1,,county,Jefferson,4556
+Bill,Thomas,Bill Thomas,D,D,State Representative District #24,Position #1,,state,Washington,13473
+Lynn,Kessler,Lynn Kessler,D,D,State Representative District #24,Position #2,,county,Clallam,12624
+Lynn,Kessler,Lynn Kessler,D,D,State Representative District #24,Position #2,,county,Grays Harbor,4151
+Lynn,Kessler,Lynn Kessler,D,D,State Representative District #24,Position #2,,county,Jefferson,7897
+Lynn,Kessler,Lynn Kessler,D,D,State Representative District #24,Position #2,,state,Washington,24672
+Audrey,Chase,Audrey Chase,D,D,State Representative District #25,Position #1,,county,Pierce,7365
+Audrey,Chase,Audrey Chase,D,D,State Representative District #25,Position #1,,state,Washington,7365
+Joyce,McDonald,Joyce McDonald,D,D,State Representative District #25,Position #1,,county,Pierce,11896
+Joyce,McDonald,Joyce McDonald,D,D,State Representative District #25,Position #1,,state,Washington,11896
+Mario,Young,Mario Young,L,L,State Representative District #25,Position #1,,county,Pierce,872
+Mario,Young,Mario Young,L,L,State Representative District #25,Position #1,,state,Washington,872
+Dave,Morell,Dave Morell,R,R,State Representative District #25,Position #2,,county,Pierce,9482
+Dave,Morell,Dave Morell,R,R,State Representative District #25,Position #2,,state,Washington,9482
+Dawn,Morrell,Dawn Morrell,D,D,State Representative District #25,Position #2,,county,Pierce,10465
+Dawn,Morrell,Dawn Morrell,D,D,State Representative District #25,Position #2,,state,Washington,10465
+Randy,Boss,Randy Boss,D,D,State Senator District #26,,,county,Kitsap,2899
+Randy,Boss,Randy Boss,D,D,State Senator District #26,,,county,Pierce,3407
+Randy,Boss,Randy Boss,D,D,State Senator District #26,,,state,Washington,6306
+Bob,Oke,Bob Oke,R,R,State Senator District #26,,,county,Kitsap,6985
+Bob,Oke,Bob Oke,R,R,State Senator District #26,,,county,Pierce,5718
+Bob,Oke,Bob Oke,R,R,State Senator District #26,,,state,Washington,12703
+Betty P.,Ringlee,Betty P. Ringlee,D,D,State Senator District #26,,,county,Kitsap,3387
+Betty P.,Ringlee,Betty P. Ringlee,D,D,State Senator District #26,,,county,Pierce,4244
+Betty P.,Ringlee,Betty P. Ringlee,D,D,State Senator District #26,,,state,Washington,7631
+Kevin,Entze,Kevin Entze,R,R,State Representative District #26,Position #1,,county,Kitsap,1964
+Kevin,Entze,Kevin Entze,R,R,State Representative District #26,Position #1,,county,Pierce,3905
+Kevin,Entze,Kevin Entze,R,R,State Representative District #26,Position #1,,state,Washington,5869
+Ted,Haley,Ted Haley,IC,IC,State Representative District #26,Position #1,,county,Kitsap,635
+Ted,Haley,Ted Haley,IC,IC,State Representative District #26,Position #1,,county,Pierce,606
+Ted,Haley,Ted Haley,IC,IC,State Representative District #26,Position #1,,state,Washington,1241
+Patricia,Lantz,Patricia Lantz,D,D,State Representative District #26,Position #1,,county,Kitsap,6948
+Patricia,Lantz,Patricia Lantz,D,D,State Representative District #26,Position #1,,county,Pierce,6408
+Patricia,Lantz,Patricia Lantz,D,D,State Representative District #26,Position #1,,state,Washington,13356
+Ed,Mitchell,Ed Mitchell,R,R,State Representative District #26,Position #1,,county,Kitsap,3469
+Ed,Mitchell,Ed Mitchell,R,R,State Representative District #26,Position #1,,county,Pierce,2401
+Ed,Mitchell,Ed Mitchell,R,R,State Representative District #26,Position #1,,state,Washington,5870
+Brock,Jackley,Brock Jackley,D,D,State Representative District #26,Position #2,,county,Kitsap,6945
+Brock,Jackley,Brock Jackley,D,D,State Representative District #26,Position #2,,county,Pierce,6551
+Brock,Jackley,Brock Jackley,D,D,State Representative District #26,Position #2,,state,Washington,13496
+Lois,McMahan,Lois McMahan,R,R,State Representative District #26,Position #2,,county,Kitsap,6208
+Lois,McMahan,Lois McMahan,R,R,State Representative District #26,Position #2,,county,Pierce,6624
+Lois,McMahan,Lois McMahan,R,R,State Representative District #26,Position #2,,state,Washington,12832
+Dennis,Flannigan,Dennis Flannigan,D,D,State Representative District #27,Position #1,,county,Pierce,5648
+Dennis,Flannigan,Dennis Flannigan,D,D,State Representative District #27,Position #1,,state,Washington,5648
+Nancy Pease,Hogan,Nancy Pease Hogan,D,D,State Representative District #27,Position #1,,county,Pierce,2606
+Nancy Pease,Hogan,Nancy Pease Hogan,D,D,State Representative District #27,Position #1,,state,Washington,2606
+Bill,LaBorde,Bill LaBorde,D,D,State Representative District #27,Position #1,,county,Pierce,4759
+Bill,LaBorde,Bill LaBorde,D,D,State Representative District #27,Position #1,,state,Washington,4759
+Janis,Martin,Janis Martin,D,D,State Representative District #27,Position #1,,county,Pierce,2355
+Janis,Martin,Janis Martin,D,D,State Representative District #27,Position #1,,state,Washington,2355
+Jerry M.,Thorpe,Jerry M. Thorpe,D,D,State Representative District #27,Position #1,,county,Pierce,1605
+Jerry M.,Thorpe,Jerry M. Thorpe,D,D,State Representative District #27,Position #1,,state,Washington,1605
+William E.,Chovil,William E. Chovil,R,R,State Representative District #27,Position #2,,county,Pierce,5150
+William E.,Chovil,William E. Chovil,R,R,State Representative District #27,Position #2,,state,Washington,5150
+Jeannie,Darneille,Jeannie Darneille,D,D,State Representative District #27,Position #2,,county,Pierce,12241
+Jeannie,Darneille,Jeannie Darneille,D,D,State Representative District #27,Position #2,,state,Washington,12241
+Deborah (Debi),Srail,Deborah (Debi) Srail,D,D,State Representative District #28,Position #1,,county,Pierce,9189
+Deborah (Debi),Srail,Deborah (Debi) Srail,D,D,State Representative District #28,Position #1,,state,Washington,9189
+Georganne (Gigi),Talcott,Georganne (Gigi) Talcott,R,R,State Representative District #28,Position #1,,county,Pierce,12252
+Georganne (Gigi),Talcott,Georganne (Gigi) Talcott,R,R,State Representative District #28,Position #1,,state,Washington,12252
+Mike,Carrell,Mike Carrell,R,R,State Representative District #28,Position #2,,county,Pierce,11474
+Mike,Carrell,Mike Carrell,R,R,State Representative District #28,Position #2,,state,Washington,11474
+Tamra (Tami),Hall,Tamra (Tami) Hall,D,D,State Representative District #28,Position #2,,county,Pierce,4650
+Tamra (Tami),Hall,Tamra (Tami) Hall,D,D,State Representative District #28,Position #2,,state,Washington,4650
+Darrell,Reeck,Darrell Reeck,D,D,State Representative District #28,Position #2,,county,Pierce,5326
+Darrell,Reeck,Darrell Reeck,D,D,State Representative District #28,Position #2,,state,Washington,5326
+Rosa,Franklin,Rosa Franklin,D,D,State Senator District #29,,,county,Pierce,11060
+Rosa,Franklin,Rosa Franklin,D,D,State Senator District #29,,,state,Washington,11060
+Steve,Conway,Steve Conway,D,D,State Representative District #29,Position #1,,county,Pierce,10770
+Steve,Conway,Steve Conway,D,D,State Representative District #29,Position #1,,state,Washington,10770
+Steve,Kirby,Steve Kirby,D,D,State Representative District #29,Position #2,,county,Pierce,10704
+Steve,Kirby,Steve Kirby,D,D,State Representative District #29,Position #2,,state,Washington,10704
+Tracey J.,Eide,Tracey J. Eide,D,D,State Senator District #30,,,county,King,8773
+Tracey J.,Eide,Tracey J. Eide,D,D,State Senator District #30,,,state,Washington,8773
+Tony,Moore,Tony Moore,R,R,State Senator District #30,,,county,King,7157
+Tony,Moore,Tony Moore,R,R,State Senator District #30,,,state,Washington,7157
+Jim,Ferrell,Jim Ferrell,R,R,State Representative District #30,Position #1,,county,King,7193
+Jim,Ferrell,Jim Ferrell,R,R,State Representative District #30,Position #1,,state,Washington,7193
+Mark,Miloscia,Mark Miloscia,D,D,State Representative District #30,Position #1,,county,King,8622
+Mark,Miloscia,Mark Miloscia,D,D,State Representative District #30,Position #1,,state,Washington,8622
+Greg,Markley,Greg Markley,D,D,State Representative District #30,Position #2,,county,King,7024
+Greg,Markley,Greg Markley,D,D,State Representative District #30,Position #2,,state,Washington,7024
+Skip,Priest,Skip Priest,R,R,State Representative District #30,Position #2,,county,King,8570
+Skip,Priest,Skip Priest,R,R,State Representative District #30,Position #2,,state,Washington,8570
+Pam,Roach,Pam Roach,R,R,State Senator District #31,,,county,King,4498
+Pam,Roach,Pam Roach,R,R,State Senator District #31,,,county,Pierce,6856
+Pam,Roach,Pam Roach,R,R,State Senator District #31,,,state,Washington,11354
+Yvonne,Ward,Yvonne Ward,D,D,State Senator District #31,,,county,King,3353
+Yvonne,Ward,Yvonne Ward,D,D,State Senator District #31,,,county,Pierce,4659
+Yvonne,Ward,Yvonne Ward,D,D,State Senator District #31,,,state,Washington,8012
+Mike,Connor,Mike Connor,D,D,State Representative District #31,Position #1,,county,King,3326
+Mike,Connor,Mike Connor,D,D,State Representative District #31,Position #1,,county,Pierce,4898
+Mike,Connor,Mike Connor,D,D,State Representative District #31,Position #1,,state,Washington,8224
+Dan,Roach,Dan Roach,R,R,State Representative District #31,Position #1,,county,King,4404
+Dan,Roach,Dan Roach,R,R,State Representative District #31,Position #1,,county,Pierce,6495
+Dan,Roach,Dan Roach,R,R,State Representative District #31,Position #1,,state,Washington,10899
+Jan,Shabro,Jan Shabro,R,R,State Representative District #31,Position #2,,county,King,5396
+Jan,Shabro,Jan Shabro,R,R,State Representative District #31,Position #2,,county,Pierce,8792
+Jan,Shabro,Jan Shabro,R,R,State Representative District #31,Position #2,,state,Washington,14188
+Darlene,Fairley,Darlene Fairley,D,D,State Senator District #32,,,county,King,10314
+Darlene,Fairley,Darlene Fairley,D,D,State Senator District #32,,,county,Snohomish,2331
+Darlene,Fairley,Darlene Fairley,D,D,State Senator District #32,,,state,Washington,12645
+Michael,Plunkett,Michael Plunkett,R,R,State Senator District #32,,,county,King,6384
+Michael,Plunkett,Michael Plunkett,R,R,State Senator District #32,,,county,Snohomish,2275
+Michael,Plunkett,Michael Plunkett,R,R,State Senator District #32,,,state,Washington,8659
+Maralyn,Chase,Maralyn Chase,D,D,State Representative District #32,Position #1,,county,King,5622
+Maralyn,Chase,Maralyn Chase,D,D,State Representative District #32,Position #1,,county,Snohomish,1695
+Maralyn,Chase,Maralyn Chase,D,D,State Representative District #32,Position #1,,state,Washington,7317
+Kevin,Grossman,Kevin Grossman,D,D,State Representative District #32,Position #1,,county,King,5476
+Kevin,Grossman,Kevin Grossman,D,D,State Representative District #32,Position #1,,county,Snohomish,1143
+Kevin,Grossman,Kevin Grossman,D,D,State Representative District #32,Position #1,,state,Washington,6619
+Robert L. (Bob),Ransom,Robert L. (Bob) Ransom,R,R,State Representative District #32,Position #1,,county,King,5373
+Robert L. (Bob),Ransom,Robert L. (Bob) Ransom,R,R,State Representative District #32,Position #1,,county,Snohomish,1684
+Robert L. (Bob),Ransom,Robert L. (Bob) Ransom,R,R,State Representative District #32,Position #1,,state,Washington,7057
+Ruth,Kagi,Ruth Kagi,D,D,State Representative District #32,Position #2,,county,King,10471
+Ruth,Kagi,Ruth Kagi,D,D,State Representative District #32,Position #2,,county,Snohomish,2371
+Ruth,Kagi,Ruth Kagi,D,D,State Representative District #32,Position #2,,state,Washington,12842
+Travis William,Prather,Travis William Prather,R,R,State Representative District #32,Position #2,,county,King,2529
+Travis William,Prather,Travis William Prather,R,R,State Representative District #32,Position #2,,county,Snohomish,697
+Travis William,Prather,Travis William Prather,R,R,State Representative District #32,Position #2,,state,Washington,3226
+Margaret R.,Wiggins,Margaret R. Wiggins,R,R,State Representative District #32,Position #2,,county,King,3267
+Margaret R.,Wiggins,Margaret R. Wiggins,R,R,State Representative District #32,Position #2,,county,Snohomish,1367
+Margaret R.,Wiggins,Margaret R. Wiggins,R,R,State Representative District #32,Position #2,,state,Washington,4634
+James l,Russell,James Russell,R,R,State Senator District #33,,,county,King,5129
+James l,Russell,James Russell,R,R,State Senator District #33,,,state,Washington,5129
+Karen,Keiser,Karen Keiser,D,D,State Senator District #33,,,county,King,9430
+Karen,Keiser,Karen Keiser,D,D,State Senator District #33,,,state,Washington,9430
+Peter,Graves,Peter Graves,R,R,State Representative District #33,Position #1,,county,King,5694
+Peter,Graves,Peter Graves,R,R,State Representative District #33,Position #1,,state,Washington,5694
+Shay,Schual-Berke,Shay Schual-Berke,D,D,State Representative District #33,Position #1,,county,King,8790
+Shay,Schual-Berke,Shay Schual-Berke,D,D,State Representative District #33,Position #1,,state,Washington,8790
+Henry M.,Foote,Henry M. Foote,R,R,State Representative District #33,Position #2,,county,King,5127
+Henry M.,Foote,Henry M. Foote,R,R,State Representative District #33,Position #2,,state,Washington,5127
+Dave,Upthegrove,Dave Upthegrove,D,D,State Representative District #33,Position #2,,county,King,8962
+Dave,Upthegrove,Dave Upthegrove,D,D,State Representative District #33,Position #2,,state,Washington,8962
+Erik,Poulsen,Erik Poulsen,D,D,State Senator District #34,,,county,King,16156
+Erik,Poulsen,Erik Poulsen,D,D,State Senator District #34,,,state,Washington,16156
+Eileen L.,Cody,Eileen L. Cody,D,D,State Representative District #34,Position #1,,county,King,14797
+Eileen L.,Cody,Eileen L. Cody,D,D,State Representative District #34,Position #1,,state,Washington,14797
+Larry L.,Gilbert,Larry L. Gilbert,R,R,State Representative District #34,Position #2,,county,King,5747
+Larry L.,Gilbert,Larry L. Gilbert,R,R,State Representative District #34,Position #2,,state,Washington,5747
+Joe,McDermott,Joe McDermott,D,D,State Representative District #34,Position #2,,county,King,12600
+Joe,McDermott,Joe McDermott,D,D,State Representative District #34,Position #2,,state,Washington,12600
+Cary,Thomas,Cary Thomas,L,L,State Representative District #34,Position #2,,county,King,1032
+Cary,Thomas,Cary Thomas,L,L,State Representative District #34,Position #2,,state,Washington,1032
+Marilou,Rickert,Marilou Rickert,GRN,GRN,State Senator District #35,,,county,Grays Harbor,208
+Marilou,Rickert,Marilou Rickert,GRN,GRN,State Senator District #35,,,county,Kitsap,1559
+Marilou,Rickert,Marilou Rickert,GRN,GRN,State Senator District #35,,,county,Mason,1723
+Marilou,Rickert,Marilou Rickert,GRN,GRN,State Senator District #35,,,county,Thurston,807
+Marilou,Rickert,Marilou Rickert,GRN,GRN,State Senator District #35,,,state,Washington,4297
+Tim,Sheldon,Tim Sheldon,D,D,State Senator District #35,,,county,Grays Harbor,1141
+Tim,Sheldon,Tim Sheldon,D,D,State Senator District #35,,,county,Kitsap,7463
+Tim,Sheldon,Tim Sheldon,D,D,State Senator District #35,,,county,Mason,8105
+Tim,Sheldon,Tim Sheldon,D,D,State Senator District #35,,,county,Thurston,2637
+Tim,Sheldon,Tim Sheldon,D,D,State Senator District #35,,,state,Washington,19346
+Frank,Dare,Frank Dare,R,R,State Representative District #35,Position #1,,county,Grays Harbor,454
+Frank,Dare,Frank Dare,R,R,State Representative District #35,Position #1,,county,Kitsap,3858
+Frank,Dare,Frank Dare,R,R,State Representative District #35,Position #1,,county,Mason,3652
+Frank,Dare,Frank Dare,R,R,State Representative District #35,Position #1,,county,Thurston,1251
+Frank,Dare,Frank Dare,R,R,State Representative District #35,Position #1,,state,Washington,9215
+Kathy,Haigh,Kathy Haigh,D,D,State Representative District #35,Position #1,,county,Grays Harbor,941
+Kathy,Haigh,Kathy Haigh,D,D,State Representative District #35,Position #1,,county,Kitsap,5419
+Kathy,Haigh,Kathy Haigh,D,D,State Representative District #35,Position #1,,county,Mason,6055
+Kathy,Haigh,Kathy Haigh,D,D,State Representative District #35,Position #1,,county,Thurston,2244
+Kathy,Haigh,Kathy Haigh,D,D,State Representative District #35,Position #1,,state,Washington,14659
+Craig,Chapman,Craig Chapman,R,R,State Representative District #35,Position #2,,county,Grays Harbor,495
+Craig,Chapman,Craig Chapman,R,R,State Representative District #35,Position #2,,county,Kitsap,3709
+Craig,Chapman,Craig Chapman,R,R,State Representative District #35,Position #2,,county,Mason,4542
+Craig,Chapman,Craig Chapman,R,R,State Representative District #35,Position #2,,county,Thurston,1316
+Craig,Chapman,Craig Chapman,R,R,State Representative District #35,Position #2,,state,Washington,10062
+William (Ike),Eickmeyer,William (Ike) Eickmeyer,D,D,State Representative District #35,Position #2,,county,Grays Harbor,897
+William (Ike),Eickmeyer,William (Ike) Eickmeyer,D,D,State Representative District #35,Position #2,,county,Kitsap,5601
+William (Ike),Eickmeyer,William (Ike) Eickmeyer,D,D,State Representative District #35,Position #2,,county,Mason,5248
+William (Ike),Eickmeyer,William (Ike) Eickmeyer,D,D,State Representative District #35,Position #2,,county,Thurston,2148
+William (Ike),Eickmeyer,William (Ike) Eickmeyer,D,D,State Representative District #35,Position #2,,state,Washington,13894
+Jeanne,Kohl-Welles,Jeanne Kohl-Welles,D,D,State Senator District #36,,,county,King,18024
+Jeanne,Kohl-Welles,Jeanne Kohl-Welles,D,D,State Senator District #36,,,state,Washington,18024
+Angela,Brink,Angela Brink,R,R,State Representative District #36,Position #1,,county,King,5076
+Angela,Brink,Angela Brink,R,R,State Representative District #36,Position #1,,state,Washington,5076
+Helen,Sommers,Helen Sommers,D,D,State Representative District #36,Position #1,,county,King,17586
+Helen,Sommers,Helen Sommers,D,D,State Representative District #36,Position #1,,state,Washington,17586
+Mary Lou,Dickerson,Mary Lou Dickerson,D,D,State Representative District #36,Position #2,,county,King,17976
+Mary Lou,Dickerson,Mary Lou Dickerson,D,D,State Representative District #36,Position #2,,state,Washington,17976
+Rudy,McCoy-Pantoja Jr.,Rudy McCoy-Pantoja Jr.,R,R,State Representative District #36,Position #2,,county,King,4412
+Rudy,McCoy-Pantoja Jr.,Rudy McCoy-Pantoja Jr.,R,R,State Representative District #36,Position #2,,state,Washington,4412
+Adam,Kline,Adam Kline,D,D,State Senator District #37,,,county,King,10452
+Adam,Kline,Adam Kline,D,D,State Senator District #37,,,state,Washington,10452
+Dawn,Mason,Dawn Mason,D,D,State Senator District #37,,,county,King,6586
+Dawn,Mason,Dawn Mason,D,D,State Senator District #37,,,state,Washington,6586
+Sharon Tomiko,Santos,Sharon Tomiko Santos,D,D,State Representative District #37,Position #1,,county,King,13365
+Sharon Tomiko,Santos,Sharon Tomiko Santos,D,D,State Representative District #37,Position #1,,state,Washington,13365
+John,Stafford,John Stafford,IC,IC,State Representative District #37,Position #1,,county,King,2578
+John,Stafford,John Stafford,IC,IC,State Representative District #37,Position #1,,state,Washington,2578
+Ruth,Bennett,Ruth Bennett,L,L,State Representative District #37,Position #2,,county,King,792
+Ruth,Bennett,Ruth Bennett,L,L,State Representative District #37,Position #2,,state,Washington,792
+Cheryl,Chow,Cheryl Chow,D,D,State Representative District #37,Position #2,,county,King,6063
+Cheryl,Chow,Cheryl Chow,D,D,State Representative District #37,Position #2,,state,Washington,6063
+Eric,Pettigrew,Eric Pettigrew,D,D,State Representative District #37,Position #2,,county,King,7101
+Eric,Pettigrew,Eric Pettigrew,D,D,State Representative District #37,Position #2,,state,Washington,7101
+Angela,Toussaint,Angela Toussaint,D,D,State Representative District #37,Position #2,,county,King,3631
+Angela,Toussaint,Angela Toussaint,D,D,State Representative District #37,Position #2,,state,Washington,3631
+Glenn,Coggeshell,Glenn Coggeshell,R,R,State Senator District #38,,,county,Snohomish,5962
+Glenn,Coggeshell,Glenn Coggeshell,R,R,State Senator District #38,,,state,Washington,5962
+Aaron,Reardon,Aaron Reardon,D,D,State Senator District #38,,,county,Snohomish,11656
+Aaron,Reardon,Aaron Reardon,D,D,State Senator District #38,,,state,Washington,11656
+Erv,Hoglund,Erv Hoglund,R,R,State Representative District #38,Position #1,,county,Snohomish,7776
+Erv,Hoglund,Erv Hoglund,R,R,State Representative District #38,Position #1,,state,Washington,7776
+Dylan,Malone,Dylan Malone,D,D,State Representative District #38,Position #1,,county,Snohomish,3116
+Dylan,Malone,Dylan Malone,D,D,State Representative District #38,Position #1,,state,Washington,3116
+John R.,McCoy,John R. McCoy,D,D,State Representative District #38,Position #1,,county,Snohomish,4816
+John R.,McCoy,John R. McCoy,D,D,State Representative District #38,Position #1,,state,Washington,4816
+Randall,Rike,Randall Rike,D,D,State Representative District #38,Position #1,,county,Snohomish,1886
+Randall,Rike,Randall Rike,D,D,State Representative District #38,Position #1,,state,Washington,1886
+Jean,Berkey,Jean Berkey,D,D,State Representative District #38,Position #2,,county,Snohomish,10578
+Jean,Berkey,Jean Berkey,D,D,State Representative District #38,Position #2,,state,Washington,10578
+Gregory Dean,Lemke,Gregory Dean Lemke,R,R,State Representative District #38,Position #2,,county,Snohomish,6928
+Gregory Dean,Lemke,Gregory Dean Lemke,R,R,State Representative District #38,Position #2,,state,Washington,6928
+Carolyn,Eslick,Carolyn Eslick,R,R,State Representative District #39,Position #1,,county,King,41
+Carolyn,Eslick,Carolyn Eslick,R,R,State Representative District #39,Position #1,,county,Skagit,1275
+Carolyn,Eslick,Carolyn Eslick,R,R,State Representative District #39,Position #1,,county,Snohomish,4460
+Carolyn,Eslick,Carolyn Eslick,R,R,State Representative District #39,Position #1,,county,Whatcom,8
+Carolyn,Eslick,Carolyn Eslick,R,R,State Representative District #39,Position #1,,state,Washington,5784
+Dan,Kristiansen,Dan Kristiansen,R,R,State Representative District #39,Position #1,,county,King,23
+Dan,Kristiansen,Dan Kristiansen,R,R,State Representative District #39,Position #1,,county,Skagit,1331
+Dan,Kristiansen,Dan Kristiansen,R,R,State Representative District #39,Position #1,,county,Snohomish,6427
+Dan,Kristiansen,Dan Kristiansen,R,R,State Representative District #39,Position #1,,county,Whatcom,0
+Dan,Kristiansen,Dan Kristiansen,R,R,State Representative District #39,Position #1,,state,Washington,7781
+Bob,Quarterman,Bob Quarterman,D,D,State Representative District #39,Position #1,,county,King,58
+Bob,Quarterman,Bob Quarterman,D,D,State Representative District #39,Position #1,,county,Skagit,1840
+Bob,Quarterman,Bob Quarterman,D,D,State Representative District #39,Position #1,,county,Snohomish,6764
+Bob,Quarterman,Bob Quarterman,D,D,State Representative District #39,Position #1,,county,Whatcom,3
+Bob,Quarterman,Bob Quarterman,D,D,State Representative District #39,Position #1,,state,Washington,8665
+John A.,Painter,John A. Painter,D,D,State Representative District #39,Position #2,,county,King,69
+John A.,Painter,John A. Painter,D,D,State Representative District #39,Position #2,,county,Skagit,1976
+John A.,Painter,John A. Painter,D,D,State Representative District #39,Position #2,,county,Snohomish,7070
+John A.,Painter,John A. Painter,D,D,State Representative District #39,Position #2,,county,Whatcom,6
+John A.,Painter,John A. Painter,D,D,State Representative District #39,Position #2,,state,Washington,9121
+Kirk,Pearson,Kirk Pearson,R,R,State Representative District #39,Position #2,,county,King,52
+Kirk,Pearson,Kirk Pearson,R,R,State Representative District #39,Position #2,,county,Skagit,2285
+Kirk,Pearson,Kirk Pearson,R,R,State Representative District #39,Position #2,,county,Snohomish,10288
+Kirk,Pearson,Kirk Pearson,R,R,State Representative District #39,Position #2,,county,Whatcom,1
+Kirk,Pearson,Kirk Pearson,R,R,State Representative District #39,Position #2,,state,Washington,12626
+Roger E.,Pederson,Roger E.Pederson,R,R,State Representative District #40,Position #1,,county,San Juan,1804
+Roger E.,Pederson,Roger E.Pederson,R,R,State Representative District #40,Position #1,,county,Skagit,4186
+Roger E.,Pederson,Roger E.Pederson,R,R,State Representative District #40,Position #1,,county,Whatcom,2749
+Roger E.,Pederson,Roger E.Pederson,R,R,State Representative District #40,Position #1,,state,Washington,8739
+Dave,Quall,Dave Quall,D,D,State Representative District #40,Position #1,,county,San Juan,3348
+Dave,Quall,Dave Quall,D,D,State Representative District #40,Position #1,,county,Skagit,6896
+Dave,Quall,Dave Quall,D,D,State Representative District #40,Position #1,,county,Whatcom,4100
+Dave,Quall,Dave Quall,D,D,State Representative District #40,Position #1,,state,Washington,14344
+Brian J.M.,Rosenau,Brian J.M. Rosenau,L,L,State Representative District #40,Position #1,,county,San Juan,222
+Brian J.M.,Rosenau,Brian J.M. Rosenau,L,L,State Representative District #40,Position #1,,county,Skagit,389
+Brian J.M.,Rosenau,Brian J.M. Rosenau,L,L,State Representative District #40,Position #1,,county,Whatcom,278
+Brian J.M.,Rosenau,Brian J.M. Rosenau,L,L,State Representative District #40,Position #1,,state,Washington,889
+Daniel (Danny B.),Bartolovic,Dan (Danny B.) Bartolovic,R,R,State Representative District #40,Position #2,,county,San Juan,1654
+Daniel (Danny B.),Bartolovic,Dan (Danny B.) Bartolovic,R,R,State Representative District #40,Position #2,,county,Skagit,5096
+Daniel (Danny B.),Bartolovic,Dan (Danny B.) Bartolovic,R,R,State Representative District #40,Position #2,,county,Whatcom,2618
+Daniel (Danny B.),Bartolovic,Dan (Danny B.) Bartolovic,R,R,State Representative District #40,Position #2,,state,Washington,9368
+Jeff,Morris,Jeff Morris,D,D,State Representative District #40,Position #2,,county,San Juan,3740
+Jeff,Morris,Jeff Morris,D,D,State Representative District #40,Position #2,,county,Skagit,6252
+Jeff,Morris,Jeff Morris,D,D,State Representative District #40,Position #2,,county,Whatcom,4209
+Jeff,Morris,Jeff Morris,D,D,State Representative District #40,Position #2,,state,Washington,14201
+Fred,Jarrett,Fred Jarrett,R,R,State Representative District #41,Position #1,,county,King,17328
+Fred,Jarrett,Fred Jarrett,R,R,State Representative District #41,Position #1,,state,Washington,17328
+Judy,Clibborn,Judy Clibborn,D,D,State Representative District #41,Position #2,,county,King,10741
+Judy,Clibborn,Judy Clibborn,D,D,State Representative District #41,Position #2,,state,Washington,10741
+Mike,Wensman,Mike Wensman,R,R,State Representative District #41,Position #2,,county,King,12295
+Mike,Wensman,Mike Wensman,R,R,State Representative District #41,Position #2,,state,Washington,12295
+Dale,Brandland,Dale Brandland,R,R,State Senator District #42,,,county,Whatcom,11537
+Dale,Brandland,Dale Brandland,R,R,State Senator District #42,,,state,Washington,11537
+Donald B.,Crawford,Donald B. Crawford,L,L,State Senator District #42,,,county,Whatcom,398
+Donald B.,Crawford,Donald B. Crawford,L,L,State Senator District #42,,,state,Washington,398
+Georgia,Gardner,Georgia Gardner,D,D,State Senator District #42,,,county,Whatcom,8397
+Georgia,Gardner,Georgia Gardner,D,D,State Senator District #42,,,state,Washington,8397
+Peter Francis,Tassoni,Peter Francis Tassoni,GRN,GRN,State Senator District #42,,,county,Whatcom,885
+Peter Francis,Tassoni,Peter Francis Tassoni,GRN,GRN,State Senator District #42,,,state,Washington,885
+Jim,Boyle,Jim Boyle,D,D,State Representative District #42,Position #1,,county,Whatcom,7998
+Jim,Boyle,Jim Boyle,D,D,State Representative District #42,Position #1,,state,Washington,7998
+Doug,Ericksen,Doug Ericksen,R,R,State Representative District #42,Position #1,,county,Whatcom,12571
+Doug,Ericksen,Doug Ericksen,R,R,State Representative District #42,Position #1,,state,Washington,12571
+Gene,Goldsmith,Gene Goldsmith,R,R,State Representative District #42,Position #2,,county,Whatcom,9438
+Gene,Goldsmith,Gene Goldsmith,R,R,State Representative District #42,Position #2,,state,Washington,9438
+Kelli,Linville,Kelli Linville,D,D,State Representative District #42,Position #2,,county,Whatcom,11289
+Kelli,Linville,Kelli Linville,D,D,State Representative District #42,Position #2,,state,Washington,11289
+Linde,Knighton,Linde Knighton,GRN,GRN,State Senator District #43,,,county,King,3637
+Linde,Knighton,Linde Knighton,GRN,GRN,State Senator District #43,,,state,Washington,3637
+Patricia (Pat),Thibaudeau,Patricia (Pat) Thibaudeau,D,D,State Senator District #43,,,county,King,14336
+Patricia (Pat),Thibaudeau,Patricia (Pat) Thibaudeau,D,D,State Senator District #43,,,state,Washington,14336
+Ed,Murray,Ed Murray,D,D,State Representative District #43,Position #1,,county,King,15005
+Ed,Murray,Ed Murray,D,D,State Representative District #43,Position #1,,state,Washington,15005
+Frank,Chopp,Frank Chopp,D,D,State Representative District #43,Position #2,,county,King,11664
+Frank,Chopp,Frank Chopp,D,D,State Representative District #43,Position #2,,state,Washington,11664
+Eleanor,Owen,Eleanor Owen,D,D,State Representative District #43,Position #2,,county,King,4766
+Eleanor,Owen,Eleanor Owen,D,D,State Representative District #43,Position #2,,state,Washington,4766
+Phil,Doerflein,Phil Doerflein,D,D,State Senator District #44,,,county,Snohomish,9640
+Phil,Doerflein,Phil Doerflein,D,D,State Senator District #44,,,state,Washington,9640
+Dave,Schmidt,Dave Schmidt,R,R,State Senator District #44,,,county,Snohomish,11581
+Dave,Schmidt,Dave Schmidt,R,R,State Senator District #44,,,state,Washington,11581
+Hans,Dunshee,Hans Dunshee,D,D,State Representative District #44,Position #1,,county,Snohomish,10543
+Hans,Dunshee,Hans Dunshee,D,D,State Representative District #44,Position #1,,state,Washington,10543
+Tim,Krivanek,Tim Krivanek,R,R,State Representative District #44,Position #1,,county,Snohomish,7092
+Tim,Krivanek,Tim Krivanek,R,R,State Representative District #44,Position #1,,state,Washington,7092
+Brent,Samodurov,Brent Samodurov,R,R,State Representative District #44,Position #1,,county,Snohomish,3592
+Brent,Samodurov,Brent Samodurov,R,R,State Representative District #44,Position #1,,state,Washington,3592
+John,Lovick,John Lovick,D,D,State Representative District #44,Position #2,,county,Snohomish,11024
+John,Lovick,John Lovick,D,D,State Representative District #44,Position #2,,state,Washington,11024
+Randy,Nichols,Randy Nichols,R,R,State Representative District #44,Position #2,,county,Snohomish,10309
+Randy,Nichols,Randy Nichols,R,R,State Representative District #44,Position #2,,state,Washington,10309
+Bill,Finkbeiner,Bill Finkbeiner,R,R,State Senator District #45,,,county,King,13056
+Bill,Finkbeiner,Bill Finkbeiner,R,R,State Senator District #45,,,state,Washington,13056
+David,Asher,Dave Asher,D,D,State Representative District #45,Position #1,,county,King,7959
+David,Asher,Dave Asher,D,D,State Representative District #45,Position #1,,state,Washington,7959
+Toby,Nixon,Toby Nixon,R,R,State Representative District #45,Position #1,,county,King,9653
+Toby,Nixon,Toby Nixon,R,R,State Representative District #45,Position #1,,state,Washington,9653
+Elizabeth,Bookspan,Elizabeth Bookspan,R,R,State Representative District #45,Position #2,,county,King,8326
+Elizabeth,Bookspan,Elizabeth Bookspan,R,R,State Representative District #45,Position #2,,state,Washington,8326
+Laura,Ruderman,Laura Ruderman,D,D,State Representative District #45,Position #2,,county,King,9622
+Laura,Ruderman,Laura Ruderman,D,D,State Representative District #45,Position #2,,state,Washington,9622
+Ken,Jacobsen,Ken Jacobsen,D,D,State Senator District #46,,,county,King,18444
+Ken,Jacobsen,Ken Jacobsen,D,D,State Senator District #46,,,state,Washington,18444
+Jim,McIntire,Jim McIntire,D,D,State Representative District #46,Position #1,,county,King,17353
+Jim,McIntire,Jim McIntire,D,D,State Representative District #46,Position #1,,state,Washington,17353
+Phyllis G.,Kenney,Phyllis G. Kenney,D,D,State Representative District #46,Position #2,,county,King,17231
+Phyllis G.,Kenney,Phyllis G. Kenney,D,D,State Representative District #46,Position #2,,state,Washington,17231
+Rebecca,Clark,Rebecca Clark,D,D,State Senator District #47,,,county,King,3574
+Rebecca,Clark,Rebecca Clark,D,D,State Senator District #47,,,state,Washington,3574
+Debbie,Jacobson,Debbie Jacobson,D,D,State Senator District #47,,,county,King,3930
+Debbie,Jacobson,Debbie Jacobson,D,D,State Senator District #47,,,state,Washington,3930
+Steve,Johnson,Steve Johnson,R,R,State Senator District #47,,,county,King,9557
+Steve,Johnson,Steve Johnson,R,R,State Senator District #47,,,state,Washington,9557
+Stephen,Altick,Steve Altick,R,R,State Representative District #47,Position #1,,county,King,4204
+Stephen,Altick,Steve Altick,R,R,State Representative District #47,Position #1,,state,Washington,4204
+Phil,Fortunato,Phil Fortunato,R,R,State Representative District #47,Position #1,,county,King,5795
+Phil,Fortunato,Phil Fortunato,R,R,State Representative District #47,Position #1,,state,Washington,5795
+Geoff,Simpson,Geoff Simpson,D,D,State Representative District #47,Position #1,,county,King,7100
+Geoff,Simpson,Geoff Simpson,D,D,State Representative District #47,Position #1,,state,Washington,7100
+Jack,Cairnes,Jack Cairnes,R,R,State Representative District #47,Position #2,,county,King,9231
+Jack,Cairnes,Jack Cairnes,R,R,State Representative District #47,Position #2,,state,Washington,9231
+Pat,Sullivan,Pat Sullivan,D,D,State Representative District #47,Position #2,,county,King,7643
+Pat,Sullivan,Pat Sullivan,D,D,State Representative District #47,Position #2,,state,Washington,7643
+Luke,Esser,Luke Esser,R,R,State Senator District #48,,,county,King,9998
+Luke,Esser,Luke Esser,R,R,State Senator District #48,,,state,Washington,9998
+Christine,Lawniczak,Christine Lawniczak,L,L,State Senator District #48,,,county,King,2065
+Christine,Lawniczak,Christine Lawniczak,L,L,State Senator District #48,,,state,Washington,2065
+Steve,Van Luven,Steve Van Luven,R,R,State Senator District #48,,,county,King,6704
+Steve,Van Luven,Steve Van Luven,R,R,State Senator District #48,,,state,Washington,6704
+George,Aiton,George Aiton,R,R,State Representative District #48,Position #1,,county,King,10223
+George,Aiton,George Aiton,R,R,State Representative District #48,Position #1,,state,Washington,10223
+Ross,Hunter,Ross Hunter,D,D,State Representative District #48,Position #1,,county,King,8936
+Ross,Hunter,Ross Hunter,D,D,State Representative District #48,Position #1,,state,Washington,8936
+Connie,Espe,Connie Espe,D,D,State Representative District #48,Position #2,,county,King,7484
+Connie,Espe,Connie Espe,D,D,State Representative District #48,Position #2,,state,Washington,7484
+Jeff,Jared,Jeff Jared,L,L,State Representative District #48,Position #2,,county,King,986
+Jeff,Jared,Jeff Jared,L,L,State Representative District #48,Position #2,,state,Washington,986
+Rodney,Tom,Rodney Tom,R,R,State Representative District #48,Position #2,,county,King,10445
+Rodney,Tom,Rodney Tom,R,R,State Representative District #48,Position #2,,state,Washington,10445
+Bill,Fromhold,Bill Fromhold,D,D,State Representative District #49,Position #1,,county,Clark,11881
+Bill,Fromhold,Bill Fromhold,D,D,State Representative District #49,Position #1,,state,Washington,11881
+Mike W.,Smith,Mike W. Smith,R,R,State Representative District #49,Position #1,,county,Clark,7714
+Mike W.,Smith,Mike W. Smith,R,R,State Representative District #49,Position #1,,state,Washington,7714
+Marlene Korczakowski,Adams,Marlene Korczakowski Adams,IC,IC,State Representative District #49,Position #2,,county,Clark,1001
+Marlene Korczakowski,Adams,Marlene Korczakowski Adams,IC,IC,State Representative District #49,Position #2,,state,Washington,1001
+Jim,Moeller,Jim Moeller,D,D,State Representative District #49,Position #2,,county,Clark,6564
+Jim,Moeller,Jim Moeller,D,D,State Representative District #49,Position #2,,state,Washington,6564
+Barbara A.,Peterson,Barbara A. Peterson,R,R,State Representative District #49,Position #2,,county,Clark,6256
+Barbara A.,Peterson,Barbara A. Peterson,R,R,State Representative District #49,Position #2,,state,Washington,6256
+Catherine,Rich-Daniels,Catherine Rich-Daniels,D,D,State Representative District #49,Position #2,,county,Clark,5615
+Catherine,Rich-Daniels,Catherine Rich-Daniels,D,D,State Representative District #49,Position #2,,state,Washington,5615
+Jay,Inslee,Jay Inslee,D,D,U. S. Representative District #1,NA,,county,King,22326
+Jay,Inslee,Jay Inslee,D,D,U. S. Representative District #1,NA,,county,Kitsap,16100
+Jay,Inslee,Jay Inslee,D,D,U. S. Representative District #1,NA,,county,Snohomish,2718
+Jay,Inslee,Jay Inslee,D,D,U. S. Representative District #1,NA,,state,Washington,65368
+Joseph,Marine,Joseph Marine,R,R,U. S. Representative District #1,NA,,county,King,12971
+Joseph,Marine,Joseph Marine,R,R,U. S. Representative District #1,NA,,county,Kitsap,8834
+Joseph,Marine,Joseph Marine,R,R,U. S. Representative District #1,NA,,county,Snohomish,20668
+Joseph,Marine,Joseph Marine,R,R,U. S. Representative District #1,NA,,state,Washington,42473

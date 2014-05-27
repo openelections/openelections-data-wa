@@ -1,0 +1,721 @@
+firstname,lastname,ballotname,partyname,partycode,officename,officeposition,measuretext,reporting_level,jurisdiction,votes
+Bill,Bradley,Bill Bradley,D,D,President - Democratic Primary,NA,,county,Adams,95
+Bill,Bradley,Bill Bradley,D,D,President - Democratic Primary,NA,,county,Asotin,188
+Bill,Bradley,Bill Bradley,D,D,President - Democratic Primary,NA,,county,Benton,1534
+Bill,Bradley,Bill Bradley,D,D,President - Democratic Primary,NA,,county,Chelan,632
+Bill,Bradley,Bill Bradley,D,D,President - Democratic Primary,NA,,county,Clallam,1174
+Bill,Bradley,Bill Bradley,D,D,President - Democratic Primary,NA,,county,Clark,4648
+Bill,Bradley,Bill Bradley,D,D,President - Democratic Primary,NA,,county,Columbia,57
+Bill,Bradley,Bill Bradley,D,D,President - Democratic Primary,NA,,county,Cowlitz,1364
+Bill,Bradley,Bill Bradley,D,D,President - Democratic Primary,NA,,county,Douglas,188
+Bill,Bradley,Bill Bradley,D,D,President - Democratic Primary,NA,,county,Ferry,94
+Bill,Bradley,Bill Bradley,D,D,President - Democratic Primary,NA,,county,Franklin,236
+Bill,Bradley,Bill Bradley,D,D,President - Democratic Primary,NA,,county,Garfield,51
+Bill,Bradley,Bill Bradley,D,D,President - Democratic Primary,NA,,county,Grant,498
+Bill,Bradley,Bill Bradley,D,D,President - Democratic Primary,NA,,county,Grays Harbor,1253
+Bill,Bradley,Bill Bradley,D,D,President - Democratic Primary,NA,,county,Island,1254
+Bill,Bradley,Bill Bradley,D,D,President - Democratic Primary,NA,,county,Jefferson,920
+Bill,Bradley,Bill Bradley,D,D,President - Democratic Primary,NA,,county,King,41373
+Bill,Bradley,Bill Bradley,D,D,President - Democratic Primary,NA,,county,Kitsap,3894
+Bill,Bradley,Bill Bradley,D,D,President - Democratic Primary,NA,,county,Kittitas,376
+Bill,Bradley,Bill Bradley,D,D,President - Democratic Primary,NA,,county,Klickitat,236
+Bill,Bradley,Bill Bradley,D,D,President - Democratic Primary,NA,,county,Lewis,809
+Bill,Bradley,Bill Bradley,D,D,President - Democratic Primary,NA,,county,Lincoln,97
+Bill,Bradley,Bill Bradley,D,D,President - Democratic Primary,NA,,county,Mason,748
+Bill,Bradley,Bill Bradley,D,D,President - Democratic Primary,NA,,county,Okanogan,495
+Bill,Bradley,Bill Bradley,D,D,President - Democratic Primary,NA,,county,Pacific,436
+Bill,Bradley,Bill Bradley,D,D,President - Democratic Primary,NA,,county,Pend Oreille,175
+Bill,Bradley,Bill Bradley,D,D,President - Democratic Primary,NA,,county,Pierce,6974
+Bill,Bradley,Bill Bradley,D,D,President - Democratic Primary,NA,,county,San Juan,560
+Bill,Bradley,Bill Bradley,D,D,President - Democratic Primary,NA,,county,Skagit,1432
+Bill,Bradley,Bill Bradley,D,D,President - Democratic Primary,NA,,county,Skamania,164
+Bill,Bradley,Bill Bradley,D,D,President - Democratic Primary,NA,,county,Snohomish,6900
+Bill,Bradley,Bill Bradley,D,D,President - Democratic Primary,NA,,county,Spokane,5072
+Bill,Bradley,Bill Bradley,D,D,President - Democratic Primary,NA,,county,Stevens,405
+Bill,Bradley,Bill Bradley,D,D,President - Democratic Primary,NA,,county,Thurston,4059
+Bill,Bradley,Bill Bradley,D,D,President - Democratic Primary,NA,,county,Wahkiakum,78
+Bill,Bradley,Bill Bradley,D,D,President - Democratic Primary,NA,,county,Walla Walla,619
+Bill,Bradley,Bill Bradley,D,D,President - Democratic Primary,NA,,county,Whatcom,2695
+Bill,Bradley,Bill Bradley,D,D,President - Democratic Primary,NA,,county,Whitman,642
+Bill,Bradley,Bill Bradley,D,D,President - Democratic Primary,NA,,county,Yakima,950
+Bill,Bradley,Bill Bradley,D,D,President - Democratic Primary,NA,,state,Washington,93375
+Al,Gore,Al Gore,D,D,President - Democratic Primary,NA,,county,Adams,260
+Al,Gore,Al Gore,D,D,President - Democratic Primary,NA,,county,Asotin,391
+Al,Gore,Al Gore,D,D,President - Democratic Primary,NA,,county,Benton,4214
+Al,Gore,Al Gore,D,D,President - Democratic Primary,NA,,county,Chelan,1449
+Al,Gore,Al Gore,D,D,President - Democratic Primary,NA,,county,Clallam,2681
+Al,Gore,Al Gore,D,D,President - Democratic Primary,NA,,county,Clark,11956
+Al,Gore,Al Gore,D,D,President - Democratic Primary,NA,,county,Columbia,134
+Al,Gore,Al Gore,D,D,President - Democratic Primary,NA,,county,Cowlitz,4381
+Al,Gore,Al Gore,D,D,President - Democratic Primary,NA,,county,Douglas,541
+Al,Gore,Al Gore,D,D,President - Democratic Primary,NA,,county,Ferry,199
+Al,Gore,Al Gore,D,D,President - Democratic Primary,NA,,county,Franklin,967
+Al,Gore,Al Gore,D,D,President - Democratic Primary,NA,,county,Garfield,69
+Al,Gore,Al Gore,D,D,President - Democratic Primary,NA,,county,Grant,1452
+Al,Gore,Al Gore,D,D,President - Democratic Primary,NA,,county,Grays Harbor,3481
+Al,Gore,Al Gore,D,D,President - Democratic Primary,NA,,county,Island,2549
+Al,Gore,Al Gore,D,D,President - Democratic Primary,NA,,county,Jefferson,1450
+Al,Gore,Al Gore,D,D,President - Democratic Primary,NA,,county,King,72315
+Al,Gore,Al Gore,D,D,President - Democratic Primary,NA,,county,Kitsap,8254
+Al,Gore,Al Gore,D,D,President - Democratic Primary,NA,,county,Kittitas,854
+Al,Gore,Al Gore,D,D,President - Democratic Primary,NA,,county,Klickitat,489
+Al,Gore,Al Gore,D,D,President - Democratic Primary,NA,,county,Lewis,2194
+Al,Gore,Al Gore,D,D,President - Democratic Primary,NA,,county,Lincoln,304
+Al,Gore,Al Gore,D,D,President - Democratic Primary,NA,,county,Mason,2226
+Al,Gore,Al Gore,D,D,President - Democratic Primary,NA,,county,Okanogan,818
+Al,Gore,Al Gore,D,D,President - Democratic Primary,NA,,county,Pacific,1244
+Al,Gore,Al Gore,D,D,President - Democratic Primary,NA,,county,Pend Oreille,473
+Al,Gore,Al Gore,D,D,President - Democratic Primary,NA,,county,Pierce,23688
+Al,Gore,Al Gore,D,D,President - Democratic Primary,NA,,county,San Juan,548
+Al,Gore,Al Gore,D,D,President - Democratic Primary,NA,,county,Skagit,2869
+Al,Gore,Al Gore,D,D,President - Democratic Primary,NA,,county,Skamania,348
+Al,Gore,Al Gore,D,D,President - Democratic Primary,NA,,county,Snohomish,17968
+Al,Gore,Al Gore,D,D,President - Democratic Primary,NA,,county,Spokane,10249
+Al,Gore,Al Gore,D,D,President - Democratic Primary,NA,,county,Stevens,781
+Al,Gore,Al Gore,D,D,President - Democratic Primary,NA,,county,Thurston,9567
+Al,Gore,Al Gore,D,D,President - Democratic Primary,NA,,county,Wahkiakum,175
+Al,Gore,Al Gore,D,D,President - Democratic Primary,NA,,county,Walla Walla,1489
+Al,Gore,Al Gore,D,D,President - Democratic Primary,NA,,county,Whatcom,4132
+Al,Gore,Al Gore,D,D,President - Democratic Primary,NA,,county,Whitman,1109
+Al,Gore,Al Gore,D,D,President - Democratic Primary,NA,,county,Yakima,4188
+Al,Gore,Al Gore,D,D,President - Democratic Primary,NA,,state,Washington,202456
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Democratic Primary,NA,,county,Adams,6
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Democratic Primary,NA,,county,Asotin,5
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Democratic Primary,NA,,county,Benton,57
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Democratic Primary,NA,,county,Chelan,13
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Democratic Primary,NA,,county,Clallam,28
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Democratic Primary,NA,,county,Clark,86
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Democratic Primary,NA,,county,Columbia,8
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Democratic Primary,NA,,county,Cowlitz,31
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Democratic Primary,NA,,county,Douglas,6
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Democratic Primary,NA,,county,Ferry,1
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Democratic Primary,NA,,county,Franklin,8
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Democratic Primary,NA,,county,Garfield,0
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Democratic Primary,NA,,county,Grant,20
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Democratic Primary,NA,,county,Grays Harbor,28
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Democratic Primary,NA,,county,Island,19
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Democratic Primary,NA,,county,Jefferson,11
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Democratic Primary,NA,,county,King,224
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Democratic Primary,NA,,county,Kitsap,32
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Democratic Primary,NA,,county,Kittitas,8
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Democratic Primary,NA,,county,Klickitat,12
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Democratic Primary,NA,,county,Lewis,33
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Democratic Primary,NA,,county,Lincoln,5
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Democratic Primary,NA,,county,Mason,28
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Democratic Primary,NA,,county,Okanogan,28
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Democratic Primary,NA,,county,Pacific,23
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Democratic Primary,NA,,county,Pend Oreille,6
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Democratic Primary,NA,,county,Pierce,99
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Democratic Primary,NA,,county,San Juan,3
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Democratic Primary,NA,,county,Skagit,19
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Democratic Primary,NA,,county,Skamania,12
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Democratic Primary,NA,,county,Snohomish,82
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Democratic Primary,NA,,county,Spokane,78
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Democratic Primary,NA,,county,Stevens,19
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Democratic Primary,NA,,county,Thurston,56
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Democratic Primary,NA,,county,Wahkiakum,3
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Democratic Primary,NA,,county,Walla Walla,6
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Democratic Primary,NA,,county,Whatcom,17
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Democratic Primary,NA,,county,Whitman,10
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Democratic Primary,NA,,county,Yakima,40
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Democratic Primary,NA,,state,Washington,1170
+Gary,Bauer,Gary Bauer,R,R,President - Republican Primary,NA,,county,Adams,7
+Gary,Bauer,Gary Bauer,R,R,President - Republican Primary,NA,,county,Asotin,3
+Gary,Bauer,Gary Bauer,R,R,President - Republican Primary,NA,,county,Benton,63
+Gary,Bauer,Gary Bauer,R,R,President - Republican Primary,NA,,county,Chelan,16
+Gary,Bauer,Gary Bauer,R,R,President - Republican Primary,NA,,county,Clallam,29
+Gary,Bauer,Gary Bauer,R,R,President - Republican Primary,NA,,county,Clark,175
+Gary,Bauer,Gary Bauer,R,R,President - Republican Primary,NA,,county,Columbia,0
+Gary,Bauer,Gary Bauer,R,R,President - Republican Primary,NA,,county,Cowlitz,51
+Gary,Bauer,Gary Bauer,R,R,President - Republican Primary,NA,,county,Douglas,8
+Gary,Bauer,Gary Bauer,R,R,President - Republican Primary,NA,,county,Ferry,3
+Gary,Bauer,Gary Bauer,R,R,President - Republican Primary,NA,,county,Franklin,12
+Gary,Bauer,Gary Bauer,R,R,President - Republican Primary,NA,,county,Garfield,1
+Gary,Bauer,Gary Bauer,R,R,President - Republican Primary,NA,,county,Grant,16
+Gary,Bauer,Gary Bauer,R,R,President - Republican Primary,NA,,county,Grays Harbor,10
+Gary,Bauer,Gary Bauer,R,R,President - Republican Primary,NA,,county,Island,28
+Gary,Bauer,Gary Bauer,R,R,President - Republican Primary,NA,,county,Jefferson,5
+Gary,Bauer,Gary Bauer,R,R,President - Republican Primary,NA,,county,King,259
+Gary,Bauer,Gary Bauer,R,R,President - Republican Primary,NA,,county,Kitsap,57
+Gary,Bauer,Gary Bauer,R,R,President - Republican Primary,NA,,county,Kittitas,7
+Gary,Bauer,Gary Bauer,R,R,President - Republican Primary,NA,,county,Klickitat,11
+Gary,Bauer,Gary Bauer,R,R,President - Republican Primary,NA,,county,Lewis,34
+Gary,Bauer,Gary Bauer,R,R,President - Republican Primary,NA,,county,Lincoln,2
+Gary,Bauer,Gary Bauer,R,R,President - Republican Primary,NA,,county,Mason,22
+Gary,Bauer,Gary Bauer,R,R,President - Republican Primary,NA,,county,Okanogan,12
+Gary,Bauer,Gary Bauer,R,R,President - Republican Primary,NA,,county,Pacific,6
+Gary,Bauer,Gary Bauer,R,R,President - Republican Primary,NA,,county,Pend Oreille,3
+Gary,Bauer,Gary Bauer,R,R,President - Republican Primary,NA,,county,Pierce,112
+Gary,Bauer,Gary Bauer,R,R,President - Republican Primary,NA,,county,San Juan,7
+Gary,Bauer,Gary Bauer,R,R,President - Republican Primary,NA,,county,Skagit,31
+Gary,Bauer,Gary Bauer,R,R,President - Republican Primary,NA,,county,Skamania,1
+Gary,Bauer,Gary Bauer,R,R,President - Republican Primary,NA,,county,Snohomish,145
+Gary,Bauer,Gary Bauer,R,R,President - Republican Primary,NA,,county,Spokane,151
+Gary,Bauer,Gary Bauer,R,R,President - Republican Primary,NA,,county,Stevens,19
+Gary,Bauer,Gary Bauer,R,R,President - Republican Primary,NA,,county,Thurston,46
+Gary,Bauer,Gary Bauer,R,R,President - Republican Primary,NA,,county,Wahkiakum,2
+Gary,Bauer,Gary Bauer,R,R,President - Republican Primary,NA,,county,Walla Walla,18
+Gary,Bauer,Gary Bauer,R,R,President - Republican Primary,NA,,county,Whatcom,47
+Gary,Bauer,Gary Bauer,R,R,President - Republican Primary,NA,,county,Whitman,9
+Gary,Bauer,Gary Bauer,R,R,President - Republican Primary,NA,,county,Yakima,41
+Gary,Bauer,Gary Bauer,R,R,President - Republican Primary,NA,,state,Washington,1469
+George W.,Bush,George W. Bush,R,R,President - Republican Primary,NA,,county,Adams,930
+George W.,Bush,George W. Bush,R,R,President - Republican Primary,NA,,county,Asotin,927
+George W.,Bush,George W. Bush,R,R,President - Republican Primary,NA,,county,Benton,12723
+George W.,Bush,George W. Bush,R,R,President - Republican Primary,NA,,county,Chelan,5285
+George W.,Bush,George W. Bush,R,R,President - Republican Primary,NA,,county,Clallam,3870
+George W.,Bush,George W. Bush,R,R,President - Republican Primary,NA,,county,Clark,17115
+George W.,Bush,George W. Bush,R,R,President - Republican Primary,NA,,county,Columbia,505
+George W.,Bush,George W. Bush,R,R,President - Republican Primary,NA,,county,Cowlitz,3701
+George W.,Bush,George W. Bush,R,R,President - Republican Primary,NA,,county,Douglas,2063
+George W.,Bush,George W. Bush,R,R,President - Republican Primary,NA,,county,Ferry,323
+George W.,Bush,George W. Bush,R,R,President - Republican Primary,NA,,county,Franklin,2336
+George W.,Bush,George W. Bush,R,R,President - Republican Primary,NA,,county,Garfield,258
+George W.,Bush,George W. Bush,R,R,President - Republican Primary,NA,,county,Grant,4546
+George W.,Bush,George W. Bush,R,R,President - Republican Primary,NA,,county,Grays Harbor,2532
+George W.,Bush,George W. Bush,R,R,President - Republican Primary,NA,,county,Island,4328
+George W.,Bush,George W. Bush,R,R,President - Republican Primary,NA,,county,Jefferson,1596
+George W.,Bush,George W. Bush,R,R,President - Republican Primary,NA,,county,King,76384
+George W.,Bush,George W. Bush,R,R,President - Republican Primary,NA,,county,Kitsap,11160
+George W.,Bush,George W. Bush,R,R,President - Republican Primary,NA,,county,Kittitas,1897
+George W.,Bush,George W. Bush,R,R,President - Republican Primary,NA,,county,Klickitat,865
+George W.,Bush,George W. Bush,R,R,President - Republican Primary,NA,,county,Lewis,5190
+George W.,Bush,George W. Bush,R,R,President - Republican Primary,NA,,county,Lincoln,981
+George W.,Bush,George W. Bush,R,R,President - Republican Primary,NA,,county,Mason,2554
+George W.,Bush,George W. Bush,R,R,President - Republican Primary,NA,,county,Okanogan,2261
+George W.,Bush,George W. Bush,R,R,President - Republican Primary,NA,,county,Pacific,847
+George W.,Bush,George W. Bush,R,R,President - Republican Primary,NA,,county,Pend Oreille,684
+George W.,Bush,George W. Bush,R,R,President - Republican Primary,NA,,county,Pierce,29346
+George W.,Bush,George W. Bush,R,R,President - Republican Primary,NA,,county,San Juan,702
+George W.,Bush,George W. Bush,R,R,President - Republican Primary,NA,,county,Skagit,4970
+George W.,Bush,George W. Bush,R,R,President - Republican Primary,NA,,county,Skamania,480
+George W.,Bush,George W. Bush,R,R,President - Republican Primary,NA,,county,Snohomish,25087
+George W.,Bush,George W. Bush,R,R,President - Republican Primary,NA,,county,Spokane,21098
+George W.,Bush,George W. Bush,R,R,President - Republican Primary,NA,,county,Stevens,2480
+George W.,Bush,George W. Bush,R,R,President - Republican Primary,NA,,county,Thurston,10007
+George W.,Bush,George W. Bush,R,R,President - Republican Primary,NA,,county,Wahkiakum,167
+George W.,Bush,George W. Bush,R,R,President - Republican Primary,NA,,county,Walla Walla,4060
+George W.,Bush,George W. Bush,R,R,President - Republican Primary,NA,,county,Whatcom,6773
+George W.,Bush,George W. Bush,R,R,President - Republican Primary,NA,,county,Whitman,2655
+George W.,Bush,George W. Bush,R,R,President - Republican Primary,NA,,county,Yakima,10367
+George W.,Bush,George W. Bush,R,R,President - Republican Primary,NA,,state,Washington,284053
+Steve,Forbes,Steve Forbes,R,R,President - Republican Primary,NA,,county,Adams,5
+Steve,Forbes,Steve Forbes,R,R,President - Republican Primary,NA,,county,Asotin,5
+Steve,Forbes,Steve Forbes,R,R,President - Republican Primary,NA,,county,Benton,92
+Steve,Forbes,Steve Forbes,R,R,President - Republican Primary,NA,,county,Chelan,27
+Steve,Forbes,Steve Forbes,R,R,President - Republican Primary,NA,,county,Clallam,37
+Steve,Forbes,Steve Forbes,R,R,President - Republican Primary,NA,,county,Clark,152
+Steve,Forbes,Steve Forbes,R,R,President - Republican Primary,NA,,county,Columbia,2
+Steve,Forbes,Steve Forbes,R,R,President - Republican Primary,NA,,county,Cowlitz,36
+Steve,Forbes,Steve Forbes,R,R,President - Republican Primary,NA,,county,Douglas,5
+Steve,Forbes,Steve Forbes,R,R,President - Republican Primary,NA,,county,Ferry,3
+Steve,Forbes,Steve Forbes,R,R,President - Republican Primary,NA,,county,Franklin,15
+Steve,Forbes,Steve Forbes,R,R,President - Republican Primary,NA,,county,Garfield,0
+Steve,Forbes,Steve Forbes,R,R,President - Republican Primary,NA,,county,Grant,22
+Steve,Forbes,Steve Forbes,R,R,President - Republican Primary,NA,,county,Grays Harbor,9
+Steve,Forbes,Steve Forbes,R,R,President - Republican Primary,NA,,county,Island,55
+Steve,Forbes,Steve Forbes,R,R,President - Republican Primary,NA,,county,Jefferson,6
+Steve,Forbes,Steve Forbes,R,R,President - Republican Primary,NA,,county,King,393
+Steve,Forbes,Steve Forbes,R,R,President - Republican Primary,NA,,county,Kitsap,64
+Steve,Forbes,Steve Forbes,R,R,President - Republican Primary,NA,,county,Kittitas,14
+Steve,Forbes,Steve Forbes,R,R,President - Republican Primary,NA,,county,Klickitat,5
+Steve,Forbes,Steve Forbes,R,R,President - Republican Primary,NA,,county,Lewis,35
+Steve,Forbes,Steve Forbes,R,R,President - Republican Primary,NA,,county,Lincoln,4
+Steve,Forbes,Steve Forbes,R,R,President - Republican Primary,NA,,county,Mason,18
+Steve,Forbes,Steve Forbes,R,R,President - Republican Primary,NA,,county,Okanogan,22
+Steve,Forbes,Steve Forbes,R,R,President - Republican Primary,NA,,county,Pacific,15
+Steve,Forbes,Steve Forbes,R,R,President - Republican Primary,NA,,county,Pend Oreille,5
+Steve,Forbes,Steve Forbes,R,R,President - Republican Primary,NA,,county,Pierce,165
+Steve,Forbes,Steve Forbes,R,R,President - Republican Primary,NA,,county,San Juan,19
+Steve,Forbes,Steve Forbes,R,R,President - Republican Primary,NA,,county,Skagit,29
+Steve,Forbes,Steve Forbes,R,R,President - Republican Primary,NA,,county,Skamania,7
+Steve,Forbes,Steve Forbes,R,R,President - Republican Primary,NA,,county,Snohomish,144
+Steve,Forbes,Steve Forbes,R,R,President - Republican Primary,NA,,county,Spokane,112
+Steve,Forbes,Steve Forbes,R,R,President - Republican Primary,NA,,county,Stevens,18
+Steve,Forbes,Steve Forbes,R,R,President - Republican Primary,NA,,county,Thurston,72
+Steve,Forbes,Steve Forbes,R,R,President - Republican Primary,NA,,county,Wahkiakum,2
+Steve,Forbes,Steve Forbes,R,R,President - Republican Primary,NA,,county,Walla Walla,16
+Steve,Forbes,Steve Forbes,R,R,President - Republican Primary,NA,,county,Whatcom,46
+Steve,Forbes,Steve Forbes,R,R,President - Republican Primary,NA,,county,Whitman,16
+Steve,Forbes,Steve Forbes,R,R,President - Republican Primary,NA,,county,Yakima,57
+Steve,Forbes,Steve Forbes,R,R,President - Republican Primary,NA,,state,Washington,1749
+Orrin,Hatch,Orrin Hatch,R,R,President - Republican Primary,NA,,county,Adams,6
+Orrin,Hatch,Orrin Hatch,R,R,President - Republican Primary,NA,,county,Asotin,0
+Orrin,Hatch,Orrin Hatch,R,R,President - Republican Primary,NA,,county,Benton,84
+Orrin,Hatch,Orrin Hatch,R,R,President - Republican Primary,NA,,county,Chelan,8
+Orrin,Hatch,Orrin Hatch,R,R,President - Republican Primary,NA,,county,Clallam,17
+Orrin,Hatch,Orrin Hatch,R,R,President - Republican Primary,NA,,county,Clark,94
+Orrin,Hatch,Orrin Hatch,R,R,President - Republican Primary,NA,,county,Columbia,1
+Orrin,Hatch,Orrin Hatch,R,R,President - Republican Primary,NA,,county,Cowlitz,21
+Orrin,Hatch,Orrin Hatch,R,R,President - Republican Primary,NA,,county,Douglas,6
+Orrin,Hatch,Orrin Hatch,R,R,President - Republican Primary,NA,,county,Ferry,3
+Orrin,Hatch,Orrin Hatch,R,R,President - Republican Primary,NA,,county,Franklin,24
+Orrin,Hatch,Orrin Hatch,R,R,President - Republican Primary,NA,,county,Garfield,1
+Orrin,Hatch,Orrin Hatch,R,R,President - Republican Primary,NA,,county,Grant,36
+Orrin,Hatch,Orrin Hatch,R,R,President - Republican Primary,NA,,county,Grays Harbor,12
+Orrin,Hatch,Orrin Hatch,R,R,President - Republican Primary,NA,,county,Island,15
+Orrin,Hatch,Orrin Hatch,R,R,President - Republican Primary,NA,,county,Jefferson,3
+Orrin,Hatch,Orrin Hatch,R,R,President - Republican Primary,NA,,county,King,222
+Orrin,Hatch,Orrin Hatch,R,R,President - Republican Primary,NA,,county,Kitsap,35
+Orrin,Hatch,Orrin Hatch,R,R,President - Republican Primary,NA,,county,Kittitas,5
+Orrin,Hatch,Orrin Hatch,R,R,President - Republican Primary,NA,,county,Klickitat,2
+Orrin,Hatch,Orrin Hatch,R,R,President - Republican Primary,NA,,county,Lewis,15
+Orrin,Hatch,Orrin Hatch,R,R,President - Republican Primary,NA,,county,Lincoln,2
+Orrin,Hatch,Orrin Hatch,R,R,President - Republican Primary,NA,,county,Mason,6
+Orrin,Hatch,Orrin Hatch,R,R,President - Republican Primary,NA,,county,Okanogan,11
+Orrin,Hatch,Orrin Hatch,R,R,President - Republican Primary,NA,,county,Pacific,4
+Orrin,Hatch,Orrin Hatch,R,R,President - Republican Primary,NA,,county,Pend Oreille,4
+Orrin,Hatch,Orrin Hatch,R,R,President - Republican Primary,NA,,county,Pierce,89
+Orrin,Hatch,Orrin Hatch,R,R,President - Republican Primary,NA,,county,San Juan,1
+Orrin,Hatch,Orrin Hatch,R,R,President - Republican Primary,NA,,county,Skagit,12
+Orrin,Hatch,Orrin Hatch,R,R,President - Republican Primary,NA,,county,Skamania,1
+Orrin,Hatch,Orrin Hatch,R,R,President - Republican Primary,NA,,county,Snohomish,73
+Orrin,Hatch,Orrin Hatch,R,R,President - Republican Primary,NA,,county,Spokane,92
+Orrin,Hatch,Orrin Hatch,R,R,President - Republican Primary,NA,,county,Stevens,15
+Orrin,Hatch,Orrin Hatch,R,R,President - Republican Primary,NA,,county,Thurston,34
+Orrin,Hatch,Orrin Hatch,R,R,President - Republican Primary,NA,,county,Wahkiakum,1
+Orrin,Hatch,Orrin Hatch,R,R,President - Republican Primary,NA,,county,Walla Walla,13
+Orrin,Hatch,Orrin Hatch,R,R,President - Republican Primary,NA,,county,Whatcom,18
+Orrin,Hatch,Orrin Hatch,R,R,President - Republican Primary,NA,,county,Whitman,9
+Orrin,Hatch,Orrin Hatch,R,R,President - Republican Primary,NA,,county,Yakima,28
+Orrin,Hatch,Orrin Hatch,R,R,President - Republican Primary,NA,,state,Washington,1023
+Alan,Keyes,Alan Keyes,R,R,President - Republican Primary,NA,,county,Adams,40
+Alan,Keyes,Alan Keyes,R,R,President - Republican Primary,NA,,county,Asotin,34
+Alan,Keyes,Alan Keyes,R,R,President - Republican Primary,NA,,county,Benton,359
+Alan,Keyes,Alan Keyes,R,R,President - Republican Primary,NA,,county,Chelan,182
+Alan,Keyes,Alan Keyes,R,R,President - Republican Primary,NA,,county,Clallam,285
+Alan,Keyes,Alan Keyes,R,R,President - Republican Primary,NA,,county,Clark,999
+Alan,Keyes,Alan Keyes,R,R,President - Republican Primary,NA,,county,Columbia,11
+Alan,Keyes,Alan Keyes,R,R,President - Republican Primary,NA,,county,Cowlitz,196
+Alan,Keyes,Alan Keyes,R,R,President - Republican Primary,NA,,county,Douglas,49
+Alan,Keyes,Alan Keyes,R,R,President - Republican Primary,NA,,county,Ferry,32
+Alan,Keyes,Alan Keyes,R,R,President - Republican Primary,NA,,county,Franklin,67
+Alan,Keyes,Alan Keyes,R,R,President - Republican Primary,NA,,county,Garfield,10
+Alan,Keyes,Alan Keyes,R,R,President - Republican Primary,NA,,county,Grant,163
+Alan,Keyes,Alan Keyes,R,R,President - Republican Primary,NA,,county,Grays Harbor,121
+Alan,Keyes,Alan Keyes,R,R,President - Republican Primary,NA,,county,Island,154
+Alan,Keyes,Alan Keyes,R,R,President - Republican Primary,NA,,county,Jefferson,83
+Alan,Keyes,Alan Keyes,R,R,President - Republican Primary,NA,,county,King,2342
+Alan,Keyes,Alan Keyes,R,R,President - Republican Primary,NA,,county,Kitsap,503
+Alan,Keyes,Alan Keyes,R,R,President - Republican Primary,NA,,county,Kittitas,71
+Alan,Keyes,Alan Keyes,R,R,President - Republican Primary,NA,,county,Klickitat,75
+Alan,Keyes,Alan Keyes,R,R,President - Republican Primary,NA,,county,Lewis,250
+Alan,Keyes,Alan Keyes,R,R,President - Republican Primary,NA,,county,Lincoln,52
+Alan,Keyes,Alan Keyes,R,R,President - Republican Primary,NA,,county,Mason,102
+Alan,Keyes,Alan Keyes,R,R,President - Republican Primary,NA,,county,Okanogan,123
+Alan,Keyes,Alan Keyes,R,R,President - Republican Primary,NA,,county,Pacific,39
+Alan,Keyes,Alan Keyes,R,R,President - Republican Primary,NA,,county,Pend Oreille,55
+Alan,Keyes,Alan Keyes,R,R,President - Republican Primary,NA,,county,Pierce,962
+Alan,Keyes,Alan Keyes,R,R,President - Republican Primary,NA,,county,San Juan,49
+Alan,Keyes,Alan Keyes,R,R,President - Republican Primary,NA,,county,Skagit,224
+Alan,Keyes,Alan Keyes,R,R,President - Republican Primary,NA,,county,Skamania,46
+Alan,Keyes,Alan Keyes,R,R,President - Republican Primary,NA,,county,Snohomish,1077
+Alan,Keyes,Alan Keyes,R,R,President - Republican Primary,NA,,county,Spokane,1196
+Alan,Keyes,Alan Keyes,R,R,President - Republican Primary,NA,,county,Stevens,225
+Alan,Keyes,Alan Keyes,R,R,President - Republican Primary,NA,,county,Thurston,376
+Alan,Keyes,Alan Keyes,R,R,President - Republican Primary,NA,,county,Wahkiakum,10
+Alan,Keyes,Alan Keyes,R,R,President - Republican Primary,NA,,county,Walla Walla,148
+Alan,Keyes,Alan Keyes,R,R,President - Republican Primary,NA,,county,Whatcom,430
+Alan,Keyes,Alan Keyes,R,R,President - Republican Primary,NA,,county,Whitman,134
+Alan,Keyes,Alan Keyes,R,R,President - Republican Primary,NA,,county,Yakima,479
+Alan,Keyes,Alan Keyes,R,R,President - Republican Primary,NA,,state,Washington,11753
+John,McCain,John McCain,R,R,President - Republican Primary,NA,,county,Adams,359
+John,McCain,John McCain,R,R,President - Republican Primary,NA,,county,Asotin,595
+John,McCain,John McCain,R,R,President - Republican Primary,NA,,county,Benton,5181
+John,McCain,John McCain,R,R,President - Republican Primary,NA,,county,Chelan,2196
+John,McCain,John McCain,R,R,President - Republican Primary,NA,,county,Clallam,3067
+John,McCain,John McCain,R,R,President - Republican Primary,NA,,county,Clark,10571
+John,McCain,John McCain,R,R,President - Republican Primary,NA,,county,Columbia,160
+John,McCain,John McCain,R,R,President - Republican Primary,NA,,county,Cowlitz,2317
+John,McCain,John McCain,R,R,President - Republican Primary,NA,,county,Douglas,663
+John,McCain,John McCain,R,R,President - Republican Primary,NA,,county,Ferry,266
+John,McCain,John McCain,R,R,President - Republican Primary,NA,,county,Franklin,771
+John,McCain,John McCain,R,R,President - Republican Primary,NA,,county,Garfield,104
+John,McCain,John McCain,R,R,President - Republican Primary,NA,,county,Grant,1753
+John,McCain,John McCain,R,R,President - Republican Primary,NA,,county,Grays Harbor,1737
+John,McCain,John McCain,R,R,President - Republican Primary,NA,,county,Island,3867
+John,McCain,John McCain,R,R,President - Republican Primary,NA,,county,Jefferson,1647
+John,McCain,John McCain,R,R,President - Republican Primary,NA,,county,King,61989
+John,McCain,John McCain,R,R,President - Republican Primary,NA,,county,Kitsap,9015
+John,McCain,John McCain,R,R,President - Republican Primary,NA,,county,Kittitas,1138
+John,McCain,John McCain,R,R,President - Republican Primary,NA,,county,Klickitat,645
+John,McCain,John McCain,R,R,President - Republican Primary,NA,,county,Lewis,2153
+John,McCain,John McCain,R,R,President - Republican Primary,NA,,county,Lincoln,487
+John,McCain,John McCain,R,R,President - Republican Primary,NA,,county,Mason,1805
+John,McCain,John McCain,R,R,President - Republican Primary,NA,,county,Okanogan,1306
+John,McCain,John McCain,R,R,President - Republican Primary,NA,,county,Pacific,626
+John,McCain,John McCain,R,R,President - Republican Primary,NA,,county,Pend Oreille,544
+John,McCain,John McCain,R,R,President - Republican Primary,NA,,county,Pierce,17122
+John,McCain,John McCain,R,R,President - Republican Primary,NA,,county,San Juan,874
+John,McCain,John McCain,R,R,President - Republican Primary,NA,,county,Skagit,3291
+John,McCain,John McCain,R,R,President - Republican Primary,NA,,county,Skamania,331
+John,McCain,John McCain,R,R,President - Republican Primary,NA,,county,Snohomish,15385
+John,McCain,John McCain,R,R,President - Republican Primary,NA,,county,Spokane,19035
+John,McCain,John McCain,R,R,President - Republican Primary,NA,,county,Stevens,2008
+John,McCain,John McCain,R,R,President - Republican Primary,NA,,county,Thurston,6439
+John,McCain,John McCain,R,R,President - Republican Primary,NA,,county,Wahkiakum,129
+John,McCain,John McCain,R,R,President - Republican Primary,NA,,county,Walla Walla,1820
+John,McCain,John McCain,R,R,President - Republican Primary,NA,,county,Whatcom,3904
+John,McCain,John McCain,R,R,President - Republican Primary,NA,,county,Whitman,1463
+John,McCain,John McCain,R,R,President - Republican Primary,NA,,county,Yakima,4338
+John,McCain,John McCain,R,R,President - Republican Primary,NA,,state,Washington,191101
+Gary,Bauer,Gary Bauer,R,R,President - Unaffiliated Primary,NA,,county,Adams,7
+Gary,Bauer,Gary Bauer,R,R,President - Unaffiliated Primary,NA,,county,Asotin,4
+Gary,Bauer,Gary Bauer,R,R,President - Unaffiliated Primary,NA,,county,Benton,46
+Gary,Bauer,Gary Bauer,R,R,President - Unaffiliated Primary,NA,,county,Chelan,10
+Gary,Bauer,Gary Bauer,R,R,President - Unaffiliated Primary,NA,,county,Clallam,34
+Gary,Bauer,Gary Bauer,R,R,President - Unaffiliated Primary,NA,,county,Clark,103
+Gary,Bauer,Gary Bauer,R,R,President - Unaffiliated Primary,NA,,county,Columbia,2
+Gary,Bauer,Gary Bauer,R,R,President - Unaffiliated Primary,NA,,county,Cowlitz,49
+Gary,Bauer,Gary Bauer,R,R,President - Unaffiliated Primary,NA,,county,Douglas,11
+Gary,Bauer,Gary Bauer,R,R,President - Unaffiliated Primary,NA,,county,Ferry,9
+Gary,Bauer,Gary Bauer,R,R,President - Unaffiliated Primary,NA,,county,Franklin,16
+Gary,Bauer,Gary Bauer,R,R,President - Unaffiliated Primary,NA,,county,Garfield,1
+Gary,Bauer,Gary Bauer,R,R,President - Unaffiliated Primary,NA,,county,Grant,21
+Gary,Bauer,Gary Bauer,R,R,President - Unaffiliated Primary,NA,,county,Grays Harbor,40
+Gary,Bauer,Gary Bauer,R,R,President - Unaffiliated Primary,NA,,county,Island,15
+Gary,Bauer,Gary Bauer,R,R,President - Unaffiliated Primary,NA,,county,Jefferson,4
+Gary,Bauer,Gary Bauer,R,R,President - Unaffiliated Primary,NA,,county,King,207
+Gary,Bauer,Gary Bauer,R,R,President - Unaffiliated Primary,NA,,county,Kitsap,79
+Gary,Bauer,Gary Bauer,R,R,President - Unaffiliated Primary,NA,,county,Kittitas,4
+Gary,Bauer,Gary Bauer,R,R,President - Unaffiliated Primary,NA,,county,Klickitat,5
+Gary,Bauer,Gary Bauer,R,R,President - Unaffiliated Primary,NA,,county,Lewis,34
+Gary,Bauer,Gary Bauer,R,R,President - Unaffiliated Primary,NA,,county,Lincoln,6
+Gary,Bauer,Gary Bauer,R,R,President - Unaffiliated Primary,NA,,county,Mason,15
+Gary,Bauer,Gary Bauer,R,R,President - Unaffiliated Primary,NA,,county,Okanogan,15
+Gary,Bauer,Gary Bauer,R,R,President - Unaffiliated Primary,NA,,county,Pacific,15
+Gary,Bauer,Gary Bauer,R,R,President - Unaffiliated Primary,NA,,county,Pend Oreille,2
+Gary,Bauer,Gary Bauer,R,R,President - Unaffiliated Primary,NA,,county,Pierce,161
+Gary,Bauer,Gary Bauer,R,R,President - Unaffiliated Primary,NA,,county,San Juan,8
+Gary,Bauer,Gary Bauer,R,R,President - Unaffiliated Primary,NA,,county,Skagit,22
+Gary,Bauer,Gary Bauer,R,R,President - Unaffiliated Primary,NA,,county,Skamania,6
+Gary,Bauer,Gary Bauer,R,R,President - Unaffiliated Primary,NA,,county,Snohomish,143
+Gary,Bauer,Gary Bauer,R,R,President - Unaffiliated Primary,NA,,county,Spokane,53
+Gary,Bauer,Gary Bauer,R,R,President - Unaffiliated Primary,NA,,county,Stevens,20
+Gary,Bauer,Gary Bauer,R,R,President - Unaffiliated Primary,NA,,county,Thurston,72
+Gary,Bauer,Gary Bauer,R,R,President - Unaffiliated Primary,NA,,county,Wahkiakum,1
+Gary,Bauer,Gary Bauer,R,R,President - Unaffiliated Primary,NA,,county,Walla Walla,14
+Gary,Bauer,Gary Bauer,R,R,President - Unaffiliated Primary,NA,,county,Whatcom,80
+Gary,Bauer,Gary Bauer,R,R,President - Unaffiliated Primary,NA,,county,Whitman,8
+Gary,Bauer,Gary Bauer,R,R,President - Unaffiliated Primary,NA,,county,Yakima,59
+Gary,Bauer,Gary Bauer,R,R,President - Unaffiliated Primary,NA,,state,Washington,1401
+Bill,Bradley,Bill Bradley,D,D,President - Unaffiliated Primary,NA,,county,Adams,119
+Bill,Bradley,Bill Bradley,D,D,President - Unaffiliated Primary,NA,,county,Asotin,93
+Bill,Bradley,Bill Bradley,D,D,President - Unaffiliated Primary,NA,,county,Benton,906
+Bill,Bradley,Bill Bradley,D,D,President - Unaffiliated Primary,NA,,county,Chelan,618
+Bill,Bradley,Bill Bradley,D,D,President - Unaffiliated Primary,NA,,county,Clallam,1273
+Bill,Bradley,Bill Bradley,D,D,President - Unaffiliated Primary,NA,,county,Clark,2814
+Bill,Bradley,Bill Bradley,D,D,President - Unaffiliated Primary,NA,,county,Columbia,62
+Bill,Bradley,Bill Bradley,D,D,President - Unaffiliated Primary,NA,,county,Cowlitz,1093
+Bill,Bradley,Bill Bradley,D,D,President - Unaffiliated Primary,NA,,county,Douglas,318
+Bill,Bradley,Bill Bradley,D,D,President - Unaffiliated Primary,NA,,county,Ferry,121
+Bill,Bradley,Bill Bradley,D,D,President - Unaffiliated Primary,NA,,county,Franklin,299
+Bill,Bradley,Bill Bradley,D,D,President - Unaffiliated Primary,NA,,county,Garfield,47
+Bill,Bradley,Bill Bradley,D,D,President - Unaffiliated Primary,NA,,county,Grant,493
+Bill,Bradley,Bill Bradley,D,D,President - Unaffiliated Primary,NA,,county,Grays Harbor,995
+Bill,Bradley,Bill Bradley,D,D,President - Unaffiliated Primary,NA,,county,Island,931
+Bill,Bradley,Bill Bradley,D,D,President - Unaffiliated Primary,NA,,county,Jefferson,511
+Bill,Bradley,Bill Bradley,D,D,President - Unaffiliated Primary,NA,,county,King,24482
+Bill,Bradley,Bill Bradley,D,D,President - Unaffiliated Primary,NA,,county,Kitsap,3735
+Bill,Bradley,Bill Bradley,D,D,President - Unaffiliated Primary,NA,,county,Kittitas,293
+Bill,Bradley,Bill Bradley,D,D,President - Unaffiliated Primary,NA,,county,Klickitat,137
+Bill,Bradley,Bill Bradley,D,D,President - Unaffiliated Primary,NA,,county,Lewis,878
+Bill,Bradley,Bill Bradley,D,D,President - Unaffiliated Primary,NA,,county,Lincoln,111
+Bill,Bradley,Bill Bradley,D,D,President - Unaffiliated Primary,NA,,county,Mason,652
+Bill,Bradley,Bill Bradley,D,D,President - Unaffiliated Primary,NA,,county,Okanogan,485
+Bill,Bradley,Bill Bradley,D,D,President - Unaffiliated Primary,NA,,county,Pacific,443
+Bill,Bradley,Bill Bradley,D,D,President - Unaffiliated Primary,NA,,county,Pend Oreille,121
+Bill,Bradley,Bill Bradley,D,D,President - Unaffiliated Primary,NA,,county,Pierce,7289
+Bill,Bradley,Bill Bradley,D,D,President - Unaffiliated Primary,NA,,county,San Juan,395
+Bill,Bradley,Bill Bradley,D,D,President - Unaffiliated Primary,NA,,county,Skagit,1173
+Bill,Bradley,Bill Bradley,D,D,President - Unaffiliated Primary,NA,,county,Skamania,131
+Bill,Bradley,Bill Bradley,D,D,President - Unaffiliated Primary,NA,,county,Snohomish,6924
+Bill,Bradley,Bill Bradley,D,D,President - Unaffiliated Primary,NA,,county,Spokane,2374
+Bill,Bradley,Bill Bradley,D,D,President - Unaffiliated Primary,NA,,county,Stevens,238
+Bill,Bradley,Bill Bradley,D,D,President - Unaffiliated Primary,NA,,county,Thurston,4153
+Bill,Bradley,Bill Bradley,D,D,President - Unaffiliated Primary,NA,,county,Wahkiakum,71
+Bill,Bradley,Bill Bradley,D,D,President - Unaffiliated Primary,NA,,county,Walla Walla,394
+Bill,Bradley,Bill Bradley,D,D,President - Unaffiliated Primary,NA,,county,Whatcom,2449
+Bill,Bradley,Bill Bradley,D,D,President - Unaffiliated Primary,NA,,county,Whitman,405
+Bill,Bradley,Bill Bradley,D,D,President - Unaffiliated Primary,NA,,county,Yakima,1326
+Bill,Bradley,Bill Bradley,D,D,President - Unaffiliated Primary,NA,,state,Washington,69352
+George W.,Bush,George W. Bush,R,R,President - Unaffiliated Primary,NA,,county,Adams,764
+George W.,Bush,George W. Bush,R,R,President - Unaffiliated Primary,NA,,county,Asotin,267
+George W.,Bush,George W. Bush,R,R,President - Unaffiliated Primary,NA,,county,Benton,3985
+George W.,Bush,George W. Bush,R,R,President - Unaffiliated Primary,NA,,county,Chelan,2081
+George W.,Bush,George W. Bush,R,R,President - Unaffiliated Primary,NA,,county,Clallam,2685
+George W.,Bush,George W. Bush,R,R,President - Unaffiliated Primary,NA,,county,Clark,4552
+George W.,Bush,George W. Bush,R,R,President - Unaffiliated Primary,NA,,county,Columbia,317
+George W.,Bush,George W. Bush,R,R,President - Unaffiliated Primary,NA,,county,Cowlitz,2306
+George W.,Bush,George W. Bush,R,R,President - Unaffiliated Primary,NA,,county,Douglas,1394
+George W.,Bush,George W. Bush,R,R,President - Unaffiliated Primary,NA,,county,Ferry,384
+George W.,Bush,George W. Bush,R,R,President - Unaffiliated Primary,NA,,county,Franklin,1822
+George W.,Bush,George W. Bush,R,R,President - Unaffiliated Primary,NA,,county,Garfield,209
+George W.,Bush,George W. Bush,R,R,President - Unaffiliated Primary,NA,,county,Grant,2244
+George W.,Bush,George W. Bush,R,R,President - Unaffiliated Primary,NA,,county,Grays Harbor,1922
+George W.,Bush,George W. Bush,R,R,President - Unaffiliated Primary,NA,,county,Island,1117
+George W.,Bush,George W. Bush,R,R,President - Unaffiliated Primary,NA,,county,Jefferson,610
+George W.,Bush,George W. Bush,R,R,President - Unaffiliated Primary,NA,,county,King,18075
+George W.,Bush,George W. Bush,R,R,President - Unaffiliated Primary,NA,,county,Kitsap,7299
+George W.,Bush,George W. Bush,R,R,President - Unaffiliated Primary,NA,,county,Kittitas,651
+George W.,Bush,George W. Bush,R,R,President - Unaffiliated Primary,NA,,county,Klickitat,377
+George W.,Bush,George W. Bush,R,R,President - Unaffiliated Primary,NA,,county,Lewis,2886
+George W.,Bush,George W. Bush,R,R,President - Unaffiliated Primary,NA,,county,Lincoln,488
+George W.,Bush,George W. Bush,R,R,President - Unaffiliated Primary,NA,,county,Mason,1243
+George W.,Bush,George W. Bush,R,R,President - Unaffiliated Primary,NA,,county,Okanogan,1457
+George W.,Bush,George W. Bush,R,R,President - Unaffiliated Primary,NA,,county,Pacific,673
+George W.,Bush,George W. Bush,R,R,President - Unaffiliated Primary,NA,,county,Pend Oreille,361
+George W.,Bush,George W. Bush,R,R,President - Unaffiliated Primary,NA,,county,Pierce,16414
+George W.,Bush,George W. Bush,R,R,President - Unaffiliated Primary,NA,,county,San Juan,248
+George W.,Bush,George W. Bush,R,R,President - Unaffiliated Primary,NA,,county,Skagit,2006
+George W.,Bush,George W. Bush,R,R,President - Unaffiliated Primary,NA,,county,Skamania,272
+George W.,Bush,George W. Bush,R,R,President - Unaffiliated Primary,NA,,county,Snohomish,11493
+George W.,Bush,George W. Bush,R,R,President - Unaffiliated Primary,NA,,county,Spokane,4567
+George W.,Bush,George W. Bush,R,R,President - Unaffiliated Primary,NA,,county,Stevens,826
+George W.,Bush,George W. Bush,R,R,President - Unaffiliated Primary,NA,,county,Thurston,7116
+George W.,Bush,George W. Bush,R,R,President - Unaffiliated Primary,NA,,county,Wahkiakum,197
+George W.,Bush,George W. Bush,R,R,President - Unaffiliated Primary,NA,,county,Walla Walla,1599
+George W.,Bush,George W. Bush,R,R,President - Unaffiliated Primary,NA,,county,Whatcom,4916
+George W.,Bush,George W. Bush,R,R,President - Unaffiliated Primary,NA,,county,Whitman,1100
+George W.,Bush,George W. Bush,R,R,President - Unaffiliated Primary,NA,,county,Yakima,7311
+George W.,Bush,George W. Bush,R,R,President - Unaffiliated Primary,NA,,state,Washington,118234
+Steve,Forbes,Steve Forbes,R,R,President - Unaffiliated Primary,NA,,county,Adams,14
+Steve,Forbes,Steve Forbes,R,R,President - Unaffiliated Primary,NA,,county,Asotin,5
+Steve,Forbes,Steve Forbes,R,R,President - Unaffiliated Primary,NA,,county,Benton,85
+Steve,Forbes,Steve Forbes,R,R,President - Unaffiliated Primary,NA,,county,Chelan,26
+Steve,Forbes,Steve Forbes,R,R,President - Unaffiliated Primary,NA,,county,Clallam,121
+Steve,Forbes,Steve Forbes,R,R,President - Unaffiliated Primary,NA,,county,Clark,202
+Steve,Forbes,Steve Forbes,R,R,President - Unaffiliated Primary,NA,,county,Columbia,3
+Steve,Forbes,Steve Forbes,R,R,President - Unaffiliated Primary,NA,,county,Cowlitz,97
+Steve,Forbes,Steve Forbes,R,R,President - Unaffiliated Primary,NA,,county,Douglas,16
+Steve,Forbes,Steve Forbes,R,R,President - Unaffiliated Primary,NA,,county,Ferry,8
+Steve,Forbes,Steve Forbes,R,R,President - Unaffiliated Primary,NA,,county,Franklin,35
+Steve,Forbes,Steve Forbes,R,R,President - Unaffiliated Primary,NA,,county,Garfield,3
+Steve,Forbes,Steve Forbes,R,R,President - Unaffiliated Primary,NA,,county,Grant,34
+Steve,Forbes,Steve Forbes,R,R,President - Unaffiliated Primary,NA,,county,Grays Harbor,61
+Steve,Forbes,Steve Forbes,R,R,President - Unaffiliated Primary,NA,,county,Island,60
+Steve,Forbes,Steve Forbes,R,R,President - Unaffiliated Primary,NA,,county,Jefferson,23
+Steve,Forbes,Steve Forbes,R,R,President - Unaffiliated Primary,NA,,county,King,583
+Steve,Forbes,Steve Forbes,R,R,President - Unaffiliated Primary,NA,,county,Kitsap,168
+Steve,Forbes,Steve Forbes,R,R,President - Unaffiliated Primary,NA,,county,Kittitas,22
+Steve,Forbes,Steve Forbes,R,R,President - Unaffiliated Primary,NA,,county,Klickitat,10
+Steve,Forbes,Steve Forbes,R,R,President - Unaffiliated Primary,NA,,county,Lewis,94
+Steve,Forbes,Steve Forbes,R,R,President - Unaffiliated Primary,NA,,county,Lincoln,9
+Steve,Forbes,Steve Forbes,R,R,President - Unaffiliated Primary,NA,,county,Mason,38
+Steve,Forbes,Steve Forbes,R,R,President - Unaffiliated Primary,NA,,county,Okanogan,49
+Steve,Forbes,Steve Forbes,R,R,President - Unaffiliated Primary,NA,,county,Pacific,31
+Steve,Forbes,Steve Forbes,R,R,President - Unaffiliated Primary,NA,,county,Pend Oreille,10
+Steve,Forbes,Steve Forbes,R,R,President - Unaffiliated Primary,NA,,county,Pierce,529
+Steve,Forbes,Steve Forbes,R,R,President - Unaffiliated Primary,NA,,county,San Juan,6
+Steve,Forbes,Steve Forbes,R,R,President - Unaffiliated Primary,NA,,county,Skagit,52
+Steve,Forbes,Steve Forbes,R,R,President - Unaffiliated Primary,NA,,county,Skamania,5
+Steve,Forbes,Steve Forbes,R,R,President - Unaffiliated Primary,NA,,county,Snohomish,334
+Steve,Forbes,Steve Forbes,R,R,President - Unaffiliated Primary,NA,,county,Spokane,118
+Steve,Forbes,Steve Forbes,R,R,President - Unaffiliated Primary,NA,,county,Stevens,31
+Steve,Forbes,Steve Forbes,R,R,President - Unaffiliated Primary,NA,,county,Thurston,208
+Steve,Forbes,Steve Forbes,R,R,President - Unaffiliated Primary,NA,,county,Wahkiakum,9
+Steve,Forbes,Steve Forbes,R,R,President - Unaffiliated Primary,NA,,county,Walla Walla,29
+Steve,Forbes,Steve Forbes,R,R,President - Unaffiliated Primary,NA,,county,Whatcom,94
+Steve,Forbes,Steve Forbes,R,R,President - Unaffiliated Primary,NA,,county,Whitman,16
+Steve,Forbes,Steve Forbes,R,R,President - Unaffiliated Primary,NA,,county,Yakima,149
+Steve,Forbes,Steve Forbes,R,R,President - Unaffiliated Primary,NA,,state,Washington,3387
+Al,Gore,Al Gore,D,D,President - Unaffiliated Primary,NA,,county,Adams,232
+Al,Gore,Al Gore,D,D,President - Unaffiliated Primary,NA,,county,Asotin,95
+Al,Gore,Al Gore,D,D,President - Unaffiliated Primary,NA,,county,Benton,1480
+Al,Gore,Al Gore,D,D,President - Unaffiliated Primary,NA,,county,Chelan,869
+Al,Gore,Al Gore,D,D,President - Unaffiliated Primary,NA,,county,Clallam,1973
+Al,Gore,Al Gore,D,D,President - Unaffiliated Primary,NA,,county,Clark,4222
+Al,Gore,Al Gore,D,D,President - Unaffiliated Primary,NA,,county,Columbia,90
+Al,Gore,Al Gore,D,D,President - Unaffiliated Primary,NA,,county,Cowlitz,2151
+Al,Gore,Al Gore,D,D,President - Unaffiliated Primary,NA,,county,Douglas,509
+Al,Gore,Al Gore,D,D,President - Unaffiliated Primary,NA,,county,Ferry,154
+Al,Gore,Al Gore,D,D,President - Unaffiliated Primary,NA,,county,Franklin,764
+Al,Gore,Al Gore,D,D,President - Unaffiliated Primary,NA,,county,Garfield,42
+Al,Gore,Al Gore,D,D,President - Unaffiliated Primary,NA,,county,Grant,858
+Al,Gore,Al Gore,D,D,President - Unaffiliated Primary,NA,,county,Grays Harbor,1637
+Al,Gore,Al Gore,D,D,President - Unaffiliated Primary,NA,,county,Island,1119
+Al,Gore,Al Gore,D,D,President - Unaffiliated Primary,NA,,county,Jefferson,720
+Al,Gore,Al Gore,D,D,President - Unaffiliated Primary,NA,,county,King,26727
+Al,Gore,Al Gore,D,D,President - Unaffiliated Primary,NA,,county,Kitsap,6705
+Al,Gore,Al Gore,D,D,President - Unaffiliated Primary,NA,,county,Kittitas,387
+Al,Gore,Al Gore,D,D,President - Unaffiliated Primary,NA,,county,Klickitat,211
+Al,Gore,Al Gore,D,D,President - Unaffiliated Primary,NA,,county,Lewis,1364
+Al,Gore,Al Gore,D,D,President - Unaffiliated Primary,NA,,county,Lincoln,173
+Al,Gore,Al Gore,D,D,President - Unaffiliated Primary,NA,,county,Mason,1124
+Al,Gore,Al Gore,D,D,President - Unaffiliated Primary,NA,,county,Okanogan,472
+Al,Gore,Al Gore,D,D,President - Unaffiliated Primary,NA,,county,Pacific,638
+Al,Gore,Al Gore,D,D,President - Unaffiliated Primary,NA,,county,Pend Oreille,166
+Al,Gore,Al Gore,D,D,President - Unaffiliated Primary,NA,,county,Pierce,17660
+Al,Gore,Al Gore,D,D,President - Unaffiliated Primary,NA,,county,San Juan,331
+Al,Gore,Al Gore,D,D,President - Unaffiliated Primary,NA,,county,Skagit,1587
+Al,Gore,Al Gore,D,D,President - Unaffiliated Primary,NA,,county,Skamania,203
+Al,Gore,Al Gore,D,D,President - Unaffiliated Primary,NA,,county,Snohomish,13075
+Al,Gore,Al Gore,D,D,President - Unaffiliated Primary,NA,,county,Spokane,3293
+Al,Gore,Al Gore,D,D,President - Unaffiliated Primary,NA,,county,Stevens,262
+Al,Gore,Al Gore,D,D,President - Unaffiliated Primary,NA,,county,Thurston,7859
+Al,Gore,Al Gore,D,D,President - Unaffiliated Primary,NA,,county,Wahkiakum,118
+Al,Gore,Al Gore,D,D,President - Unaffiliated Primary,NA,,county,Walla Walla,659
+Al,Gore,Al Gore,D,D,President - Unaffiliated Primary,NA,,county,Whatcom,3525
+Al,Gore,Al Gore,D,D,President - Unaffiliated Primary,NA,,county,Whitman,547
+Al,Gore,Al Gore,D,D,President - Unaffiliated Primary,NA,,county,Yakima,3949
+Al,Gore,Al Gore,D,D,President - Unaffiliated Primary,NA,,state,Washington,107950
+Orrin,Hatch,Orrin Hatch,R,R,President - Unaffiliated Primary,NA,,county,Adams,7
+Orrin,Hatch,Orrin Hatch,R,R,President - Unaffiliated Primary,NA,,county,Asotin,2
+Orrin,Hatch,Orrin Hatch,R,R,President - Unaffiliated Primary,NA,,county,Benton,62
+Orrin,Hatch,Orrin Hatch,R,R,President - Unaffiliated Primary,NA,,county,Chelan,12
+Orrin,Hatch,Orrin Hatch,R,R,President - Unaffiliated Primary,NA,,county,Clallam,29
+Orrin,Hatch,Orrin Hatch,R,R,President - Unaffiliated Primary,NA,,county,Clark,80
+Orrin,Hatch,Orrin Hatch,R,R,President - Unaffiliated Primary,NA,,county,Columbia,0
+Orrin,Hatch,Orrin Hatch,R,R,President - Unaffiliated Primary,NA,,county,Cowlitz,51
+Orrin,Hatch,Orrin Hatch,R,R,President - Unaffiliated Primary,NA,,county,Douglas,10
+Orrin,Hatch,Orrin Hatch,R,R,President - Unaffiliated Primary,NA,,county,Ferry,11
+Orrin,Hatch,Orrin Hatch,R,R,President - Unaffiliated Primary,NA,,county,Franklin,21
+Orrin,Hatch,Orrin Hatch,R,R,President - Unaffiliated Primary,NA,,county,Garfield,3
+Orrin,Hatch,Orrin Hatch,R,R,President - Unaffiliated Primary,NA,,county,Grant,23
+Orrin,Hatch,Orrin Hatch,R,R,President - Unaffiliated Primary,NA,,county,Grays Harbor,20
+Orrin,Hatch,Orrin Hatch,R,R,President - Unaffiliated Primary,NA,,county,Island,18
+Orrin,Hatch,Orrin Hatch,R,R,President - Unaffiliated Primary,NA,,county,Jefferson,3
+Orrin,Hatch,Orrin Hatch,R,R,President - Unaffiliated Primary,NA,,county,King,175
+Orrin,Hatch,Orrin Hatch,R,R,President - Unaffiliated Primary,NA,,county,Kitsap,68
+Orrin,Hatch,Orrin Hatch,R,R,President - Unaffiliated Primary,NA,,county,Kittitas,5
+Orrin,Hatch,Orrin Hatch,R,R,President - Unaffiliated Primary,NA,,county,Klickitat,5
+Orrin,Hatch,Orrin Hatch,R,R,President - Unaffiliated Primary,NA,,county,Lewis,28
+Orrin,Hatch,Orrin Hatch,R,R,President - Unaffiliated Primary,NA,,county,Lincoln,2
+Orrin,Hatch,Orrin Hatch,R,R,President - Unaffiliated Primary,NA,,county,Mason,16
+Orrin,Hatch,Orrin Hatch,R,R,President - Unaffiliated Primary,NA,,county,Okanogan,11
+Orrin,Hatch,Orrin Hatch,R,R,President - Unaffiliated Primary,NA,,county,Pacific,7
+Orrin,Hatch,Orrin Hatch,R,R,President - Unaffiliated Primary,NA,,county,Pend Oreille,5
+Orrin,Hatch,Orrin Hatch,R,R,President - Unaffiliated Primary,NA,,county,Pierce,160
+Orrin,Hatch,Orrin Hatch,R,R,President - Unaffiliated Primary,NA,,county,San Juan,6
+Orrin,Hatch,Orrin Hatch,R,R,President - Unaffiliated Primary,NA,,county,Skagit,20
+Orrin,Hatch,Orrin Hatch,R,R,President - Unaffiliated Primary,NA,,county,Skamania,1
+Orrin,Hatch,Orrin Hatch,R,R,President - Unaffiliated Primary,NA,,county,Snohomish,94
+Orrin,Hatch,Orrin Hatch,R,R,President - Unaffiliated Primary,NA,,county,Spokane,43
+Orrin,Hatch,Orrin Hatch,R,R,President - Unaffiliated Primary,NA,,county,Stevens,10
+Orrin,Hatch,Orrin Hatch,R,R,President - Unaffiliated Primary,NA,,county,Thurston,96
+Orrin,Hatch,Orrin Hatch,R,R,President - Unaffiliated Primary,NA,,county,Wahkiakum,2
+Orrin,Hatch,Orrin Hatch,R,R,President - Unaffiliated Primary,NA,,county,Walla Walla,10
+Orrin,Hatch,Orrin Hatch,R,R,President - Unaffiliated Primary,NA,,county,Whatcom,57
+Orrin,Hatch,Orrin Hatch,R,R,President - Unaffiliated Primary,NA,,county,Whitman,9
+Orrin,Hatch,Orrin Hatch,R,R,President - Unaffiliated Primary,NA,,county,Yakima,58
+Orrin,Hatch,Orrin Hatch,R,R,President - Unaffiliated Primary,NA,,state,Washington,1240
+Alan,Keyes,Alan Keyes,R,R,President - Unaffiliated Primary,NA,,county,Adams,41
+Alan,Keyes,Alan Keyes,R,R,President - Unaffiliated Primary,NA,,county,Asotin,33
+Alan,Keyes,Alan Keyes,R,R,President - Unaffiliated Primary,NA,,county,Benton,238
+Alan,Keyes,Alan Keyes,R,R,President - Unaffiliated Primary,NA,,county,Chelan,134
+Alan,Keyes,Alan Keyes,R,R,President - Unaffiliated Primary,NA,,county,Clallam,249
+Alan,Keyes,Alan Keyes,R,R,President - Unaffiliated Primary,NA,,county,Clark,475
+Alan,Keyes,Alan Keyes,R,R,President - Unaffiliated Primary,NA,,county,Columbia,16
+Alan,Keyes,Alan Keyes,R,R,President - Unaffiliated Primary,NA,,county,Cowlitz,221
+Alan,Keyes,Alan Keyes,R,R,President - Unaffiliated Primary,NA,,county,Douglas,66
+Alan,Keyes,Alan Keyes,R,R,President - Unaffiliated Primary,NA,,county,Ferry,58
+Alan,Keyes,Alan Keyes,R,R,President - Unaffiliated Primary,NA,,county,Franklin,65
+Alan,Keyes,Alan Keyes,R,R,President - Unaffiliated Primary,NA,,county,Garfield,3
+Alan,Keyes,Alan Keyes,R,R,President - Unaffiliated Primary,NA,,county,Grant,174
+Alan,Keyes,Alan Keyes,R,R,President - Unaffiliated Primary,NA,,county,Grays Harbor,159
+Alan,Keyes,Alan Keyes,R,R,President - Unaffiliated Primary,NA,,county,Island,121
+Alan,Keyes,Alan Keyes,R,R,President - Unaffiliated Primary,NA,,county,Jefferson,59
+Alan,Keyes,Alan Keyes,R,R,President - Unaffiliated Primary,NA,,county,King,1606
+Alan,Keyes,Alan Keyes,R,R,President - Unaffiliated Primary,NA,,county,Kitsap,557
+Alan,Keyes,Alan Keyes,R,R,President - Unaffiliated Primary,NA,,county,Kittitas,51
+Alan,Keyes,Alan Keyes,R,R,President - Unaffiliated Primary,NA,,county,Klickitat,56
+Alan,Keyes,Alan Keyes,R,R,President - Unaffiliated Primary,NA,,county,Lewis,195
+Alan,Keyes,Alan Keyes,R,R,President - Unaffiliated Primary,NA,,county,Lincoln,48
+Alan,Keyes,Alan Keyes,R,R,President - Unaffiliated Primary,NA,,county,Mason,90
+Alan,Keyes,Alan Keyes,R,R,President - Unaffiliated Primary,NA,,county,Okanogan,117
+Alan,Keyes,Alan Keyes,R,R,President - Unaffiliated Primary,NA,,county,Pacific,52
+Alan,Keyes,Alan Keyes,R,R,President - Unaffiliated Primary,NA,,county,Pend Oreille,61
+Alan,Keyes,Alan Keyes,R,R,President - Unaffiliated Primary,NA,,county,Pierce,1166
+Alan,Keyes,Alan Keyes,R,R,President - Unaffiliated Primary,NA,,county,San Juan,34
+Alan,Keyes,Alan Keyes,R,R,President - Unaffiliated Primary,NA,,county,Skagit,144
+Alan,Keyes,Alan Keyes,R,R,President - Unaffiliated Primary,NA,,county,Skamania,45
+Alan,Keyes,Alan Keyes,R,R,President - Unaffiliated Primary,NA,,county,Snohomish,930
+Alan,Keyes,Alan Keyes,R,R,President - Unaffiliated Primary,NA,,county,Spokane,498
+Alan,Keyes,Alan Keyes,R,R,President - Unaffiliated Primary,NA,,county,Stevens,115
+Alan,Keyes,Alan Keyes,R,R,President - Unaffiliated Primary,NA,,county,Thurston,506
+Alan,Keyes,Alan Keyes,R,R,President - Unaffiliated Primary,NA,,county,Wahkiakum,15
+Alan,Keyes,Alan Keyes,R,R,President - Unaffiliated Primary,NA,,county,Walla Walla,109
+Alan,Keyes,Alan Keyes,R,R,President - Unaffiliated Primary,NA,,county,Whatcom,361
+Alan,Keyes,Alan Keyes,R,R,President - Unaffiliated Primary,NA,,county,Whitman,73
+Alan,Keyes,Alan Keyes,R,R,President - Unaffiliated Primary,NA,,county,Yakima,428
+Alan,Keyes,Alan Keyes,R,R,President - Unaffiliated Primary,NA,,state,Washington,9369
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Unaffiliated Primary,NA,,county,Adams,2
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Unaffiliated Primary,NA,,county,Asotin,3
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Unaffiliated Primary,NA,,county,Benton,21
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Unaffiliated Primary,NA,,county,Chelan,14
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Unaffiliated Primary,NA,,county,Clallam,40
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Unaffiliated Primary,NA,,county,Clark,74
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Unaffiliated Primary,NA,,county,Columbia,4
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Unaffiliated Primary,NA,,county,Cowlitz,42
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Unaffiliated Primary,NA,,county,Douglas,6
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Unaffiliated Primary,NA,,county,Ferry,5
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Unaffiliated Primary,NA,,county,Franklin,19
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Unaffiliated Primary,NA,,county,Garfield,1
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Unaffiliated Primary,NA,,county,Grant,14
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Unaffiliated Primary,NA,,county,Grays Harbor,38
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Unaffiliated Primary,NA,,county,Island,15
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Unaffiliated Primary,NA,,county,Jefferson,10
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Unaffiliated Primary,NA,,county,King,224
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Unaffiliated Primary,NA,,county,Kitsap,72
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Unaffiliated Primary,NA,,county,Kittitas,7
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Unaffiliated Primary,NA,,county,Klickitat,5
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Unaffiliated Primary,NA,,county,Lewis,50
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Unaffiliated Primary,NA,,county,Lincoln,7
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Unaffiliated Primary,NA,,county,Mason,17
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Unaffiliated Primary,NA,,county,Okanogan,20
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Unaffiliated Primary,NA,,county,Pacific,21
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Unaffiliated Primary,NA,,county,Pend Oreille,3
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Unaffiliated Primary,NA,,county,Pierce,193
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Unaffiliated Primary,NA,,county,San Juan,8
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Unaffiliated Primary,NA,,county,Skagit,18
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Unaffiliated Primary,NA,,county,Skamania,5
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Unaffiliated Primary,NA,,county,Snohomish,138
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Unaffiliated Primary,NA,,county,Spokane,64
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Unaffiliated Primary,NA,,county,Stevens,15
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Unaffiliated Primary,NA,,county,Thurston,95
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Unaffiliated Primary,NA,,county,Wahkiakum,5
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Unaffiliated Primary,NA,,county,Walla Walla,8
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Unaffiliated Primary,NA,,county,Whatcom,43
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Unaffiliated Primary,NA,,county,Whitman,7
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Unaffiliated Primary,NA,,county,Yakima,73
+Lyndon H.,LaRouche,"Lyndon H. LaRouche, Jr.",D,D,President - Unaffiliated Primary,NA,,state,Washington,1406
+John,McCain,John McCain,R,R,President - Unaffiliated Primary,NA,,county,Adams,590
+John,McCain,John McCain,R,R,President - Unaffiliated Primary,NA,,county,Asotin,562
+John,McCain,John McCain,R,R,President - Unaffiliated Primary,NA,,county,Benton,4334
+John,McCain,John McCain,R,R,President - Unaffiliated Primary,NA,,county,Chelan,2336
+John,McCain,John McCain,R,R,President - Unaffiliated Primary,NA,,county,Clallam,4307
+John,McCain,John McCain,R,R,President - Unaffiliated Primary,NA,,county,Clark,8938
+John,McCain,John McCain,R,R,President - Unaffiliated Primary,NA,,county,Columbia,250
+John,McCain,John McCain,R,R,President - Unaffiliated Primary,NA,,county,Cowlitz,3696
+John,McCain,John McCain,R,R,President - Unaffiliated Primary,NA,,county,Douglas,1293
+John,McCain,John McCain,R,R,President - Unaffiliated Primary,NA,,county,Ferry,543
+John,McCain,John McCain,R,R,President - Unaffiliated Primary,NA,,county,Franklin,1308
+John,McCain,John McCain,R,R,President - Unaffiliated Primary,NA,,county,Garfield,205
+John,McCain,John McCain,R,R,President - Unaffiliated Primary,NA,,county,Grant,2362
+John,McCain,John McCain,R,R,President - Unaffiliated Primary,NA,,county,Grays Harbor,3362
+John,McCain,John McCain,R,R,President - Unaffiliated Primary,NA,,county,Island,3110
+John,McCain,John McCain,R,R,President - Unaffiliated Primary,NA,,county,Jefferson,1655
+John,McCain,John McCain,R,R,President - Unaffiliated Primary,NA,,county,King,54035
+John,McCain,John McCain,R,R,President - Unaffiliated Primary,NA,,county,Kitsap,13223
+John,McCain,John McCain,R,R,President - Unaffiliated Primary,NA,,county,Kittitas,1127
+John,McCain,John McCain,R,R,President - Unaffiliated Primary,NA,,county,Klickitat,686
+John,McCain,John McCain,R,R,President - Unaffiliated Primary,NA,,county,Lewis,3072
+John,McCain,John McCain,R,R,President - Unaffiliated Primary,NA,,county,Lincoln,594
+John,McCain,John McCain,R,R,President - Unaffiliated Primary,NA,,county,Mason,2557
+John,McCain,John McCain,R,R,President - Unaffiliated Primary,NA,,county,Okanogan,2002
+John,McCain,John McCain,R,R,President - Unaffiliated Primary,NA,,county,Pacific,1335
+John,McCain,John McCain,R,R,President - Unaffiliated Primary,NA,,county,Pend Oreille,726
+John,McCain,John McCain,R,R,President - Unaffiliated Primary,NA,,county,Pierce,24979
+John,McCain,John McCain,R,R,President - Unaffiliated Primary,NA,,county,San Juan,851
+John,McCain,John McCain,R,R,President - Unaffiliated Primary,NA,,county,Skagit,3648
+John,McCain,John McCain,R,R,President - Unaffiliated Primary,NA,,county,Skamania,464
+John,McCain,John McCain,R,R,President - Unaffiliated Primary,NA,,county,Snohomish,19865
+John,McCain,John McCain,R,R,President - Unaffiliated Primary,NA,,county,Spokane,10092
+John,McCain,John McCain,R,R,President - Unaffiliated Primary,NA,,county,Stevens,1349
+John,McCain,John McCain,R,R,President - Unaffiliated Primary,NA,,county,Thurston,11570
+John,McCain,John McCain,R,R,President - Unaffiliated Primary,NA,,county,Wahkiakum,267
+John,McCain,John McCain,R,R,President - Unaffiliated Primary,NA,,county,Walla Walla,1902
+John,McCain,John McCain,R,R,President - Unaffiliated Primary,NA,,county,Whatcom,6570
+John,McCain,John McCain,R,R,President - Unaffiliated Primary,NA,,county,Whitman,1509
+John,McCain,John McCain,R,R,President - Unaffiliated Primary,NA,,county,Yakima,7605
+John,McCain,John McCain,R,R,President - Unaffiliated Primary,NA,,state,Washington,208879

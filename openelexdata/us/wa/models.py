@@ -33,6 +33,65 @@ class Election(IntegerIdModel):
     description = CharField()
     electiontype = ForeignKeyField(ElectionType, null=True)
 
+    @property
+    def election_type(self):
+        """
+        The OpenElections election type.
+        
+        Either 'primary' or 'general'.
+        """
+        if self.electiontype is None:
+            return self._election_type_from_description()
+
+        if self.electiontype.electiontype == "Special":
+            # Assume elections with type "Special" are general elections.
+            return "general"
+
+        return self.electiontype.electiontype.lower()
+
+    def _election_type_from_description(self):
+        if "Primary" in self.description:
+            return "primary"
+        else:
+            return "general"
+
+    @property
+    def special(self):
+        if (self.electiontype is not None and 
+                self.electiontype.electiontype == "Special"):
+            return True
+
+        return "Special" in self.description
+
+    @property
+    def standardized_filename(self):
+        bits = [
+            self.election_datestamp(),
+            'wa'
+        ]
+
+        if self.special:
+            bits.append('special')
+
+        bits.append(self.election_type)
+
+        assert self.election_type is not None
+
+        return "__".join(bits) + ".csv"
+
+    def election_datestamp(self, sep=""):
+        bits = [
+            "{}".format(self.electiondate.year),
+            "{:02d}".format(self.electiondate.month),
+            "{:02d}".format(self.electiondate.day),
+        ]
+        return sep.join(bits)
+
+    def results(self):
+        results = []
+        for candidate in self.candidates.select():
+            results.extend(candidate.results())
+        return results
 
 class OfficeType(IntegerIdModel):
     officetype = CharField()
@@ -64,11 +123,40 @@ class Candidate(IntegerIdModel):
     candidatekey = CharField(null=True)
     votes = IntegerField(null=True)
 
+    def result_dict(self):
+        return {
+            'firstname': self.firstname,
+            'lastname': self.lastname,
+            'ballotname': self.ballotname,
+            'partyname': self.party.partyname,
+            'partycode': self.party.partycode,
+            'officename': self.office.officename,
+            'officeposition': self.office.officeposition,
+            'measuretext': self.office.measuretext,
+            'reporting_level': 'state',
+            'jurisdiction': "Washington",
+            'votes': self.votes,
+        }
+
+    def results(self):
+        results = [v.result_dict() for v in self.votes_by_county.select()]
+        results.append(self.result_dict())
+        return results
+
 
 class Vote(BaseModel):
-    candidate = ForeignKeyField(Candidate, related_name='candidate_votes')
+    candidate = ForeignKeyField(Candidate, related_name='votes_by_county')
     county = ForeignKeyField(County, related_name='county_votes')
     votes = IntegerField()
+
+    def result_dict(self):
+        result = self.candidate.result_dict()
+        result.update({
+            'reporting_level': 'county',
+            'jurisdiction': self.county.countyname,
+            'votes': self.votes,
+        })
+        return result
 
 
 class VoteTotal(BaseModel):
@@ -87,3 +175,17 @@ def create_tables():
             Candidate, Vote, VoteTotal]:
         cls.create_table(True)
     
+
+result_fieldnames = [
+    'firstname',
+    'lastname',
+    'ballotname',
+    'partyname',
+    'partycode',
+    'officename',
+    'officeposition',
+    'measuretext',
+    'reporting_level',
+    'jurisdiction',
+    'votes',
+]
