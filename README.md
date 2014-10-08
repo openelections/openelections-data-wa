@@ -44,6 +44,16 @@ Second, a few lines in Results\_Office.txt had an an incorrectly placed line bre
 * Line 15840 (record with CandidateID 15842) had an improperly quoted and delimited FirstName field.
 * Line 16315 (record with CandidateID 16317) had an improperly quoted and delimited FirstName field.
 
+### Results\_Election.txt
+
+An updated file, sent to us on 2014-10-06, had the string "NULL" for the election type ID of two presidential primary elections. I replaced this with the ID value 2, to be consistent with the original file and the other records for presidential primary elections.
+
+```
+sed s/NULL/2/ raw/Results_Election.orig.txt > raw/Results_Election.txt
+```
+
+See https://github.com/openelections/openelections-data-wa/issues/2 for background on why we got an updated file.
+
 ## Processing
 
 As the raw files appear to be a dump from a relational databse, I loaded the data into a SQLite database in order to denormalize it.

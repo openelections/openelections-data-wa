@@ -1,5 +1,7 @@
+import datetime
+
 from peewee import (SqliteDatabase, Model, CharField,
-    ForeignKeyField, BooleanField, IntegerField, DateTimeField, 
+    ForeignKeyField, BooleanField, IntegerField, DateField, 
     TextField)
 
 db = SqliteDatabase('openelexdatawa.db')
@@ -29,7 +31,7 @@ class ElectionType(IntegerIdModel):
 
 
 class Election(IntegerIdModel):
-    electiondate = DateTimeField()
+    electiondate = DateField()
     description = CharField()
     electiontype = ForeignKeyField(ElectionType, null=True)
 
@@ -92,6 +94,32 @@ class Election(IntegerIdModel):
         for candidate in self.candidates.select():
             results.extend(candidate.results())
         return results
+
+    def parse_electiondate(self):
+        """Parse date string into a date object and save the model"""
+        formats = [
+            '%m/%d/%Y',
+            '%Y-%m-%d %H:%M:%S.%f',
+        ]
+        for fmt in formats:
+            try:
+                d = datetime.datetime.strptime(self.electiondate, fmt)
+                self.electiondate = datetime.date(d.year, d.month, d.day)
+                self.save()
+                return self
+            except ValueError:
+                pass
+
+        raise ValueError
+
+    @classmethod
+    def parse_electiondates(cls):
+        for m in cls.select():
+            try:
+                year = m.electiondate.year
+            except AttributeError:
+                m.parse_electiondate()
+
 
 class OfficeType(IntegerIdModel):
     officetype = CharField()

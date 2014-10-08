@@ -75,8 +75,8 @@ ElectionID	ElectionDate	Description	ElectionTypeID
 74	9/16/1982	1982 Primary	2
 75	10/11/1983	1983 October Special Senate Primary	2
 76	9/15/1970	1970 Primary	2
-77	3/26/1996	1996 Presidential Primary	2
-78	5/19/1992	1992 Presidential Primary	2
+77	3/26/1996	1996 Presidential Primary	NULL
+78	5/19/1992	1992 Presidential Primary	NULL
 79	9/19/1972	1972 Primary	2
 80	9/18/1984	1984 Primary	2
 81	9/21/1976	1976 Primary	2

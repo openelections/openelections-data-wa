@@ -1,10 +1,17 @@
 #!/usr/bin/env python
 
 import argparse
+import logging
 import os
 import os.path
 
 from openelexdata.us.wa import loaddata, createcsvs
+
+logger = logging.getLogger()
+logger.setLevel(logging.INFO)
+handler = logging.StreamHandler()
+handler.setLevel(logging.INFO)
+logger.addHandler(handler)
 
 thisdir = os.path.dirname(os.path.realpath(__file__))
 project_root = os.path.abspath(os.path.join(thisdir, os.pardir)) 
