@@ -1,0 +1,102 @@
+---
+title: "openelections WA data cleaning"
+output: html_notebook
+---
+
+```{r packages}
+library(tidyverse)
+```
+Also calls: rio
+
+Get district info to use to convert county codes into counties in precinct parser
+```{r district-info}
+# found at https://www.sos.wa.gov/elections/research/Data-and-Statistics.aspx
+district_info <- rio::import('https://www.sos.wa.gov/_assets/elections/research/2016.12.07-Districts_Precincts.xlsx') %>% 
+    tbl_df()
+
+county_codes <- district_info %>% 
+    set_names(tolower) %>% 
+    select(countycode, county) %>% 
+    distinct()
+
+# rm(district_info)    # uncomment if you need the memory (dim: 173,309 x 9)
+```
+
+Set up file cleaning functions
+```{r cleaning-functions}
+clean_county <- . %>% 
+    set_names(tolower) %>%
+    filter(grepl("President|Senator|Representative|Governor|Secretary of State|State Treasurer|State Auditor|Attorney General|Commissioner of Public Lands|Superintendent of Public Instruction|Insurance Commissioner", race, ignore.case = TRUE)) %>% 
+    mutate(district = gsub('\\D+', '-', race), 
+           district = gsub('^-|-$', '', district), 
+           district = na_if(district, ''),
+           office = gsub('.*District \\d+ (\\D*)(?: Pos. \\d+)?$', '\\1', race), 
+           office = gsub('United States( U.S.)?', 'U.S.', office),
+           office = gsub('Washington State ', '', office), 
+           party = gsub('\\(Prefers | Party\\)| Party Nominees', '', party), 
+           party = gsub('&amp;', '&', party), 
+           party = gsub('&#39;', 'enden', party),
+           party = if_else(grepl('No Party|Non.Partisan|None', party), NA_character_, party)) %>% 
+    select(county, office, district, party, candidate, votes)
+
+clean_precinct <- function(precincts, counties_clean, county_codes) {
+    counties_clean <- counties_clean %>% select(candidate, party) %>% distinct()
+    
+    precincts %>% 
+        set_names(tolower) %>%
+        filter(grepl("President|Senator|Representative|Governor|Secretary of State|State Treasurer|State Auditor|Attorney General|Commissioner of Public Lands|Superintendent of Public Instruction|Insurance Commissioner", race, ignore.case = TRUE),
+               precinctname != 'Total') %>%    # also suspicious: `(none)`, siffix `(*)`
+        mutate(district = gsub('\\D+', '-', race), 
+               district = gsub('^-|-$', '', district), 
+               district = na_if(district, ''),
+               office = gsub('.*District \\d+ (\\D*)(?: Pos. \\d+)?$', '\\1', race), 
+               office = gsub('United States( U.S.)?', 'U.S.', office),
+               office = gsub('Washington State ', '', office)) %>% 
+        left_join(county_codes, by = 'countycode', na_matches = 'never') %>% 
+        left_join(counties_clean, by = 'candidate', na_matches = 'never') %>% 
+    select(county, precinct = precinctname, office, district, party, candidate, 
+           votes, precinct_code = precinctcode)
+}
+```
+
+Read the files directly from the web, clean them, and write each to a directory 
+for the corresponding year
+```{r read-clean-write}
+# Can be longer character vectors if data is similaly formatted. 
+# **Order of county and precinct elections must collate for proper joining.**
+county_urls <- 'http://results.vote.wa.gov/results/20161108/export/20161108_AllCounties.csv'
+precinct_urls <- 'http://results.vote.wa.gov/results/20161108/export/20161108_AllStatePrecincts.csv'
+
+# Make directories for each year present
+county_urls %>% 
+    basename() %>% 
+    substr(1, 4) %>% 
+    unique() %>% 
+    file.path('..', .) %>% 
+    walk(dir.create, showWarnings = FALSE)
+
+county_filenames <- county_urls %>% 
+    basename() %>% 
+    # To use on primaries, need type indicator or to run separately
+    sub('(\\d+).*', '\\1__wa__general__county.csv', .) %>% 
+    file.path('..', substr(., 1, 4), .)    # put in directory for year
+
+precinct_filenames <- precinct_urls %>% 
+    basename() %>% 
+    sub('(\\d+).*', '\\1__wa__general__precinct.csv', .) %>% 
+    file.path('..', substr(., 1, 4), .)
+
+# Read and clean county files. Write to memory for precinct joining.
+counties_clean <- county_urls %>% 
+    map(read_csv) %>% 
+    map(clean_county)
+
+# Write county files
+counties_clean %>% walk2(county_filenames, write_csv)
+
+# Read, clean, and write precinct files
+precinct_urls %>% 
+    map(read_csv) %>% 
+    map2(counties_clean, ~clean_precinct(.x, .y, county_codes)) %>% 
+    walk2(precinct_filenames, write_csv)    # write to disk immediately instead of memory
+```
