@@ -28,7 +28,7 @@ kingCountyPrecinctFiles <- c(
 )
 
 electionTypes <- c(
-  'special', 'special', 'primary', 'general'
+  'special__general', 'special__general', 'primary', 'general'
 )
 
 # end configure
@@ -67,7 +67,7 @@ extractElectionDate <- function(inputFileName) {
   gsub(x=inputFileName, pattern='([0-9]+)_.+', replacement='\\1')
 }
 
-processCountyFile <- function(inputFileName, electionType=c('general', 'primary', 'special')) {
+processCountyFile <- function(inputFileName, electionType=c('general', 'primary', 'special__general', 'special__primary')) {
   
   electionType <- match.arg(electionType)
   electionDate <- extractElectionDate(inputFileName)
@@ -86,7 +86,7 @@ processCountyFile <- function(inputFileName, electionType=c('general', 'primary'
   
 }
 
-processPrecinctFile <- function(inputFileName, electionType=c('general', 'primary', 'special')) {
+processPrecinctFile <- function(inputFileName, electionType=c('general', 'primary', 'special__general', 'special__primary')) {
   
   electionType <- match.arg(electionType)
   electionDate <- extractElectionDate(inputFileName)
@@ -117,7 +117,7 @@ precinctDfs <- map2(precinctDfs, names(precinctDfs), function(pdf, name) {
 })
 names(precinctDfs) <- extractElectionDate(statePrecinctFiles)
 
-processPrecinctFile <- function(inputFileName, electionType=c('general', 'primary', 'special')) {
+processPrecinctFile <- function(inputFileName, electionType=c('general', 'primary', 'special__general', 'special__primary')) {
   
   electionType <- match.arg(electionType)
   electionDate <- extractElectionDate(inputFileName)
