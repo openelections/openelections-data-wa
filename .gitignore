@@ -1,3 +1,4 @@
 *.swp
 *.pyc
 openelexdatawa.db
+.Rproj.user
