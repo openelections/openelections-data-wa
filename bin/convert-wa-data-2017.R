@@ -44,7 +44,11 @@ countyCodes <- precincts %>%
 precinctCodes <- precincts %>%
   select(CountyCode, PrecinctCode, PrecinctName) %>%
   mutate(PrecinctCode=as.integer(PrecinctCode)) %>%
-  distinct()
+  distinct() %>%
+  bind_rows(
+    # who knows why this is missing from the SOS file...
+    tibble(CountyCode='SP', PrecinctCode=7037, PrecinctName='PCT 7037')
+  )
 
 cleanOffice <- function(Race) {
   gsub(x=Race, pattern='Legislative District [0-9]+(?: -)? State (.+)(?: Pos.*)?', replacement='State \\1', perl=TRUE) %>%
