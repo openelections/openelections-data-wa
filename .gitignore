@@ -2,3 +2,5 @@
 *.pyc
 openelexdatawa.db
 .Rproj.user
+.Rhistory
+
