@@ -18,8 +18,9 @@ nonKing <- list.files(SOURCE_DATA_DIR, pattern='.+2012Gen.+\\.xlsx$', full.names
     if ('Precinct Name' %in% colnames(tdf)) {
       tdf %>%
         mutate(county=county) %>%
+        mutate(precinct=case_when(county=='Spokane' ~ `Prec Cd`, TRUE ~ `Precinct Name`)) %>%
         select(county,
-               precinct=`Precinct Name`,
+               precinct,
                office=`Contest Title`,
                candidate=`Candidate Name`,
                cd=Cong_dist,
@@ -205,7 +206,63 @@ candidatePartyLookup <- candidates %>%
 
 statewideClean <- left_join(statewideClean, candidatePartyLookup, by='candidate')
 
+# clean up precinct codes etc.
+
+precincts2012 <- read_sf('/opt/data/washington/elections/statewide-precincts/2012/Statewide_Prec_2012.shp') %>%
+  mutate(Name=case_when(
+    CountyCode=='PA' & Code=='022' ~ 'PIONEER 2',
+    CountyCode=='PA' ~ gsub(x=Name, pattern='(.+) [0-9]+$', replacement='\\1') %>%
+      trimws() %>%
+      gsub(x=., pattern='(.+)\\-$', replacement='\\1') %>%
+      trimws() %>%
+      gsub(x=., pattern='/', replacement='-') %>%
+      gsub(x=., pattern='#', replacement='') %>%
+      toupper(),
+    CountyCode=='PE' ~ toupper(Name),
+    CountyCode=='SN' ~ toupper(Name),
+    TRUE ~ Name
+  ))
+
+statewideClean <- statewideClean %>%
+  mutate(precinctM=case_when(
+    county=='Klickitat' ~ gsub(x=precinct, pattern='N ', replacement='North ') %>%
+      gsub(x=., pattern='E ', replacement='East ') %>%
+      gsub(x=., pattern='W ', replacement='West ') %>%
+      gsub(x=., pattern='Mt ', replacement='MTN ') %>%
+      gsub(x=., pattern='Hts', replacement='Heights') %>%
+      gsub(x=., pattern='Aldercreek', replacement='Alder Creek') %>%
+      toupper(),
+    county=='Pacific' ~ gsub(x=precinct, pattern='South Bend ([123])[ ]?R$', replacement='South Bend \\1 Rural') %>%
+      gsub(x=., pattern='Raymond W([23]) R', replacement='Raymond \\1 Rural') %>%
+      gsub(x=., pattern='Raymond W([23])', replacement='Raymond Ward \\1 City') %>%
+      gsub(x=., pattern='Raymond W1p([123])', replacement='Raymond Ward 1 Precinct \\1 City') %>%
+      gsub(x=., pattern='South Bend ([123])$', replacement='South Bend Ward \\1 City') %>%
+      gsub(x=., pattern='^Long Beach$', replacement='Long Beach City') %>%
+      toupper(),
+    county=='Pend Oreille' ~ gsub(x=precinct, pattern='/', replacement=' - '),
+    county=='Pierce' ~ gsub(x=precinct, pattern='-', replacement=''),
+    county=='Thurston' ~ gsub(x=precinct, pattern='(.+) [0-9\\.]+$', replacement='\\1') %>%
+      gsub(x=., pattern='#|\'', replacement='') %>%
+      gsub(x=., pattern='BUTLER COVER', replacement='BUTLER COVE') %>%
+      gsub(x=., pattern='ST. CLAIR', replacement='ST CLAIR') %>%
+      gsub(x=., pattern='(SPURGEON|BEAVER) CREEK', replacement='\\1 CRK'),
+    TRUE ~ precinct
+  )) %>%
+  left_join(precincts2012 %>% select(County, Name, ShpCode=Code) %>% st_set_geometry(NULL), by=c('county'='County', 'precinctM'='Name')) %>%
+  select(-precinctM) %>%
+  mutate(precinct_code=case_when(
+    county %in% c('Adams','Columbia','Garfield','Grant','Jefferson','Lewis') ~ gsub(x=precinct, pattern='^([0-9]+) .+', replacement='\\1'),
+    county %in% c('Ferry','King','Klickitat','Pacific','Pend Oreille','Snohomish','Thurston') ~ ShpCode,
+    county %in% c('Franklin') ~ gsub(x=precinct, pattern='^Pct ([0-9]+)$', replacement='\\1'),
+    county=='Kitsap' ~ paste0('100', gsub(x=precinct, pattern='.+ ([0-9]{3})$', replacement='\\1')),
+    county=='Okanogan' ~ gsub(x=precinct, pattern='^0+([1-9][0-9]+)[ \\-].+', replacement='\\1'),
+    county=='Wahkiakum' ~ gsub(x=precinct, pattern='^([0-9]+) \\-.+', replacement='\\1'),
+    county=='Walla Walla' ~ gsub(x=precinct, pattern='.+ ([0-9]{2})$', replacement='\\1'),
+    county=='Whitman' ~ gsub(x=precinct, pattern='^([0-9]{4}) .+', replacement='\\1'),
+    TRUE ~ precinct
+  )) %>% select(-ShpCode)
+
 statewideClean %>%
-  select(county,precinct,office,district,party,candidate,votes) %>%
+  select(county,precinct_code,precinct,office,district,party,candidate,votes) %>%
   write_csv(file.path(OUTPUT_DATA_DIR, '20121106__wa__general__precinct.csv'))
 
