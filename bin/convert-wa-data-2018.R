@@ -33,7 +33,7 @@ electionTypes <- c(
 
 # end configure
 
-precincts <- read_sf('/opt/data/Shapefiles/wa-voting-precincts/Statewide_Prec_2017.shp') %>% st_set_geometry(NULL) %>%
+precincts <- read_sf('/opt/data/washington/elections/statewide-precincts/2017/Statewide_Prec_2017.shp') %>% st_set_geometry(NULL) %>%
   select(COUNTY, COUNTYCODE, PRECCODE, PRECNAME) %>%
   bind_rows(
     read_sf('/opt/data/washington/elections/king-precincts-shp/Voting_Districts_of_King_County__votdst_area.shp') %>% st_set_geometry(NULL) %>%
@@ -129,10 +129,9 @@ processPrecinctFile <- function(inputFileName, electionType=c('special__general'
            district=cleanDistrict(Race)
     ) %>%
     filter(PrecinctCode != -1) %>%
-    select(-PrecinctName) %>%
     left_join(countyCodes, by='CountyCode') %>%
-    select(county=County, precinct=PrecinctCode, office, district, candidate=Candidate, votes=Votes) %>%
-    mutate(precinct=as.character(precinct))
+    select(county=County, precinct_code=PrecinctCode, precinct=PrecinctName, office, district, candidate=Candidate, votes=Votes) %>%
+    mutate(precinct_code=as.character(precinct))
   
   cdf
   
@@ -147,7 +146,7 @@ names(precinctDfs) <- extractElectionDate(statePrecinctFiles)
 precinctDfs <- map2(precinctDfs, names(precinctDfs), function(pdf, name) {
   pdf %>%
     left_join(countyDfs[[name]] %>% select(candidate, office, party) %>% distinct(), by=c('candidate', 'office')) %>%
-    select(county, precinct, office, district, party, candidate, votes)
+    select(county, precinct_code, precinct, office, district, party, candidate, votes)
 })
 names(precinctDfs) <- extractElectionDate(statePrecinctFiles)
 
@@ -171,14 +170,14 @@ processPrecinctFile <- function(inputFileName, electionType=c('special__general'
       is.na(party) ~ NA_character_,
       TRUE ~ party
     )) %>%
-    left_join(precincts %>% filter(COUNTYCODE=='KI') %>% select(precinct=PRECCODE, PRECNAME), by=c('Precinct'='PRECNAME')) %>%
-    select(county, precinct, office, district, party, candidate, votes, PrecinctName=Precinct) %>%
+    left_join(precincts %>% filter(COUNTYCODE=='KI') %>% select(precinct_code=PRECCODE, PRECNAME), by=c('Precinct'='PRECNAME')) %>%
+    select(county, precinct_code, precinct=Precinct, office, district, party, candidate, votes) %>%
     filter(!grepl(x=candidate, pattern='^Times ')) %>%
     mutate(candidate=gsub(x=candidate, pattern='\xf1', replacement='\u00F1')) %>%
-    mutate(precinct=case_when(PrecinctName=='ELECTIONS OFFICE' ~ PrecinctName, TRUE ~ as.character(precinct))) %>%
+    mutate(precinct_code=case_when(precinct=='ELECTIONS OFFICE' ~ precinct, TRUE ~ as.character(precinct_code))) %>%
     bind_rows(precinctDfs[[electionDate]])
   
-  write_csv(cdf %>% select(-PrecinctName), paste0(OUTPUT_DATA_DIR, electionDate, '__wa__', electionType, '__precinct.csv'), na='')
+  write_csv(cdf, paste0(OUTPUT_DATA_DIR, electionDate, '__wa__', electionType, '__precinct.csv'), na='')
   
   cdf
   
