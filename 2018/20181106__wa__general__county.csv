@@ -11,10 +11,10 @@ Adams,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bil
 Adams,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Maintained,853
 Adams,ADAMS COUNTY Special Election Proposition 1 Adams County Sales and Use Tax,,,Approved,2108
 Adams,ADAMS COUNTY Special Election Proposition 1 Adams County Sales and Use Tax,,,Rejected,2038
-Adams,U.S. Senator,,Democratic,Maria Cantwell,1365
-Adams,U.S. Senator,,Republican,Susan Hutchison,2867
-Adams,U.S. Representative,4,Republican,Dan Newhouse,3116
-Adams,U.S. Representative,4,Democratic,Christine Brown,1104
+Adams,U.S. Senate,,Democratic,Maria Cantwell,1365
+Adams,U.S. Senate,,Republican,Susan Hutchison,2867
+Adams,U.S. House,4,Republican,Dan Newhouse,3116
+Adams,U.S. House,4,Democratic,Christine Brown,1104
 Adams,State Representative (Pos. 1),9,Republican,Mary Dye,3134
 Adams,State Representative (Pos. 1),9,Democratic,Jenn Goulet,1055
 Adams,State Representative (Pos. 2),9,GOP,Joe Schmick,2955
@@ -50,10 +50,10 @@ Asotin,State Measures Initiative to the Legislature 940 Initiative Measure No. 9
 Asotin,State Measures Initiative to the Legislature 940 Initiative Measure No. 940 concerns law enforcement.,,,No,4347
 Asotin,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Repealed,6072
 Asotin,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Maintained,2583
-Asotin,U.S. Senator,,Democratic,Maria Cantwell,3809
-Asotin,U.S. Senator,,Republican,Susan Hutchison,5298
-Asotin,U.S. Representative,5,Republican,Cathy McMorris Rodgers,5527
-Asotin,U.S. Representative,5,Democratic,Lisa Brown,3570
+Asotin,U.S. Senate,,Democratic,Maria Cantwell,3809
+Asotin,U.S. Senate,,Republican,Susan Hutchison,5298
+Asotin,U.S. House,5,Republican,Cathy McMorris Rodgers,5527
+Asotin,U.S. House,5,Democratic,Lisa Brown,3570
 Asotin,State Representative (Pos. 1),9,Republican,Mary Dye,5816
 Asotin,State Representative (Pos. 1),9,Democratic,Jenn Goulet,3193
 Asotin,State Representative (Pos. 2),9,GOP,Joe Schmick,5386
@@ -90,12 +90,12 @@ Benton,State Measures Initiative to the Legislature 940 Initiative Measure No. 9
 Benton,State Measures Initiative to the Legislature 940 Initiative Measure No. 940 concerns law enforcement.,,,No,41588
 Benton,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Repealed,50249
 Benton,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Maintained,20718
-Benton,U.S. Senator,,Democratic,Maria Cantwell,28187
-Benton,U.S. Senator,,Republican,Susan Hutchison,46938
-Benton,U.S. Representative,4,Republican,Dan Newhouse,46618
-Benton,U.S. Representative,4,Democratic,Christine Brown,28289
-Benton,State Senator,8,Republican,Sharon Raye Brown,39960
-Benton,State Senator,8,Democratic,Leo Perales,19194
+Benton,U.S. Senate,,Democratic,Maria Cantwell,28187
+Benton,U.S. Senate,,Republican,Susan Hutchison,46938
+Benton,U.S. House,4,Republican,Dan Newhouse,46618
+Benton,U.S. House,4,Democratic,Christine Brown,28289
+Benton,State Senate,8,Republican,Sharon Raye Brown,39960
+Benton,State Senate,8,Democratic,Leo Perales,19194
 Benton,State Representative (Pos. 1),8,Republican,Brad Klippert,38570
 Benton,State Representative (Pos. 1),8,Democratic,Shir Regev,20514
 Benton,State Representative (Pos. 2),8,Republican,Matt Boehnke,38817
@@ -137,10 +137,10 @@ Chelan,State Measures Initiative to the Legislature 940 Initiative Measure No. 9
 Chelan,State Measures Initiative to the Legislature 940 Initiative Measure No. 940 concerns law enforcement.,,,No,16693
 Chelan,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Repealed,20276
 Chelan,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Maintained,11373
-Chelan,U.S. Senator,,Democratic,Maria Cantwell,14787
-Chelan,U.S. Senator,,Republican,Susan Hutchison,18775
-Chelan,U.S. Representative,8,GOP,Dino Rossi,17869
-Chelan,U.S. Representative,8,Democratic,Kim Schrier,14903
+Chelan,U.S. Senate,,Democratic,Maria Cantwell,14787
+Chelan,U.S. Senate,,Republican,Susan Hutchison,18775
+Chelan,U.S. House,8,GOP,Dino Rossi,17869
+Chelan,U.S. House,8,Democratic,Kim Schrier,14903
 Chelan,State Representative (Pos. 1),12,Republican,Keith Goehner,18403
 Chelan,State Representative (Pos. 1),12,States No Party Preference,Ann Diamond,14702
 Chelan,State Representative (Pos. 2),12,Republican,Mike Steele,20862
@@ -191,10 +191,10 @@ Clallam,State Measures Initiative to the Legislature 940 Initiative Measure No. 
 Clallam,State Measures Initiative to the Legislature 940 Initiative Measure No. 940 concerns law enforcement.,,,No,18157
 Clallam,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Repealed,21441
 Clallam,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Maintained,15635
-Clallam,U.S. Senator,,Democratic,Maria Cantwell,20036
-Clallam,U.S. Senator,,Republican,Susan Hutchison,19504
-Clallam,U.S. Representative,6,Democratic,Derek Kilmer,22633
-Clallam,U.S. Representative,6,Republican,Douglas Dightman,16551
+Clallam,U.S. Senate,,Democratic,Maria Cantwell,20036
+Clallam,U.S. Senate,,Republican,Susan Hutchison,19504
+Clallam,U.S. House,6,Democratic,Derek Kilmer,22633
+Clallam,U.S. House,6,Republican,Douglas Dightman,16551
 Clallam,State Representative (Pos. 1),24,Democratic,Mike Chapman,21595
 Clallam,State Representative (Pos. 1),24,Republican,Jodi Wilke,17580
 Clallam,State Representative (Pos. 2),24,Democratic,Steve Tharinger,20212
@@ -239,10 +239,10 @@ Clark,State Measures Initiative to the Legislature 940 Initiative Measure No. 94
 Clark,State Measures Initiative to the Legislature 940 Initiative Measure No. 940 concerns law enforcement.,,,No,88410
 Clark,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Repealed,103892
 Clark,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Maintained,78015
-Clark,U.S. Senator,,Democratic,Maria Cantwell,102619
-Clark,U.S. Senator,,Republican,Susan Hutchison,91153
-Clark,U.S. Representative,3,Republican,Jaime Herrera Beutler,94930
-Clark,U.S. Representative,3,Democratic,Carolyn Long,99296
+Clark,U.S. Senate,,Democratic,Maria Cantwell,102619
+Clark,U.S. Senate,,Republican,Susan Hutchison,91153
+Clark,U.S. House,3,Republican,Jaime Herrera Beutler,94930
+Clark,U.S. House,3,Democratic,Carolyn Long,99296
 Clark,State Representative (Pos. 1),14,Republican,Chris Corry,1094
 Clark,State Representative (Pos. 1),14,Democratic,Sasha Bentley,789
 Clark,State Representative (Pos. 2),14,Republican,Gina Mosbrucker,1124
@@ -307,10 +307,10 @@ Columbia,State Measures Initiative to the Legislature 940 Initiative Measure No.
 Columbia,State Measures Initiative to the Legislature 940 Initiative Measure No. 940 concerns law enforcement.,,,No,1367
 Columbia,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Repealed,1587
 Columbia,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Maintained,496
-Columbia,U.S. Senator,,Democratic,Maria Cantwell,731
-Columbia,U.S. Senator,,Republican,Susan Hutchison,1468
-Columbia,U.S. Representative,5,Republican,Cathy McMorris Rodgers,1572
-Columbia,U.S. Representative,5,Democratic,Lisa Brown,636
+Columbia,U.S. Senate,,Democratic,Maria Cantwell,731
+Columbia,U.S. Senate,,Republican,Susan Hutchison,1468
+Columbia,U.S. House,5,Republican,Cathy McMorris Rodgers,1572
+Columbia,U.S. House,5,Democratic,Lisa Brown,636
 Columbia,State Representative (Pos. 1),16,Republican,William 'Bill' Jenkin,1629
 Columbia,State Representative (Pos. 1),16,Democratic,Everett Maroon,533
 Columbia,State Representative (Pos. 2),16,Democratic,Rebecca Francik,540
@@ -342,10 +342,10 @@ Cowlitz,State Measures Initiative to the Legislature 940 Initiative Measure No. 
 Cowlitz,State Measures Initiative to the Legislature 940 Initiative Measure No. 940 concerns law enforcement.,,,No,23832
 Cowlitz,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Repealed,29054
 Cowlitz,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Maintained,13244
-Cowlitz,U.S. Senator,,Democratic,Maria Cantwell,20485
-Cowlitz,U.S. Senator,,Republican,Susan Hutchison,23773
-Cowlitz,U.S. Representative,3,Republican,Jaime Herrera Beutler,24930
-Cowlitz,U.S. Representative,3,Democratic,Carolyn Long,19472
+Cowlitz,U.S. Senate,,Democratic,Maria Cantwell,20485
+Cowlitz,U.S. Senate,,Republican,Susan Hutchison,23773
+Cowlitz,U.S. House,3,Republican,Jaime Herrera Beutler,24930
+Cowlitz,U.S. House,3,Democratic,Carolyn Long,19472
 Cowlitz,State Representative (Pos. 1),19,Republican,Jim Walsh,13629
 Cowlitz,State Representative (Pos. 1),19,Democratic,Erin Frasier,13553
 Cowlitz,State Representative (Pos. 2),19,Democratic,Brian E. Blake,14497
@@ -390,12 +390,12 @@ Douglas,State Measures Initiative to the Legislature 940 Initiative Measure No. 
 Douglas,State Measures Initiative to the Legislature 940 Initiative Measure No. 940 concerns law enforcement.,,,No,8387
 Douglas,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Repealed,10147
 Douglas,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Maintained,4237
-Douglas,U.S. Senator,,Democratic,Maria Cantwell,5390
-Douglas,U.S. Senator,,Republican,Susan Hutchison,9512
-Douglas,U.S. Representative,4,Republican,Dan Newhouse,5833
-Douglas,U.S. Representative,4,Democratic,Christine Brown,2567
-Douglas,U.S. Representative,8,GOP,Dino Rossi,3799
-Douglas,U.S. Representative,8,Democratic,Kim Schrier,2608
+Douglas,U.S. Senate,,Democratic,Maria Cantwell,5390
+Douglas,U.S. Senate,,Republican,Susan Hutchison,9512
+Douglas,U.S. House,4,Republican,Dan Newhouse,5833
+Douglas,U.S. House,4,Democratic,Christine Brown,2567
+Douglas,U.S. House,8,GOP,Dino Rossi,3799
+Douglas,U.S. House,8,Democratic,Kim Schrier,2608
 Douglas,State Representative (Pos. 1),12,Republican,Keith Goehner,8960
 Douglas,State Representative (Pos. 1),12,States No Party Preference,Ann Diamond,5716
 Douglas,State Representative (Pos. 2),12,Republican,Mike Steele,10153
@@ -431,12 +431,12 @@ Ferry,State Measures Initiative to the Legislature 940 Initiative Measure No. 94
 Ferry,State Measures Initiative to the Legislature 940 Initiative Measure No. 940 concerns law enforcement.,,,No,1858
 Ferry,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Repealed,2544
 Ferry,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Maintained,854
-Ferry,U.S. Senator,,Democratic,Maria Cantwell,1329
-Ferry,U.S. Senator,,Republican,Susan Hutchison,2159
-Ferry,U.S. Representative,5,Republican,Cathy McMorris Rodgers,2272
-Ferry,U.S. Representative,5,Democratic,Lisa Brown,1232
-Ferry,State Senator,7,Republican,Shelly Short,2384
-Ferry,State Senator,7,Democratic,Karen Hardy,1100
+Ferry,U.S. Senate,,Democratic,Maria Cantwell,1329
+Ferry,U.S. Senate,,Republican,Susan Hutchison,2159
+Ferry,U.S. House,5,Republican,Cathy McMorris Rodgers,2272
+Ferry,U.S. House,5,Democratic,Lisa Brown,1232
+Ferry,State Senate,7,Republican,Shelly Short,2384
+Ferry,State Senate,7,Democratic,Karen Hardy,1100
 Ferry,State Representative (Pos. 1),7,Republican,Jacquelin Maycumber,2427
 Ferry,State Representative (Pos. 1),7,Democratic,Randall (Randy) Michaelis,1064
 Ferry,State Representative (Pos. 2),7,Republican,Joel Kretz,2373
@@ -473,10 +473,10 @@ Franklin,State Measures Initiative to the Legislature 940 Initiative Measure No.
 Franklin,State Measures Initiative to the Legislature 940 Initiative Measure No. 940 concerns law enforcement.,,,No,11604
 Franklin,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Repealed,15981
 Franklin,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Maintained,5519
-Franklin,U.S. Senator,,Democratic,Maria Cantwell,8983
-Franklin,U.S. Senator,,Republican,Susan Hutchison,13329
-Franklin,U.S. Representative,4,Republican,Dan Newhouse,13376
-Franklin,U.S. Representative,4,Democratic,Christine Brown,8870
+Franklin,U.S. Senate,,Democratic,Maria Cantwell,8983
+Franklin,U.S. Senate,,Republican,Susan Hutchison,13329
+Franklin,U.S. House,4,Republican,Dan Newhouse,13376
+Franklin,U.S. House,4,Democratic,Christine Brown,8870
 Franklin,State Representative (Pos. 1),9,Republican,Mary Dye,11344
 Franklin,State Representative (Pos. 1),9,Democratic,Jenn Goulet,5279
 Franklin,State Representative (Pos. 2),9,GOP,Joe Schmick,10502
@@ -517,10 +517,10 @@ Garfield,State Measures Initiative to the Legislature 940 Initiative Measure No.
 Garfield,State Measures Initiative to the Legislature 940 Initiative Measure No. 940 concerns law enforcement.,,,No,784
 Garfield,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Repealed,975
 Garfield,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Maintained,289
-Garfield,U.S. Senator,,Democratic,Maria Cantwell,445
-Garfield,U.S. Senator,,Republican,Susan Hutchison,880
-Garfield,U.S. Representative,5,Republican,Cathy McMorris Rodgers,1010
-Garfield,U.S. Representative,5,Democratic,Lisa Brown,333
+Garfield,U.S. Senate,,Democratic,Maria Cantwell,445
+Garfield,U.S. Senate,,Republican,Susan Hutchison,880
+Garfield,U.S. House,5,Republican,Cathy McMorris Rodgers,1010
+Garfield,U.S. House,5,Democratic,Lisa Brown,333
 Garfield,State Representative (Pos. 1),9,Republican,Mary Dye,1090
 Garfield,State Representative (Pos. 1),9,Democratic,Jenn Goulet,251
 Garfield,State Representative (Pos. 2),9,GOP,Joe Schmick,1002
@@ -553,15 +553,15 @@ Grant,State Measures Initiative to the Legislature 940 Initiative Measure No. 94
 Grant,State Measures Initiative to the Legislature 940 Initiative Measure No. 940 concerns law enforcement.,,,No,15647
 Grant,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Repealed,19575
 Grant,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Maintained,5928
-Grant,U.S. Senator,,Democratic,Maria Cantwell,8159
-Grant,U.S. Senator,,Republican,Susan Hutchison,18333
-Grant,U.S. Representative,4,Republican,Dan Newhouse,19197
-Grant,U.S. Representative,4,Democratic,Christine Brown,7189
+Grant,U.S. Senate,,Democratic,Maria Cantwell,8159
+Grant,U.S. Senate,,Republican,Susan Hutchison,18333
+Grant,U.S. House,4,Republican,Dan Newhouse,19197
+Grant,U.S. House,4,Democratic,Christine Brown,7189
 Grant,State Representative (Pos. 1),12,Republican,Keith Goehner,1764
 Grant,State Representative (Pos. 1),12,States No Party Preference,Ann Diamond,1060
 Grant,State Representative (Pos. 2),12,Republican,Mike Steele,2017
 Grant,State Representative (Pos. 2),12,Democratic,Valerie Sarratt,825
-Grant,State Senator,13,Republican,Judy Warnick,19119
+Grant,State Senate,13,Republican,Judy Warnick,19119
 Grant,State Representative (Pos. 1),13,Republican,Tom Dent,17793
 Grant,State Representative (Pos. 1),13,Democratic,Jesse Hegstrom Oakey,5533
 Grant,State Representative (Pos. 2),13,Republican,Matt Manweller,15038
@@ -602,10 +602,10 @@ Grays Harbor,State Measures Initiative to the Legislature 940 Initiative Measure
 Grays Harbor,State Measures Initiative to the Legislature 940 Initiative Measure No. 940 concerns law enforcement.,,,No,14544
 Grays Harbor,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Repealed,18123
 Grays Harbor,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Maintained,9065
-Grays Harbor,U.S. Senator,,Democratic,Maria Cantwell,13605
-Grays Harbor,U.S. Senator,,Republican,Susan Hutchison,14851
-Grays Harbor,U.S. Representative,6,Democratic,Derek Kilmer,15530
-Grays Harbor,U.S. Representative,6,Republican,Douglas Dightman,12646
+Grays Harbor,U.S. Senate,,Democratic,Maria Cantwell,13605
+Grays Harbor,U.S. Senate,,Republican,Susan Hutchison,14851
+Grays Harbor,U.S. House,6,Democratic,Derek Kilmer,15530
+Grays Harbor,U.S. House,6,Republican,Douglas Dightman,12646
 Grays Harbor,State Representative (Pos. 1),19,Republican,Jim Walsh,6227
 Grays Harbor,State Representative (Pos. 1),19,Democratic,Erin Frasier,6683
 Grays Harbor,State Representative (Pos. 2),19,Democratic,Brian E. Blake,7447
@@ -651,10 +651,10 @@ Island,State Measures Initiative to the Legislature 940 Initiative Measure No. 9
 Island,State Measures Initiative to the Legislature 940 Initiative Measure No. 940 concerns law enforcement.,,,No,18330
 Island,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Repealed,21574
 Island,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Maintained,18476
-Island,U.S. Senator,,Democratic,Maria Cantwell,22341
-Island,U.S. Senator,,Republican,Susan Hutchison,19672
-Island,U.S. Representative,2,Democratic,Rick Larsen,26647
-Island,U.S. Representative,2,Libertarian,Brian Luke,12602
+Island,U.S. Senate,,Democratic,Maria Cantwell,22341
+Island,U.S. Senate,,Republican,Susan Hutchison,19672
+Island,U.S. House,2,Democratic,Rick Larsen,26647
+Island,U.S. House,2,Libertarian,Brian Luke,12602
 Island,State Representative (Pos. 1),10,Democratic,Scott McMullen,20115
 Island,State Representative (Pos. 1),10,GOP,Norma Smith,21355
 Island,State Representative (Pos. 2),10,Democratic,Dave Paul,21886
@@ -692,10 +692,10 @@ Jefferson,State Measures Initiative to the Legislature 940 Initiative Measure No
 Jefferson,State Measures Initiative to the Legislature 940 Initiative Measure No. 940 concerns law enforcement.,,,No,6363
 Jefferson,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Repealed,7952
 Jefferson,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Maintained,12037
-Jefferson,U.S. Senator,,Democratic,Maria Cantwell,14331
-Jefferson,U.S. Senator,,Republican,Susan Hutchison,6502
-Jefferson,U.S. Representative,6,Democratic,Derek Kilmer,15076
-Jefferson,U.S. Representative,6,Republican,Douglas Dightman,5591
+Jefferson,U.S. Senate,,Democratic,Maria Cantwell,14331
+Jefferson,U.S. Senate,,Republican,Susan Hutchison,6502
+Jefferson,U.S. House,6,Democratic,Derek Kilmer,15076
+Jefferson,U.S. House,6,Republican,Douglas Dightman,5591
 Jefferson,State Representative (Pos. 1),24,Democratic,Mike Chapman,14377
 Jefferson,State Representative (Pos. 1),24,Republican,Jodi Wilke,6255
 Jefferson,State Representative (Pos. 2),24,Democratic,Steve Tharinger,14157
@@ -733,16 +733,16 @@ King,State Measures Initiative to the Legislature 940 Initiative Measure No. 940
 King,State Measures Initiative to the Legislature 940 Initiative Measure No. 940 concerns law enforcement.,,,No,267831
 King,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Repealed,352655
 King,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Maintained,549331
-King,U.S. Senator,,Democratic,Maria Cantwell,708654
-King,U.S. Senator,,Republican,Susan Hutchison,247071
-King,U.S. Representative,1,Democratic,Suzan DelBene,93249
-King,U.S. Representative,1,Republican,Jeffrey Beeler,41012
-King,U.S. Representative,7,Democratic,Pramila Jayapal,312252
-King,U.S. Representative,7,Republican,Craig Keller,56217
-King,U.S. Representative,8,GOP,Dino Rossi,77306
-King,U.S. Representative,8,Democratic,Kim Schrier,107064
-King,U.S. Representative,9,Democratic,Adam Smith,157334
-King,U.S. Representative,9,Democratic,Sarah Smith,75013
+King,U.S. Senate,,Democratic,Maria Cantwell,708654
+King,U.S. Senate,,Republican,Susan Hutchison,247071
+King,U.S. House,1,Democratic,Suzan DelBene,93249
+King,U.S. House,1,Republican,Jeffrey Beeler,41012
+King,U.S. House,7,Democratic,Pramila Jayapal,312252
+King,U.S. House,7,Republican,Craig Keller,56217
+King,U.S. House,8,GOP,Dino Rossi,77306
+King,U.S. House,8,Democratic,Kim Schrier,107064
+King,U.S. House,9,Democratic,Adam Smith,157334
+King,U.S. House,9,Democratic,Sarah Smith,75013
 King,State Representative (Pos. 1),1,Democratic,Derek Stanford,15194
 King,State Representative (Pos. 1),1,Republican,Josh Colver,5520
 King,State Representative (Pos. 2),1,Democratic,Shelley Kloba,14002
@@ -753,46 +753,46 @@ King,State Representative (Pos. 2),5,Democratic,Lisa Callan,39330
 King,State Representative (Pos. 2),5,Republican,Paul Graves,35944
 King,State Representative (Pos. 1),11,Democratic,Zack Hudgins,36327
 King,State Representative (Pos. 2),11,Democratic,Steve Bergquist,36300
-King,State Senator,30,Republican,Mark Miloscia,20199
-King,State Senator,30,Democratic,Claire Wilson,24316
+King,State Senate,30,Republican,Mark Miloscia,20199
+King,State Senate,30,Democratic,Claire Wilson,24316
 King,State Representative (Pos. 1),30,Democratic,Mike Pellicciotti,27239
 King,State Representative (Pos. 1),30,GOP,Linda Kochmar,16948
 King,State Representative (Pos. 2),30,Democratic,Kristine M. Reeves,28276
 King,State Representative (Pos. 2),30,GOP.,Mark Greene,15415
-King,State Senator,31,Republican,Phil Fortunato,10881
-King,State Senator,31,Democratic,Immaculate Ferreria,7852
+King,State Senate,31,Republican,Phil Fortunato,10881
+King,State Senate,31,Democratic,Immaculate Ferreria,7852
 King,State Representative (Pos. 1),31,Republican,Drew Stokesbary,10615
 King,State Representative (Pos. 1),31,Democratic,Victoria Mena,7979
 King,State Representative (Pos. 2),31,Republican,Morgan Irwin,10561
 King,State Representative (Pos. 2),31,Democratic,Mark Boswell,7958
-King,State Senator,32,Democratic,Jesse Salomon,23540
-King,State Senator,32,Democratic,Maralyn Chase,10046
+King,State Senate,32,Democratic,Jesse Salomon,23540
+King,State Senate,32,Democratic,Maralyn Chase,10046
 King,State Representative (Pos. 1),32,Democratic,Cindy Ryu,29194
 King,State Representative (Pos. 1),32,Republican,Diodato (Dio) Boucsieguez,6965
 King,State Representative (Pos. 2),32,Democratic,Lauren Davis,28490
 King,State Representative (Pos. 2),32,Republican,Frank Deisler,7522
-King,State Senator,33,Democratic,Karen Keiser,32552
-King,State Senator,33,Ind. Republican,Kun Wang,12769
+King,State Senate,33,Democratic,Karen Keiser,32552
+King,State Senate,33,Ind. Republican,Kun Wang,12769
 King,State Representative (Pos. 1),33,Democratic,Tina L. Orwall,34527
 King,State Representative (Pos. 2),33,Democratic,Mia Su-Ling Gregerson,30562
 King,State Representative (Pos. 2),33,Republican,Anthony L. Lamb,14474
-King,State Senator,34,Democratic,Joe Nguyen,40516
-King,State Senator,34,Democratic,Shannon Braddock,28996
+King,State Senate,34,Democratic,Joe Nguyen,40516
+King,State Senate,34,Democratic,Shannon Braddock,28996
 King,State Representative (Pos. 1),34,Democratic,Eileen L. Cody,57127
 King,State Representative (Pos. 2),34,Democratic,Joe Fitzgibbon,56332
-King,State Senator,36,Democratic,Reuven M. Carlyle,78753
-King,State Senator,36,Libertarian,Bryan Simonson,9707
+King,State Senate,36,Democratic,Reuven M. Carlyle,78753
+King,State Senate,36,Libertarian,Bryan Simonson,9707
 King,State Representative (Pos. 1),36,Democratic,Noel Christina Frame,77571
 King,State Representative (Pos. 1),36,Libertarian,Sydney Gillman Wissel,9958
 King,State Representative (Pos. 2),36,Democratic,Gael Tarleton,75390
 King,State Representative (Pos. 2),36,Libertarian,Matt Dubin,12205
-King,State Senator,37,Democratic,Rebecca Saldana,57501
-King,State Senator,37,Republican,Beth Broadway,7096
+King,State Senate,37,Democratic,Rebecca Saldana,57501
+King,State Senate,37,Republican,Beth Broadway,7096
 King,State Representative (Pos. 1),37,Democratic,Sharon Tomiko Santos,54218
 King,State Representative (Pos. 2),37,Democratic,Eric Pettigrew,55127
 King,State Representative (Pos. 2),37,Independent,Tamra Smilanich,7152
-King,State Senator,39,Democratic,Claus Joens,148
-King,State Senator,39,Republican,Keith L. Wagoner,118
+King,State Senate,39,Democratic,Claus Joens,148
+King,State Senate,39,Republican,Keith L. Wagoner,118
 King,State Representative (Pos. 1),39,Democratic,Ivan Lewis,153
 King,State Representative (Pos. 1),39,Republican,Robert J. Sutherland,111
 King,State Representative (Pos. 2),39,Republican,Carolyn Eslick,134
@@ -801,32 +801,32 @@ King,State Representative (Pos. 1),41,Democratic,Tana Senn,45408
 King,State Representative (Pos. 1),41,Republican,Tim Cruickshank,24175
 King,State Representative (Pos. 2),41,Democratic,My-Linh Thai,45476
 King,State Representative (Pos. 2),41,Republican,Michael Appleby,23885
-King,State Senator,43,Democratic,Jamie Pedersen,75660
-King,State Senator,43,Republican,Dan Harder,7965
+King,State Senate,43,Democratic,Jamie Pedersen,75660
+King,State Senate,43,Republican,Dan Harder,7965
 King,State Representative (Pos. 1),43,Democratic,Nicole Macri,76046
 King,State Representative (Pos. 1),43,Republican,John Peeples,7403
 King,State Representative (Pos. 2),43,Democratic,Frank Chopp,74155
 King,State Representative (Pos. 2),43,Republican,Claire Torstenbo,8828
-King,State Senator,45,Democratic,Manka Dhingra,45264
-King,State Senator,45,Republican,Dale Fonk,26100
+King,State Senate,45,Democratic,Manka Dhingra,45264
+King,State Senate,45,Republican,Dale Fonk,26100
 King,State Representative (Pos. 1),45,Democratic,Roger Goodman,47690
 King,State Representative (Pos. 1),45,Republican,Michael Curtis,23016
 King,State Representative (Pos. 2),45,Democratic,Larry Springer,47674
 King,State Representative (Pos. 2),45,Republican,Amber Krabach,22904
-King,State Senator,46,Democratic,David Frockt,65162
-King,State Senator,46,Republican,Beth Daranciang,13842
+King,State Senate,46,Democratic,David Frockt,65162
+King,State Senate,46,Republican,Beth Daranciang,13842
 King,State Representative (Pos. 1),46,Democratic,Gerry Pollet,65206
 King,State Representative (Pos. 1),46,Republican,Jeff Patton,13615
 King,State Representative (Pos. 2),46,Democratic,Javier Valdez,65383
 King,State Representative (Pos. 2),46,Republican,Jerry Zeiger-Buccola,12971
-King,State Senator,47,Republican,Joe Fain,27413
-King,State Senator,47,Democratic,Mona Das,28394
+King,State Senate,47,Republican,Joe Fain,27413
+King,State Senate,47,Democratic,Mona Das,28394
 King,State Representative (Pos. 1),47,Republican,Mark Hargrove,25981
 King,State Representative (Pos. 1),47,Democratic,Debra Entenman,29911
 King,State Representative (Pos. 2),47,Democratic,Pat Sullivan,34915
 King,State Representative (Pos. 2),47,Republican,Ted Cooke,20671
-King,State Senator,48,Democratic,Patty Kuderer,33533
-King,State Senator,48,Democratic,Rodney Tom,18027
+King,State Senate,48,Democratic,Patty Kuderer,33533
+King,State Senate,48,Democratic,Rodney Tom,18027
 King,State Representative (Pos. 1),48,Democratic,Vandana Slatter,40408
 King,State Representative (Pos. 2),48,Democratic,Amy Walen,34143
 King,State Representative (Pos. 2),48,Democratic,Cindi Bright,12628
@@ -906,21 +906,21 @@ Kitsap,State Measures Initiative to the Legislature 940 Initiative Measure No. 9
 Kitsap,State Measures Initiative to the Legislature 940 Initiative Measure No. 940 concerns law enforcement.,,,No,49853
 Kitsap,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Repealed,61923
 Kitsap,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Maintained,52742
-Kitsap,U.S. Senator,,Democratic,Maria Cantwell,67847
-Kitsap,U.S. Senator,,Republican,Susan Hutchison,52308
-Kitsap,U.S. Representative,6,Democratic,Derek Kilmer,76746
-Kitsap,U.S. Representative,6,Republican,Douglas Dightman,42628
+Kitsap,U.S. Senate,,Democratic,Maria Cantwell,67847
+Kitsap,U.S. Senate,,Republican,Susan Hutchison,52308
+Kitsap,U.S. House,6,Democratic,Derek Kilmer,76746
+Kitsap,U.S. House,6,Republican,Douglas Dightman,42628
 Kitsap,State Representative (Pos. 1),23,Democratic,Sherry V. Appleton,37982
 Kitsap,State Representative (Pos. 1),23,States No Party Preference,Becky Erickson,26412
 Kitsap,State Representative (Pos. 2),23,Democratic,Drew Hansen,48232
-Kitsap,State Senator,26,Democratic,Emily Randall,17112
-Kitsap,State Senator,26,Republican,Marty McClendon,16362
+Kitsap,State Senate,26,Democratic,Emily Randall,17112
+Kitsap,State Senate,26,Republican,Marty McClendon,16362
 Kitsap,State Representative (Pos. 1),26,Democratic,Connie FitzPatrick,16269
 Kitsap,State Representative (Pos. 1),26,Republican,Jesse L. Young,17015
 Kitsap,State Representative (Pos. 2),26,Democratic,Joy Stanford,15250
 Kitsap,State Representative (Pos. 2),26,Republican,Michelle Caldier,17966
-Kitsap,State Senator,35,Democratic,Irene Bowling,7128
-Kitsap,State Senator,35,Democratic,Tim Sheldon,8387
+Kitsap,State Senate,35,Democratic,Irene Bowling,7128
+Kitsap,State Senate,35,Democratic,Tim Sheldon,8387
 Kitsap,State Representative (Pos. 1),35,Republican,Dan Griffey,10329
 Kitsap,State Representative (Pos. 1),35,Democratic,James Thomas,6993
 Kitsap,State Representative (Pos. 2),35,Democratic,David Daggett,8151
@@ -970,11 +970,11 @@ Kittitas,State Measures Initiative to the Legislature 940 Initiative Measure No.
 Kittitas,State Measures Initiative to the Legislature 940 Initiative Measure No. 940 concerns law enforcement.,,,No,10243
 Kittitas,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Repealed,11730
 Kittitas,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Maintained,6439
-Kittitas,U.S. Senator,,Democratic,Maria Cantwell,8330
-Kittitas,U.S. Senator,,Republican,Susan Hutchison,10996
-Kittitas,U.S. Representative,8,GOP,Dino Rossi,10458
-Kittitas,U.S. Representative,8,Democratic,Kim Schrier,8700
-Kittitas,State Senator,13,Republican,Judy Warnick,12961
+Kittitas,U.S. Senate,,Democratic,Maria Cantwell,8330
+Kittitas,U.S. Senate,,Republican,Susan Hutchison,10996
+Kittitas,U.S. House,8,GOP,Dino Rossi,10458
+Kittitas,U.S. House,8,Democratic,Kim Schrier,8700
+Kittitas,State Senate,13,Republican,Judy Warnick,12961
 Kittitas,State Representative (Pos. 1),13,Republican,Tom Dent,11755
 Kittitas,State Representative (Pos. 1),13,Democratic,Jesse Hegstrom Oakey,7185
 Kittitas,State Representative (Pos. 2),13,Republican,Matt Manweller,9631
@@ -1015,10 +1015,10 @@ Klickitat,Initiative to the Legislature 940 Initiative Measure No. 940 concerns 
 Klickitat,Initiative to the Legislature 940 Initiative Measure No. 940 concerns law enforcement.,,,No,5536
 Klickitat,Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Repealed,6282
 Klickitat,Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Maintained,3870
-Klickitat,U.S. Senator,,Democratic,Maria Cantwell,4889
-Klickitat,U.S. Senator,,Republican,Susan Hutchison,5776
-Klickitat,U.S. Representative,3,Republican,Jaime Herrera Beutler,5929
-Klickitat,U.S. Representative,3,Democratic,Carolyn Long,4802
+Klickitat,U.S. Senate,,Democratic,Maria Cantwell,4889
+Klickitat,U.S. Senate,,Republican,Susan Hutchison,5776
+Klickitat,U.S. House,3,Republican,Jaime Herrera Beutler,5929
+Klickitat,U.S. House,3,Democratic,Carolyn Long,4802
 Klickitat,State Representative (Pos. 1),14,Republican,Chris Corry,5852
 Klickitat,State Representative (Pos. 1),14,Democratic,Sasha Bentley,4738
 Klickitat,State Representative (Pos. 2),14,Republican,Gina Mosbrucker,6423
@@ -1069,10 +1069,10 @@ Lewis,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bil
 Lewis,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Maintained,8304
 Lewis,County This Measure Initiates the Home Rule Charter Process,,,Yes,13230
 Lewis,County This Measure Initiates the Home Rule Charter Process,,,No,16180
-Lewis,U.S. Senator,,Democratic,Maria Cantwell,11078
-Lewis,U.S. Senator,,Republican,Susan Hutchison,22793
-Lewis,U.S. Representative,3,Republican,Jaime Herrera Beutler,22875
-Lewis,U.S. Representative,3,Democratic,Carolyn Long,10939
+Lewis,U.S. Senate,,Democratic,Maria Cantwell,11078
+Lewis,U.S. Senate,,Republican,Susan Hutchison,22793
+Lewis,U.S. House,3,Republican,Jaime Herrera Beutler,22875
+Lewis,U.S. House,3,Democratic,Carolyn Long,10939
 Lewis,State Representative (Pos. 1),19,Republican,Jim Walsh,2289
 Lewis,State Representative (Pos. 1),19,Democratic,Erin Frasier,1044
 Lewis,State Representative (Pos. 2),19,Democratic,Brian E. Blake,1113
@@ -1157,11 +1157,11 @@ Lincoln,State Measures Initiative to the Legislature 940 Initiative Measure No. 
 Lincoln,State Measures Initiative to the Legislature 940 Initiative Measure No. 940 concerns law enforcement.,,,No,3544
 Lincoln,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Repealed,4257
 Lincoln,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Maintained,1018
-Lincoln,U.S. Senator,,Democratic,Maria Cantwell,1604
-Lincoln,U.S. Senator,,Republican,Susan Hutchison,3974
-Lincoln,U.S. Representative,5,Republican,Cathy McMorris Rodgers,4215
-Lincoln,U.S. Representative,5,Democratic,Lisa Brown,1362
-Lincoln,State Senator,13,Republican,Judy Warnick,4556
+Lincoln,U.S. Senate,,Democratic,Maria Cantwell,1604
+Lincoln,U.S. Senate,,Republican,Susan Hutchison,3974
+Lincoln,U.S. House,5,Republican,Cathy McMorris Rodgers,4215
+Lincoln,U.S. House,5,Democratic,Lisa Brown,1362
+Lincoln,State Senate,13,Republican,Judy Warnick,4556
 Lincoln,State Representative (Pos. 1),13,Republican,Tom Dent,4397
 Lincoln,State Representative (Pos. 1),13,Democratic,Jesse Hegstrom Oakey,1049
 Lincoln,State Representative (Pos. 2),13,Republican,Matt Manweller,3973
@@ -1192,14 +1192,14 @@ Mason,Initiative to the Legislature 940 Initiative Measure No. 940 concerns law 
 Mason,Initiative to the Legislature 940 Initiative Measure No. 940 concerns law enforcement.,,,No,13441
 Mason,Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Repealed,17164
 Mason,Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Maintained,9266
-Mason,U.S. Senator,,Democratic,Maria Cantwell,13220
-Mason,U.S. Senator,,Republican,Susan Hutchison,14416
-Mason,U.S. Representative,6,Democratic,Derek Kilmer,11267
-Mason,U.S. Representative,6,Republican,Douglas Dightman,10081
-Mason,U.S. Representative,10,Democratic,Denny Heck,3567
-Mason,U.S. Representative,10,Republican,Joseph Brumbles,2525
-Mason,State Senator,35,Democratic,Irene Bowling,12214
-Mason,State Senator,35,Democratic,Tim Sheldon,13114
+Mason,U.S. Senate,,Democratic,Maria Cantwell,13220
+Mason,U.S. Senate,,Republican,Susan Hutchison,14416
+Mason,U.S. House,6,Democratic,Derek Kilmer,11267
+Mason,U.S. House,6,Republican,Douglas Dightman,10081
+Mason,U.S. House,10,Democratic,Denny Heck,3567
+Mason,U.S. House,10,Republican,Joseph Brumbles,2525
+Mason,State Senate,35,Democratic,Irene Bowling,12214
+Mason,State Senate,35,Democratic,Tim Sheldon,13114
 Mason,State Representative (Pos. 1),35,Republican,Dan Griffey,16154
 Mason,State Representative (Pos. 1),35,Democratic,James Thomas,11132
 Mason,State Representative (Pos. 2),35,Democratic,David Daggett,12718
@@ -1238,12 +1238,12 @@ Okanogan,State Measures Initiative to the Legislature 940 Initiative Measure No.
 Okanogan,State Measures Initiative to the Legislature 940 Initiative Measure No. 940 concerns law enforcement.,,,No,8654
 Okanogan,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Repealed,10908
 Okanogan,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Maintained,4965
-Okanogan,U.S. Senator,,Democratic,Maria Cantwell,7231
-Okanogan,U.S. Senator,,Republican,Susan Hutchison,9414
-Okanogan,U.S. Representative,4,Republican,Dan Newhouse,10084
-Okanogan,U.S. Representative,4,Democratic,Christine Brown,6555
-Okanogan,State Senator,7,Republican,Shelly Short,5996
-Okanogan,State Senator,7,Democratic,Karen Hardy,2584
+Okanogan,U.S. Senate,,Democratic,Maria Cantwell,7231
+Okanogan,U.S. Senate,,Republican,Susan Hutchison,9414
+Okanogan,U.S. House,4,Republican,Dan Newhouse,10084
+Okanogan,U.S. House,4,Democratic,Christine Brown,6555
+Okanogan,State Senate,7,Republican,Shelly Short,5996
+Okanogan,State Senate,7,Democratic,Karen Hardy,2584
 Okanogan,State Representative (Pos. 1),7,Republican,Jacquelin Maycumber,6012
 Okanogan,State Representative (Pos. 1),7,Democratic,Randall (Randy) Michaelis,2528
 Okanogan,State Representative (Pos. 2),7,Republican,Joel Kretz,6078
@@ -1292,10 +1292,10 @@ Pacific,State Measures Initiative to the Legislature 940 Initiative Measure No. 
 Pacific,State Measures Initiative to the Legislature 940 Initiative Measure No. 940 concerns law enforcement.,,,No,5013
 Pacific,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Repealed,6646
 Pacific,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Maintained,3678
-Pacific,U.S. Senator,,Democratic,Maria Cantwell,5527
-Pacific,U.S. Senator,,Republican,Susan Hutchison,5332
-Pacific,U.S. Representative,3,Republican,Jaime Herrera Beutler,5456
-Pacific,U.S. Representative,3,Democratic,Carolyn Long,5337
+Pacific,U.S. Senate,,Democratic,Maria Cantwell,5527
+Pacific,U.S. Senate,,Republican,Susan Hutchison,5332
+Pacific,U.S. House,3,Republican,Jaime Herrera Beutler,5456
+Pacific,U.S. House,3,Democratic,Carolyn Long,5337
 Pacific,State Representative (Pos. 1),19,Republican,Jim Walsh,5064
 Pacific,State Representative (Pos. 1),19,Democratic,Erin Frasier,5757
 Pacific,State Representative (Pos. 2),19,Democratic,Brian E. Blake,6148
@@ -1333,12 +1333,12 @@ Pend Oreille,State Measures Initiative to the Legislature 940 Initiative Measure
 Pend Oreille,State Measures Initiative to the Legislature 940 Initiative Measure No. 940 concerns law enforcement.,,,No,3810
 Pend Oreille,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Repealed,5044
 Pend Oreille,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Maintained,1568
-Pend Oreille,U.S. Senator,,Democratic,Maria Cantwell,2477
-Pend Oreille,U.S. Senator,,Republican,Susan Hutchison,4379
-Pend Oreille,U.S. Representative,5,Republican,Cathy McMorris Rodgers,4496
-Pend Oreille,U.S. Representative,5,Democratic,Lisa Brown,2350
-Pend Oreille,State Senator,7,Republican,Shelly Short,4551
-Pend Oreille,State Senator,7,Democratic,Karen Hardy,2241
+Pend Oreille,U.S. Senate,,Democratic,Maria Cantwell,2477
+Pend Oreille,U.S. Senate,,Republican,Susan Hutchison,4379
+Pend Oreille,U.S. House,5,Republican,Cathy McMorris Rodgers,4496
+Pend Oreille,U.S. House,5,Democratic,Lisa Brown,2350
+Pend Oreille,State Senate,7,Republican,Shelly Short,4551
+Pend Oreille,State Senate,7,Democratic,Karen Hardy,2241
 Pend Oreille,State Representative (Pos. 1),7,Republican,Jacquelin Maycumber,4548
 Pend Oreille,State Representative (Pos. 1),7,Democratic,Randall (Randy) Michaelis,2184
 Pend Oreille,State Representative (Pos. 2),7,Republican,Joel Kretz,4525
@@ -1385,16 +1385,16 @@ Pierce,"COUNTY Proposed Charter Amendment No. 49 Procedures for Initiative, Refe
 Pierce,"COUNTY Proposed Charter Amendment No. 49 Procedures for Initiative, Referendum, Agenda and Charter Amendment Petitions",,,Rejected,72623
 Pierce,COUNTY Proposed Charter Amendment No. 50 Filling Vacancies in Elective Offices,,,Yes,207510
 Pierce,COUNTY Proposed Charter Amendment No. 50 Filling Vacancies in Elective Offices,,,No,90446
-Pierce,U.S. Senator,,Democratic,Maria Cantwell,174097
-Pierce,U.S. Senator,,Republican,Susan Hutchison,152177
-Pierce,U.S. Representative,6,Democratic,Derek Kilmer,65157
-Pierce,U.S. Representative,6,Republican,Douglas Dightman,29180
-Pierce,U.S. Representative,8,GOP,Dino Rossi,39536
-Pierce,U.S. Representative,8,Democratic,Kim Schrier,30814
-Pierce,U.S. Representative,9,Democratic,Adam Smith,6011
-Pierce,U.S. Representative,9,Democratic,Sarah Smith,2209
-Pierce,U.S. Representative,10,Democratic,Denny Heck,86794
-Pierce,U.S. Representative,10,Republican,Joseph Brumbles,60405
+Pierce,U.S. Senate,,Democratic,Maria Cantwell,174097
+Pierce,U.S. Senate,,Republican,Susan Hutchison,152177
+Pierce,U.S. House,6,Democratic,Derek Kilmer,65157
+Pierce,U.S. House,6,Republican,Douglas Dightman,29180
+Pierce,U.S. House,8,GOP,Dino Rossi,39536
+Pierce,U.S. House,8,Democratic,Kim Schrier,30814
+Pierce,U.S. House,9,Democratic,Adam Smith,6011
+Pierce,U.S. House,9,Democratic,Sarah Smith,2209
+Pierce,U.S. House,10,Democratic,Denny Heck,86794
+Pierce,U.S. House,10,Republican,Joseph Brumbles,60405
 Pierce,State Representative (Pos. 1),2,Republican,Andrew Barkis,22083
 Pierce,State Representative (Pos. 1),2,Democratic,Anneliese Feld,13880
 Pierce,State Representative (Pos. 2),2,Republican,JT Wilcox,27415
@@ -1402,8 +1402,8 @@ Pierce,State Representative (Pos. 1),25,Republican,Kelly Chambers,27561
 Pierce,State Representative (Pos. 1),25,Democratic,Jamie Smith,26950
 Pierce,State Representative (Pos. 2),25,Republican,Chris Gildon,27701
 Pierce,State Representative (Pos. 2),25,Democratic,Brian Duthie,26413
-Pierce,State Senator,26,Democratic,Emily Randall,17975
-Pierce,State Senator,26,Republican,Marty McClendon,18621
+Pierce,State Senate,26,Democratic,Emily Randall,17975
+Pierce,State Senate,26,Republican,Marty McClendon,18621
 Pierce,State Representative (Pos. 1),26,Democratic,Connie FitzPatrick,17244
 Pierce,State Representative (Pos. 1),26,Republican,Jesse L. Young,19105
 Pierce,State Representative (Pos. 2),26,Democratic,Joy Stanford,15983
@@ -1416,19 +1416,19 @@ Pierce,State Representative (Pos. 1),28,Democratic,Mari Leavitt,27735
 Pierce,State Representative (Pos. 1),28,Republican,Richard (Dick) Muri,24789
 Pierce,State Representative (Pos. 2),28,Democratic,Christine Kilduff,29955
 Pierce,State Representative (Pos. 2),28,Republican,Maia Espinoza,22162
-Pierce,State Senator,29,Democratic,Steve Conway,23120
-Pierce,State Senator,29,Independent,Pierre Malebranche,13538
+Pierce,State Senate,29,Democratic,Steve Conway,23120
+Pierce,State Senate,29,Independent,Pierre Malebranche,13538
 Pierce,State Representative (Pos. 1),29,Democratic,Melanie Morgan,22817
 Pierce,State Representative (Pos. 1),29,Republican,Terry Harder,14567
 Pierce,State Representative (Pos. 2),29,Democratic,Steve Kirby,28180
-Pierce,State Senator,30,Republican,Mark Miloscia,1318
-Pierce,State Senator,30,Democratic,Claire Wilson,1189
+Pierce,State Senate,30,Republican,Mark Miloscia,1318
+Pierce,State Senate,30,Democratic,Claire Wilson,1189
 Pierce,State Representative (Pos. 1),30,Democratic,Mike Pellicciotti,1324
 Pierce,State Representative (Pos. 1),30,GOP,Linda Kochmar,1137
 Pierce,State Representative (Pos. 2),30,Democratic,Kristine M. Reeves,1359
 Pierce,State Representative (Pos. 2),30,GOP.,Mark Greene,1084
-Pierce,State Senator,31,Republican,Phil Fortunato,26953
-Pierce,State Senator,31,Democratic,Immaculate Ferreria,17468
+Pierce,State Senate,31,Republican,Phil Fortunato,26953
+Pierce,State Senate,31,Democratic,Immaculate Ferreria,17468
 Pierce,State Representative (Pos. 1),31,Republican,Drew Stokesbary,26229
 Pierce,State Representative (Pos. 1),31,Democratic,Victoria Mena,17709
 Pierce,State Representative (Pos. 2),31,Republican,Morgan Irwin,25906
@@ -1497,10 +1497,10 @@ San Juan,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate 
 San Juan,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Maintained,7051
 San Juan,San Juan County Proposition No. 1  Additional Real Estate Excise Tax for Affordable Housing,,,Yes,6062
 San Juan,San Juan County Proposition No. 1  Additional Real Estate Excise Tax for Affordable Housing,,,No,4926
-San Juan,U.S. Senator,,Democratic,Maria Cantwell,8016
-San Juan,U.S. Senator,,Republican,Susan Hutchison,3026
-San Juan,U.S. Representative,2,Democratic,Rick Larsen,8130
-San Juan,U.S. Representative,2,Libertarian,Brian Luke,2436
+San Juan,U.S. Senate,,Democratic,Maria Cantwell,8016
+San Juan,U.S. Senate,,Republican,Susan Hutchison,3026
+San Juan,U.S. House,2,Democratic,Rick Larsen,8130
+San Juan,U.S. House,2,Libertarian,Brian Luke,2436
 San Juan,State Representative (Pos. 1),40,Democratic,Debra Lekanoff,8005
 San Juan,State Representative (Pos. 1),40,Republican,Michael Petrish,2844
 San Juan,State Representative (Pos. 2),40,Democratic,Jeff Morris,8075
@@ -1540,18 +1540,18 @@ Skagit,"CITY OF ANACORTES Proposition No. 1 Anacortes Transportation Benefit Dis
 Skagit,"CITY OF ANACORTES Proposition No. 1 Anacortes Transportation Benefit District, Sales &amp; Use Tax for Transportation Improvements",,,No,3630
 Skagit,"SEDRO-WOOLLEY SCHOOL DISTRICT NO. 101 Proposition No. 1 Sedro-Woolley School District No. 101, General Obligation Bonds - $44,500,000",,,Approved?,5613
 Skagit,"SEDRO-WOOLLEY SCHOOL DISTRICT NO. 101 Proposition No. 1 Sedro-Woolley School District No. 101, General Obligation Bonds - $44,500,000",,,Rejected?,5683
-Skagit,U.S. Senator,,Democratic,Maria Cantwell,28122
-Skagit,U.S. Senator,,Republican,Susan Hutchison,26498
-Skagit,U.S. Representative,1,Democratic,Suzan DelBene,11057
-Skagit,U.S. Representative,1,Republican,Jeffrey Beeler,9344
-Skagit,U.S. Representative,2,Democratic,Rick Larsen,20993
-Skagit,U.S. Representative,2,Libertarian,Brian Luke,10439
+Skagit,U.S. Senate,,Democratic,Maria Cantwell,28122
+Skagit,U.S. Senate,,Republican,Susan Hutchison,26498
+Skagit,U.S. House,1,Democratic,Suzan DelBene,11057
+Skagit,U.S. House,1,Republican,Jeffrey Beeler,9344
+Skagit,U.S. House,2,Democratic,Rick Larsen,20993
+Skagit,U.S. House,2,Libertarian,Brian Luke,10439
 Skagit,State Representative (Pos. 1),10,Democratic,Scott McMullen,8407
 Skagit,State Representative (Pos. 1),10,GOP,Norma Smith,8050
 Skagit,State Representative (Pos. 2),10,Democratic,Dave Paul,8583
 Skagit,State Representative (Pos. 2),10,GOP,Dave Hayes,7771
-Skagit,State Senator,39,Democratic,Claus Joens,4571
-Skagit,State Senator,39,Republican,Keith L. Wagoner,7150
+Skagit,State Senate,39,Democratic,Claus Joens,4571
+Skagit,State Senate,39,Republican,Keith L. Wagoner,7150
 Skagit,State Representative (Pos. 1),39,Democratic,Ivan Lewis,4883
 Skagit,State Representative (Pos. 1),39,Republican,Robert J. Sutherland,6681
 Skagit,State Representative (Pos. 2),39,Republican,Carolyn Eslick,6635
@@ -1661,10 +1661,10 @@ Skamania,State Measures Initiative to the Legislature 940 Initiative Measure No.
 Skamania,State Measures Initiative to the Legislature 940 Initiative Measure No. 940 concerns law enforcement.,,,No,2904
 Skamania,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Repealed,3367
 Skamania,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Maintained,1997
-Skamania,U.S. Senator,,Democratic,Maria Cantwell,2663
-Skamania,U.S. Senator,,Republican,Susan Hutchison,2919
-Skamania,U.S. Representative,3,Republican,Jaime Herrera Beutler,3066
-Skamania,U.S. Representative,3,Democratic,Carolyn Long,2521
+Skamania,U.S. Senate,,Democratic,Maria Cantwell,2663
+Skamania,U.S. Senate,,Republican,Susan Hutchison,2919
+Skamania,U.S. House,3,Republican,Jaime Herrera Beutler,3066
+Skamania,U.S. House,3,Democratic,Carolyn Long,2521
 Skamania,State Representative (Pos. 1),14,Republican,Chris Corry,2990
 Skamania,State Representative (Pos. 1),14,Democratic,Sasha Bentley,2542
 Skamania,State Representative (Pos. 2),14,Republican,Gina Mosbrucker,3106
@@ -1702,14 +1702,14 @@ Snohomish,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate
 Snohomish,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Maintained,132912
 Snohomish,Snohomish County Proposition Number 1 - Emergency Communication Systems and Facilities Sales and Use Tax,,,Approved,170713
 Snohomish,Snohomish County Proposition Number 1 - Emergency Communication Systems and Facilities Sales and Use Tax,,,Rejected,144327
-Snohomish,U.S. Senator,,Democratic,Maria Cantwell,184218
-Snohomish,U.S. Senator,,Republican,Susan Hutchison,136749
-Snohomish,U.S. Representative,1,Democratic,Suzan DelBene,67984
-Snohomish,U.S. Representative,1,Republican,Jeffrey Beeler,55610
-Snohomish,U.S. Representative,2,Democratic,Rick Larsen,112031
-Snohomish,U.S. Representative,2,Libertarian,Brian Luke,49602
-Snohomish,U.S. Representative,7,Democratic,Pramila Jayapal,17548
-Snohomish,U.S. Representative,7,Republican,Craig Keller,8664
+Snohomish,U.S. Senate,,Democratic,Maria Cantwell,184218
+Snohomish,U.S. Senate,,Republican,Susan Hutchison,136749
+Snohomish,U.S. House,1,Democratic,Suzan DelBene,67984
+Snohomish,U.S. House,1,Republican,Jeffrey Beeler,55610
+Snohomish,U.S. House,2,Democratic,Rick Larsen,112031
+Snohomish,U.S. House,2,Libertarian,Brian Luke,49602
+Snohomish,U.S. House,7,Democratic,Pramila Jayapal,17548
+Snohomish,U.S. House,7,Republican,Craig Keller,8664
 Snohomish,State Representative (Pos. 1),1,Democratic,Derek Stanford,32687
 Snohomish,State Representative (Pos. 1),1,Republican,Josh Colver,15405
 Snohomish,State Representative (Pos. 2),1,Democratic,Shelley Kloba,29558
@@ -1718,31 +1718,31 @@ Snohomish,State Representative (Pos. 1),10,Democratic,Scott McMullen,6147
 Snohomish,State Representative (Pos. 1),10,GOP,Norma Smith,8398
 Snohomish,State Representative (Pos. 2),10,Democratic,Dave Paul,5959
 Snohomish,State Representative (Pos. 2),10,GOP,Dave Hayes,8544
-Snohomish,State Senator,21,Democratic,Marko Liias,37567
-Snohomish,State Senator,21,Republican,Mario Lionel Lotmore,21914
+Snohomish,State Senate,21,Democratic,Marko Liias,37567
+Snohomish,State Senate,21,Republican,Mario Lionel Lotmore,21914
 Snohomish,State Representative (Pos. 1),21,Democratic,Strom Peterson,39007
 Snohomish,State Representative (Pos. 1),21,Republican,Amy Schaper,20309
 Snohomish,State Representative (Pos. 2),21,Democratic,Lillian Ortiz-Self,38626
 Snohomish,State Representative (Pos. 2),21,Republican,Petra Bigea,20439
-Snohomish,State Senator,32,Democratic,Jesse Salomon,17380
-Snohomish,State Senator,32,Democratic,Maralyn Chase,8234
+Snohomish,State Senate,32,Democratic,Jesse Salomon,17380
+Snohomish,State Senate,32,Democratic,Maralyn Chase,8234
 Snohomish,State Representative (Pos. 1),32,Democratic,Cindy Ryu,20219
 Snohomish,State Representative (Pos. 1),32,Republican,Diodato (Dio) Boucsieguez,8734
 Snohomish,State Representative (Pos. 2),32,Democratic,Lauren Davis,19709
 Snohomish,State Representative (Pos. 2),32,Republican,Frank Deisler,9137
-Snohomish,State Senator,38,Democratic,John McCoy,29618
-Snohomish,State Senator,38,Ind. Republican,Savio Pham,19905
+Snohomish,State Senate,38,Democratic,John McCoy,29618
+Snohomish,State Senate,38,Ind. Republican,Savio Pham,19905
 Snohomish,State Representative (Pos. 1),38,Democratic,June Robinson,29441
 Snohomish,State Representative (Pos. 1),38,Independent,Bert Johnson,18490
 Snohomish,State Representative (Pos. 2),38,Democratic,Mike Sells,35651
-Snohomish,State Senator,39,Democratic,Claus Joens,19655
-Snohomish,State Senator,39,Republican,Keith L. Wagoner,27703
+Snohomish,State Senate,39,Democratic,Claus Joens,19655
+Snohomish,State Senate,39,Republican,Keith L. Wagoner,27703
 Snohomish,State Representative (Pos. 1),39,Democratic,Ivan Lewis,20646
 Snohomish,State Representative (Pos. 1),39,Republican,Robert J. Sutherland,26607
 Snohomish,State Representative (Pos. 2),39,Republican,Carolyn Eslick,27509
 Snohomish,State Representative (Pos. 2),39,Democratic,Eric Halvorson,19714
-Snohomish,State Senator,44,Democratic,Steve Hobbs,37656
-Snohomish,State Senator,44,Republican,Doug Roulstone,29445
+Snohomish,State Senate,44,Democratic,Steve Hobbs,37656
+Snohomish,State Senate,44,Republican,Doug Roulstone,29445
 Snohomish,State Representative (Pos. 1),44,Democratic,John Lovick,38194
 Snohomish,State Representative (Pos. 1),44,Republican,Jeff Sax,28742
 Snohomish,State Representative (Pos. 2),44,Democratic,Jared M. Mead,34873
@@ -1793,10 +1793,10 @@ Spokane,State Measures Initiative to the Legislature 940 Initiative Measure No. 
 Spokane,State Measures Initiative to the Legislature 940 Initiative Measure No. 940 concerns law enforcement.,,,No,101837
 Spokane,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Repealed,135943
 Spokane,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Maintained,80503
-Spokane,U.S. Senator,,Democratic,Maria Cantwell,112000
-Spokane,U.S. Senator,,Republican,Susan Hutchison,115508
-Spokane,U.S. Representative,5,Republican,Cathy McMorris Rodgers,119770
-Spokane,U.S. Representative,5,Democratic,Lisa Brown,108697
+Spokane,U.S. Senate,,Democratic,Maria Cantwell,112000
+Spokane,U.S. Senate,,Republican,Susan Hutchison,115508
+Spokane,U.S. House,5,Republican,Cathy McMorris Rodgers,119770
+Spokane,U.S. House,5,Democratic,Lisa Brown,108697
 Spokane,State Representative (Pos. 1),3,Democratic,Marcus Riccelli,33539
 Spokane,State Representative (Pos. 1),3,Republican,Tom Taylor,18741
 Spokane,State Representative (Pos. 2),3,Democratic,Timm Ormsby,31983
@@ -1805,14 +1805,14 @@ Spokane,State Representative (Pos. 1),4,Republican,Matt Shea,39572
 Spokane,State Representative (Pos. 1),4,Democratic,Ted Cummings,28963
 Spokane,State Representative (Pos. 2),4,Republican,Bob McCaslin,42613
 Spokane,State Representative (Pos. 2),4,Democratic,Mary May,26254
-Spokane,State Senator,6,Republican,Jeff Holy,38056
-Spokane,State Senator,6,Democratic,Jessa Lewis,31316
+Spokane,State Senate,6,Republican,Jeff Holy,38056
+Spokane,State Senate,6,Democratic,Jessa Lewis,31316
 Spokane,State Representative (Pos. 1),6,Republican,Mike Volz,36800
 Spokane,State Representative (Pos. 1),6,Democratic,Kay Murano,32044
 Spokane,State Representative (Pos. 2),6,Democratic,Dave Wilson,33972
 Spokane,State Representative (Pos. 2),6,Republican,Jenny Graham,34644
-Spokane,State Senator,7,Republican,Shelly Short,18954
-Spokane,State Senator,7,Democratic,Karen Hardy,9435
+Spokane,State Senate,7,Republican,Shelly Short,18954
+Spokane,State Senate,7,Democratic,Karen Hardy,9435
 Spokane,State Representative (Pos. 1),7,Republican,Jacquelin Maycumber,18271
 Spokane,State Representative (Pos. 1),7,Democratic,Randall (Randy) Michaelis,9966
 Spokane,State Representative (Pos. 2),7,Republican,Joel Kretz,18208
@@ -1878,12 +1878,12 @@ Stevens,State Measures Initiative to the Legislature 940 Initiative Measure No. 
 Stevens,State Measures Initiative to the Legislature 940 Initiative Measure No. 940 concerns law enforcement.,,,No,13538
 Stevens,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Repealed,16770
 Stevens,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Maintained,4796
-Stevens,U.S. Senator,,Democratic,Maria Cantwell,7274
-Stevens,U.S. Senator,,Republican,Susan Hutchison,15296
-Stevens,U.S. Representative,5,Republican,Cathy McMorris Rodgers,15586
-Stevens,U.S. Representative,5,Democratic,Lisa Brown,6961
-Stevens,State Senator,7,Republican,Shelly Short,16157
-Stevens,State Senator,7,Democratic,Karen Hardy,6232
+Stevens,U.S. Senate,,Democratic,Maria Cantwell,7274
+Stevens,U.S. Senate,,Republican,Susan Hutchison,15296
+Stevens,U.S. House,5,Republican,Cathy McMorris Rodgers,15586
+Stevens,U.S. House,5,Democratic,Lisa Brown,6961
+Stevens,State Senate,7,Republican,Shelly Short,16157
+Stevens,State Senate,7,Democratic,Karen Hardy,6232
 Stevens,State Representative (Pos. 1),7,Republican,Jacquelin Maycumber,16107
 Stevens,State Representative (Pos. 1),7,Democratic,Randall (Randy) Michaelis,6125
 Stevens,State Representative (Pos. 2),7,Republican,Joel Kretz,15803
@@ -1924,12 +1924,12 @@ Thurston,State Measures Initiative to the Legislature 940 Initiative Measure No.
 Thurston,State Measures Initiative to the Legislature 940 Initiative Measure No. 940 concerns law enforcement.,,,No,52124
 Thurston,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Repealed,61100
 Thurston,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Maintained,56872
-Thurston,U.S. Senator,,Democratic,Maria Cantwell,72677
-Thurston,U.S. Senator,,Republican,Susan Hutchison,51472
-Thurston,U.S. Representative,3,Republican,Jaime Herrera Beutler,3217
-Thurston,U.S. Representative,3,Democratic,Carolyn Long,2018
-Thurston,U.S. Representative,10,Democratic,Denny Heck,75854
-Thurston,U.S. Representative,10,Republican,Joseph Brumbles,40930
+Thurston,U.S. Senate,,Democratic,Maria Cantwell,72677
+Thurston,U.S. Senate,,Republican,Susan Hutchison,51472
+Thurston,U.S. House,3,Republican,Jaime Herrera Beutler,3217
+Thurston,U.S. House,3,Democratic,Carolyn Long,2018
+Thurston,U.S. House,10,Democratic,Denny Heck,75854
+Thurston,U.S. House,10,Republican,Joseph Brumbles,40930
 Thurston,State Representative (Pos. 1),2,Republican,Andrew Barkis,11634
 Thurston,State Representative (Pos. 1),2,Democratic,Anneliese Feld,9444
 Thurston,State Representative (Pos. 2),2,Republican,JT Wilcox,15156
@@ -1941,8 +1941,8 @@ Thurston,State Representative (Pos. 1),22,Democratic,Laurie Dolan,47261
 Thurston,State Representative (Pos. 1),22,Independent,C Davis,20046
 Thurston,State Representative (Pos. 2),22,Democratic,Beth Doglio,46275
 Thurston,State Representative (Pos. 2),22,Libertarian,Allen Acosta,20151
-Thurston,State Senator,35,Democratic,Irene Bowling,9128
-Thurston,State Senator,35,Democratic,Tim Sheldon,9373
+Thurston,State Senate,35,Democratic,Irene Bowling,9128
+Thurston,State Senate,35,Democratic,Tim Sheldon,9373
 Thurston,State Representative (Pos. 1),35,Republican,Dan Griffey,11092
 Thurston,State Representative (Pos. 1),35,Democratic,James Thomas,9382
 Thurston,State Representative (Pos. 2),35,Democratic,David Daggett,10869
@@ -1990,10 +1990,10 @@ Wahkiakum,State Measures Initiative to the Legislature 940 Initiative Measure No
 Wahkiakum,State Measures Initiative to the Legislature 940 Initiative Measure No. 940 concerns law enforcement.,,,No,1211
 Wahkiakum,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Repealed,1591
 Wahkiakum,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Maintained,729
-Wahkiakum,U.S. Senator,,Democratic,Maria Cantwell,1082
-Wahkiakum,U.S. Senator,,Republican,Susan Hutchison,1341
-Wahkiakum,U.S. Representative,3,Republican,Jaime Herrera Beutler,1416
-Wahkiakum,U.S. Representative,3,Democratic,Carolyn Long,1022
+Wahkiakum,U.S. Senate,,Democratic,Maria Cantwell,1082
+Wahkiakum,U.S. Senate,,Republican,Susan Hutchison,1341
+Wahkiakum,U.S. House,3,Republican,Jaime Herrera Beutler,1416
+Wahkiakum,U.S. House,3,Democratic,Carolyn Long,1022
 Wahkiakum,State Representative (Pos. 1),19,Republican,Jim Walsh,1360
 Wahkiakum,State Representative (Pos. 1),19,Democratic,Erin Frasier,1048
 Wahkiakum,State Representative (Pos. 2),19,Democratic,Brian E. Blake,1200
@@ -2027,12 +2027,12 @@ Walla Walla,State Measures Initiative to the Legislature 940 Initiative Measure 
 Walla Walla,State Measures Initiative to the Legislature 940 Initiative Measure No. 940 concerns law enforcement.,,,No,12525
 Walla Walla,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Repealed,15397
 Walla Walla,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Maintained,8769
-Walla Walla,U.S. Senator,,Democratic,Maria Cantwell,11862
-Walla Walla,U.S. Senator,,Republican,Susan Hutchison,13731
-Walla Walla,U.S. Representative,4,Republican,Dan Newhouse,1551
-Walla Walla,U.S. Representative,4,Democratic,Christine Brown,555
-Walla Walla,U.S. Representative,5,Republican,Cathy McMorris Rodgers,12689
-Walla Walla,U.S. Representative,5,Democratic,Lisa Brown,10831
+Walla Walla,U.S. Senate,,Democratic,Maria Cantwell,11862
+Walla Walla,U.S. Senate,,Republican,Susan Hutchison,13731
+Walla Walla,U.S. House,4,Republican,Dan Newhouse,1551
+Walla Walla,U.S. House,4,Democratic,Christine Brown,555
+Walla Walla,U.S. House,5,Republican,Cathy McMorris Rodgers,12689
+Walla Walla,U.S. House,5,Democratic,Lisa Brown,10831
 Walla Walla,State Representative (Pos. 1),16,Republican,William 'Bill' Jenkin,14707
 Walla Walla,State Representative (Pos. 1),16,Democratic,Everett Maroon,10517
 Walla Walla,State Representative (Pos. 2),16,Democratic,Rebecca Francik,10200
@@ -2067,17 +2067,17 @@ Whatcom,State Measures Initiative to the Legislature 940 Initiative Measure No. 
 Whatcom,State Measures Initiative to the Legislature 940 Initiative Measure No. 940 concerns law enforcement.,,,No,44761
 Whatcom,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Repealed,48381
 Whatcom,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Maintained,54585
-Whatcom,U.S. Senator,,Democratic,Maria Cantwell,65043
-Whatcom,U.S. Senator,,Republican,Susan Hutchison,43781
-Whatcom,U.S. Representative,1,Democratic,Suzan DelBene,24919
-Whatcom,U.S. Representative,1,Republican,Jeffrey Beeler,29568
-Whatcom,U.S. Representative,2,Democratic,Rick Larsen,42386
-Whatcom,U.S. Representative,2,Libertarian,Brian Luke,9567
+Whatcom,U.S. Senate,,Democratic,Maria Cantwell,65043
+Whatcom,U.S. Senate,,Republican,Susan Hutchison,43781
+Whatcom,U.S. House,1,Democratic,Suzan DelBene,24919
+Whatcom,U.S. House,1,Republican,Jeffrey Beeler,29568
+Whatcom,U.S. House,2,Democratic,Rick Larsen,42386
+Whatcom,U.S. House,2,Libertarian,Brian Luke,9567
 Whatcom,State Representative (Pos. 1),40,Democratic,Debra Lekanoff,26755
 Whatcom,State Representative (Pos. 1),40,Republican,Michael Petrish,8997
 Whatcom,State Representative (Pos. 2),40,Democratic,Jeff Morris,28333
-Whatcom,State Senator,42,Republican,Doug Ericksen,36341
-Whatcom,State Senator,42,Democratic,Pinky Vargas,36295
+Whatcom,State Senate,42,Republican,Doug Ericksen,36341
+Whatcom,State Senate,42,Democratic,Pinky Vargas,36295
 Whatcom,State Representative (Pos. 1),42,Democratic,Justin Boneau,36162
 Whatcom,State Representative (Pos. 1),42,Republican,Luanne Van Werven,36242
 Whatcom,State Representative (Pos. 2),42,Democratic,Sharon Shewmake,36704
@@ -2114,10 +2114,10 @@ Whitman,State Measures Initiative to the Legislature 940 Initiative Measure No. 
 Whitman,State Measures Initiative to the Legislature 940 Initiative Measure No. 940 concerns law enforcement.,,,No,7198
 Whitman,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Repealed,8855
 Whitman,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Maintained,7492
-Whitman,U.S. Senator,,Democratic,Maria Cantwell,9375
-Whitman,U.S. Senator,,Republican,Susan Hutchison,7875
-Whitman,U.S. Representative,5,Republican,Cathy McMorris Rodgers,8285
-Whitman,U.S. Representative,5,Democratic,Lisa Brown,8953
+Whitman,U.S. Senate,,Democratic,Maria Cantwell,9375
+Whitman,U.S. Senate,,Republican,Susan Hutchison,7875
+Whitman,U.S. House,5,Republican,Cathy McMorris Rodgers,8285
+Whitman,U.S. House,5,Democratic,Lisa Brown,8953
 Whitman,State Representative (Pos. 1),9,Republican,Mary Dye,8960
 Whitman,State Representative (Pos. 1),9,Democratic,Jenn Goulet,8011
 Whitman,State Representative (Pos. 2),9,GOP,Joe Schmick,8427
@@ -2189,11 +2189,11 @@ Yakima,State Measures Initiative to the Legislature 940 Initiative Measure No. 9
 Yakima,State Measures Initiative to the Legislature 940 Initiative Measure No. 940 concerns law enforcement.,,,No,34394
 Yakima,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Repealed,47843
 Yakima,Advisory Votes Advisory Vote No. 19 Engrossed Second Substitute Senate Bill 6269,,,Maintained,19665
-Yakima,U.S. Senator,,Democratic,Maria Cantwell,29476
-Yakima,U.S. Senator,,Republican,Susan Hutchison,40958
-Yakima,U.S. Representative,4,Republican,Dan Newhouse,41776
-Yakima,U.S. Representative,4,Democratic,Christine Brown,28656
-Yakima,State Senator,13,Republican,Judy Warnick,1402
+Yakima,U.S. Senate,,Democratic,Maria Cantwell,29476
+Yakima,U.S. Senate,,Republican,Susan Hutchison,40958
+Yakima,U.S. House,4,Republican,Dan Newhouse,41776
+Yakima,U.S. House,4,Democratic,Christine Brown,28656
+Yakima,State Senate,13,Republican,Judy Warnick,1402
 Yakima,State Representative (Pos. 1),13,Republican,Tom Dent,1288
 Yakima,State Representative (Pos. 1),13,Democratic,Jesse Hegstrom Oakey,363
 Yakima,State Representative (Pos. 2),13,Republican,Matt Manweller,1169
@@ -2202,8 +2202,8 @@ Yakima,State Representative (Pos. 1),14,Republican,Chris Corry,20827
 Yakima,State Representative (Pos. 1),14,Democratic,Sasha Bentley,13530
 Yakima,State Representative (Pos. 2),14,Republican,Gina Mosbrucker,21232
 Yakima,State Representative (Pos. 2),14,Democratic,Liz Hallock,13049
-Yakima,State Senator,15,GOP,Jim Honeyford,20285
-Yakima,State Senator,15,Democratic,Bengie Aguilar,13195
+Yakima,State Senate,15,GOP,Jim Honeyford,20285
+Yakima,State Senate,15,Democratic,Bengie Aguilar,13195
 Yakima,State Representative (Pos. 1),15,Republican,Bruce Chandler,20027
 Yakima,State Representative (Pos. 1),15,Democratic,Jack McEntire,13513
 Yakima,State Representative (Pos. 2),15,Republican,Jeremie Dufault,20275

@@ -95,10 +95,10 @@ Jay,Rodne,Jay Rodne,R,R,State Representative District #5,Position #1,,county,Kin
 Jay,Rodne,Jay Rodne,R,R,State Representative District #5,Position #1,,state,Washington,9705
 Glenn,Anderson,Glenn Anderson,R,R,State Representative District #5,Position #2,,county,King,9585
 Glenn,Anderson,Glenn Anderson,R,R,State Representative District #5,Position #2,,state,Washington,9585
-Chris,Marr,Chris Marr,D,D,State Senator District #6,,,county,Spokane,12656
-Chris,Marr,Chris Marr,D,D,State Senator District #6,,,state,Washington,12656
-Brad,Benson,Brad Benson,R,R,State Senator District #6,,,county,Spokane,16769
-Brad,Benson,Brad Benson,R,R,State Senator District #6,,,state,Washington,16769
+Chris,Marr,Chris Marr,D,D,State Senate District #6,,,county,Spokane,12656
+Chris,Marr,Chris Marr,D,D,State Senate District #6,,,state,Washington,12656
+Brad,Benson,Brad Benson,R,R,State Senate District #6,,,county,Spokane,16769
+Brad,Benson,Brad Benson,R,R,State Senate District #6,,,state,Washington,16769
 Don,A. Barlow,Don A. Barlow,D,D,State Representative District #6,Position #1,,county,Spokane,12124
 Don,A. Barlow,Don A. Barlow,D,D,State Representative District #6,Position #1,,state,Washington,12124
 John W.,Serben,John W. Serben,R,R,State Representative District #6,Position #1,,county,Spokane,15829
@@ -107,20 +107,20 @@ Barbara,Lampert,Barbara Lampert,D,D,State Representative District #6,Position #2
 Barbara,Lampert,Barbara Lampert,D,D,State Representative District #6,Position #2,,state,Washington,11257
 John,E. Ahern,John E. Ahern,R,R,State Representative District #6,Position #2,,county,Spokane,16431
 John,E. Ahern,John E. Ahern,R,R,State Representative District #6,Position #2,,state,Washington,16431
-Chris,Zaferes,Chris Zaferes,D,D,State Senator District #7,,,county,Ferry,329
-Chris,Zaferes,Chris Zaferes,D,D,State Senator District #7,,,county,Lincoln,487
-Chris,Zaferes,Chris Zaferes,D,D,State Senator District #7,,,county,Okanogan,1300
-Chris,Zaferes,Chris Zaferes,D,D,State Senator District #7,,,county,Pend Oreille,808
-Chris,Zaferes,Chris Zaferes,D,D,State Senator District #7,,,county,Spokane,1514
-Chris,Zaferes,Chris Zaferes,D,D,State Senator District #7,,,county,Stevens,2779
-Chris,Zaferes,Chris Zaferes,D,D,State Senator District #7,,,state,Washington,7217
-Bob,Morton,Bob Morton,R,R,State Senator District #7,,,county,Ferry,1177
-Bob,Morton,Bob Morton,R,R,State Senator District #7,,,county,Lincoln,2159
-Bob,Morton,Bob Morton,R,R,State Senator District #7,,,county,Okanogan,1961
-Bob,Morton,Bob Morton,R,R,State Senator District #7,,,county,Pend Oreille,1964
-Bob,Morton,Bob Morton,R,R,State Senator District #7,,,county,Spokane,3128
-Bob,Morton,Bob Morton,R,R,State Senator District #7,,,county,Stevens,5666
-Bob,Morton,Bob Morton,R,R,State Senator District #7,,,state,Washington,16055
+Chris,Zaferes,Chris Zaferes,D,D,State Senate District #7,,,county,Ferry,329
+Chris,Zaferes,Chris Zaferes,D,D,State Senate District #7,,,county,Lincoln,487
+Chris,Zaferes,Chris Zaferes,D,D,State Senate District #7,,,county,Okanogan,1300
+Chris,Zaferes,Chris Zaferes,D,D,State Senate District #7,,,county,Pend Oreille,808
+Chris,Zaferes,Chris Zaferes,D,D,State Senate District #7,,,county,Spokane,1514
+Chris,Zaferes,Chris Zaferes,D,D,State Senate District #7,,,county,Stevens,2779
+Chris,Zaferes,Chris Zaferes,D,D,State Senate District #7,,,state,Washington,7217
+Bob,Morton,Bob Morton,R,R,State Senate District #7,,,county,Ferry,1177
+Bob,Morton,Bob Morton,R,R,State Senate District #7,,,county,Lincoln,2159
+Bob,Morton,Bob Morton,R,R,State Senate District #7,,,county,Okanogan,1961
+Bob,Morton,Bob Morton,R,R,State Senate District #7,,,county,Pend Oreille,1964
+Bob,Morton,Bob Morton,R,R,State Senate District #7,,,county,Spokane,3128
+Bob,Morton,Bob Morton,R,R,State Senate District #7,,,county,Stevens,5666
+Bob,Morton,Bob Morton,R,R,State Senate District #7,,,state,Washington,16055
 Jack,Miller,Jack Miller,D,D,State Representative District #7,Position #1,,county,Ferry,340
 Jack,Miller,Jack Miller,D,D,State Representative District #7,Position #1,,county,Lincoln,500
 Jack,Miller,Jack Miller,D,D,State Representative District #7,Position #1,,county,Okanogan,1299
@@ -142,8 +142,8 @@ Joel,Kretz,Joel Kretz,R,R,State Representative District #7,Position #2,,county,P
 Joel,Kretz,Joel Kretz,R,R,State Representative District #7,Position #2,,county,Spokane,3015
 Joel,Kretz,Joel Kretz,R,R,State Representative District #7,Position #2,,county,Stevens,5328
 Joel,Kretz,Joel Kretz,R,R,State Representative District #7,Position #2,,state,Washington,15201
-Jerome,Delvin,Jerome Delvin,R,R,State Senator District #8,,,county,Benton,13923
-Jerome,Delvin,Jerome Delvin,R,R,State Senator District #8,,,state,Washington,13923
+Jerome,Delvin,Jerome Delvin,R,R,State Senate District #8,,,county,Benton,13923
+Jerome,Delvin,Jerome Delvin,R,R,State Senate District #8,,,state,Washington,13923
 Shirley,Hankins,Shirley Hankins,R,R,State Representative District #8,Position #1,,county,Benton,13018
 Shirley,Hankins,Shirley Hankins,R,R,State Representative District #8,Position #1,,state,Washington,13018
 Larry,Haler,Larry Haler,R,R,State Representative District #8,Position #2,,county,Benton,13222
@@ -218,14 +218,14 @@ Mike,Armstrong,Mike Armstrong,R,R,State Representative District #12,Position #2,
 Mike,Armstrong,Mike Armstrong,R,R,State Representative District #12,Position #2,,county,Grant,535
 Mike,Armstrong,Mike Armstrong,R,R,State Representative District #12,Position #2,,county,Okanogan,1063
 Mike,Armstrong,Mike Armstrong,R,R,State Representative District #12,Position #2,,state,Washington,14854
-Lisa,Bowen,Lisa Bowen,D,D,State Senator District #13,,,county,Grant,2255
-Lisa,Bowen,Lisa Bowen,D,D,State Senator District #13,,,county,Kittitas,2334
-Lisa,Bowen,Lisa Bowen,D,D,State Senator District #13,,,county,Yakima,776
-Lisa,Bowen,Lisa Bowen,D,D,State Senator District #13,,,state,Washington,5365
-JanTa,Holmquist,Janea Holmquist,R,R,State Senator District #13,,,county,Grant,6835
-JanTa,Holmquist,Janea Holmquist,R,R,State Senator District #13,,,county,Kittitas,4092
-JanTa,Holmquist,Janea Holmquist,R,R,State Senator District #13,,,county,Yakima,1970
-JanTa,Holmquist,Janea Holmquist,R,R,State Senator District #13,,,state,Washington,12897
+Lisa,Bowen,Lisa Bowen,D,D,State Senate District #13,,,county,Grant,2255
+Lisa,Bowen,Lisa Bowen,D,D,State Senate District #13,,,county,Kittitas,2334
+Lisa,Bowen,Lisa Bowen,D,D,State Senate District #13,,,county,Yakima,776
+Lisa,Bowen,Lisa Bowen,D,D,State Senate District #13,,,state,Washington,5365
+JanTa,Holmquist,Janea Holmquist,R,R,State Senate District #13,,,county,Grant,6835
+JanTa,Holmquist,Janea Holmquist,R,R,State Senate District #13,,,county,Kittitas,4092
+JanTa,Holmquist,Janea Holmquist,R,R,State Senate District #13,,,county,Yakima,1970
+JanTa,Holmquist,Janea Holmquist,R,R,State Senate District #13,,,state,Washington,12897
 Judith (Judy),Warnick,Judith (Judy) Warnick,R,R,State Representative District #13,Position #1,,county,Grant,5390
 Judith (Judy),Warnick,Judith (Judy) Warnick,R,R,State Representative District #13,Position #1,,county,Kittitas,2008
 Judith (Judy),Warnick,Judith (Judy) Warnick,R,R,State Representative District #13,Position #1,,county,Yakima,974
@@ -254,16 +254,16 @@ Charles,R. Ross,Charles R. Ross,R,R,State Representative District #14,Position #
 Charles,R. Ross,Charles R. Ross,R,R,State Representative District #14,Position #2,,state,Washington,3640
 Glen,Blomgren,Glen Blomgren,R,R,State Representative District #14,Position #2,,county,Yakima,2565
 Glen,Blomgren,Glen Blomgren,R,R,State Representative District #14,Position #2,,state,Washington,2565
-Toms,A. Villanueva,Toms A. Villanueva,D,D,State Senator District #15,,,county,Clark,502
-Toms,A. Villanueva,Toms A. Villanueva,D,D,State Senator District #15,,,county,Klickitat,890
-Toms,A. Villanueva,Toms A. Villanueva,D,D,State Senator District #15,,,county,Skamania,843
-Toms,A. Villanueva,Toms A. Villanueva,D,D,State Senator District #15,,,county,Yakima,2243
-Toms,A. Villanueva,Toms A. Villanueva,D,D,State Senator District #15,,,state,Washington,4478
-Jim,Honeyford,Jim Honeyford,R,R,State Senator District #15,,,county,Clark,523
-Jim,Honeyford,Jim Honeyford,R,R,State Senator District #15,,,county,Klickitat,2651
-Jim,Honeyford,Jim Honeyford,R,R,State Senator District #15,,,county,Skamania,1030
-Jim,Honeyford,Jim Honeyford,R,R,State Senator District #15,,,county,Yakima,4419
-Jim,Honeyford,Jim Honeyford,R,R,State Senator District #15,,,state,Washington,8623
+Toms,A. Villanueva,Toms A. Villanueva,D,D,State Senate District #15,,,county,Clark,502
+Toms,A. Villanueva,Toms A. Villanueva,D,D,State Senate District #15,,,county,Klickitat,890
+Toms,A. Villanueva,Toms A. Villanueva,D,D,State Senate District #15,,,county,Skamania,843
+Toms,A. Villanueva,Toms A. Villanueva,D,D,State Senate District #15,,,county,Yakima,2243
+Toms,A. Villanueva,Toms A. Villanueva,D,D,State Senate District #15,,,state,Washington,4478
+Jim,Honeyford,Jim Honeyford,R,R,State Senate District #15,,,county,Clark,523
+Jim,Honeyford,Jim Honeyford,R,R,State Senate District #15,,,county,Klickitat,2651
+Jim,Honeyford,Jim Honeyford,R,R,State Senate District #15,,,county,Skamania,1030
+Jim,Honeyford,Jim Honeyford,R,R,State Senate District #15,,,county,Yakima,4419
+Jim,Honeyford,Jim Honeyford,R,R,State Senate District #15,,,state,Washington,8623
 Glen,Howard Pinkham,Glen Howard Pinkham,D,D,State Representative District #15,Position #1,,county,Clark,492
 Glen,Howard Pinkham,Glen Howard Pinkham,D,D,State Representative District #15,Position #1,,county,Klickitat,861
 Glen,Howard Pinkham,Glen Howard Pinkham,D,D,State Representative District #15,Position #1,,county,Skamania,768
@@ -365,8 +365,8 @@ Richard,DeBolt,Richard DeBolt,R,R,State Representative District #20,Position #1,
 Gary,C. Alexander,Gary C. Alexander,R,R,State Representative District #20,Position #2,,county,Lewis,8474
 Gary,C. Alexander,Gary C. Alexander,R,R,State Representative District #20,Position #2,,county,Thurston,4239
 Gary,C. Alexander,Gary C. Alexander,R,R,State Representative District #20,Position #2,,state,Washington,12713
-Paull,H. Shin,Paull H. Shin,D,D,State Senator District #21,,,county,Snohomish,13076
-Paull,H. Shin,Paull H. Shin,D,D,State Senator District #21,,,state,Washington,13076
+Paull,H. Shin,Paull H. Shin,D,D,State Senate District #21,,,county,Snohomish,13076
+Paull,H. Shin,Paull H. Shin,D,D,State Senate District #21,,,state,Washington,13076
 Mary,Helen Roberts,Mary Helen Roberts,D,D,State Representative District #21,Position #1,,county,Snohomish,12645
 Mary,Helen Roberts,Mary Helen Roberts,D,D,State Representative District #21,Position #1,,state,Washington,12645
 Brian,Sullivan,Brian Sullivan,D,D,State Representative District #21,Position #2,,county,Snohomish,12713
@@ -405,15 +405,15 @@ Dawn,Morrell,Dawn Morrell,D,D,State Representative District #25,Position #2,,cou
 Dawn,Morrell,Dawn Morrell,D,D,State Representative District #25,Position #2,,state,Washington,10728
 Wally,Nash,Wally Nash,R,R,State Representative District #25,Position #2,,county,Pierce,7722
 Wally,Nash,Wally Nash,R,R,State Representative District #25,Position #2,,state,Washington,7722
-Derek,Kilmer,Derek Kilmer,D,D,State Senator District #26,,,county,Kitsap,7261
-Derek,Kilmer,Derek Kilmer,D,D,State Senator District #26,,,county,Pierce,6600
-Derek,Kilmer,Derek Kilmer,D,D,State Senator District #26,,,state,Washington,13861
-Jim,Hines,Jim Hines,R,R,State Senator District #26,,,county,Kitsap,2419
-Jim,Hines,Jim Hines,R,R,State Senator District #26,,,county,Pierce,4290
-Jim,Hines,Jim Hines,R,R,State Senator District #26,,,state,Washington,6709
-Lois,McMahan,Lois McMahan,R,R,State Senator District #26,,,county,Kitsap,2970
-Lois,McMahan,Lois McMahan,R,R,State Senator District #26,,,county,Pierce,3103
-Lois,McMahan,Lois McMahan,R,R,State Senator District #26,,,state,Washington,6073
+Derek,Kilmer,Derek Kilmer,D,D,State Senate District #26,,,county,Kitsap,7261
+Derek,Kilmer,Derek Kilmer,D,D,State Senate District #26,,,county,Pierce,6600
+Derek,Kilmer,Derek Kilmer,D,D,State Senate District #26,,,state,Washington,13861
+Jim,Hines,Jim Hines,R,R,State Senate District #26,,,county,Kitsap,2419
+Jim,Hines,Jim Hines,R,R,State Senate District #26,,,county,Pierce,4290
+Jim,Hines,Jim Hines,R,R,State Senate District #26,,,state,Washington,6709
+Lois,McMahan,Lois McMahan,R,R,State Senate District #26,,,county,Kitsap,2970
+Lois,McMahan,Lois McMahan,R,R,State Senate District #26,,,county,Pierce,3103
+Lois,McMahan,Lois McMahan,R,R,State Senate District #26,,,state,Washington,6073
 Patricia,Lantz,Patricia Lantz,D,D,State Representative District #26,Position #1,,county,Kitsap,7121
 Patricia,Lantz,Patricia Lantz,D,D,State Representative District #26,Position #1,,county,Pierce,6524
 Patricia,Lantz,Patricia Lantz,D,D,State Representative District #26,Position #1,,state,Washington,13645
@@ -449,16 +449,16 @@ Bob,Lawrence,Bob Lawrence,R,R,State Representative District #28,Position #2,,cou
 Bob,Lawrence,Bob Lawrence,R,R,State Representative District #28,Position #2,,state,Washington,7243
 Jim,Oliver,Jim Oliver,R,R,State Representative District #28,Position #2,,county,Pierce,1745
 Jim,Oliver,Jim Oliver,R,R,State Representative District #28,Position #2,,state,Washington,1745
-Rosa,Franklin,Rosa Franklin,D,D,State Senator District #29,,,county,Pierce,7889
-Rosa,Franklin,Rosa Franklin,D,D,State Senator District #29,,,state,Washington,7889
+Rosa,Franklin,Rosa Franklin,D,D,State Senate District #29,,,county,Pierce,7889
+Rosa,Franklin,Rosa Franklin,D,D,State Senate District #29,,,state,Washington,7889
 Steve,Conway,Steve Conway,D,D,State Representative District #29,Position #1,,county,Pierce,7762
 Steve,Conway,Steve Conway,D,D,State Representative District #29,Position #1,,state,Washington,7762
 Steve,Kirby,Steve Kirby,D,D,State Representative District #29,Position #2,,county,Pierce,7736
 Steve,Kirby,Steve Kirby,D,D,State Representative District #29,Position #2,,state,Washington,7736
-Tracey,J. Eide,Tracey J. Eide,D,D,State Senator District #30,,,county,King,8381
-Tracey,J. Eide,Tracey J. Eide,D,D,State Senator District #30,,,state,Washington,8381
-Renee,Maher,Renee Maher,R,R,State Senator District #30,,,county,King,5851
-Renee,Maher,Renee Maher,R,R,State Senator District #30,,,state,Washington,5851
+Tracey,J. Eide,Tracey J. Eide,D,D,State Senate District #30,,,county,King,8381
+Tracey,J. Eide,Tracey J. Eide,D,D,State Senate District #30,,,state,Washington,8381
+Renee,Maher,Renee Maher,R,R,State Senate District #30,,,county,King,5851
+Renee,Maher,Renee Maher,R,R,State Senate District #30,,,state,Washington,5851
 Mark,Miloscia,Mark Miloscia,D,D,State Representative District #30,Position #1,,county,King,8217
 Mark,Miloscia,Mark Miloscia,D,D,State Representative District #30,Position #1,,state,Washington,8217
 Anthony,Kalchik,Anthony Kalchik,R,R,State Representative District #30,Position #1,,county,King,5259
@@ -467,12 +467,12 @@ Helen,Stanwell,Helen Stanwell,D,D,State Representative District #30,Position #2,
 Helen,Stanwell,Helen Stanwell,D,D,State Representative District #30,Position #2,,state,Washington,7534
 Skip,Priest,Skip Priest,R,R,State Representative District #30,Position #2,,county,King,6006
 Skip,Priest,Skip Priest,R,R,State Representative District #30,Position #2,,state,Washington,6006
-Yvonne,Ward,Yvonne Ward,D,D,State Senator District #31,,,county,King,3450
-Yvonne,Ward,Yvonne Ward,D,D,State Senator District #31,,,county,Pierce,5574
-Yvonne,Ward,Yvonne Ward,D,D,State Senator District #31,,,state,Washington,9024
-Pam,Roach,Pam Roach,R,R,State Senator District #31,,,county,King,3438
-Pam,Roach,Pam Roach,R,R,State Senator District #31,,,county,Pierce,5249
-Pam,Roach,Pam Roach,R,R,State Senator District #31,,,state,Washington,8687
+Yvonne,Ward,Yvonne Ward,D,D,State Senate District #31,,,county,King,3450
+Yvonne,Ward,Yvonne Ward,D,D,State Senate District #31,,,county,Pierce,5574
+Yvonne,Ward,Yvonne Ward,D,D,State Senate District #31,,,state,Washington,9024
+Pam,Roach,Pam Roach,R,R,State Senate District #31,,,county,King,3438
+Pam,Roach,Pam Roach,R,R,State Senate District #31,,,county,Pierce,5249
+Pam,Roach,Pam Roach,R,R,State Senate District #31,,,state,Washington,8687
 Karen,Willard,Karen Willard,D,D,State Representative District #31,Position #1,,county,King,3292
 Karen,Willard,Karen Willard,D,D,State Representative District #31,Position #1,,county,Pierce,5426
 Karen,Willard,Karen Willard,D,D,State Representative District #31,Position #1,,state,Washington,8718
@@ -485,15 +485,15 @@ Christopher,Hurst,Christopher Hurst,D,D,State Representative District #31,Positi
 Jan,Shabro,Jan Shabro,R,R,State Representative District #31,Position #2,,county,King,3307
 Jan,Shabro,Jan Shabro,R,R,State Representative District #31,Position #2,,county,Pierce,5099
 Jan,Shabro,Jan Shabro,R,R,State Representative District #31,Position #2,,state,Washington,8406
-Chris,Eggen,Chris Eggen,D,D,State Senator District #32,,,county,King,3572
-Chris,Eggen,Chris Eggen,D,D,State Senator District #32,,,county,Snohomish,842
-Chris,Eggen,Chris Eggen,D,D,State Senator District #32,,,state,Washington,4414
-Darlene,Fairley,Darlene Fairley,D,D,State Senator District #32,,,county,King,9527
-Darlene,Fairley,Darlene Fairley,D,D,State Senator District #32,,,county,Snohomish,2064
-Darlene,Fairley,Darlene Fairley,D,D,State Senator District #32,,,state,Washington,11591
-David,Baker,David Baker,R,R,State Senator District #32,,,county,King,4971
-David,Baker,David Baker,R,R,State Senator District #32,,,county,Snohomish,1434
-David,Baker,David Baker,R,R,State Senator District #32,,,state,Washington,6405
+Chris,Eggen,Chris Eggen,D,D,State Senate District #32,,,county,King,3572
+Chris,Eggen,Chris Eggen,D,D,State Senate District #32,,,county,Snohomish,842
+Chris,Eggen,Chris Eggen,D,D,State Senate District #32,,,state,Washington,4414
+Darlene,Fairley,Darlene Fairley,D,D,State Senate District #32,,,county,King,9527
+Darlene,Fairley,Darlene Fairley,D,D,State Senate District #32,,,county,Snohomish,2064
+Darlene,Fairley,Darlene Fairley,D,D,State Senate District #32,,,state,Washington,11591
+David,Baker,David Baker,R,R,State Senate District #32,,,county,King,4971
+David,Baker,David Baker,R,R,State Senate District #32,,,county,Snohomish,1434
+David,Baker,David Baker,R,R,State Senate District #32,,,state,Washington,6405
 Maralyn,Chase,Maralyn Chase,D,D,State Representative District #32,Position #1,,county,Snohomish,2780
 Maralyn,Chase,Maralyn Chase,D,D,State Representative District #32,Position #1,,county,King,11322
 Maralyn,Chase,Maralyn Chase,D,D,State Representative District #32,Position #1,,state,Washington,14102
@@ -506,39 +506,39 @@ Ruth,Kagi,Ruth Kagi,D,D,State Representative District #32,Position #2,,state,Was
 Steve,Gibbs,Steve Gibbs,R,R,State Representative District #32,Position #2,,county,King,4848
 Steve,Gibbs,Steve Gibbs,R,R,State Representative District #32,Position #2,,county,Snohomish,1415
 Steve,Gibbs,Steve Gibbs,R,R,State Representative District #32,Position #2,,state,Washington,6263
-Karen,Keiser,Karen Keiser,D,D,State Senator District #33,,,county,King,8950
-Karen,Keiser,Karen Keiser,D,D,State Senator District #33,,,state,Washington,8950
-Karen,Steele,Karen Steele,R,R,State Senator District #33,,,county,King,4991
-Karen,Steele,Karen Steele,R,R,State Senator District #33,,,state,Washington,4991
+Karen,Keiser,Karen Keiser,D,D,State Senate District #33,,,county,King,8950
+Karen,Keiser,Karen Keiser,D,D,State Senate District #33,,,state,Washington,8950
+Karen,Steele,Karen Steele,R,R,State Senate District #33,,,county,King,4991
+Karen,Steele,Karen Steele,R,R,State Senate District #33,,,state,Washington,4991
 Shay,Schual-Berke,Shay Schual-Berke,D,D,State Representative District #33,Position #1,,county,King,8806
 Shay,Schual-Berke,Shay Schual-Berke,D,D,State Representative District #33,Position #1,,state,Washington,8806
 Mike,Cook,Mike Cook,R,R,State Representative District #33,Position #1,,county,King,4681
 Mike,Cook,Mike Cook,R,R,State Representative District #33,Position #1,,state,Washington,4681
 Dave,Upthegrove,Dave Upthegrove,D,D,State Representative District #33,Position #2,,county,King,8675
 Dave,Upthegrove,Dave Upthegrove,D,D,State Representative District #33,Position #2,,state,Washington,8675
-Erik,Poulsen,Erik Poulsen,D,D,State Senator District #34,,,county,King,15279
-Erik,Poulsen,Erik Poulsen,D,D,State Senator District #34,,,state,Washington,15279
+Erik,Poulsen,Erik Poulsen,D,D,State Senate District #34,,,county,King,15279
+Erik,Poulsen,Erik Poulsen,D,D,State Senate District #34,,,state,Washington,15279
 Eileen,L. Cody,Eileen L. Cody,D,D,State Representative District #34,Position #1,,county,King,14879
 Eileen,L. Cody,Eileen L. Cody,D,D,State Representative District #34,Position #1,,state,Washington,14879
 Joe,McDermott,Joe McDermott,D,D,State Representative District #34,Position #2,,county,King,15164
 Joe,McDermott,Joe McDermott,D,D,State Representative District #34,Position #2,,state,Washington,15164
 Savun,Neang,Savun Neang,R,R,State Representative District #34,Position #2,,county,King,3138
 Savun,Neang,Savun Neang,R,R,State Representative District #34,Position #2,,state,Washington,3138
-Kyle,Taylor Lucas,Kyle Taylor Lucas,D,D,State Senator District #35,,,county,Grays Harbor,715
-Kyle,Taylor Lucas,Kyle Taylor Lucas,D,D,State Senator District #35,,,county,Kitsap,2719
-Kyle,Taylor Lucas,Kyle Taylor Lucas,D,D,State Senator District #35,,,county,Mason,4062
-Kyle,Taylor Lucas,Kyle Taylor Lucas,D,D,State Senator District #35,,,county,Thurston,1656
-Kyle,Taylor Lucas,Kyle Taylor Lucas,D,D,State Senator District #35,,,state,Washington,9152
-Tim,Sheldon,Tim Sheldon,D,D,State Senator District #35,,,county,Grays Harbor,1151
-Tim,Sheldon,Tim Sheldon,D,D,State Senator District #35,,,county,Kitsap,3814
-Tim,Sheldon,Tim Sheldon,D,D,State Senator District #35,,,county,Mason,6037
-Tim,Sheldon,Tim Sheldon,D,D,State Senator District #35,,,county,Thurston,1153
-Tim,Sheldon,Tim Sheldon,D,D,State Senator District #35,,,state,Washington,12155
-Mark,E. Shattuck,Mark E. Shattuck,R,R,State Senator District #35,,,county,Grays Harbor,453
-Mark,E. Shattuck,Mark E. Shattuck,R,R,State Senator District #35,,,county,Kitsap,2923
-Mark,E. Shattuck,Mark E. Shattuck,R,R,State Senator District #35,,,county,Mason,2735
-Mark,E. Shattuck,Mark E. Shattuck,R,R,State Senator District #35,,,county,Thurston,771
-Mark,E. Shattuck,Mark E. Shattuck,R,R,State Senator District #35,,,state,Washington,6882
+Kyle,Taylor Lucas,Kyle Taylor Lucas,D,D,State Senate District #35,,,county,Grays Harbor,715
+Kyle,Taylor Lucas,Kyle Taylor Lucas,D,D,State Senate District #35,,,county,Kitsap,2719
+Kyle,Taylor Lucas,Kyle Taylor Lucas,D,D,State Senate District #35,,,county,Mason,4062
+Kyle,Taylor Lucas,Kyle Taylor Lucas,D,D,State Senate District #35,,,county,Thurston,1656
+Kyle,Taylor Lucas,Kyle Taylor Lucas,D,D,State Senate District #35,,,state,Washington,9152
+Tim,Sheldon,Tim Sheldon,D,D,State Senate District #35,,,county,Grays Harbor,1151
+Tim,Sheldon,Tim Sheldon,D,D,State Senate District #35,,,county,Kitsap,3814
+Tim,Sheldon,Tim Sheldon,D,D,State Senate District #35,,,county,Mason,6037
+Tim,Sheldon,Tim Sheldon,D,D,State Senate District #35,,,county,Thurston,1153
+Tim,Sheldon,Tim Sheldon,D,D,State Senate District #35,,,state,Washington,12155
+Mark,E. Shattuck,Mark E. Shattuck,R,R,State Senate District #35,,,county,Grays Harbor,453
+Mark,E. Shattuck,Mark E. Shattuck,R,R,State Senate District #35,,,county,Kitsap,2923
+Mark,E. Shattuck,Mark E. Shattuck,R,R,State Senate District #35,,,county,Mason,2735
+Mark,E. Shattuck,Mark E. Shattuck,R,R,State Senate District #35,,,county,Thurston,771
+Mark,E. Shattuck,Mark E. Shattuck,R,R,State Senate District #35,,,state,Washington,6882
 Kathy,Haigh,Kathy Haigh,D,D,State Representative District #35,Position #1,,county,Grays Harbor,1460
 Kathy,Haigh,Kathy Haigh,D,D,State Representative District #35,Position #1,,county,Kitsap,5608
 Kathy,Haigh,Kathy Haigh,D,D,State Representative District #35,Position #1,,county,Mason,7956
@@ -559,22 +559,22 @@ Randy,Neatherlin,Randy Neatherlin,R,R,State Representative District #35,Position
 Randy,Neatherlin,Randy Neatherlin,R,R,State Representative District #35,Position #2,,county,Mason,2710
 Randy,Neatherlin,Randy Neatherlin,R,R,State Representative District #35,Position #2,,county,Thurston,767
 Randy,Neatherlin,Randy Neatherlin,R,R,State Representative District #35,Position #2,,state,Washington,6899
-Jeanne,Kohl-Welles,Jeanne Kohl-Welles,D,D,State Senator District #36,,,county,King,18732
-Jeanne,Kohl-Welles,Jeanne Kohl-Welles,D,D,State Senator District #36,,,state,Washington,18732
+Jeanne,Kohl-Welles,Jeanne Kohl-Welles,D,D,State Senate District #36,,,county,King,18732
+Jeanne,Kohl-Welles,Jeanne Kohl-Welles,D,D,State Senate District #36,,,state,Washington,18732
 Helen,Sommers,Helen Sommers,D,D,State Representative District #36,Position #1,,county,King,18634
 Helen,Sommers,Helen Sommers,D,D,State Representative District #36,Position #1,,state,Washington,18634
 Mary,Lou Dickerson,Mary Lou Dickerson,D,D,State Representative District #36,Position #2,,county,King,18712
 Mary,Lou Dickerson,Mary Lou Dickerson,D,D,State Representative District #36,Position #2,,state,Washington,18712
-Adam,Kline,Adam Kline,D,D,State Senator District #37,,,county,King,13288
-Adam,Kline,Adam Kline,D,D,State Senator District #37,,,state,Washington,13288
+Adam,Kline,Adam Kline,D,D,State Senate District #37,,,county,King,13288
+Adam,Kline,Adam Kline,D,D,State Senate District #37,,,state,Washington,13288
 Sharon,Tomiko Santos,Sharon Tomiko Santos,D,D,State Representative District #37,Position #1,,county,King,13290
 Sharon,Tomiko Santos,Sharon Tomiko Santos,D,D,State Representative District #37,Position #1,,state,Washington,13290
 Eric,Pettigrew,Eric Pettigrew,D,D,State Representative District #37,Position #2,,county,King,13182
 Eric,Pettigrew,Eric Pettigrew,D,D,State Representative District #37,Position #2,,state,Washington,13182
 Kwame,Wyking Garrett,Kwame Wyking Garrett,R,R,State Representative District #37,Position #2,,county,King,1176
 Kwame,Wyking Garrett,Kwame Wyking Garrett,R,R,State Representative District #37,Position #2,,state,Washington,1176
-Jean,Berkey,Jean Berkey,D,D,State Senator District #38,,,county,Snohomish,10009
-Jean,Berkey,Jean Berkey,D,D,State Senator District #38,,,state,Washington,10009
+Jean,Berkey,Jean Berkey,D,D,State Senate District #38,,,county,Snohomish,10009
+Jean,Berkey,Jean Berkey,D,D,State Senate District #38,,,state,Washington,10009
 John,McCoy,John McCoy,D,D,State Representative District #38,Position #1,,county,Snohomish,9457
 John,McCoy,John McCoy,D,D,State Representative District #38,Position #1,,state,Washington,9457
 Kim,Halvorson,Kim Halvorson,R,R,State Representative District #38,Position #1,,county,Snohomish,5515
@@ -616,10 +616,10 @@ Judy,Clibborn,Judy Clibborn,D,D,State Representative District #41,Position #2,,c
 Judy,Clibborn,Judy Clibborn,D,D,State Representative District #41,Position #2,,state,Washington,12329
 Erik,Fretheim,Erik Fretheim,R,R,State Representative District #41,Position #2,,county,King,8701
 Erik,Fretheim,Erik Fretheim,R,R,State Representative District #41,Position #2,,state,Washington,8701
-Jesse,Salomon,Jesse Salomon,D,D,State Senator District #42,,,county,Whatcom,11571
-Jesse,Salomon,Jesse Salomon,D,D,State Senator District #42,,,state,Washington,11571
-Dale,E. Brandland,Dale E. Brandland,R,R,State Senator District #42,,,county,Whatcom,10495
-Dale,E. Brandland,Dale E. Brandland,R,R,State Senator District #42,,,state,Washington,10495
+Jesse,Salomon,Jesse Salomon,D,D,State Senate District #42,,,county,Whatcom,11571
+Jesse,Salomon,Jesse Salomon,D,D,State Senate District #42,,,state,Washington,11571
+Dale,E. Brandland,Dale E. Brandland,R,R,State Senate District #42,,,county,Whatcom,10495
+Dale,E. Brandland,Dale E. Brandland,R,R,State Senate District #42,,,state,Washington,10495
 Jasper,MacSlarrow,Jasper MacSlarrow,D,D,State Representative District #42,Position #1,,county,Whatcom,11470
 Jasper,MacSlarrow,Jasper MacSlarrow,D,D,State Representative District #42,Position #1,,state,Washington,11470
 Doug,Ericksen,Doug Ericksen,R,R,State Representative District #42,Position #1,,county,Whatcom,10531
@@ -628,10 +628,10 @@ Kelli,Linville,Kelli Linville,D,D,State Representative District #42,Position #2,
 Kelli,Linville,Kelli Linville,D,D,State Representative District #42,Position #2,,state,Washington,12435
 Craig,Mayberry,Craig Mayberry,R,R,State Representative District #42,Position #2,,county,Whatcom,10256
 Craig,Mayberry,Craig Mayberry,R,R,State Representative District #42,Position #2,,state,Washington,10256
-Ed,Murray,Ed Murray,D,D,State Senator District #43,,,county,King,18883
-Ed,Murray,Ed Murray,D,D,State Senator District #43,,,state,Washington,18883
-Loren,Nelson,Loren Nelson,R,R,State Senator District #43,,,county,King,1876
-Loren,Nelson,Loren Nelson,R,R,State Senator District #43,,,state,Washington,1876
+Ed,Murray,Ed Murray,D,D,State Senate District #43,,,county,King,18883
+Ed,Murray,Ed Murray,D,D,State Senate District #43,,,state,Washington,18883
+Loren,Nelson,Loren Nelson,R,R,State Senate District #43,,,county,King,1876
+Loren,Nelson,Loren Nelson,R,R,State Senate District #43,,,state,Washington,1876
 Jamie,Pedersen,Jamie Pedersen,D,D,State Representative District #43,Position #1,,county,King,5072
 Jamie,Pedersen,Jamie Pedersen,D,D,State Representative District #43,Position #1,,state,Washington,5072
 Bill,Sherman,Bill Sherman,D,D,State Representative District #43,Position #1,,county,King,4080
@@ -650,12 +650,12 @@ Frank,Chopp,Frank Chopp,D,D,State Representative District #43,Position #2,,count
 Frank,Chopp,Frank Chopp,D,D,State Representative District #43,Position #2,,state,Washington,17510
 Will (Chopper),Sohn,Will (Chopper) Sohn,R,R,State Representative District #43,Position #2,,county,King,1704
 Will (Chopper),Sohn,Will (Chopper) Sohn,R,R,State Representative District #43,Position #2,,state,Washington,1704
-Lillian,Kaufer,Lillian Kaufer,D,D,State Senator District #44,,,county,Snohomish,5931
-Lillian,Kaufer,Lillian Kaufer,D,D,State Senator District #44,,,state,Washington,5931
-Steve,Hobbs,Steve Hobbs,D,D,State Senator District #44,,,county,Snohomish,6566
-Steve,Hobbs,Steve Hobbs,D,D,State Senator District #44,,,state,Washington,6566
-Dave,Schmidt,Dave Schmidt,R,R,State Senator District #44,,,county,Snohomish,9676
-Dave,Schmidt,Dave Schmidt,R,R,State Senator District #44,,,state,Washington,9676
+Lillian,Kaufer,Lillian Kaufer,D,D,State Senate District #44,,,county,Snohomish,5931
+Lillian,Kaufer,Lillian Kaufer,D,D,State Senate District #44,,,state,Washington,5931
+Steve,Hobbs,Steve Hobbs,D,D,State Senate District #44,,,county,Snohomish,6566
+Steve,Hobbs,Steve Hobbs,D,D,State Senate District #44,,,state,Washington,6566
+Dave,Schmidt,Dave Schmidt,R,R,State Senate District #44,,,county,Snohomish,9676
+Dave,Schmidt,Dave Schmidt,R,R,State Senate District #44,,,state,Washington,9676
 Hans,Dunshee,Hans Dunshee,D,D,State Representative District #44,Position #1,,county,Snohomish,12464
 Hans,Dunshee,Hans Dunshee,D,D,State Representative District #44,Position #1,,state,Washington,12464
 Mike,Hope,Mike Hope,R,R,State Representative District #44,Position #1,,county,Snohomish,9797
@@ -664,10 +664,10 @@ John,Lovick,John Lovick,D,D,State Representative District #44,Position #2,,count
 John,Lovick,John Lovick,D,D,State Representative District #44,Position #2,,state,Washington,12303
 Robert,Legg,Robert Legg,R,R,State Representative District #44,Position #2,,county,Snohomish,9622
 Robert,Legg,Robert Legg,R,R,State Representative District #44,Position #2,,state,Washington,9622
-Eric,Oemig,Eric Oemig,D,D,State Senator District #45,,,county,King,9899
-Eric,Oemig,Eric Oemig,D,D,State Senator District #45,,,state,Washington,9899
-Toby,Nixon,Toby Nixon,R,R,State Senator District #45,,,county,King,9105
-Toby,Nixon,Toby Nixon,R,R,State Senator District #45,,,state,Washington,9105
+Eric,Oemig,Eric Oemig,D,D,State Senate District #45,,,county,King,9899
+Eric,Oemig,Eric Oemig,D,D,State Senate District #45,,,state,Washington,9899
+Toby,Nixon,Toby Nixon,R,R,State Senate District #45,,,county,King,9105
+Toby,Nixon,Toby Nixon,R,R,State Senate District #45,,,state,Washington,9105
 Roger,E. Goodman,Roger E. Goodman,D,D,State Representative District #45,Position #1,,county,King,9519
 Roger,E. Goodman,Roger E. Goodman,D,D,State Representative District #45,Position #1,,state,Washington,9519
 Jeffrey,Possinger,Jeffrey Possinger,R,R,State Representative District #45,Position #1,,county,King,8727
@@ -676,20 +676,20 @@ Larry,Springer,Larry Springer,D,D,State Representative District #45,Position #2,
 Larry,Springer,Larry Springer,D,D,State Representative District #45,Position #2,,state,Washington,10060
 Tim,Lee,Tim Lee,R,R,State Representative District #45,Position #2,,county,King,8596
 Tim,Lee,Tim Lee,R,R,State Representative District #45,Position #2,,state,Washington,8596
-Ken,G. Jacobsen,Ken G. Jacobsen,D,D,State Senator District #46,,,county,King,18317
-Ken,G. Jacobsen,Ken G. Jacobsen,D,D,State Senator District #46,,,state,Washington,18317
-Brian,Travis,Brian Travis,R,R,State Senator District #46,,,county,King,3532
-Brian,Travis,Brian Travis,R,R,State Senator District #46,,,state,Washington,3532
+Ken,G. Jacobsen,Ken G. Jacobsen,D,D,State Senate District #46,,,county,King,18317
+Ken,G. Jacobsen,Ken G. Jacobsen,D,D,State Senate District #46,,,state,Washington,18317
+Brian,Travis,Brian Travis,R,R,State Senate District #46,,,county,King,3532
+Brian,Travis,Brian Travis,R,R,State Senate District #46,,,state,Washington,3532
 Jim,McIntire,Jim McIntire,D,D,State Representative District #46,Position #1,,county,King,17834
 Jim,McIntire,Jim McIntire,D,D,State Representative District #46,Position #1,,state,Washington,17834
 Phyllis,G. Kenney,Phyllis G. Kenney,D,D,State Representative District #46,Position #2,,county,King,17628
 Phyllis,G. Kenney,Phyllis G. Kenney,D,D,State Representative District #46,Position #2,,state,Washington,17628
-Claudia,Kauffman,Claudia Kauffman,D,D,State Senator District #47,,,county,King,5684
-Claudia,Kauffman,Claudia Kauffman,D,D,State Senator District #47,,,state,Washington,5684
-Ed,Crawford,Ed Crawford,D,D,State Senator District #47,,,county,King,4657
-Ed,Crawford,Ed Crawford,D,D,State Senator District #47,,,state,Washington,4657
-Mike,Riley,Mike Riley,R,R,State Senator District #47,,,county,King,8538
-Mike,Riley,Mike Riley,R,R,State Senator District #47,,,state,Washington,8538
+Claudia,Kauffman,Claudia Kauffman,D,D,State Senate District #47,,,county,King,5684
+Claudia,Kauffman,Claudia Kauffman,D,D,State Senate District #47,,,state,Washington,5684
+Ed,Crawford,Ed Crawford,D,D,State Senate District #47,,,county,King,4657
+Ed,Crawford,Ed Crawford,D,D,State Senate District #47,,,state,Washington,4657
+Mike,Riley,Mike Riley,R,R,State Senate District #47,,,county,King,8538
+Mike,Riley,Mike Riley,R,R,State Senate District #47,,,state,Washington,8538
 Geoff,Simpson,Geoff Simpson,D,D,State Representative District #47,Position #1,,county,King,9425
 Geoff,Simpson,Geoff Simpson,D,D,State Representative District #47,Position #1,,state,Washington,9425
 Donna,Watts,Donna Watts,R,R,State Representative District #47,Position #1,,county,King,8265
@@ -698,10 +698,10 @@ Pat,Sullivan,Pat Sullivan,D,D,State Representative District #47,Position #2,,cou
 Pat,Sullivan,Pat Sullivan,D,D,State Representative District #47,Position #2,,state,Washington,9450
 Andrew,Franz,Andrew Franz,R,R,State Representative District #47,Position #2,,county,King,8339
 Andrew,Franz,Andrew Franz,R,R,State Representative District #47,Position #2,,state,Washington,8339
-Rodney,Tom,Rodney Tom,D,D,State Senator District #48,,,county,King,9950
-Rodney,Tom,Rodney Tom,D,D,State Senator District #48,,,state,Washington,9950
-Luke,Esser,Luke Esser,R,R,State Senator District #48,,,county,King,8279
-Luke,Esser,Luke Esser,R,R,State Senator District #48,,,state,Washington,8279
+Rodney,Tom,Rodney Tom,D,D,State Senate District #48,,,county,King,9950
+Rodney,Tom,Rodney Tom,D,D,State Senate District #48,,,state,Washington,9950
+Luke,Esser,Luke Esser,R,R,State Senate District #48,,,county,King,8279
+Luke,Esser,Luke Esser,R,R,State Senate District #48,,,state,Washington,8279
 Ross,Hunter,Ross Hunter,D,D,State Representative District #48,Position #1,,county,King,9979
 Ross,Hunter,Ross Hunter,D,D,State Representative District #48,Position #1,,state,Washington,9979
 Nancy,Potts,Nancy Potts,R,R,State Representative District #48,Position #1,,county,King,7436

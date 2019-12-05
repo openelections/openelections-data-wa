@@ -9,8 +9,8 @@ Adams,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana e
 Adams,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana excise tax,,,Maintained,1270
 Adams,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Repealed,1785
 Adams,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Maintained,1268
-Adams,U.S. Representative,4,Republican,Clint Didier,1908
-Adams,U.S. Representative,4,Republican,Dan Newhouse,1336
+Adams,U.S. House,4,Republican,Clint Didier,1908
+Adams,U.S. House,4,Republican,Dan Newhouse,1336
 Adams,Legislative District 9 State Representative (Pos. 1),9,Republican,Susan Fagan,2634
 Adams,Legislative District 9 State Representative (Pos. 2),9,GOP,Joe Schmick,2588
 Adams,ADAMS COUNTY Assessor,,Republican,Sherri L. Brewer,2712
@@ -51,8 +51,8 @@ Asotin,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287)
 Asotin,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Maintained,3158
 Asotin,COUNTYWIDE PTBA Proposition No. 1 PTBA Continuing Sales and Use Tax,,,Yes,6133
 Asotin,COUNTYWIDE PTBA Proposition No. 1 PTBA Continuing Sales and Use Tax,,,No,1504
-Asotin,U.S. Representative,5,Republican,Cathy McMorris Rodgers,4553
-Asotin,U.S. Representative,5,Democratic,Joseph (Joe) Pakootas,3016
+Asotin,U.S. House,5,Republican,Cathy McMorris Rodgers,4553
+Asotin,U.S. House,5,Democratic,Joseph (Joe) Pakootas,3016
 Asotin,Legislative District 9 State Representative (Pos. 1),9,Republican,Susan Fagan,5854
 Asotin,Legislative District 9 State Representative (Pos. 2),9,GOP,Joe Schmick,5724
 Asotin,COUNTYWIDE COUNTY ASSESSOR,,Republican,Chris Wood,5839
@@ -88,10 +88,10 @@ Benton,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287)
 Benton,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Maintained,20793
 Benton,Benton County Benton County Advisory Proposition No. 14-7 CREATION OF A BENTON COUNTY CONSERVATION FUTURES FUND,,,Yes,24927
 Benton,Benton County Benton County Advisory Proposition No. 14-7 CREATION OF A BENTON COUNTY CONSERVATION FUTURES FUND,,,No,27605
-Benton,U.S. Representative,4,Republican,Clint Didier,24955
-Benton,U.S. Representative,4,Republican,Dan Newhouse,25788
-Benton,Legislative District 8 State Senator,8,Republican,Sharon Brown,30552
-Benton,Legislative District 8 State Senator,8,Democratic,Doug McKinley,10649
+Benton,U.S. House,4,Republican,Clint Didier,24955
+Benton,U.S. House,4,Republican,Dan Newhouse,25788
+Benton,Legislative District 8 State Senate,8,Republican,Sharon Brown,30552
+Benton,Legislative District 8 State Senate,8,Democratic,Doug McKinley,10649
 Benton,Legislative District 8 State Representative (Pos. 1),8,Republican,Brad Klippert,31811
 Benton,Legislative District 8 State Representative (Pos. 2),8,Republican,Larry Haler,32188
 Benton,Legislative District 8 State Representative (Pos. 2),8,Democratic,Eric Kalia,8775
@@ -138,8 +138,8 @@ Chelan,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana 
 Chelan,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana excise tax,,,Maintained,10014
 Chelan,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Repealed,10424
 Chelan,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Maintained,9722
-Chelan,U.S. Representative,8,Republican,Dave Reichert,15584
-Chelan,U.S. Representative,8,Democratic,Jason Ritchie,6604
+Chelan,U.S. House,8,Republican,Dave Reichert,15584
+Chelan,U.S. House,8,Democratic,Jason Ritchie,6604
 Chelan,Legislative District 12 State Representative (Pos. 1),12,Republican,Cary Condotta,15635
 Chelan,Legislative District 12 State Representative (Pos. 2),12,Republican,Brad Hawkins,16332
 Chelan,CHELAN COUNTY ASSESSOR,,Republican,Deanna C. Walter,15194
@@ -177,8 +177,8 @@ Clallam,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana
 Clallam,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana excise tax,,,Maintained,13390
 Clallam,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Repealed,11550
 Clallam,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Maintained,13680
-Clallam,U.S. Representative,6,Democratic,Derek Kilmer,16001
-Clallam,U.S. Representative,6,Republican,Marty McClendon,12159
+Clallam,U.S. House,6,Democratic,Derek Kilmer,16001
+Clallam,U.S. House,6,Republican,Marty McClendon,12159
 Clallam,Legislative District 24 State Representative (Pos. 1),24,Democratic,Kevin Van De Wege,18253
 Clallam,Legislative District 24 State Representative (Pos. 2),24,Democratic,Steve Tharinger,14310
 Clallam,Legislative District 24 State Representative (Pos. 2),24,Republican,Thomas W. Greisamer,13544
@@ -258,8 +258,8 @@ Clark,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana e
 Clark,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana excise tax,,,Maintained,58668
 Clark,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Repealed,56520
 Clark,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Maintained,55668
-Clark,U.S. Representative,3,Republican,Jaime Herrera Beutler,72877
-Clark,U.S. Representative,3,Democratic,Bob Dingethal,49710
+Clark,U.S. House,3,Republican,Jaime Herrera Beutler,72877
+Clark,U.S. House,3,Democratic,Bob Dingethal,49710
 Clark,Legislative District 14 State Representative (Pos. 1),14,Republican,Norm Johnson,675
 Clark,Legislative District 14 State Representative (Pos. 1),14,States No Party Preference,Michael S. Brumback,555
 Clark,Legislative District 14 State Representative (Pos. 2),14,Republican,Gina R. McCabe,837
@@ -332,8 +332,8 @@ Columbia,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuan
 Columbia,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana excise tax,,,Maintained,689
 Columbia,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Repealed,952
 Columbia,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Maintained,662
-Columbia,U.S. Representative,5,Republican,Cathy McMorris Rodgers,1379
-Columbia,U.S. Representative,5,Democratic,Joseph (Joe) Pakootas,483
+Columbia,U.S. House,5,Republican,Cathy McMorris Rodgers,1379
+Columbia,U.S. House,5,Democratic,Joseph (Joe) Pakootas,483
 Columbia,Legislative District 16 State Representative (Pos. 1),16,Republican,Maureen S. Walsh,1173
 Columbia,Legislative District 16 State Representative (Pos. 1),16,Republican,Mary Ruth Edwards,591
 Columbia,Legislative District 16 State Representative (Pos. 2),16,Republican,Terry R. Nealey,1543
@@ -369,8 +369,8 @@ Cowlitz,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana
 Cowlitz,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana excise tax,,,Maintained,13515
 Cowlitz,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Repealed,16088
 Cowlitz,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Maintained,12585
-Cowlitz,U.S. Representative,3,Republican,Jaime Herrera Beutler,18144
-Cowlitz,U.S. Representative,3,Democratic,Bob Dingethal,12939
+Cowlitz,U.S. House,3,Republican,Jaime Herrera Beutler,18144
+Cowlitz,U.S. House,3,Democratic,Bob Dingethal,12939
 Cowlitz,Legislative District 19 State Representative (Pos. 1),19,Democratic,Dean Takko,12561
 Cowlitz,Legislative District 19 State Representative (Pos. 1),19,Libertarian,David A. Steenson,6210
 Cowlitz,Legislative District 19 State Representative (Pos. 2),19,Democratic,Brian Blake,12130
@@ -416,10 +416,10 @@ Douglas,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana
 Douglas,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana excise tax,,,Maintained,4483
 Douglas,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Repealed,5212
 Douglas,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Maintained,4365
-Douglas,U.S. Representative,4,Republican,Clint Didier,3121
-Douglas,U.S. Representative,4,Republican,Dan Newhouse,2492
-Douglas,U.S. Representative,8,Republican,Dave Reichert,3236
-Douglas,U.S. Representative,8,Democratic,Jason Ritchie,1180
+Douglas,U.S. House,4,Republican,Clint Didier,3121
+Douglas,U.S. House,4,Republican,Dan Newhouse,2492
+Douglas,U.S. House,8,Republican,Dave Reichert,3236
+Douglas,U.S. House,8,Democratic,Jason Ritchie,1180
 Douglas,Legislative District 12 State Representative (Pos. 1),12,Republican,Cary Condotta,7955
 Douglas,Legislative District 12 State Representative (Pos. 2),12,Republican,Brad Hawkins,8153
 Douglas,DOUGLAS COUNTYWIDE County Assessor,,Republican,Jim Ruud,8068
@@ -458,10 +458,10 @@ Ferry,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana e
 Ferry,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana excise tax,,,Maintained,1035
 Ferry,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Repealed,1726
 Ferry,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Maintained,925
-Ferry,U.S. Representative,5,Republican,Cathy McMorris Rodgers,1695
-Ferry,U.S. Representative,5,Democratic,Joseph (Joe) Pakootas,1253
-Ferry,Legislative District 7 State Senator,7,Republican,Brian Dansel,2316
-Ferry,Legislative District 7 State Senator,7,Republican,Tony Booth,510
+Ferry,U.S. House,5,Republican,Cathy McMorris Rodgers,1695
+Ferry,U.S. House,5,Democratic,Joseph (Joe) Pakootas,1253
+Ferry,Legislative District 7 State Senate,7,Republican,Brian Dansel,2316
+Ferry,Legislative District 7 State Senate,7,Republican,Tony Booth,510
 Ferry,Legislative District 7 State Representative (Pos. 1),7,Republican,Shelly Short,2211
 Ferry,Legislative District 7 State Representative (Pos. 1),7,Libertarian,James R. Apker,549
 Ferry,Legislative District 7 State Representative (Pos. 2),7,Republican,Joel Kretz,2302
@@ -498,8 +498,8 @@ Franklin,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuan
 Franklin,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana excise tax,,,Maintained,6041
 Franklin,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Repealed,8295
 Franklin,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Maintained,5569
-Franklin,U.S. Representative,4,Republican,Clint Didier,7942
-Franklin,U.S. Representative,4,Republican,Dan Newhouse,6561
+Franklin,U.S. House,4,Republican,Clint Didier,7942
+Franklin,U.S. House,4,Republican,Dan Newhouse,6561
 Franklin,Legislative District 9 State Representative (Pos. 1),9,Republican,Susan Fagan,8673
 Franklin,Legislative District 9 State Representative (Pos. 2),9,GOP,Joe Schmick,8441
 Franklin,Legislative District 16 State Representative (Pos. 1),16,Republican,Maureen S. Walsh,2013
@@ -536,8 +536,8 @@ Garfield,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuan
 Garfield,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana excise tax,,,Maintained,511
 Garfield,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Repealed,582
 Garfield,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Maintained,471
-Garfield,U.S. Representative,5,Republican,Cathy McMorris Rodgers,892
-Garfield,U.S. Representative,5,Democratic,Joseph (Joe) Pakootas,280
+Garfield,U.S. House,5,Republican,Cathy McMorris Rodgers,892
+Garfield,U.S. House,5,Democratic,Joseph (Joe) Pakootas,280
 Garfield,Legislative District 9 State Representative (Pos. 1),9,Republican,Susan Fagan,973
 Garfield,Legislative District 9 State Representative (Pos. 2),9,GOP,Joe Schmick,965
 Garfield,COUNTY WIDE DISTRICT 01 COUNTY ASSESSOR,,Republican,Laura L. Smith,983
@@ -570,12 +570,12 @@ Grant,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana e
 Grant,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana excise tax,,,Maintained,8260
 Grant,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Repealed,10806
 Grant,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Maintained,8004
-Grant,U.S. Representative,4,Republican,Clint Didier,11923
-Grant,U.S. Representative,4,Republican,Dan Newhouse,7370
+Grant,U.S. House,4,Republican,Clint Didier,11923
+Grant,U.S. House,4,Republican,Dan Newhouse,7370
 Grant,Legislative District 12 State Representative (Pos. 1),12,Republican,Cary Condotta,1710
 Grant,Legislative District 12 State Representative (Pos. 2),12,Republican,Brad Hawkins,1717
-Grant,Legislative District 13 State Senator,13,Republican,Judith (Judy) Warnick,15970
-Grant,Legislative District 13 State Senator,13,Democratic,Mohammad Said,1802
+Grant,Legislative District 13 State Senate,13,Republican,Judith (Judy) Warnick,15970
+Grant,Legislative District 13 State Senate,13,Democratic,Mohammad Said,1802
 Grant,Legislative District 13 State Representative (Pos. 1),13,Republican,Tom Dent,10211
 Grant,Legislative District 13 State Representative (Pos. 1),13,Republican,Dannette (Dani) Bolyard,6595
 Grant,Legislative District 13 State Representative (Pos. 2),13,Republican,Matt Manweller,13984
@@ -621,8 +621,8 @@ Grays Harbor,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns mari
 Grays Harbor,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana excise tax,,,Maintained,8643
 Grays Harbor,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Repealed,8930
 Grays Harbor,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Maintained,9482
-Grays Harbor,U.S. Representative,6,Democratic,Derek Kilmer,12540
-Grays Harbor,U.S. Representative,6,Republican,Marty McClendon,7103
+Grays Harbor,U.S. House,6,Democratic,Derek Kilmer,12540
+Grays Harbor,U.S. House,6,Republican,Marty McClendon,7103
 Grays Harbor,Legislative District 19 State Representative (Pos. 1),19,Democratic,Dean Takko,5987
 Grays Harbor,Legislative District 19 State Representative (Pos. 1),19,Libertarian,David A. Steenson,2692
 Grays Harbor,Legislative District 19 State Representative (Pos. 2),19,Democratic,Brian Blake,6194
@@ -664,8 +664,8 @@ Island,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana 
 Island,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana excise tax,,,Maintained,15472
 Island,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Repealed,12551
 Island,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Maintained,15373
-Island,U.S. Representative,2,Democratic,Rick Larsen,17268
-Island,U.S. Representative,2,Republican,B.J. Guillot,13303
+Island,U.S. House,2,Democratic,Rick Larsen,17268
+Island,U.S. House,2,Republican,B.J. Guillot,13303
 Island,Legislative District 10 State Representative (Pos. 1),10,Republican,Norma Smith,21625
 Island,Legislative District 10 State Representative (Pos. 1),10,Libertarian,Michael Scott,6341
 Island,Legislative District 10 State Representative (Pos. 2),10,Republican,Dave Hayes,17384
@@ -700,8 +700,8 @@ Jefferson,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijua
 Jefferson,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana excise tax,,,Maintained,7932
 Jefferson,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Repealed,5594
 Jefferson,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Maintained,8088
-Jefferson,U.S. Representative,6,Democratic,Derek Kilmer,11056
-Jefferson,U.S. Representative,6,Republican,Marty McClendon,4435
+Jefferson,U.S. House,6,Democratic,Derek Kilmer,11056
+Jefferson,U.S. House,6,Republican,Marty McClendon,4435
 Jefferson,Legislative District 24 State Representative (Pos. 1),24,Democratic,Kevin Van De Wege,11338
 Jefferson,Legislative District 24 State Representative (Pos. 2),24,Democratic,Steve Tharinger,10268
 Jefferson,Legislative District 24 State Representative (Pos. 2),24,Republican,Thomas W. Greisamer,5008
@@ -739,14 +739,14 @@ King,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana ex
 King,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana excise tax,,,Maintained,367263
 King,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Repealed,188699
 King,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Maintained,359483
-King,U.S. Representative,1,Democratic,Suzan DelBene,55487
-King,U.S. Representative,1,Republican,Pedro Celis,34884
-King,U.S. Representative,7,Democratic,Jim McDermott,192403
-King,U.S. Representative,7,Republican,Craig Keller,41128
-King,U.S. Representative,8,Republican,Dave Reichert,67873
-King,U.S. Representative,8,Democratic,Jason Ritchie,46800
-King,U.S. Representative,9,Democratic,Adam Smith,114503
-King,U.S. Representative,9,Republican,Doug Basler,46217
+King,U.S. House,1,Democratic,Suzan DelBene,55487
+King,U.S. House,1,Republican,Pedro Celis,34884
+King,U.S. House,7,Democratic,Jim McDermott,192403
+King,U.S. House,7,Republican,Craig Keller,41128
+King,U.S. House,8,Republican,Dave Reichert,67873
+King,U.S. House,8,Democratic,Jason Ritchie,46800
+King,U.S. House,9,Democratic,Adam Smith,114503
+King,U.S. House,9,Republican,Doug Basler,46217
 King,Legislative District 1 State Representative (Pos. 1),1,Democratic,Derek Stanford,8347
 King,Legislative District 1 State Representative (Pos. 1),1,Republican,Mark Davies,5076
 King,Legislative District 1 State Representative (Pos. 2),1,Democratic,Luis Moscoso,7590
@@ -758,41 +758,41 @@ King,Legislative District 5 State Representative (Pos. 2),5,Democratic,David Spr
 King,Legislative District 11 State Representative (Pos. 1),11,Democratic,Zack Hudgins,20763
 King,Legislative District 11 State Representative (Pos. 2),11,Democratic,Steve Bergquist,18990
 King,Legislative District 11 State Representative (Pos. 2),11,Republican,Sarah Sanoy-Wright,9466
-King,Legislative District 30 State Senator,30,Republican,Mark Miloscia,16265
-King,Legislative District 30 State Senator,30,Democratic,Shari Song,13083
+King,Legislative District 30 State Senate,30,Republican,Mark Miloscia,16265
+King,Legislative District 30 State Senate,30,Democratic,Shari Song,13083
 King,Legislative District 30 State Representative (Pos. 1),30,Republican,Linda Kochmar,16133
 King,Legislative District 30 State Representative (Pos. 1),30,Democratic,Greg Baruso,12429
 King,Legislative District 30 State Representative (Pos. 2),30,Democratic,Roger Freeman,15120
 King,Legislative District 30 State Representative (Pos. 2),30,Republican,Jack Dovey,13314
-King,Legislative District 31 State Senator,31,Republican,Pam Roach,6265
-King,Legislative District 31 State Senator,31,Republican,Cathy Dahlquist,5851
+King,Legislative District 31 State Senate,31,Republican,Pam Roach,6265
+King,Legislative District 31 State Senate,31,Republican,Cathy Dahlquist,5851
 King,Legislative District 31 State Representative (Pos. 1),31,Republican,Drew Stokesbary,7074
 King,Legislative District 31 State Representative (Pos. 1),31,Democratic,Mike Sando,5019
 King,Legislative District 31 State Representative (Pos. 2),31,Independent Democrat,Christopher Hurst,6584
 King,Legislative District 31 State Representative (Pos. 2),31,Independent Republican,Phil Fortunato,5705
-King,Legislative District 32 State Senator,32,Democratic,Maralyn Chase,17906
-King,Legislative District 32 State Senator,32,Republican,Robert Reedy,5567
+King,Legislative District 32 State Senate,32,Democratic,Maralyn Chase,17906
+King,Legislative District 32 State Senate,32,Republican,Robert Reedy,5567
 King,Legislative District 32 State Representative (Pos. 1),32,Democratic,Cindy Ryu,17684
 King,Legislative District 32 State Representative (Pos. 2),32,Democratic,Ruth Kagi,18030
 King,Legislative District 32 State Representative (Pos. 2),32,Republican,Alvin A. Rutledge,5417
-King,Legislative District 33 State Senator,33,Democratic,Karen Keiser,18476
-King,Legislative District 33 State Senator,33,Republican,Martin Metz,10994
+King,Legislative District 33 State Senate,33,Democratic,Karen Keiser,18476
+King,Legislative District 33 State Senate,33,Republican,Martin Metz,10994
 King,Legislative District 33 State Representative (Pos. 1),33,Democratic,Tina Orwall,18776
 King,Legislative District 33 State Representative (Pos. 1),33,Republican,Michael J. Siefkes,10431
 King,Legislative District 33 State Representative (Pos. 2),33,Democratic,Mia Su-Ling Gregerson,16130
 King,Legislative District 33 State Representative (Pos. 2),33,Republican,Jeanette Burrage,12890
-King,Legislative District 34 State Senator,34,Democratic,Sharon K. Nelson,34436
+King,Legislative District 34 State Senate,34,Democratic,Sharon K. Nelson,34436
 King,Legislative District 34 State Representative (Pos. 1),34,Democratic,Eileen L. Cody,33959
 King,Legislative District 34 State Representative (Pos. 2),34,Democratic,Joe Fitzgibbon,32771
 King,Legislative District 34 State Representative (Pos. 2),34,Democratic,Brendan B. Kolding,6692
-King,Legislative District 36 State Senator,36,Democratic,Jeanne Kohl-Welles,47025
-King,Legislative District 36 State Senator,36,Republican,Sarina Forbes,8830
+King,Legislative District 36 State Senate,36,Democratic,Jeanne Kohl-Welles,47025
+King,Legislative District 36 State Senate,36,Republican,Sarina Forbes,8830
 King,Legislative District 36 State Representative (Pos. 1),36,Democratic,Reuven Carlyle,47808
 King,Legislative District 36 State Representative (Pos. 1),36,Republicanspirit,Leslie Klein,7331
 King,Legislative District 36 State Representative (Pos. 2),36,Democratic,Gael Tarleton,46515
 King,Legislative District 36 State Representative (Pos. 2),36,Libertarian,Paul Addis,7472
-King,Legislative District 37 State Senator,37,Democratic,Pramila Jayapal,26091
-King,Legislative District 37 State Senator,37,Democratic,Louis Watanabe,10807
+King,Legislative District 37 State Senate,37,Democratic,Pramila Jayapal,26091
+King,Legislative District 37 State Senate,37,Democratic,Louis Watanabe,10807
 King,Legislative District 37 State Representative (Pos. 1),37,Democratic,Sharon Tomiko Santos,33001
 King,Legislative District 37 State Representative (Pos. 1),37,Republican,Daniel Bretzke,4971
 King,Legislative District 37 State Representative (Pos. 2),37,Democratic,Eric Pettigrew,31532
@@ -804,29 +804,29 @@ King,Legislative District 41 State Representative (Pos. 1),41,Democratic,Tana Se
 King,Legislative District 41 State Representative (Pos. 1),41,Republican,Bill Stinson,16570
 King,Legislative District 41 State Representative (Pos. 2),41,Democratic,Judy Clibborn,30871
 King,Legislative District 41 State Representative (Pos. 2),41,States No Party Preference,Alex O'Neil,10194
-King,Legislative District 43 State Senator,43,Democratic,Jamie Pedersen,39507
+King,Legislative District 43 State Senate,43,Democratic,Jamie Pedersen,39507
 King,Legislative District 43 State Representative (Pos. 1),43,Democratic,Brady Walkinshaw,37575
 King,Legislative District 43 State Representative (Pos. 2),43,Democratic,Frank Chopp,40024
 King,Legislative District 43 State Representative (Pos. 2),43,Socialist Altern,Jessica Spear,8606
-King,Legislative District 45 State Senator,45,Republican,Andy Hill,25816
-King,Legislative District 45 State Senator,45,Democratic,Matt Isenhower,23156
+King,Legislative District 45 State Senate,45,Republican,Andy Hill,25816
+King,Legislative District 45 State Senate,45,Democratic,Matt Isenhower,23156
 King,Legislative District 45 State Representative (Pos. 1),45,Democratic,Roger Goodman,26471
 King,Legislative District 45 State Representative (Pos. 1),45,Republican,Joel Hussey,21670
 King,Legislative District 45 State Representative (Pos. 2),45,Democratic,Larry Springer,27412
 King,Legislative District 45 State Representative (Pos. 2),45,Republican,Brendan Woodward,20653
-King,Legislative District 46 State Senator,46,Democratic,David Frockt,41318
-King,Legislative District 46 State Senator,46,Republican,Van Sperry,10433
+King,Legislative District 46 State Senate,46,Democratic,David Frockt,41318
+King,Legislative District 46 State Senate,46,Republican,Van Sperry,10433
 King,Legislative District 46 State Representative (Pos. 1),46,Democratic,Gerry Pollet,39389
 King,Legislative District 46 State Representative (Pos. 2),46,Democratic,Jessyn Farrell,42004
 King,Legislative District 46 State Representative (Pos. 2),46,Republican,Branden Curtis,9012
-King,Legislative District 47 State Senator,47,Republican,Joe Fain,21730
-King,Legislative District 47 State Senator,47,Democratic,Carol Barber,12428
+King,Legislative District 47 State Senate,47,Republican,Joe Fain,21730
+King,Legislative District 47 State Senate,47,Democratic,Carol Barber,12428
 King,Legislative District 47 State Representative (Pos. 1),47,Republican,Mark Hargrove,19108
 King,Legislative District 47 State Representative (Pos. 1),47,Democratic,Chris Barringer,15219
 King,Legislative District 47 State Representative (Pos. 2),47,Democratic,Pat Sullivan,19001
 King,Legislative District 47 State Representative (Pos. 2),47,Republican,Barry Knowles,15143
-King,Legislative District 48 State Senator,48,Democratic,Cyrus Habib,24833
-King,Legislative District 48 State Senator,48,Republican,Michelle Darnell,13446
+King,Legislative District 48 State Senate,48,Democratic,Cyrus Habib,24833
+King,Legislative District 48 State Senate,48,Republican,Michelle Darnell,13446
 King,Legislative District 48 State Representative (Pos. 1),48,Democratic,Ross Hunter,26168
 King,Legislative District 48 State Representative (Pos. 1),48,Republican,Bill Hirt,11473
 King,Legislative District 48 State Representative (Pos. 2),48,Democratic,Joan McBride,24815
@@ -864,20 +864,20 @@ Kitsap,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana 
 Kitsap,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana excise tax,,,Maintained,42882
 Kitsap,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Repealed,32325
 Kitsap,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Maintained,44602
-Kitsap,U.S. Representative,6,Democratic,Derek Kilmer,52160
-Kitsap,U.S. Representative,6,Republican,Marty McClendon,31367
+Kitsap,U.S. House,6,Democratic,Derek Kilmer,52160
+Kitsap,U.S. House,6,Republican,Marty McClendon,31367
 Kitsap,Legislative District 23 State Representative (Pos. 1),23,Democratic,Sherry V. Appleton,27801
 Kitsap,Legislative District 23 State Representative (Pos. 1),23,Republican,Scott Henden,19716
 Kitsap,Legislative District 23 State Representative (Pos. 2),23,Democratic,Drew Hansen,29064
 Kitsap,Legislative District 23 State Representative (Pos. 2),23,Grand Old,James M. Olsen,17304
-Kitsap,Legislative District 26 State Senator,26,Republican,Jan Angel,13479
-Kitsap,Legislative District 26 State Senator,26,Democratic,Judy Arbogast,9649
+Kitsap,Legislative District 26 State Senate,26,Republican,Jan Angel,13479
+Kitsap,Legislative District 26 State Senate,26,Democratic,Judy Arbogast,9649
 Kitsap,Legislative District 26 State Representative (Pos. 1),26,Democratic,Nathan Schlicher,10773
 Kitsap,Legislative District 26 State Representative (Pos. 1),26,Republican,Jesse Young,12130
 Kitsap,Legislative District 26 State Representative (Pos. 2),26,Democratic,Larry Seaquist,11407
 Kitsap,Legislative District 26 State Representative (Pos. 2),26,Republican,Michelle Caldier,11466
-Kitsap,Legislative District 35 State Senator,35,Democratic,Irene Bowling,4533
-Kitsap,Legislative District 35 State Senator,35,Democratic,Tim Sheldon,7258
+Kitsap,Legislative District 35 State Senate,35,Democratic,Irene Bowling,4533
+Kitsap,Legislative District 35 State Senate,35,Democratic,Tim Sheldon,7258
 Kitsap,Legislative District 35 State Representative (Pos. 1),35,Democratic,Kathy Haigh,5917
 Kitsap,Legislative District 35 State Representative (Pos. 1),35,Republican,Dan Griffey,6719
 Kitsap,Legislative District 35 State Representative (Pos. 2),35,Republican,Drew C. MacEwen,7848
@@ -925,10 +925,10 @@ Kittitas,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuan
 Kittitas,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana excise tax,,,Maintained,5594
 Kittitas,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Repealed,5857
 Kittitas,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Maintained,5383
-Kittitas,U.S. Representative,8,Republican,Dave Reichert,8365
-Kittitas,U.S. Representative,8,Democratic,Jason Ritchie,4156
-Kittitas,Legislative District 13 State Senator,13,Republican,Judith (Judy) Warnick,9837
-Kittitas,Legislative District 13 State Senator,13,Democratic,Mohammad Said,2435
+Kittitas,U.S. House,8,Republican,Dave Reichert,8365
+Kittitas,U.S. House,8,Democratic,Jason Ritchie,4156
+Kittitas,Legislative District 13 State Senate,13,Republican,Judith (Judy) Warnick,9837
+Kittitas,Legislative District 13 State Senate,13,Democratic,Mohammad Said,2435
 Kittitas,Legislative District 13 State Representative (Pos. 1),13,Republican,Tom Dent,7299
 Kittitas,Legislative District 13 State Representative (Pos. 1),13,Republican,Dannette (Dani) Bolyard,3691
 Kittitas,Legislative District 13 State Representative (Pos. 2),13,Republican,Matt Manweller,8934
@@ -966,8 +966,8 @@ Klickitat,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijua
 Klickitat,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana excise tax,,,Maintained,3317
 Klickitat,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Repealed,4155
 Klickitat,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Maintained,3188
-Klickitat,U.S. Representative,3,Republican,Jaime Herrera Beutler,5071
-Klickitat,U.S. Representative,3,Democratic,Bob Dingethal,2982
+Klickitat,U.S. House,3,Republican,Jaime Herrera Beutler,5071
+Klickitat,U.S. House,3,Democratic,Bob Dingethal,2982
 Klickitat,Legislative District 14 State Representative (Pos. 1),14,Republican,Norm Johnson,4435
 Klickitat,Legislative District 14 State Representative (Pos. 1),14,States No Party Preference,Michael S. Brumback,3131
 Klickitat,Legislative District 14 State Representative (Pos. 2),14,Republican,Gina R. McCabe,5200
@@ -1008,8 +1008,8 @@ Lewis,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana e
 Lewis,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana excise tax,,,Maintained,9850
 Lewis,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Repealed,11965
 Lewis,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Maintained,10034
-Lewis,U.S. Representative,3,Republican,Jaime Herrera Beutler,18522
-Lewis,U.S. Representative,3,Democratic,Bob Dingethal,5376
+Lewis,U.S. House,3,Republican,Jaime Herrera Beutler,18522
+Lewis,U.S. House,3,Democratic,Bob Dingethal,5376
 Lewis,Legislative District 19 State Representative (Pos. 1),19,Democratic,Dean Takko,963
 Lewis,Legislative District 19 State Representative (Pos. 1),19,Libertarian,David A. Steenson,1043
 Lewis,Legislative District 19 State Representative (Pos. 2),19,Democratic,Brian Blake,882
@@ -1060,10 +1060,10 @@ Lincoln,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana
 Lincoln,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana excise tax,,,Maintained,1787
 Lincoln,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Repealed,2327
 Lincoln,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Maintained,1705
-Lincoln,U.S. Representative,5,Republican,Cathy McMorris Rodgers,3275
-Lincoln,U.S. Representative,5,Democratic,Joseph (Joe) Pakootas,1199
-Lincoln,Legislative District 13 State Senator,13,Republican,Judith (Judy) Warnick,3857
-Lincoln,Legislative District 13 State Senator,13,Democratic,Mohammad Said,508
+Lincoln,U.S. House,5,Republican,Cathy McMorris Rodgers,3275
+Lincoln,U.S. House,5,Democratic,Joseph (Joe) Pakootas,1199
+Lincoln,Legislative District 13 State Senate,13,Republican,Judith (Judy) Warnick,3857
+Lincoln,Legislative District 13 State Senate,13,Democratic,Mohammad Said,508
 Lincoln,Legislative District 13 State Representative (Pos. 1),13,Republican,Tom Dent,2647
 Lincoln,Legislative District 13 State Representative (Pos. 1),13,Republican,Dannette (Dani) Bolyard,1460
 Lincoln,Legislative District 13 State Representative (Pos. 2),13,Republican,Matt Manweller,3577
@@ -1093,12 +1093,12 @@ Mason,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana e
 Mason,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana excise tax,,,Maintained,8942
 Mason,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Repealed,8849
 Mason,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Maintained,9661
-Mason,U.S. Representative,6,Democratic,Derek Kilmer,8683
-Mason,U.S. Representative,6,Republican,Marty McClendon,6869
-Mason,U.S. Representative,10,Democratic,Denny Heck,2628
-Mason,U.S. Representative,10,Republican,Joyce McDonald,1797
-Mason,Legislative District 35 State Senator,35,Democratic,Irene Bowling,9366
-Mason,Legislative District 35 State Senator,35,Democratic,Tim Sheldon,9923
+Mason,U.S. House,6,Democratic,Derek Kilmer,8683
+Mason,U.S. House,6,Republican,Marty McClendon,6869
+Mason,U.S. House,10,Democratic,Denny Heck,2628
+Mason,U.S. House,10,Republican,Joyce McDonald,1797
+Mason,Legislative District 35 State Senate,35,Democratic,Irene Bowling,9366
+Mason,Legislative District 35 State Senate,35,Democratic,Tim Sheldon,9923
 Mason,Legislative District 35 State Representative (Pos. 1),35,Democratic,Kathy Haigh,9995
 Mason,Legislative District 35 State Representative (Pos. 1),35,Republican,Dan Griffey,10245
 Mason,Legislative District 35 State Representative (Pos. 2),35,Republican,Drew C. MacEwen,11546
@@ -1138,10 +1138,10 @@ Okanogan,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuan
 Okanogan,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana excise tax,,,Maintained,5238
 Okanogan,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Repealed,6354
 Okanogan,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Maintained,4782
-Okanogan,U.S. Representative,4,Republican,Clint Didier,5604
-Okanogan,U.S. Representative,4,Republican,Dan Newhouse,5159
-Okanogan,Legislative District 7 State Senator,7,Republican,Brian Dansel,4127
-Okanogan,Legislative District 7 State Senator,7,Republican,Tony Booth,1436
+Okanogan,U.S. House,4,Republican,Clint Didier,5604
+Okanogan,U.S. House,4,Republican,Dan Newhouse,5159
+Okanogan,Legislative District 7 State Senate,7,Republican,Brian Dansel,4127
+Okanogan,Legislative District 7 State Senate,7,Republican,Tony Booth,1436
 Okanogan,Legislative District 7 State Representative (Pos. 1),7,Republican,Shelly Short,4993
 Okanogan,Legislative District 7 State Representative (Pos. 1),7,Libertarian,James R. Apker,1037
 Okanogan,Legislative District 7 State Representative (Pos. 2),7,Republican,Joel Kretz,5201
@@ -1188,8 +1188,8 @@ Pacific,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana
 Pacific,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana excise tax,,,Maintained,3264
 Pacific,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Repealed,4149
 Pacific,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Maintained,3239
-Pacific,U.S. Representative,3,Republican,Jaime Herrera Beutler,4432
-Pacific,U.S. Representative,3,Democratic,Bob Dingethal,3552
+Pacific,U.S. House,3,Republican,Jaime Herrera Beutler,4432
+Pacific,U.S. House,3,Democratic,Bob Dingethal,3552
 Pacific,Legislative District 19 State Representative (Pos. 1),19,Democratic,Dean Takko,5345
 Pacific,Legislative District 19 State Representative (Pos. 1),19,Libertarian,David A. Steenson,2339
 Pacific,Legislative District 19 State Representative (Pos. 2),19,Democratic,Brian Blake,5176
@@ -1227,10 +1227,10 @@ Pend Oreille,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns mari
 Pend Oreille,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana excise tax,,,Maintained,2032
 Pend Oreille,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Repealed,2786
 Pend Oreille,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Maintained,1948
-Pend Oreille,U.S. Representative,5,Republican,Cathy McMorris Rodgers,3179
-Pend Oreille,U.S. Representative,5,Democratic,Joseph (Joe) Pakootas,1901
-Pend Oreille,Legislative District 7 State Senator,7,Republican,Brian Dansel,2896
-Pend Oreille,Legislative District 7 State Senator,7,Republican,Tony Booth,1341
+Pend Oreille,U.S. House,5,Republican,Cathy McMorris Rodgers,3179
+Pend Oreille,U.S. House,5,Democratic,Joseph (Joe) Pakootas,1901
+Pend Oreille,Legislative District 7 State Senate,7,Republican,Brian Dansel,2896
+Pend Oreille,Legislative District 7 State Senate,7,Republican,Tony Booth,1341
 Pend Oreille,Legislative District 7 State Representative (Pos. 1),7,Republican,Shelly Short,3411
 Pend Oreille,Legislative District 7 State Representative (Pos. 1),7,Libertarian,James R. Apker,1120
 Pend Oreille,Legislative District 7 State Representative (Pos. 2),7,Republican,Joel Kretz,3695
@@ -1266,14 +1266,14 @@ Pierce,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana 
 Pierce,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana excise tax,,,Maintained,100126
 Pierce,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Repealed,93099
 Pierce,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Maintained,103443
-Pierce,U.S. Representative,6,Democratic,Derek Kilmer,40825
-Pierce,U.S. Representative,6,Republican,Marty McClendon,21092
-Pierce,U.S. Representative,8,Republican,Dave Reichert,30683
-Pierce,U.S. Representative,8,Democratic,Jason Ritchie,14263
-Pierce,U.S. Representative,9,Democratic,Adam Smith,3629
-Pierce,U.S. Representative,9,Republican,Doug Basler,2445
-Pierce,U.S. Representative,10,Democratic,Denny Heck,49348
-Pierce,U.S. Representative,10,Republican,Joyce McDonald,48965
+Pierce,U.S. House,6,Democratic,Derek Kilmer,40825
+Pierce,U.S. House,6,Republican,Marty McClendon,21092
+Pierce,U.S. House,8,Republican,Dave Reichert,30683
+Pierce,U.S. House,8,Democratic,Jason Ritchie,14263
+Pierce,U.S. House,9,Democratic,Adam Smith,3629
+Pierce,U.S. House,9,Republican,Doug Basler,2445
+Pierce,U.S. House,10,Democratic,Denny Heck,49348
+Pierce,U.S. House,10,Republican,Joyce McDonald,48965
 Pierce,Legislative District 2 State Representative (Pos. 1),2,Republican,Graham Hunt,14518
 Pierce,Legislative District 2 State Representative (Pos. 1),2,Democratic,Greg Hartman,7543
 Pierce,Legislative District 2 State Representative (Pos. 2),2,Republican,J.T. Wilcox,15871
@@ -1282,8 +1282,8 @@ Pierce,Legislative District 25 State Representative (Pos. 1),25,Democratic,Dawn 
 Pierce,Legislative District 25 State Representative (Pos. 1),25,Republican,Melanie Stambaugh,20384
 Pierce,Legislative District 25 State Representative (Pos. 2),25,Republican,Hans Zeiger,23760
 Pierce,Legislative District 25 State Representative (Pos. 2),25,Democratic,Eric Renz,12861
-Pierce,Legislative District 26 State Senator,26,Republican,Jan Angel,15598
-Pierce,Legislative District 26 State Senator,26,Democratic,Judy Arbogast,10765
+Pierce,Legislative District 26 State Senate,26,Republican,Jan Angel,15598
+Pierce,Legislative District 26 State Senate,26,Democratic,Judy Arbogast,10765
 Pierce,Legislative District 26 State Representative (Pos. 1),26,Democratic,Nathan Schlicher,11990
 Pierce,Legislative District 26 State Representative (Pos. 1),26,Republican,Jesse Young,14261
 Pierce,Legislative District 26 State Representative (Pos. 2),26,Democratic,Larry Seaquist,12839
@@ -1292,25 +1292,25 @@ Pierce,Legislative District 27 State Representative (Pos. 1),27,Democratic,Lauri
 Pierce,Legislative District 27 State Representative (Pos. 1),27,Republican,Rodger Deskins,11110
 Pierce,Legislative District 27 State Representative (Pos. 2),27,Democratic,Jake Fey,22992
 Pierce,Legislative District 27 State Representative (Pos. 2),27,Republican,Steven T. Cook,11091
-Pierce,Legislative District 28 State Senator,28,Republican,Steve O'Ban,20945
-Pierce,Legislative District 28 State Senator,28,Democratic,Tami Green,17503
+Pierce,Legislative District 28 State Senate,28,Republican,Steve O'Ban,20945
+Pierce,Legislative District 28 State Senate,28,Democratic,Tami Green,17503
 Pierce,Legislative District 28 State Representative (Pos. 1),28,Republican,Richard (Dick) Muri,22022
 Pierce,Legislative District 28 State Representative (Pos. 1),28,Democratic,Mary Moss,16066
 Pierce,Legislative District 28 State Representative (Pos. 2),28,Democratic,Christine Kilduff,19129
 Pierce,Legislative District 28 State Representative (Pos. 2),28,Republican,Paul Wagemann,18860
-Pierce,Legislative District 29 State Senator,29,Democratic,Steve Conway,13071
-Pierce,Legislative District 29 State Senator,29,Republican,Terry Harder,9277
+Pierce,Legislative District 29 State Senate,29,Democratic,Steve Conway,13071
+Pierce,Legislative District 29 State Senate,29,Republican,Terry Harder,9277
 Pierce,Legislative District 29 State Representative (Pos. 1),29,Democratic,David Sawyer,12356
 Pierce,Legislative District 29 State Representative (Pos. 1),29,Republican,Jason Bergstrom,9792
 Pierce,Legislative District 29 State Representative (Pos. 2),29,Democratic,Steve Kirby,16925
-Pierce,Legislative District 30 State Senator,30,Republican,Mark Miloscia,1001
-Pierce,Legislative District 30 State Senator,30,Democratic,Shari Song,707
+Pierce,Legislative District 30 State Senate,30,Republican,Mark Miloscia,1001
+Pierce,Legislative District 30 State Senate,30,Democratic,Shari Song,707
 Pierce,Legislative District 30 State Representative (Pos. 1),30,Republican,Linda Kochmar,986
 Pierce,Legislative District 30 State Representative (Pos. 1),30,Democratic,Greg Baruso,685
 Pierce,Legislative District 30 State Representative (Pos. 2),30,Democratic,Roger Freeman,833
 Pierce,Legislative District 30 State Representative (Pos. 2),30,Republican,Jack Dovey,842
-Pierce,Legislative District 31 State Senator,31,Republican,Pam Roach,14961
-Pierce,Legislative District 31 State Senator,31,Republican,Cathy Dahlquist,12473
+Pierce,Legislative District 31 State Senate,31,Republican,Pam Roach,14961
+Pierce,Legislative District 31 State Senate,31,Republican,Cathy Dahlquist,12473
 Pierce,Legislative District 31 State Representative (Pos. 1),31,Republican,Drew Stokesbary,17116
 Pierce,Legislative District 31 State Representative (Pos. 1),31,Democratic,Mike Sando,10427
 Pierce,Legislative District 31 State Representative (Pos. 2),31,Independent Democrat,Christopher Hurst,14026
@@ -1391,8 +1391,8 @@ San Juan,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 128
 San Juan,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Maintained,4244
 San Juan,San Juan County Proposition No. 1 — San Juan County Six Year Levy Lid Lift Concerning replacement of the existing levy lid lift,,,Yes,5060
 San Juan,San Juan County Proposition No. 1 — San Juan County Six Year Levy Lid Lift Concerning replacement of the existing levy lid lift,,,No,3104
-San Juan,U.S. Representative,2,Democratic,Rick Larsen,5570
-San Juan,U.S. Representative,2,Republican,B.J. Guillot,2478
+San Juan,U.S. House,2,Democratic,Rick Larsen,5570
+San Juan,U.S. House,2,Republican,B.J. Guillot,2478
 San Juan,Legislative District 40 State Representative (Pos. 1),40,Democratic,Kristine Lytton,5598
 San Juan,Legislative District 40 State Representative (Pos. 1),40,Republican,Daniel R. Miller,2349
 San Juan,Legislative District 40 State Representative (Pos. 2),40,Democratic,Jeff Morris,5936
@@ -1433,10 +1433,10 @@ Skagit,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana 
 Skagit,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana excise tax,,,Maintained,18230
 Skagit,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Repealed,16251
 Skagit,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Maintained,18363
-Skagit,U.S. Representative,1,Democratic,Suzan DelBene,8292
-Skagit,U.S. Representative,1,Republican,Pedro Celis,5973
-Skagit,U.S. Representative,2,Democratic,Rick Larsen,13783
-Skagit,U.S. Representative,2,Republican,B.J. Guillot,11037
+Skagit,U.S. House,1,Democratic,Suzan DelBene,8292
+Skagit,U.S. House,1,Republican,Pedro Celis,5973
+Skagit,U.S. House,2,Democratic,Rick Larsen,13783
+Skagit,U.S. House,2,Republican,B.J. Guillot,11037
 Skagit,Legislative District 10 State Representative (Pos. 1),10,Republican,Norma Smith,8434
 Skagit,Legislative District 10 State Representative (Pos. 1),10,Libertarian,Michael Scott,2771
 Skagit,Legislative District 10 State Representative (Pos. 2),10,Republican,Dave Hayes,7019
@@ -1480,8 +1480,8 @@ Skamania,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuan
 Skamania,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana excise tax,,,Maintained,1607
 Skamania,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Repealed,2137
 Skamania,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Maintained,1499
-Skamania,U.S. Representative,3,Republican,Jaime Herrera Beutler,2473
-Skamania,U.S. Representative,3,Democratic,Bob Dingethal,1495
+Skamania,U.S. House,3,Republican,Jaime Herrera Beutler,2473
+Skamania,U.S. House,3,Democratic,Bob Dingethal,1495
 Skamania,Legislative District 14 State Representative (Pos. 1),14,Republican,Norm Johnson,1867
 Skamania,Legislative District 14 State Representative (Pos. 1),14,States No Party Preference,Michael S. Brumback,1815
 Skamania,Legislative District 14 State Representative (Pos. 2),14,Republican,Gina R. McCabe,2367
@@ -1519,12 +1519,12 @@ Snohomish,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijua
 Snohomish,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana excise tax,,,Maintained,100917
 Snohomish,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Repealed,86622
 Snohomish,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Maintained,101634
-Snohomish,U.S. Representative,1,Democratic,Suzan DelBene,42972
-Snohomish,U.S. Representative,1,Republican,Pedro Celis,37952
-Snohomish,U.S. Representative,2,Democratic,Rick Larsen,61461
-Snohomish,U.S. Representative,2,Republican,B.J. Guillot,43228
-Snohomish,U.S. Representative,7,Democratic,Jim McDermott,11551
-Snohomish,U.S. Representative,7,Republican,Craig Keller,6793
+Snohomish,U.S. House,1,Democratic,Suzan DelBene,42972
+Snohomish,U.S. House,1,Republican,Pedro Celis,37952
+Snohomish,U.S. House,2,Democratic,Rick Larsen,61461
+Snohomish,U.S. House,2,Republican,B.J. Guillot,43228
+Snohomish,U.S. House,7,Democratic,Jim McDermott,11551
+Snohomish,U.S. House,7,Republican,Craig Keller,6793
 Snohomish,Legislative District 1 State Representative (Pos. 1),1,Democratic,Derek Stanford,16929
 Snohomish,Legislative District 1 State Representative (Pos. 1),1,Republican,Mark Davies,12909
 Snohomish,Legislative District 1 State Representative (Pos. 2),1,Democratic,Luis Moscoso,15608
@@ -1533,19 +1533,19 @@ Snohomish,Legislative District 10 State Representative (Pos. 1),10,Republican,No
 Snohomish,Legislative District 10 State Representative (Pos. 1),10,Libertarian,Michael Scott,2432
 Snohomish,Legislative District 10 State Representative (Pos. 2),10,Republican,Dave Hayes,6590
 Snohomish,Legislative District 10 State Representative (Pos. 2),10,Democratic,Nick Petrish,3302
-Snohomish,Legislative District 21 State Senator,21,Democratic,Marko Liias,20227
-Snohomish,Legislative District 21 State Senator,21,GOP,Dan Matthews,16871
+Snohomish,Legislative District 21 State Senate,21,Democratic,Marko Liias,20227
+Snohomish,Legislative District 21 State Senate,21,GOP,Dan Matthews,16871
 Snohomish,Legislative District 21 State Representative (Pos. 1),21,Republican,Allen McPheeters,14799
 Snohomish,Legislative District 21 State Representative (Pos. 1),21,Democratic,Strom Peterson,22221
 Snohomish,Legislative District 21 State Representative (Pos. 2),21,Democratic,Lillian Ortiz-Self,21554
 Snohomish,Legislative District 21 State Representative (Pos. 2),21,Republican,Jeff Scherrer,15239
-Snohomish,Legislative District 32 State Senator,32,Democratic,Maralyn Chase,11654
-Snohomish,Legislative District 32 State Senator,32,Republican,Robert Reedy,6296
+Snohomish,Legislative District 32 State Senate,32,Democratic,Maralyn Chase,11654
+Snohomish,Legislative District 32 State Senate,32,Republican,Robert Reedy,6296
 Snohomish,Legislative District 32 State Representative (Pos. 1),32,Democratic,Cindy Ryu,13357
 Snohomish,Legislative District 32 State Representative (Pos. 2),32,Democratic,Ruth Kagi,11436
 Snohomish,Legislative District 32 State Representative (Pos. 2),32,Republican,Alvin A. Rutledge,6343
-Snohomish,Legislative District 38 State Senator,38,Democratic,John McCoy,19414
-Snohomish,Legislative District 38 State Senator,38,Republican,Craig French,11960
+Snohomish,Legislative District 38 State Senate,38,Democratic,John McCoy,19414
+Snohomish,Legislative District 38 State Senate,38,Republican,Craig French,11960
 Snohomish,Legislative District 38 State Representative (Pos. 1),38,Democratic,June Robinson,17355
 Snohomish,Legislative District 38 State Representative (Pos. 1),38,Republican,Jesse Anderson,13935
 Snohomish,Legislative District 38 State Representative (Pos. 2),38,Democratic,Mike Sells,20241
@@ -1553,8 +1553,8 @@ Snohomish,Legislative District 38 State Representative (Pos. 2),38,Libertarian,E
 Snohomish,Legislative District 39 State Representative (Pos. 1),39,Republican,Dan Kristiansen,24258
 Snohomish,Legislative District 39 State Representative (Pos. 2),39,Republican,Elizabeth Scott,19513
 Snohomish,Legislative District 39 State Representative (Pos. 2),39,Democratic,Charles Jensen,11450
-Snohomish,Legislative District 44 State Senator,44,Democratic,Steve Hobbs,23560
-Snohomish,Legislative District 44 State Senator,44,Republican,Jim Kellett,20077
+Snohomish,Legislative District 44 State Senate,44,Democratic,Steve Hobbs,23560
+Snohomish,Legislative District 44 State Senate,44,Republican,Jim Kellett,20077
 Snohomish,Legislative District 44 State Representative (Pos. 1),44,Democratic,Hans Dunshee,22681
 Snohomish,Legislative District 44 State Representative (Pos. 1),44,Republican,Rob Toyer,21068
 Snohomish,Legislative District 44 State Representative (Pos. 2),44,Republican,Mark Harmsworth,23158
@@ -1619,8 +1619,8 @@ Spokane,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana
 Spokane,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana excise tax,,,Maintained,71405
 Spokane,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Repealed,72519
 Spokane,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Maintained,68238
-Spokane,U.S. Representative,5,Republican,Cathy McMorris Rodgers,92198
-Spokane,U.S. Representative,5,Democratic,Joseph (Joe) Pakootas,62763
+Spokane,U.S. House,5,Republican,Cathy McMorris Rodgers,92198
+Spokane,U.S. House,5,Democratic,Joseph (Joe) Pakootas,62763
 Spokane,Legislative District 3 State Representative (Pos. 1),3,Democratic,Marcus Riccelli,19946
 Spokane,Legislative District 3 State Representative (Pos. 1),3,Independent Republican,Tim Benn,13349
 Spokane,Legislative District 3 State Representative (Pos. 2),3,Democratic,Timm Ormsby,22606
@@ -1629,14 +1629,14 @@ Spokane,Legislative District 4 State Representative (Pos. 1),4,Republican,Bob Mc
 Spokane,Legislative District 4 State Representative (Pos. 1),4,Republican,Diana Wilhite,18301
 Spokane,Legislative District 4 State Representative (Pos. 2),4,Republican,Matt Shea,25114
 Spokane,Legislative District 4 State Representative (Pos. 2),4,Republican,Josh Arritola,18372
-Spokane,Legislative District 6 State Senator,6,Republican,Michael Baumgartner,28309
-Spokane,Legislative District 6 State Senator,6,Democratic,Rich Cowan,20949
+Spokane,Legislative District 6 State Senate,6,Republican,Michael Baumgartner,28309
+Spokane,Legislative District 6 State Senate,6,Democratic,Rich Cowan,20949
 Spokane,Legislative District 6 State Representative (Pos. 1),6,Republican,Kevin Parker,32289
 Spokane,Legislative District 6 State Representative (Pos. 1),6,Democratic,Donald Dover,15722
 Spokane,Legislative District 6 State Representative (Pos. 2),6,Republican,Jeff Holy,32078
 Spokane,Legislative District 6 State Representative (Pos. 2),6,Democratic,Ziggy Siegfried,15277
-Spokane,Legislative District 7 State Senator,7,Republican,Brian Dansel,11982
-Spokane,Legislative District 7 State Senator,7,Republican,Tony Booth,4842
+Spokane,Legislative District 7 State Senate,7,Republican,Brian Dansel,11982
+Spokane,Legislative District 7 State Senate,7,Republican,Tony Booth,4842
 Spokane,Legislative District 7 State Representative (Pos. 1),7,Republican,Shelly Short,14210
 Spokane,Legislative District 7 State Representative (Pos. 1),7,Libertarian,James R. Apker,3690
 Spokane,Legislative District 7 State Representative (Pos. 2),7,Republican,Joel Kretz,14511
@@ -1703,10 +1703,10 @@ Stevens,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana
 Stevens,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana excise tax,,,Maintained,6484
 Stevens,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Repealed,9903
 Stevens,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Maintained,5790
-Stevens,U.S. Representative,5,Republican,Cathy McMorris Rodgers,11008
-Stevens,U.S. Representative,5,Democratic,Joseph (Joe) Pakootas,6180
-Stevens,Legislative District 7 State Senator,7,Republican,Brian Dansel,11381
-Stevens,Legislative District 7 State Senator,7,Republican,Tony Booth,4483
+Stevens,U.S. House,5,Republican,Cathy McMorris Rodgers,11008
+Stevens,U.S. House,5,Democratic,Joseph (Joe) Pakootas,6180
+Stevens,Legislative District 7 State Senate,7,Republican,Brian Dansel,11381
+Stevens,Legislative District 7 State Senate,7,Republican,Tony Booth,4483
 Stevens,Legislative District 7 State Representative (Pos. 1),7,Republican,Shelly Short,12823
 Stevens,Legislative District 7 State Representative (Pos. 1),7,Libertarian,James R. Apker,3132
 Stevens,Legislative District 7 State Representative (Pos. 2),7,Republican,Joel Kretz,13225
@@ -1751,10 +1751,10 @@ Thurston,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuan
 Thurston,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana excise tax,,,Maintained,43048
 Thurston,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Repealed,30975
 Thurston,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Maintained,43846
-Thurston,U.S. Representative,3,Republican,Jaime Herrera Beutler,2215
-Thurston,U.S. Representative,3,Democratic,Bob Dingethal,1258
-Thurston,U.S. Representative,10,Democratic,Denny Heck,47303
-Thurston,U.S. Representative,10,Republican,Joyce McDonald,31451
+Thurston,U.S. House,3,Republican,Jaime Herrera Beutler,2215
+Thurston,U.S. House,3,Democratic,Bob Dingethal,1258
+Thurston,U.S. House,10,Democratic,Denny Heck,47303
+Thurston,U.S. House,10,Republican,Joyce McDonald,31451
 Thurston,Legislative District 2 State Representative (Pos. 1),2,Republican,Graham Hunt,7851
 Thurston,Legislative District 2 State Representative (Pos. 1),2,Democratic,Greg Hartman,5967
 Thurston,Legislative District 2 State Representative (Pos. 2),2,Republican,J.T. Wilcox,8966
@@ -1767,8 +1767,8 @@ Thurston,Legislative District 22 State Representative (Pos. 1),22,Democratic,Chr
 Thurston,Legislative District 22 State Representative (Pos. 1),22,Republican,Steve Owens,16286
 Thurston,Legislative District 22 State Representative (Pos. 2),22,Democratic,Sam Hunt,32051
 Thurston,Legislative District 22 State Representative (Pos. 2),22,States No Party Preference,Franklin Edwards,11471
-Thurston,Legislative District 35 State Senator,35,Democratic,Irene Bowling,6476
-Thurston,Legislative District 35 State Senator,35,Democratic,Tim Sheldon,7136
+Thurston,Legislative District 35 State Senate,35,Democratic,Irene Bowling,6476
+Thurston,Legislative District 35 State Senate,35,Democratic,Tim Sheldon,7136
 Thurston,Legislative District 35 State Representative (Pos. 1),35,Democratic,Kathy Haigh,7579
 Thurston,Legislative District 35 State Representative (Pos. 1),35,Republican,Dan Griffey,7031
 Thurston,Legislative District 35 State Representative (Pos. 2),35,Republican,Drew C. MacEwen,8014
@@ -1812,8 +1812,8 @@ Wahkiakum,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijua
 Wahkiakum,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana excise tax,,,Maintained,701
 Wahkiakum,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Repealed,950
 Wahkiakum,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Maintained,636
-Wahkiakum,U.S. Representative,3,Republican,Jaime Herrera Beutler,1062
-Wahkiakum,U.S. Representative,3,Democratic,Bob Dingethal,706
+Wahkiakum,U.S. House,3,Republican,Jaime Herrera Beutler,1062
+Wahkiakum,U.S. House,3,Democratic,Bob Dingethal,706
 Wahkiakum,Legislative District 19 State Representative (Pos. 1),19,Democratic,Dean Takko,1150
 Wahkiakum,Legislative District 19 State Representative (Pos. 1),19,Libertarian,David A. Steenson,554
 Wahkiakum,Legislative District 19 State Representative (Pos. 2),19,Democratic,Brian Blake,1048
@@ -1850,10 +1850,10 @@ Walla Walla,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marij
 Walla Walla,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana excise tax,,,Maintained,7993
 Walla Walla,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Repealed,8696
 Walla Walla,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Maintained,7250
-Walla Walla,U.S. Representative,4,Republican,Clint Didier,968
-Walla Walla,U.S. Representative,4,Republican,Dan Newhouse,608
-Walla Walla,U.S. Representative,5,Republican,Cathy McMorris Rodgers,10603
-Walla Walla,U.S. Representative,5,Democratic,Joseph (Joe) Pakootas,6012
+Walla Walla,U.S. House,4,Republican,Clint Didier,968
+Walla Walla,U.S. House,4,Republican,Dan Newhouse,608
+Walla Walla,U.S. House,5,Republican,Cathy McMorris Rodgers,10603
+Walla Walla,U.S. House,5,Democratic,Joseph (Joe) Pakootas,6012
 Walla Walla,Legislative District 16 State Representative (Pos. 1),16,Republican,Maureen S. Walsh,11269
 Walla Walla,Legislative District 16 State Representative (Pos. 1),16,Republican,Mary Ruth Edwards,6315
 Walla Walla,Legislative District 16 State Representative (Pos. 2),16,Republican,Terry R. Nealey,13009
@@ -1892,15 +1892,15 @@ Whatcom,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana
 Whatcom,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana excise tax,,,Maintained,37049
 Whatcom,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Repealed,28776
 Whatcom,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Maintained,36552
-Whatcom,U.S. Representative,1,Democratic,Suzan DelBene,17400
-Whatcom,U.S. Representative,1,Republican,Pedro Celis,22619
-Whatcom,U.S. Representative,2,Democratic,Rick Larsen,24091
-Whatcom,U.S. Representative,2,Republican,B.J. Guillot,9472
+Whatcom,U.S. House,1,Democratic,Suzan DelBene,17400
+Whatcom,U.S. House,1,Republican,Pedro Celis,22619
+Whatcom,U.S. House,2,Democratic,Rick Larsen,24091
+Whatcom,U.S. House,2,Republican,B.J. Guillot,9472
 Whatcom,Legislative District 40 State Representative (Pos. 1),40,Democratic,Kristine Lytton,15450
 Whatcom,Legislative District 40 State Representative (Pos. 1),40,Republican,Daniel R. Miller,6647
 Whatcom,Legislative District 40 State Representative (Pos. 2),40,Democratic,Jeff Morris,16467
-Whatcom,Legislative District 42 State Senator,42,Republican,Doug Ericksen,30209
-Whatcom,Legislative District 42 State Senator,42,Democratic,Seth Fleetwood,21244
+Whatcom,Legislative District 42 State Senate,42,Republican,Doug Ericksen,30209
+Whatcom,Legislative District 42 State Senate,42,Democratic,Seth Fleetwood,21244
 Whatcom,Legislative District 42 State Representative (Pos. 1),42,Democratic,Satpal Sidhu,22740
 Whatcom,Legislative District 42 State Representative (Pos. 1),42,Republican,Luanne VanWerven,28581
 Whatcom,Legislative District 42 State Representative (Pos. 2),42,Republican,Vincent Buys,29650
@@ -1984,8 +1984,8 @@ Whitman,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana
 Whitman,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana excise tax,,,Maintained,5634
 Whitman,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Repealed,4898
 Whitman,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Maintained,5212
-Whitman,U.S. Representative,5,Republican,Cathy McMorris Rodgers,6688
-Whitman,U.S. Representative,5,Democratic,Joseph (Joe) Pakootas,4685
+Whitman,U.S. House,5,Republican,Cathy McMorris Rodgers,6688
+Whitman,U.S. House,5,Democratic,Joseph (Joe) Pakootas,4685
 Whitman,Legislative District 9 State Representative (Pos. 1),9,Republican,Susan Fagan,7741
 Whitman,Legislative District 9 State Representative (Pos. 2),9,GOP,Joe Schmick,7731
 Whitman,COUNTYWIDE Commissioner 3,,Republican,Michael Largent,7418
@@ -2051,10 +2051,10 @@ Yakima,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana 
 Yakima,Advisory Votes Advisory Vote No. 8 (Senate Bill 6505) Concerns marijuana excise tax,,,Maintained,20520
 Yakima,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Repealed,25939
 Yakima,Advisory Votes Advisory Vote No. 9 (Engrossed Substitute House Bill 1287) Concerns leasehold excise tax on tribal property,,,Maintained,19184
-Yakima,U.S. Representative,4,Republican,Clint Didier,18886
-Yakima,U.S. Representative,4,Republican,Dan Newhouse,28458
-Yakima,Legislative District 13 State Senator,13,Republican,Judith (Judy) Warnick,1087
-Yakima,Legislative District 13 State Senator,13,Democratic,Mohammad Said,123
+Yakima,U.S. House,4,Republican,Clint Didier,18886
+Yakima,U.S. House,4,Republican,Dan Newhouse,28458
+Yakima,Legislative District 13 State Senate,13,Republican,Judith (Judy) Warnick,1087
+Yakima,Legislative District 13 State Senate,13,Democratic,Mohammad Said,123
 Yakima,Legislative District 13 State Representative (Pos. 1),13,Republican,Tom Dent,719
 Yakima,Legislative District 13 State Representative (Pos. 1),13,Republican,Dannette (Dani) Bolyard,377
 Yakima,Legislative District 13 State Representative (Pos. 2),13,Republican,Matt Manweller,964
@@ -2062,8 +2062,8 @@ Yakima,Legislative District 14 State Representative (Pos. 1),14,Republican,Norm 
 Yakima,Legislative District 14 State Representative (Pos. 1),14,States No Party Preference,Michael S. Brumback,10231
 Yakima,Legislative District 14 State Representative (Pos. 2),14,Republican,Gina R. McCabe,16959
 Yakima,Legislative District 14 State Representative (Pos. 2),14,Democratic,Paul George,7074
-Yakima,Legislative District 15 State Senator,15,GOP,Jim Honeyford,16794
-Yakima,Legislative District 15 State Senator,15,Democratic,Gabriel Munoz,6288
+Yakima,Legislative District 15 State Senate,15,GOP,Jim Honeyford,16794
+Yakima,Legislative District 15 State Senate,15,Democratic,Gabriel Munoz,6288
 Yakima,Legislative District 15 State Representative (Pos. 1),15,Republican,Bruce Chandler,18650
 Yakima,Legislative District 15 State Representative (Pos. 2),15,Republican,David V. Taylor,16523
 Yakima,Legislative District 15 State Representative (Pos. 2),15,Democratic,Teodora Martinez-Chavez,6297

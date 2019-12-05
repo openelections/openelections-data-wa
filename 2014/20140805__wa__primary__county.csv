@@ -1,16 +1,16 @@
 county,office,district,party,candidate,votes
-Adams,U.S. Representative,4,Republican,Gavin Seim,57
-Adams,U.S. Representative,4,Democratic,Estakio Beltran,162
-Adams,U.S. Representative,4,Republican,Dan Newhouse,397
-Adams,U.S. Representative,4,Republican,Clint Didier,1081
-Adams,U.S. Representative,4,Independent,Josh Ramirez,32
-Adams,U.S. Representative,4,Republican,Gordon Allen Pross,3
-Adams,U.S. Representative,4,Democratic,Tony Sandoval,87
-Adams,U.S. Representative,4,Republican,Kevin Midbust,6
-Adams,U.S. Representative,4,Republican,Glen R. Stockwell,64
-Adams,U.S. Representative,4,Republican,George Cicotte,72
-Adams,U.S. Representative,4,Republican,Janea Holmquist,206
-Adams,U.S. Representative,4,Independent,Richard Wright,58
+Adams,U.S. House,4,Republican,Gavin Seim,57
+Adams,U.S. House,4,Democratic,Estakio Beltran,162
+Adams,U.S. House,4,Republican,Dan Newhouse,397
+Adams,U.S. House,4,Republican,Clint Didier,1081
+Adams,U.S. House,4,Independent,Josh Ramirez,32
+Adams,U.S. House,4,Republican,Gordon Allen Pross,3
+Adams,U.S. House,4,Democratic,Tony Sandoval,87
+Adams,U.S. House,4,Republican,Kevin Midbust,6
+Adams,U.S. House,4,Republican,Glen R. Stockwell,64
+Adams,U.S. House,4,Republican,George Cicotte,72
+Adams,U.S. House,4,Republican,Janea Holmquist,206
+Adams,U.S. House,4,Independent,Richard Wright,58
 Adams,Legislative District 9 State Representative (Pos. 1),9,Republican,Susan Fagan,1775
 Adams,Legislative District 9 State Representative (Pos. 2),9,GOP,Joe Schmick,1759
 Adams,ADAMS COUNTY Assessor,,Republican,Sherri L. Brewer,1853
@@ -32,10 +32,10 @@ Adams,CEMETERY DISTRICT 1 Proposition 1 Maintenance and Operation Levy,,,Approve
 Adams,CEMETERY DISTRICT 1 Proposition 1 Maintenance and Operation Levy,,,Rejected,22
 Adams,PRECINCT 111 Precinct Committee Officer - Republican,,Republican,Glen R Stockwell,14
 Adams,PRECINCT 111 Precinct Committee Officer - Republican,,Republican,Nancy McBroom,48
-Asotin,U.S. Representative,5,Republican,Cathy McMorris Rodgers,2772
-Asotin,U.S. Representative,5,Independent,Dave Wilson,590
-Asotin,U.S. Representative,5,Democratic,Joseph (Joe) Pakootas,1371
-Asotin,U.S. Representative,5,Republican,Tom Horne,516
+Asotin,U.S. House,5,Republican,Cathy McMorris Rodgers,2772
+Asotin,U.S. House,5,Independent,Dave Wilson,590
+Asotin,U.S. House,5,Democratic,Joseph (Joe) Pakootas,1371
+Asotin,U.S. House,5,Republican,Tom Horne,516
 Asotin,Legislative District 9 State Representative (Pos. 1),9,Republican,Susan Fagan,4073
 Asotin,Legislative District 9 State Representative (Pos. 2),9,GOP,Joe Schmick,3968
 Asotin,COUNTYWIDE COUNTY ASSESSOR,,Republican,Chris Wood,4036
@@ -50,20 +50,20 @@ Asotin,COUNTYWIDE COUNTY TREASURER,,Democratic,Tiffany Rogers,1603
 Asotin,COUNTYWIDE COUNTY TREASURER,,States No Party Preference,Holly Schiffer,2220
 Benton,Benton County Proposition No. 14-5 BENTON COUNTY INCREASE IN LOCAL SALES AND USE TAX FOR PUBLIC SAFETY,,,Approved,18873
 Benton,Benton County Proposition No. 14-5 BENTON COUNTY INCREASE IN LOCAL SALES AND USE TAX FOR PUBLIC SAFETY,,,Rejected,16944
-Benton,U.S. Representative,4,Republican,Gavin Seim,292
-Benton,U.S. Representative,4,Democratic,Estakio Beltran,4298
-Benton,U.S. Representative,4,Republican,Dan Newhouse,7834
-Benton,U.S. Representative,4,Republican,Clint Didier,12677
-Benton,U.S. Representative,4,Independent,Josh Ramirez,604
-Benton,U.S. Representative,4,Republican,Gordon Allen Pross,63
-Benton,U.S. Representative,4,Democratic,Tony Sandoval,2325
-Benton,U.S. Representative,4,Republican,Kevin Midbust,77
-Benton,U.S. Representative,4,Republican,Glen R. Stockwell,115
-Benton,U.S. Representative,4,Republican,George Cicotte,4557
-Benton,U.S. Representative,4,Republican,Janea Holmquist,2048
-Benton,U.S. Representative,4,Independent,Richard Wright,1296
-Benton,Legislative District 8 State Senator,8,Democratic,Doug McKinley,7346
-Benton,Legislative District 8 State Senator,8,Republican,Sharon Brown,20955
+Benton,U.S. House,4,Republican,Gavin Seim,292
+Benton,U.S. House,4,Democratic,Estakio Beltran,4298
+Benton,U.S. House,4,Republican,Dan Newhouse,7834
+Benton,U.S. House,4,Republican,Clint Didier,12677
+Benton,U.S. House,4,Independent,Josh Ramirez,604
+Benton,U.S. House,4,Republican,Gordon Allen Pross,63
+Benton,U.S. House,4,Democratic,Tony Sandoval,2325
+Benton,U.S. House,4,Republican,Kevin Midbust,77
+Benton,U.S. House,4,Republican,Glen R. Stockwell,115
+Benton,U.S. House,4,Republican,George Cicotte,4557
+Benton,U.S. House,4,Republican,Janea Holmquist,2048
+Benton,U.S. House,4,Independent,Richard Wright,1296
+Benton,Legislative District 8 State Senate,8,Democratic,Doug McKinley,7346
+Benton,Legislative District 8 State Senate,8,Republican,Sharon Brown,20955
 Benton,Legislative District 8 State Representative (Pos. 1),8,Republican,Brad Klippert,21725
 Benton,Legislative District 8 State Representative (Pos. 2),8,Democratic,Eric Kalia,6625
 Benton,Legislative District 8 State Representative (Pos. 2),8,Republican,Larry Haler,21434
@@ -124,9 +124,9 @@ Benton,PC6195 Precinct Committee Officer - Republican,,Republican,Andrew Willis,
 Benton,PC6195 Precinct Committee Officer - Republican,,Republican,Barbara Philipp,31
 Benton,PC6281 Precinct Committee Officer - Republican,,Republican,Randy Rupp,51
 Benton,PC6281 Precinct Committee Officer - Republican,,Republican,Nancy S Pickett,99
-Chelan,U.S. Representative,8,Democratic,Jason Ritchie,2724
-Chelan,U.S. Representative,8,Republican,Dave Reichert,9139
-Chelan,U.S. Representative,8,Democratic,Keith Arnold,894
+Chelan,U.S. House,8,Democratic,Jason Ritchie,2724
+Chelan,U.S. House,8,Republican,Dave Reichert,9139
+Chelan,U.S. House,8,Democratic,Keith Arnold,894
 Chelan,Legislative District 12 State Representative (Pos. 1),12,Republican,Cary Condotta,9466
 Chelan,Legislative District 12 State Representative (Pos. 2),12,Republican,Brad Hawkins,9753
 Chelan,CHELAN COUNTY ASSESSOR,,Republican,Deanna C. Walter,9898
@@ -150,10 +150,10 @@ Chelan,PCO 158 Precinct Committee Officer - Republican,,Republican,Brian Burnett
 Chelan,PCO 158 Precinct Committee Officer - Republican,,Republican,Pete Smith,18
 Chelan,PCO 580 Precinct Committee Officer - Republican,,Republican,Jim Blair,81
 Chelan,PCO 580 Precinct Committee Officer - Republican,,Republican,Drew Zabrocki,42
-Clallam,U.S. Representative,6,Democratic,Derek Kilmer,9120
-Clallam,U.S. Representative,6,States No Party Preference,W. (Greybeard) McPherson,646
-Clallam,U.S. Representative,6,Republican,Marty McClendon,6718
-Clallam,U.S. Representative,6,Green,Douglas Milholland,490
+Clallam,U.S. House,6,Democratic,Derek Kilmer,9120
+Clallam,U.S. House,6,States No Party Preference,W. (Greybeard) McPherson,646
+Clallam,U.S. House,6,Republican,Marty McClendon,6718
+Clallam,U.S. House,6,Green,Douglas Milholland,490
 Clallam,Legislative District 24 State Representative (Pos. 1),24,Democratic,Kevin Van De Wege,11135
 Clallam,Legislative District 24 State Representative (Pos. 2),24,Democratic,Steve Tharinger,9041
 Clallam,Legislative District 24 State Representative (Pos. 2),24,Republican,Thomas W. Greisamer,6764
@@ -169,9 +169,9 @@ Clallam,DEER PARK 220 Precinct Committee Officer - Democratic,,Democratic,Ron Ri
 Clallam,DEER PARK 220 Precinct Committee Officer - Democratic,,Democratic,Patti Morris,77
 Clallam,PRAIRIE SOUTH 260 Precinct Committee Officer - Republican,,Republican,Micah Dilts,33
 Clallam,PRAIRIE SOUTH 260 Precinct Committee Officer - Republican,,Republican,Kathy Saffold,99
-Clark,U.S. Representative,3,Democratic,Bob Dingethal,28735
-Clark,U.S. Representative,3,Republican,Jaime Herrera Beutler,33701
-Clark,U.S. Representative,3,Republican,Michael Delavar,8760
+Clark,U.S. House,3,Democratic,Bob Dingethal,28735
+Clark,U.S. House,3,Republican,Jaime Herrera Beutler,33701
+Clark,U.S. House,3,Republican,Michael Delavar,8760
 Clark,Legislative District 14 State Representative (Pos. 1),14,Republican,Norm Johnson,500
 Clark,Legislative District 14 State Representative (Pos. 2),14,Republican,Ben Shoval,160
 Clark,Legislative District 14 State Representative (Pos. 2),14,Republican,Gina R. McCabe,161
@@ -313,10 +313,10 @@ Clark,PRECINCT 985 Precinct Committee Officer - Republican,,,Lauren Colas,79
 Clark,PRECINCT 985 Precinct Committee Officer - Republican,,,Kyle McRay,58
 Clark,NC EMERGENCY MEDICAL SERVICES 1 Proposition No. 1 Emergency Medical Program Excess Levy,,,Tax Levy...Yes,2252
 Clark,NC EMERGENCY MEDICAL SERVICES 1 Proposition No. 1 Emergency Medical Program Excess Levy,,,Tax Levy...No,635
-Columbia,U.S. Representative,5,Republican,Cathy McMorris Rodgers,838
-Columbia,U.S. Representative,5,Independent,Dave Wilson,108
-Columbia,U.S. Representative,5,Democratic,Joseph (Joe) Pakootas,203
-Columbia,U.S. Representative,5,Republican,Tom Horne,110
+Columbia,U.S. House,5,Republican,Cathy McMorris Rodgers,838
+Columbia,U.S. House,5,Independent,Dave Wilson,108
+Columbia,U.S. House,5,Democratic,Joseph (Joe) Pakootas,203
+Columbia,U.S. House,5,Republican,Tom Horne,110
 Columbia,Legislative District 16 State Representative (Pos. 1),16,Republican,Mary Ruth Edwards,399
 Columbia,Legislative District 16 State Representative (Pos. 1),16,Republican,Maureen S. Walsh,802
 Columbia,Legislative District 16 State Representative (Pos. 2),16,Republican,Terry R. Nealey,1090
@@ -330,9 +330,9 @@ Columbia,COUNTY WIDE DISTRICT 01 Columbia County Prosecutor,,States No Party Pre
 Columbia,COUNTY WIDE DISTRICT 01 Columbia County Prosecutor,,States No Party Preference,Write-In: Randell O. Lewis,18
 Columbia,COUNTY WIDE DISTRICT 01 Columbia County Sheriff,,Republican,Rocky Miller,1155
 Columbia,COUNTY WIDE DISTRICT 01 Columbia County Treasurer,,Republican,Audrey McLean,1124
-Cowlitz,U.S. Representative,3,Democratic,Bob Dingethal,7822
-Cowlitz,U.S. Representative,3,Republican,Jaime Herrera Beutler,8109
-Cowlitz,U.S. Representative,3,Republican,Michael Delavar,2750
+Cowlitz,U.S. House,3,Democratic,Bob Dingethal,7822
+Cowlitz,U.S. House,3,Republican,Jaime Herrera Beutler,8109
+Cowlitz,U.S. House,3,Republican,Michael Delavar,2750
 Cowlitz,Legislative District 19 State Representative (Pos. 1),19,Democratic,Dean Takko,7964
 Cowlitz,Legislative District 19 State Representative (Pos. 1),19,Libertarian,David A. Steenson,3372
 Cowlitz,Legislative District 19 State Representative (Pos. 2),19,Republican,Hugh Fleet,3702
@@ -418,21 +418,21 @@ Cowlitz,068 Precinct Committee Officer - Republican,,States No Party Preference,
 Cowlitz,068 Precinct Committee Officer - Republican,,States No Party Preference,Samuel Webb,99
 Cowlitz,070 Precinct Committee Officer - Republican,,States No Party Preference,David Loren Collins,98
 Cowlitz,070 Precinct Committee Officer - Republican,,States No Party Preference,Jennifer Heffernan,151
-Douglas,U.S. Representative,4,Republican,Gavin Seim,115
-Douglas,U.S. Representative,4,Democratic,Estakio Beltran,299
-Douglas,U.S. Representative,4,Republican,Dan Newhouse,495
-Douglas,U.S. Representative,4,Republican,Clint Didier,1565
-Douglas,U.S. Representative,4,Independent,Josh Ramirez,68
-Douglas,U.S. Representative,4,Republican,Gordon Allen Pross,7
-Douglas,U.S. Representative,4,Democratic,Tony Sandoval,315
-Douglas,U.S. Representative,4,Republican,Kevin Midbust,5
-Douglas,U.S. Representative,4,Republican,Glen R. Stockwell,52
-Douglas,U.S. Representative,4,Republican,George Cicotte,136
-Douglas,U.S. Representative,4,Republican,Janea Holmquist,417
-Douglas,U.S. Representative,4,Independent,Richard Wright,128
-Douglas,U.S. Representative,8,Democratic,Jason Ritchie,577
-Douglas,U.S. Representative,8,Republican,Dave Reichert,1939
-Douglas,U.S. Representative,8,Democratic,Keith Arnold,213
+Douglas,U.S. House,4,Republican,Gavin Seim,115
+Douglas,U.S. House,4,Democratic,Estakio Beltran,299
+Douglas,U.S. House,4,Republican,Dan Newhouse,495
+Douglas,U.S. House,4,Republican,Clint Didier,1565
+Douglas,U.S. House,4,Independent,Josh Ramirez,68
+Douglas,U.S. House,4,Republican,Gordon Allen Pross,7
+Douglas,U.S. House,4,Democratic,Tony Sandoval,315
+Douglas,U.S. House,4,Republican,Kevin Midbust,5
+Douglas,U.S. House,4,Republican,Glen R. Stockwell,52
+Douglas,U.S. House,4,Republican,George Cicotte,136
+Douglas,U.S. House,4,Republican,Janea Holmquist,417
+Douglas,U.S. House,4,Independent,Richard Wright,128
+Douglas,U.S. House,8,Democratic,Jason Ritchie,577
+Douglas,U.S. House,8,Republican,Dave Reichert,1939
+Douglas,U.S. House,8,Democratic,Keith Arnold,213
 Douglas,Legislative District 12 State Representative (Pos. 1),12,Republican,Cary Condotta,5015
 Douglas,Legislative District 12 State Representative (Pos. 2),12,Republican,Brad Hawkins,5128
 Douglas,DOUGLAS COUNTYWIDE County Assessor,,Republican,Jim Ruud,5124
@@ -451,12 +451,12 @@ Douglas,PRECINCT 201 Precinct Committee Officer - Republican,,Republican,Julanne
 Douglas,PRECINCT 201 Precinct Committee Officer - Republican,,Republican,Dale D Moog,31
 Douglas,PRECINCT 318 Precinct Committee Officer - Republican,,Republican,Fred O. Walk,31
 Douglas,PRECINCT 318 Precinct Committee Officer - Republican,,Republican,Veronica Berry,19
-Ferry,U.S. Representative,5,Republican,Cathy McMorris Rodgers,1169
-Ferry,U.S. Representative,5,Independent,Dave Wilson,252
-Ferry,U.S. Representative,5,Democratic,Joseph (Joe) Pakootas,689
-Ferry,U.S. Representative,5,Republican,Tom Horne,255
-Ferry,Legislative District 7 State Senator,7,Republican,Tony Booth,432
-Ferry,Legislative District 7 State Senator,7,Republican,Brian Dansel,1852
+Ferry,U.S. House,5,Republican,Cathy McMorris Rodgers,1169
+Ferry,U.S. House,5,Independent,Dave Wilson,252
+Ferry,U.S. House,5,Democratic,Joseph (Joe) Pakootas,689
+Ferry,U.S. House,5,Republican,Tom Horne,255
+Ferry,Legislative District 7 State Senate,7,Republican,Tony Booth,432
+Ferry,Legislative District 7 State Senate,7,Republican,Brian Dansel,1852
 Ferry,Legislative District 7 State Representative (Pos. 1),7,Republican,Shelly Short,1767
 Ferry,Legislative District 7 State Representative (Pos. 1),7,Libertarian,James R. Apker,416
 Ferry,Legislative District 7 State Representative (Pos. 2),7,Republican,Joel Kretz,1852
@@ -477,18 +477,18 @@ Ferry,FERRY COUNTY COUNTY TREASURER,,Republican,Joy Culp,743
 Ferry,FERRY COUNTY COUNTY TREASURER,,Republican,Rochelle Rodak,1388
 Ferry,SCHOOL DISTRICT 065 Orient School District #65 Maintenance and Operation Levy,,,Levy Yes,63
 Ferry,SCHOOL DISTRICT 065 Orient School District #65 Maintenance and Operation Levy,,,Levy No,66
-Franklin,U.S. Representative,4,Republican,Gavin Seim,93
-Franklin,U.S. Representative,4,Democratic,Estakio Beltran,1030
-Franklin,U.S. Representative,4,Republican,Dan Newhouse,1919
-Franklin,U.S. Representative,4,Republican,Clint Didier,4387
-Franklin,U.S. Representative,4,Independent,Josh Ramirez,154
-Franklin,U.S. Representative,4,Republican,Gordon Allen Pross,11
-Franklin,U.S. Representative,4,Democratic,Tony Sandoval,499
-Franklin,U.S. Representative,4,Republican,Kevin Midbust,10
-Franklin,U.S. Representative,4,Republican,Glen R. Stockwell,42
-Franklin,U.S. Representative,4,Republican,George Cicotte,711
-Franklin,U.S. Representative,4,Republican,Janea Holmquist,647
-Franklin,U.S. Representative,4,Independent,Richard Wright,464
+Franklin,U.S. House,4,Republican,Gavin Seim,93
+Franklin,U.S. House,4,Democratic,Estakio Beltran,1030
+Franklin,U.S. House,4,Republican,Dan Newhouse,1919
+Franklin,U.S. House,4,Republican,Clint Didier,4387
+Franklin,U.S. House,4,Independent,Josh Ramirez,154
+Franklin,U.S. House,4,Republican,Gordon Allen Pross,11
+Franklin,U.S. House,4,Democratic,Tony Sandoval,499
+Franklin,U.S. House,4,Republican,Kevin Midbust,10
+Franklin,U.S. House,4,Republican,Glen R. Stockwell,42
+Franklin,U.S. House,4,Republican,George Cicotte,711
+Franklin,U.S. House,4,Republican,Janea Holmquist,647
+Franklin,U.S. House,4,Independent,Richard Wright,464
 Franklin,Legislative District 9 State Representative (Pos. 1),9,Republican,Susan Fagan,5655
 Franklin,Legislative District 9 State Representative (Pos. 2),9,GOP,Joe Schmick,5432
 Franklin,Legislative District 16 State Representative (Pos. 1),16,Republican,Mary Ruth Edwards,863
@@ -517,10 +517,10 @@ Franklin,080 Precinct Committeeman Precinct Committee Officer - Republican,,Repu
 Franklin,080 Precinct Committeeman Precinct Committee Officer - Republican,,Republican,Kevin A. Carle,92
 Franklin,100 Precinct Committeeman Precinct Committee Officer - Republican,,Republican,LaWanda Hatch,40
 Franklin,100 Precinct Committeeman Precinct Committee Officer - Republican,,Republican,James (Jim) Follansbee,20
-Garfield,U.S. Representative,5,Republican,Cathy McMorris Rodgers,577
-Garfield,U.S. Representative,5,Independent,Dave Wilson,63
-Garfield,U.S. Representative,5,Democratic,Joseph (Joe) Pakootas,120
-Garfield,U.S. Representative,5,Republican,Tom Horne,63
+Garfield,U.S. House,5,Republican,Cathy McMorris Rodgers,577
+Garfield,U.S. House,5,Independent,Dave Wilson,63
+Garfield,U.S. House,5,Democratic,Joseph (Joe) Pakootas,120
+Garfield,U.S. House,5,Republican,Tom Horne,63
 Garfield,Legislative District 9 State Representative (Pos. 1),9,Republican,Susan Fagan,679
 Garfield,Legislative District 9 State Representative (Pos. 2),9,GOP,Joe Schmick,678
 Garfield,COUNTY WIDE DISTRICT 01 COUNTY ASSESSOR,,Republican,Laura L. Smith,683
@@ -535,22 +535,22 @@ Garfield,COUNTY WIDE DISTRICT 01 COUNTY PROSECUTOR,,Republican,Matt L. Newberg,7
 Garfield,COUNTY WIDE DISTRICT 01 COUNTY SHERIFF,,Republican,Bennie W. Keller,621
 Garfield,COUNTY WIDE DISTRICT 01 COUNTY SHERIFF,,States No Party Preference,Bruce Barkhuff,210
 Garfield,COUNTY WIDE DISTRICT 01 COUNTY TREASURER,,Democratic,Karen S. Roosevelt,657
-Grant,U.S. Representative,4,Republican,Gavin Seim,775
-Grant,U.S. Representative,4,Democratic,Estakio Beltran,972
-Grant,U.S. Representative,4,Republican,Dan Newhouse,1653
-Grant,U.S. Representative,4,Republican,Clint Didier,4461
-Grant,U.S. Representative,4,Independent,Josh Ramirez,122
-Grant,U.S. Representative,4,Republican,Gordon Allen Pross,29
-Grant,U.S. Representative,4,Democratic,Tony Sandoval,706
-Grant,U.S. Representative,4,Republican,Kevin Midbust,12
-Grant,U.S. Representative,4,Republican,Glen R. Stockwell,65
-Grant,U.S. Representative,4,Republican,George Cicotte,335
-Grant,U.S. Representative,4,Republican,Janea Holmquist,4396
-Grant,U.S. Representative,4,Independent,Richard Wright,293
+Grant,U.S. House,4,Republican,Gavin Seim,775
+Grant,U.S. House,4,Democratic,Estakio Beltran,972
+Grant,U.S. House,4,Republican,Dan Newhouse,1653
+Grant,U.S. House,4,Republican,Clint Didier,4461
+Grant,U.S. House,4,Independent,Josh Ramirez,122
+Grant,U.S. House,4,Republican,Gordon Allen Pross,29
+Grant,U.S. House,4,Democratic,Tony Sandoval,706
+Grant,U.S. House,4,Republican,Kevin Midbust,12
+Grant,U.S. House,4,Republican,Glen R. Stockwell,65
+Grant,U.S. House,4,Republican,George Cicotte,335
+Grant,U.S. House,4,Republican,Janea Holmquist,4396
+Grant,U.S. House,4,Independent,Richard Wright,293
 Grant,Legislative District 12 State Representative (Pos. 1),12,Republican,Cary Condotta,1184
 Grant,Legislative District 12 State Representative (Pos. 2),12,Republican,Brad Hawkins,1191
-Grant,Legislative District 13 State Senator,13,Republican,Judith (Judy) Warnick,10935
-Grant,Legislative District 13 State Senator,13,Democratic,Mohammad Said,1125
+Grant,Legislative District 13 State Senate,13,Republican,Judith (Judy) Warnick,10935
+Grant,Legislative District 13 State Senate,13,Democratic,Mohammad Said,1125
 Grant,Legislative District 13 State Representative (Pos. 1),13,Republican,Dannette (Dani) Bolyard,3654
 Grant,Legislative District 13 State Representative (Pos. 1),13,Republican,Tom Dent,7410
 Grant,Legislative District 13 State Representative (Pos. 2),13,Republican,Matt Manweller,9651
@@ -576,10 +576,10 @@ Grant,PC033-Moses Lake  7 Precinct Committee Officer - Republican,,Republican,Ba
 Grant,PC033-Moses Lake  7 Precinct Committee Officer - Republican,,Republican,Casey Cooper,78
 Grant,PC054-Wheeler 1 Precinct Committee Officer - Republican,,Republican,Brent Bishop,101
 Grant,PC054-Wheeler 1 Precinct Committee Officer - Republican,,Republican,Susan Freeman,44
-Grays Harbor,U.S. Representative,6,Democratic,Derek Kilmer,8159
-Grays Harbor,U.S. Representative,6,States No Party Preference,W. (Greybeard) McPherson,854
-Grays Harbor,U.S. Representative,6,Republican,Marty McClendon,4272
-Grays Harbor,U.S. Representative,6,Green,Douglas Milholland,431
+Grays Harbor,U.S. House,6,Democratic,Derek Kilmer,8159
+Grays Harbor,U.S. House,6,States No Party Preference,W. (Greybeard) McPherson,854
+Grays Harbor,U.S. House,6,Republican,Marty McClendon,4272
+Grays Harbor,U.S. House,6,Green,Douglas Milholland,431
 Grays Harbor,Legislative District 19 State Representative (Pos. 1),19,Democratic,Dean Takko,4539
 Grays Harbor,Legislative District 19 State Representative (Pos. 1),19,Libertarian,David A. Steenson,1593
 Grays Harbor,Legislative District 19 State Representative (Pos. 2),19,Republican,Hugh Fleet,1714
@@ -647,9 +647,9 @@ Grays Harbor,Precinct 441 Precinct Committee Officer - Republican,,Republican,Ja
 Grays Harbor,Precinct 441 Precinct Committee Officer - Republican,,Republican,Tracy Horn,47
 Grays Harbor,Precinct 451 Precinct Committee Officer - Democratic,,Democratic,Sherry L.Barry,81
 Grays Harbor,Precinct 451 Precinct Committee Officer - Democratic,,Democratic,Robin L Moore,37
-Island,U.S. Representative,2,Independent,Mike Lapointe,2002
-Island,U.S. Representative,2,Democratic,Rick Larsen,9435
-Island,U.S. Representative,2,Republican,B.J. Guillot,6535
+Island,U.S. House,2,Independent,Mike Lapointe,2002
+Island,U.S. House,2,Democratic,Rick Larsen,9435
+Island,U.S. House,2,Republican,B.J. Guillot,6535
 Island,Legislative District 10 State Representative (Pos. 1),10,Republican,Norma Smith,12863
 Island,Legislative District 10 State Representative (Pos. 1),10,Libertarian,Michael Scott,3305
 Island,Legislative District 10 State Representative (Pos. 2),10,Republican,Dave Hayes,8274
@@ -692,10 +692,10 @@ Island,PRECINCT 309 - CAMANO 09 Precinct Committee Officer - Republican,,Republi
 Island,PRECINCT 309 - CAMANO 09 Precinct Committee Officer - Republican,,Republican,Marc Hennemann,107
 Island,PRECINCT 352 - N WHIDBEY 02 Precinct Committee Officer - Democratic,,Democratic,Marjorie McNae,109
 Island,PRECINCT 352 - N WHIDBEY 02 Precinct Committee Officer - Democratic,,Democratic,Bob Fiorito,37
-Jefferson,U.S. Representative,6,Democratic,Derek Kilmer,6477
-Jefferson,U.S. Representative,6,States No Party Preference,W. (Greybeard) McPherson,308
-Jefferson,U.S. Representative,6,Republican,Marty McClendon,2889
-Jefferson,U.S. Representative,6,Green,Douglas Milholland,1470
+Jefferson,U.S. House,6,Democratic,Derek Kilmer,6477
+Jefferson,U.S. House,6,States No Party Preference,W. (Greybeard) McPherson,308
+Jefferson,U.S. House,6,Republican,Marty McClendon,2889
+Jefferson,U.S. House,6,Green,Douglas Milholland,1470
 Jefferson,Legislative District 24 State Representative (Pos. 1),24,Democratic,Kevin Van De Wege,8014
 Jefferson,Legislative District 24 State Representative (Pos. 2),24,Democratic,Steve Tharinger,7121
 Jefferson,Legislative District 24 State Representative (Pos. 2),24,Republican,Thomas W. Greisamer,2979
@@ -719,25 +719,25 @@ Jefferson,Public Utility District - Commissioner No. 2 Public Utility District N
 Jefferson,Public Utility District - Commissioner No. 2 Public Utility District No.1  #2,,,Ken A McMillen,797
 Jefferson,Brinnon Fire District No. 4 Proposition No. 1 Proposition Authorizing Regular Property Tax Levy,,,Yes,333
 Jefferson,Brinnon Fire District No. 4 Proposition No. 1 Proposition Authorizing Regular Property Tax Levy,,,No,230
-King,U.S. Representative,1,Republican,John Orlinski,3425
-King,U.S. Representative,1,Democratic,Suzan DelBene,26524
-King,U.S. Representative,1,National Union,Mike The Mover,292
-King,U.S. Representative,1,GOP,Edwin F. Moats,1277
-King,U.S. Representative,1,Republican,Pedro Celis,7729
-King,U.S. Representative,1,Republican,Robert J. Sutherland,6527
-King,U.S. Representative,1,States No Party Preference,Richard J. Todd,496
-King,U.S. Representative,7,Republican,Scott Sutherland,8428
-King,U.S. Representative,7,Work and Wealth,GoodSpaceGuy,1585
-King,U.S. Representative,7,Democratic,Jim McDermott,107395
-King,U.S. Representative,7,Republican,Craig Keller,11470
-King,U.S. Representative,7,Independent,Doug McQuaid,8620
-King,U.S. Representative,8,Democratic,Jason Ritchie,19665
-King,U.S. Representative,8,Republican,Dave Reichert,36305
-King,U.S. Representative,8,Democratic,Keith Arnold,5489
-King,U.S. Representative,9,Democratic,Adam Smith,57675
-King,U.S. Representative,9,Democratic,Don Rivers,5325
-King,U.S. Representative,9,Citizens,Mark Greene,2644
-King,U.S. Representative,9,Republican,Doug Basler,24222
+King,U.S. House,1,Republican,John Orlinski,3425
+King,U.S. House,1,Democratic,Suzan DelBene,26524
+King,U.S. House,1,National Union,Mike The Mover,292
+King,U.S. House,1,GOP,Edwin F. Moats,1277
+King,U.S. House,1,Republican,Pedro Celis,7729
+King,U.S. House,1,Republican,Robert J. Sutherland,6527
+King,U.S. House,1,States No Party Preference,Richard J. Todd,496
+King,U.S. House,7,Republican,Scott Sutherland,8428
+King,U.S. House,7,Work and Wealth,GoodSpaceGuy,1585
+King,U.S. House,7,Democratic,Jim McDermott,107395
+King,U.S. House,7,Republican,Craig Keller,11470
+King,U.S. House,7,Independent,Doug McQuaid,8620
+King,U.S. House,8,Democratic,Jason Ritchie,19665
+King,U.S. House,8,Republican,Dave Reichert,36305
+King,U.S. House,8,Democratic,Keith Arnold,5489
+King,U.S. House,9,Democratic,Adam Smith,57675
+King,U.S. House,9,Democratic,Don Rivers,5325
+King,U.S. House,9,Citizens,Mark Greene,2644
+King,U.S. House,9,Republican,Doug Basler,24222
 King,Legislative District 1 State Representative (Pos. 1),1,Democratic,Derek Stanford,4548
 King,Legislative District 1 State Representative (Pos. 2),1,Republican,Edward J. Barton,2718
 King,Legislative District 1 State Representative (Pos. 2),1,Democratic,Luis Moscoso,3020
@@ -751,50 +751,50 @@ King,Legislative District 5 State Representative (Pos. 2),5,Democratic,Colin J. 
 King,Legislative District 11 State Representative (Pos. 1),11,Democratic,Zack Hudgins,11117
 King,Legislative District 11 State Representative (Pos. 2),11,Republican,Sarah Sanoy-Wright,5108
 King,Legislative District 11 State Representative (Pos. 2),11,Democratic,Steve Bergquist,9874
-King,Legislative District 30 State Senator,30,Republican,Mark Miloscia,9997
-King,Legislative District 30 State Senator,30,Democratic,Shari Song,7559
+King,Legislative District 30 State Senate,30,Republican,Mark Miloscia,9997
+King,Legislative District 30 State Senate,30,Democratic,Shari Song,7559
 King,Legislative District 30 State Representative (Pos. 1),30,Republican,Linda Kochmar,10220
 King,Legislative District 30 State Representative (Pos. 1),30,Democratic,Greg Baruso,7075
 King,Legislative District 30 State Representative (Pos. 2),30,Republican,Jack Dovey,8510
 King,Legislative District 30 State Representative (Pos. 2),30,Democratic,Roger Freeman,8820
-King,Legislative District 31 State Senator,31,Republican,Cathy Dahlquist,3279
-King,Legislative District 31 State Senator,31,Republican,Pam Roach,3081
-King,Legislative District 31 State Senator,31,Democratic,Lynda Messner,1391
+King,Legislative District 31 State Senate,31,Republican,Cathy Dahlquist,3279
+King,Legislative District 31 State Senate,31,Republican,Pam Roach,3081
+King,Legislative District 31 State Senate,31,Democratic,Lynda Messner,1391
 King,Legislative District 31 State Representative (Pos. 1),31,Republican,Drew Stokesbary,3902
 King,Legislative District 31 State Representative (Pos. 1),31,Independent Democrat,Jonathon Dunn,1203
 King,Legislative District 31 State Representative (Pos. 1),31,Democratic,Mike Sando,2545
 King,Legislative District 31 State Representative (Pos. 2),31,Independent Democrat,Christopher Hurst,4239
 King,Legislative District 31 State Representative (Pos. 2),31,Independent Republican,Phil Fortunato,3445
-King,Legislative District 32 State Senator,32,Democratic,Maralyn Chase,7036
-King,Legislative District 32 State Senator,32,Democratic,Chris Eggen,3564
-King,Legislative District 32 State Senator,32,Republican,Robert Reedy,2727
+King,Legislative District 32 State Senate,32,Democratic,Maralyn Chase,7036
+King,Legislative District 32 State Senate,32,Democratic,Chris Eggen,3564
+King,Legislative District 32 State Senate,32,Republican,Robert Reedy,2727
 King,Legislative District 32 State Representative (Pos. 1),32,Democratic,Cindy Ryu,10030
 King,Legislative District 32 State Representative (Pos. 2),32,Democratic,Ruth Kagi,10287
 King,Legislative District 32 State Representative (Pos. 2),32,Republican,Alvin A. Rutledge,2988
-King,Legislative District 33 State Senator,33,Democratic,Marylin J. Taylor,2007
-King,Legislative District 33 State Senator,33,Democratic,Karen Keiser,8364
-King,Legislative District 33 State Senator,33,Republican,Martin Metz,5875
+King,Legislative District 33 State Senate,33,Democratic,Marylin J. Taylor,2007
+King,Legislative District 33 State Senate,33,Democratic,Karen Keiser,8364
+King,Legislative District 33 State Senate,33,Republican,Martin Metz,5875
 King,Legislative District 33 State Representative (Pos. 1),33,Republican,Michael J. Siefkes,5935
 King,Legislative District 33 State Representative (Pos. 1),33,Democratic,Tina Orwall,10246
 King,Legislative District 33 State Representative (Pos. 2),33,Democratic,Mia Su-Ling Gregerson,8039
 King,Legislative District 33 State Representative (Pos. 2),33,Republican,Jeanette Burrage,6060
 King,Legislative District 33 State Representative (Pos. 2),33,Independent,Les Thomas,2146
-King,Legislative District 34 State Senator,34,Democratic,Sharon K. Nelson,20497
+King,Legislative District 34 State Senate,34,Democratic,Sharon K. Nelson,20497
 King,Legislative District 34 State Representative (Pos. 1),34,Democratic,Eileen L. Cody,20502
 King,Legislative District 34 State Representative (Pos. 2),34,Democratic,Brendan B. Kolding,4450
 King,Legislative District 34 State Representative (Pos. 2),34,Democratic,Joe Fitzgibbon,18605
-King,Legislative District 36 State Senator,36,Republican,Sarina Forbes,5768
-King,Legislative District 36 State Senator,36,Democratic,Jeanne Kohl-Welles,27913
+King,Legislative District 36 State Senate,36,Republican,Sarina Forbes,5768
+King,Legislative District 36 State Senate,36,Democratic,Jeanne Kohl-Welles,27913
 King,Legislative District 36 State Representative (Pos. 1),36,Democratic,Reuven Carlyle,28532
 King,Legislative District 36 State Representative (Pos. 1),36,Republicanspirit,Leslie Klein,4655
 King,Legislative District 36 State Representative (Pos. 2),36,Democratic,Gael Tarleton,28042
 King,Legislative District 36 State Representative (Pos. 2),36,Libertarian,Paul Addis,4431
-King,Legislative District 37 State Senator,37,Democratic,Pramila Jayapal,12235
-King,Legislative District 37 State Senator,37,Republican,Rowland Martin,2317
-King,Legislative District 37 State Senator,37,Democratic,Sheley Secrest,2283
-King,Legislative District 37 State Senator,37,Democratic,Claude Burfect,436
-King,Legislative District 37 State Senator,37,Democratic,John Stafford,1684
-King,Legislative District 37 State Senator,37,Democratic,Louis Watanabe,3639
+King,Legislative District 37 State Senate,37,Democratic,Pramila Jayapal,12235
+King,Legislative District 37 State Senate,37,Republican,Rowland Martin,2317
+King,Legislative District 37 State Senate,37,Democratic,Sheley Secrest,2283
+King,Legislative District 37 State Senate,37,Democratic,Claude Burfect,436
+King,Legislative District 37 State Senate,37,Democratic,John Stafford,1684
+King,Legislative District 37 State Senate,37,Democratic,Louis Watanabe,3639
 King,Legislative District 37 State Representative (Pos. 1),37,Republican,Daniel Bretzke,1885
 King,Legislative District 37 State Representative (Pos. 1),37,Democratic,Sharon Tomiko Santos,19176
 King,Legislative District 37 State Representative (Pos. 1),37,Republican,John Dickinson,1204
@@ -807,29 +807,29 @@ King,Legislative District 41 State Representative (Pos. 1),41,Republican,Bill St
 King,Legislative District 41 State Representative (Pos. 1),41,Democratic,Tana Senn,14523
 King,Legislative District 41 State Representative (Pos. 2),41,States No Party Preference,Alex O'Neil,5317
 King,Legislative District 41 State Representative (Pos. 2),41,Democratic,Judy Clibborn,16390
-King,Legislative District 43 State Senator,43,Democratic,Jamie Pedersen,24496
+King,Legislative District 43 State Senate,43,Democratic,Jamie Pedersen,24496
 King,Legislative District 43 State Representative (Pos. 1),43,Democratic,Brady Walkinshaw,23235
 King,Legislative District 43 State Representative (Pos. 2),43,Socialist Altern,Jessica Spear,5912
 King,Legislative District 43 State Representative (Pos. 2),43,Democratic,Frank Chopp,23578
-King,Legislative District 45 State Senator,45,Democratic,Matt Isenhower,11706
-King,Legislative District 45 State Senator,45,Republican,Andy Hill,13625
+King,Legislative District 45 State Senate,45,Democratic,Matt Isenhower,11706
+King,Legislative District 45 State Senate,45,Republican,Andy Hill,13625
 King,Legislative District 45 State Representative (Pos. 1),45,Democratic,Roger Goodman,13631
 King,Legislative District 45 State Representative (Pos. 1),45,Republican,Joel Hussey,11610
 King,Legislative District 45 State Representative (Pos. 2),45,Republican,Brendan Woodward,11103
 King,Legislative District 45 State Representative (Pos. 2),45,Democratic,Larry Springer,14078
-King,Legislative District 46 State Senator,46,Republican,Van Sperry,6324
-King,Legislative District 46 State Senator,46,Democratic,David Frockt,24511
+King,Legislative District 46 State Senate,46,Republican,Van Sperry,6324
+King,Legislative District 46 State Senate,46,Democratic,David Frockt,24511
 King,Legislative District 46 State Representative (Pos. 1),46,Democratic,Gerry Pollet,23984
 King,Legislative District 46 State Representative (Pos. 2),46,Republican,Branden Curtis,5359
 King,Legislative District 46 State Representative (Pos. 2),46,Democratic,Jessyn Farrell,25075
-King,Legislative District 47 State Senator,47,Democratic,Carol Barber,6559
-King,Legislative District 47 State Senator,47,Republican,Joe Fain,12922
+King,Legislative District 47 State Senate,47,Democratic,Carol Barber,6559
+King,Legislative District 47 State Senate,47,Republican,Joe Fain,12922
 King,Legislative District 47 State Representative (Pos. 1),47,Republican,Mark Hargrove,11373
 King,Legislative District 47 State Representative (Pos. 1),47,Democratic,Chris Barringer,8157
 King,Legislative District 47 State Representative (Pos. 2),47,Democratic,Pat Sullivan,10159
 King,Legislative District 47 State Representative (Pos. 2),47,Republican,Barry Knowles,9345
-King,Legislative District 48 State Senator,48,Republican,Michelle Darnell,7697
-King,Legislative District 48 State Senator,48,Democratic,Cyrus Habib,13452
+King,Legislative District 48 State Senate,48,Republican,Michelle Darnell,7697
+King,Legislative District 48 State Senate,48,Democratic,Cyrus Habib,13452
 King,Legislative District 48 State Representative (Pos. 1),48,Republican,Bill Hirt,6289
 King,Legislative District 48 State Representative (Pos. 1),48,Democratic,Ross Hunter,14496
 King,Legislative District 48 State Representative (Pos. 2),48,Libertarian,Tim Turner,5937
@@ -841,24 +841,24 @@ King,NORTHEAST ELECTORAL DISTRICT JUDGE POSITION 3,,,Rick Leo,14440
 King,NORTHEAST ELECTORAL DISTRICT JUDGE POSITION 3,,,Lisa O'Toole,46023
 King,SNOQUALMIE PASS FIRE PROTECTION DIST 51 Proposition 1 Intent to Impose Benefit Charge,,,Yes,18
 King,SNOQUALMIE PASS FIRE PROTECTION DIST 51 Proposition 1 Intent to Impose Benefit Charge,,,No,6
-Kitsap,U.S. Representative,6,Democratic,Derek Kilmer,29509
-Kitsap,U.S. Representative,6,States No Party Preference,W. (Greybeard) McPherson,1564
-Kitsap,U.S. Representative,6,Republican,Marty McClendon,17994
-Kitsap,U.S. Representative,6,Green,Douglas Milholland,1215
+Kitsap,U.S. House,6,Democratic,Derek Kilmer,29509
+Kitsap,U.S. House,6,States No Party Preference,W. (Greybeard) McPherson,1564
+Kitsap,U.S. House,6,Republican,Marty McClendon,17994
+Kitsap,U.S. House,6,Green,Douglas Milholland,1215
 Kitsap,Legislative District 23 State Representative (Pos. 1),23,Democratic,Sherry V. Appleton,16692
 Kitsap,Legislative District 23 State Representative (Pos. 1),23,Republican,Scott Henden,11379
 Kitsap,Legislative District 23 State Representative (Pos. 2),23,Grand Old,James M. Olsen,10412
 Kitsap,Legislative District 23 State Representative (Pos. 2),23,Democratic,Drew Hansen,16978
-Kitsap,Legislative District 26 State Senator,26,Democratic,Judy Arbogast,6134
-Kitsap,Legislative District 26 State Senator,26,Republican,Jan Angel,8043
+Kitsap,Legislative District 26 State Senate,26,Democratic,Judy Arbogast,6134
+Kitsap,Legislative District 26 State Senate,26,Republican,Jan Angel,8043
 Kitsap,Legislative District 26 State Representative (Pos. 1),26,Republican,Bill Scheidler,2288
 Kitsap,Legislative District 26 State Representative (Pos. 1),26,Republican,Jesse Young,5070
 Kitsap,Legislative District 26 State Representative (Pos. 1),26,Democratic,Nathan Schlicher,6629
 Kitsap,Legislative District 26 State Representative (Pos. 2),26,Republican,Michelle Caldier,7004
 Kitsap,Legislative District 26 State Representative (Pos. 2),26,Democratic,Larry Seaquist,7047
-Kitsap,Legislative District 35 State Senator,35,Democratic,Irene Bowling,2151
-Kitsap,Legislative District 35 State Senator,35,Republican,Travis Couture,2678
-Kitsap,Legislative District 35 State Senator,35,Democratic,Tim Sheldon,2943
+Kitsap,Legislative District 35 State Senate,35,Democratic,Irene Bowling,2151
+Kitsap,Legislative District 35 State Senate,35,Republican,Travis Couture,2678
+Kitsap,Legislative District 35 State Senate,35,Democratic,Tim Sheldon,2943
 Kitsap,Legislative District 35 State Representative (Pos. 1),35,Democratic,Kathy Haigh,3570
 Kitsap,Legislative District 35 State Representative (Pos. 1),35,Republican,Dan Griffey,2385
 Kitsap,Legislative District 35 State Representative (Pos. 1),35,Republican,Josiah Rowell,1774
@@ -896,9 +896,9 @@ Kitsap,PCO 292 Precinct Committee Officer - Republican,,,Shannon Seth,68
 Kitsap,PCO 292 Precinct Committee Officer - Republican,,,Edward B. Mitchell,77
 Kitsap,PCO 441 Precinct Committee Officer - Republican,,,Patrick J. Wenter,47
 Kitsap,PCO 441 Precinct Committee Officer - Republican,,,Carol Klinkert,21
-Kittitas,U.S. Representative,8,Democratic,Jason Ritchie,2026
-Kittitas,U.S. Representative,8,Republican,Dave Reichert,5373
-Kittitas,U.S. Representative,8,Democratic,Keith Arnold,643
+Kittitas,U.S. House,8,Democratic,Jason Ritchie,2026
+Kittitas,U.S. House,8,Republican,Dave Reichert,5373
+Kittitas,U.S. House,8,Democratic,Keith Arnold,643
 Kittitas,COUNTY WIDE - KITTITAS Assessor,,Republican,Marsha Weyand,6448
 Kittitas,COUNTY WIDE - KITTITAS Auditor,,Democratic,Jerry Pettit,6199
 Kittitas,COUNTY WIDE - KITTITAS Clerk,,Democratic,Sarah Keith,5498
@@ -923,14 +923,14 @@ Kittitas,PRECINCT 36 - NORTH CENTRAL Precinct Committee Officer - Republican,,,A
 Kittitas,PRECINCT 36 - NORTH CENTRAL Precinct Committee Officer - Republican,,,Robert Martin,58
 Kittitas,PRECINCT 60 - KITTITAS 2 Precinct Committee Officer - Republican,,,Tawna &quot;Lou&quot; Whitford,46
 Kittitas,PRECINCT 60 - KITTITAS 2 Precinct Committee Officer - Republican,,,John Camarata,33
-Kittitas,Legislative District 13 State Senator,13,Republican,Judith (Judy) Warnick,6337
-Kittitas,Legislative District 13 State Senator,13,Democratic,Mohammad Said,1585
+Kittitas,Legislative District 13 State Senate,13,Republican,Judith (Judy) Warnick,6337
+Kittitas,Legislative District 13 State Senate,13,Democratic,Mohammad Said,1585
 Kittitas,Legislative District 13 State Representative (Pos. 1),13,Republican,Dannette (Dani) Bolyard,2346
 Kittitas,Legislative District 13 State Representative (Pos. 1),13,Republican,Tom Dent,3981
 Kittitas,Legislative District 13 State Representative (Pos. 2),13,Republican,Matt Manweller,5964
-Klickitat,U.S. Representative,3,Democratic,Bob Dingethal,1691
-Klickitat,U.S. Representative,3,Republican,Jaime Herrera Beutler,2772
-Klickitat,U.S. Representative,3,Republican,Michael Delavar,889
+Klickitat,U.S. House,3,Democratic,Bob Dingethal,1691
+Klickitat,U.S. House,3,Republican,Jaime Herrera Beutler,2772
+Klickitat,U.S. House,3,Republican,Michael Delavar,889
 Klickitat,Legislative District 14 State Representative (Pos. 1),14,Republican,Norm Johnson,4007
 Klickitat,Legislative District 14 State Representative (Pos. 2),14,Republican,Ben Shoval,520
 Klickitat,Legislative District 14 State Representative (Pos. 2),14,Republican,Gina R. McCabe,2515
@@ -963,9 +963,9 @@ Klickitat,PRECINCT 028-H PRAIRIE Precinct Committee Officer - Republican,,,Lonni
 Klickitat,PRECINCT 028-H PRAIRIE Precinct Committee Officer - Republican,,,Amanda Richards,27
 Klickitat,PRECINCT 109-WT SALMON Precinct Committee Officer - Republican,,,Jeremique Clifford,73
 Klickitat,PRECINCT 109-WT SALMON Precinct Committee Officer - Republican,,,S. Martin,59
-Lewis,U.S. Representative,3,Democratic,Bob Dingethal,3054
-Lewis,U.S. Representative,3,Republican,Jaime Herrera Beutler,9189
-Lewis,U.S. Representative,3,Republican,Michael Delavar,2246
+Lewis,U.S. House,3,Democratic,Bob Dingethal,3054
+Lewis,U.S. House,3,Republican,Jaime Herrera Beutler,9189
+Lewis,U.S. House,3,Republican,Michael Delavar,2246
 Lewis,Legislative District 19 State Representative (Pos. 1),19,Democratic,Dean Takko,595
 Lewis,Legislative District 19 State Representative (Pos. 1),19,Libertarian,David A. Steenson,559
 Lewis,Legislative District 19 State Representative (Pos. 2),19,Republican,Hugh Fleet,723
@@ -1006,12 +1006,12 @@ Lewis,SALKUM PCO Republican Precinct Committee Officer,,,Tracy Swetz,64
 Lewis,SALKUM PCO Republican Precinct Committee Officer,,,Lorelei (Laurie) Smith,48
 Lewis,SALZER PCO Republican Precinct Committee Officer,,,Judy Selleck,30
 Lewis,SALZER PCO Republican Precinct Committee Officer,,,Suzanne Chastain,25
-Lincoln,U.S. Representative,5,Republican,Cathy McMorris Rodgers,1924
-Lincoln,U.S. Representative,5,Independent,Dave Wilson,240
-Lincoln,U.S. Representative,5,Democratic,Joseph (Joe) Pakootas,472
-Lincoln,U.S. Representative,5,Republican,Tom Horne,314
-Lincoln,Legislative District 13 State Senator,13,Republican,Judith (Judy) Warnick,2552
-Lincoln,Legislative District 13 State Senator,13,Democratic,Mohammad Said,328
+Lincoln,U.S. House,5,Republican,Cathy McMorris Rodgers,1924
+Lincoln,U.S. House,5,Independent,Dave Wilson,240
+Lincoln,U.S. House,5,Democratic,Joseph (Joe) Pakootas,472
+Lincoln,U.S. House,5,Republican,Tom Horne,314
+Lincoln,Legislative District 13 State Senate,13,Republican,Judith (Judy) Warnick,2552
+Lincoln,Legislative District 13 State Senate,13,Democratic,Mohammad Said,328
 Lincoln,Legislative District 13 State Representative (Pos. 1),13,Republican,Dannette (Dani) Bolyard,1030
 Lincoln,Legislative District 13 State Representative (Pos. 1),13,Republican,Tom Dent,1552
 Lincoln,Legislative District 13 State Representative (Pos. 2),13,Republican,Matt Manweller,2420
@@ -1024,17 +1024,17 @@ Lincoln,COUNTYWIDE COUNTY SHERIFF,,Republican,Wade W. Magers,2604
 Lincoln,COUNTYWIDE COUNTY TREASURER,,Republican,Linda M. Fisher,2624
 Lincoln,PRECINCT 026 - MONDOVI Precinct Committee Officer - Republican,,Republican,Arthur Deppner,34
 Lincoln,PRECINCT 026 - MONDOVI Precinct Committee Officer - Republican,,Republican,David DeVore,23
-Mason,U.S. Representative,6,Democratic,Derek Kilmer,5374
-Mason,U.S. Representative,6,States No Party Preference,W. (Greybeard) McPherson,510
-Mason,U.S. Representative,6,Republican,Marty McClendon,4268
-Mason,U.S. Representative,6,Green,Douglas Milholland,336
-Mason,U.S. Representative,10,Republican,Joyce McDonald,987
-Mason,U.S. Representative,10,Democratic,Denny Heck,1635
-Mason,U.S. Representative,10,The Human Rights,Sam Wright,80
-Mason,U.S. Representative,10,Independent,Jennifer Gigi Ferguson,211
-Mason,Legislative District 35 State Senator,35,Democratic,Irene Bowling,5181
-Mason,Legislative District 35 State Senator,35,Republican,Travis Couture,4159
-Mason,Legislative District 35 State Senator,35,Democratic,Tim Sheldon,4362
+Mason,U.S. House,6,Democratic,Derek Kilmer,5374
+Mason,U.S. House,6,States No Party Preference,W. (Greybeard) McPherson,510
+Mason,U.S. House,6,Republican,Marty McClendon,4268
+Mason,U.S. House,6,Green,Douglas Milholland,336
+Mason,U.S. House,10,Republican,Joyce McDonald,987
+Mason,U.S. House,10,Democratic,Denny Heck,1635
+Mason,U.S. House,10,The Human Rights,Sam Wright,80
+Mason,U.S. House,10,Independent,Jennifer Gigi Ferguson,211
+Mason,Legislative District 35 State Senate,35,Democratic,Irene Bowling,5181
+Mason,Legislative District 35 State Senate,35,Republican,Travis Couture,4159
+Mason,Legislative District 35 State Senate,35,Democratic,Tim Sheldon,4362
 Mason,Legislative District 35 State Representative (Pos. 1),35,Democratic,Kathy Haigh,6754
 Mason,Legislative District 35 State Representative (Pos. 1),35,Republican,Dan Griffey,4077
 Mason,Legislative District 35 State Representative (Pos. 1),35,Republican,Josiah Rowell,2822
@@ -1065,20 +1065,20 @@ Mason,Fire Protection Dist 12 Fire Protection District No. 12 Emergency Medical 
 Mason,Fire Protection Dist 12 Fire Protection District No. 12 Emergency Medical Services Regular Property Tax Levy,,,Levy...No,65
 Mason,Grapeview School 54 Grapeview School District No. 54 Capital Levy To Share Costs of Constructing A New High School In North Mason School District,,,Levy...Yes,541
 Mason,Grapeview School 54 Grapeview School District No. 54 Capital Levy To Share Costs of Constructing A New High School In North Mason School District,,,Levy...No,447
-Okanogan,U.S. Representative,4,Republican,Gavin Seim,163
-Okanogan,U.S. Representative,4,Democratic,Estakio Beltran,1036
-Okanogan,U.S. Representative,4,Republican,Dan Newhouse,1224
-Okanogan,U.S. Representative,4,Republican,Clint Didier,2559
-Okanogan,U.S. Representative,4,Independent,Josh Ramirez,132
-Okanogan,U.S. Representative,4,Republican,Gordon Allen Pross,14
-Okanogan,U.S. Representative,4,Democratic,Tony Sandoval,663
-Okanogan,U.S. Representative,4,Republican,Kevin Midbust,7
-Okanogan,U.S. Representative,4,Republican,Glen R. Stockwell,86
-Okanogan,U.S. Representative,4,Republican,George Cicotte,157
-Okanogan,U.S. Representative,4,Republican,Janea Holmquist,286
-Okanogan,U.S. Representative,4,Independent,Richard Wright,281
-Okanogan,Legislative District 7 State Senator,7,Republican,Tony Booth,847
-Okanogan,Legislative District 7 State Senator,7,Republican,Brian Dansel,2292
+Okanogan,U.S. House,4,Republican,Gavin Seim,163
+Okanogan,U.S. House,4,Democratic,Estakio Beltran,1036
+Okanogan,U.S. House,4,Republican,Dan Newhouse,1224
+Okanogan,U.S. House,4,Republican,Clint Didier,2559
+Okanogan,U.S. House,4,Independent,Josh Ramirez,132
+Okanogan,U.S. House,4,Republican,Gordon Allen Pross,14
+Okanogan,U.S. House,4,Democratic,Tony Sandoval,663
+Okanogan,U.S. House,4,Republican,Kevin Midbust,7
+Okanogan,U.S. House,4,Republican,Glen R. Stockwell,86
+Okanogan,U.S. House,4,Republican,George Cicotte,157
+Okanogan,U.S. House,4,Republican,Janea Holmquist,286
+Okanogan,U.S. House,4,Independent,Richard Wright,281
+Okanogan,Legislative District 7 State Senate,7,Republican,Tony Booth,847
+Okanogan,Legislative District 7 State Senate,7,Republican,Brian Dansel,2292
 Okanogan,Legislative District 7 State Representative (Pos. 1),7,Republican,Shelly Short,2979
 Okanogan,Legislative District 7 State Representative (Pos. 1),7,Libertarian,James R. Apker,528
 Okanogan,Legislative District 7 State Representative (Pos. 2),7,Republican,Joel Kretz,3156
@@ -1100,9 +1100,9 @@ Okanogan,PUBLIC UTILITY DISTRICT 01 Commissioner Dist. 1,,,Scott Vejraska,535
 Okanogan,PUBLIC UTILITY DISTRICT 01 Commissioner Dist. 1,,,James Miller,443
 Okanogan,PUBLIC UTILITY DISTRICT 01 Commissioner Dist. 1,,,David Womack,562
 Okanogan,PUBLIC UTILITY DISTRICT 01 Commissioner Dist. 1,,,Steve Nearents,440
-Pacific,U.S. Representative,3,Democratic,Bob Dingethal,2451
-Pacific,U.S. Representative,3,Republican,Jaime Herrera Beutler,2637
-Pacific,U.S. Representative,3,Republican,Michael Delavar,508
+Pacific,U.S. House,3,Democratic,Bob Dingethal,2451
+Pacific,U.S. House,3,Republican,Jaime Herrera Beutler,2637
+Pacific,U.S. House,3,Republican,Michael Delavar,508
 Pacific,Legislative District 19 State Representative (Pos. 1),19,Democratic,Dean Takko,3905
 Pacific,Legislative District 19 State Representative (Pos. 1),19,Libertarian,David A. Steenson,1417
 Pacific,Legislative District 19 State Representative (Pos. 2),19,Republican,Hugh Fleet,1612
@@ -1119,12 +1119,12 @@ Pacific,Pacific County PROSECUTING ATTORNEY,,States No Party Preference,Mark McC
 Pacific,Pacific County PROSECUTING ATTORNEY,,Democratic,David Burke,2650
 Pacific,Fire District #5 PROPOSITION NO. 1 PACIFIC COUNTY FIRE PROTECTION DISTRICT NO. 5 PROPOSITION NO. 1,,,YES,169
 Pacific,Fire District #5 PROPOSITION NO. 1 PACIFIC COUNTY FIRE PROTECTION DISTRICT NO. 5 PROPOSITION NO. 1,,,NO,53
-Pend Oreille,U.S. Representative,5,Republican,Cathy McMorris Rodgers,1692
-Pend Oreille,U.S. Representative,5,Independent,Dave Wilson,318
-Pend Oreille,U.S. Representative,5,Democratic,Joseph (Joe) Pakootas,1025
-Pend Oreille,U.S. Representative,5,Republican,Tom Horne,316
-Pend Oreille,Legislative District 7 State Senator,7,Republican,Tony Booth,1006
-Pend Oreille,Legislative District 7 State Senator,7,Republican,Brian Dansel,1639
+Pend Oreille,U.S. House,5,Republican,Cathy McMorris Rodgers,1692
+Pend Oreille,U.S. House,5,Independent,Dave Wilson,318
+Pend Oreille,U.S. House,5,Democratic,Joseph (Joe) Pakootas,1025
+Pend Oreille,U.S. House,5,Republican,Tom Horne,316
+Pend Oreille,Legislative District 7 State Senate,7,Republican,Tony Booth,1006
+Pend Oreille,Legislative District 7 State Senate,7,Republican,Brian Dansel,1639
 Pend Oreille,Legislative District 7 State Representative (Pos. 1),7,Republican,Shelly Short,2286
 Pend Oreille,Legislative District 7 State Representative (Pos. 1),7,Libertarian,James R. Apker,657
 Pend Oreille,Legislative District 7 State Representative (Pos. 2),7,Republican,Joel Kretz,2441
@@ -1137,21 +1137,21 @@ Pend Oreille,County COUNTY PROSECUTOR,,Republican,Dolly Hunt,1922
 Pend Oreille,County COUNTY PROSECUTOR,,Republican,Robin McCroskey,1077
 Pend Oreille,County COUNTY SHERIFF,,Republican,Alan Botzheim,2722
 Pend Oreille,County COUNTY TREASURER,,Democratic,Terri Miller,2406
-Pierce,U.S. Representative,6,Democratic,Derek Kilmer,23913
-Pierce,U.S. Representative,6,States No Party Preference,W. (Greybeard) McPherson,1008
-Pierce,U.S. Representative,6,Republican,Marty McClendon,12127
-Pierce,U.S. Representative,6,Green,Douglas Milholland,976
-Pierce,U.S. Representative,8,Democratic,Jason Ritchie,5767
-Pierce,U.S. Representative,8,Republican,Dave Reichert,13959
-Pierce,U.S. Representative,8,Democratic,Keith Arnold,2034
-Pierce,U.S. Representative,9,Democratic,Adam Smith,1814
-Pierce,U.S. Representative,9,Democratic,Don Rivers,109
-Pierce,U.S. Representative,9,Citizens,Mark Greene,93
-Pierce,U.S. Representative,9,Republican,Doug Basler,1068
-Pierce,U.S. Representative,10,Republican,Joyce McDonald,25069
-Pierce,U.S. Representative,10,Democratic,Denny Heck,23991
-Pierce,U.S. Representative,10,The Human Rights,Sam Wright,1082
-Pierce,U.S. Representative,10,Independent,Jennifer Gigi Ferguson,2645
+Pierce,U.S. House,6,Democratic,Derek Kilmer,23913
+Pierce,U.S. House,6,States No Party Preference,W. (Greybeard) McPherson,1008
+Pierce,U.S. House,6,Republican,Marty McClendon,12127
+Pierce,U.S. House,6,Green,Douglas Milholland,976
+Pierce,U.S. House,8,Democratic,Jason Ritchie,5767
+Pierce,U.S. House,8,Republican,Dave Reichert,13959
+Pierce,U.S. House,8,Democratic,Keith Arnold,2034
+Pierce,U.S. House,9,Democratic,Adam Smith,1814
+Pierce,U.S. House,9,Democratic,Don Rivers,109
+Pierce,U.S. House,9,Citizens,Mark Greene,93
+Pierce,U.S. House,9,Republican,Doug Basler,1068
+Pierce,U.S. House,10,Republican,Joyce McDonald,25069
+Pierce,U.S. House,10,Democratic,Denny Heck,23991
+Pierce,U.S. House,10,The Human Rights,Sam Wright,1082
+Pierce,U.S. House,10,Independent,Jennifer Gigi Ferguson,2645
 Pierce,Legislative District 2 State Representative (Pos. 1),2,Republican,Graham Hunt,6959
 Pierce,Legislative District 2 State Representative (Pos. 1),2,Democratic,Greg Hartman,3817
 Pierce,Legislative District 2 State Representative (Pos. 2),2,Republican,J.T. Wilcox,7605
@@ -1161,8 +1161,8 @@ Pierce,Legislative District 25 State Representative (Pos. 1),25,Democratic,Dawn 
 Pierce,Legislative District 25 State Representative (Pos. 1),25,Republican,Melanie Stambaugh,9266
 Pierce,Legislative District 25 State Representative (Pos. 2),25,Republican,Hans Zeiger,11706
 Pierce,Legislative District 25 State Representative (Pos. 2),25,Democratic,Eric Renz,7031
-Pierce,Legislative District 26 State Senator,26,Democratic,Judy Arbogast,8618
-Pierce,Legislative District 26 State Senator,26,Republican,Jan Angel,11448
+Pierce,Legislative District 26 State Senate,26,Democratic,Judy Arbogast,8618
+Pierce,Legislative District 26 State Senate,26,Republican,Jan Angel,11448
 Pierce,Legislative District 26 State Representative (Pos. 1),26,Republican,Bill Scheidler,2712
 Pierce,Legislative District 26 State Representative (Pos. 1),26,Republican,Jesse Young,7792
 Pierce,Legislative District 26 State Representative (Pos. 1),26,Democratic,Nathan Schlicher,9208
@@ -1174,8 +1174,8 @@ Pierce,Legislative District 27 State Representative (Pos. 1),27,Republican,Rodge
 Pierce,Legislative District 27 State Representative (Pos. 2),27,Democratic,Jake Fey,12223
 Pierce,Legislative District 27 State Representative (Pos. 2),27,Framer,Micah J. Anderson,714
 Pierce,Legislative District 27 State Representative (Pos. 2),27,Republican,Steven T. Cook,4965
-Pierce,Legislative District 28 State Senator,28,Republican,Steve O'Ban,13306
-Pierce,Legislative District 28 State Senator,28,Democratic,Tami Green,10356
+Pierce,Legislative District 28 State Senate,28,Republican,Steve O'Ban,13306
+Pierce,Legislative District 28 State Senate,28,Democratic,Tami Green,10356
 Pierce,Legislative District 28 State Representative (Pos. 1),28,Republican,Richard (Dick) Muri,13693
 Pierce,Legislative District 28 State Representative (Pos. 1),28,Democratic,Mary Moss,9587
 Pierce,Legislative District 28 State Representative (Pos. 2),28,Republican,Paul Wagemann,6383
@@ -1183,20 +1183,20 @@ Pierce,Legislative District 28 State Representative (Pos. 2),28,Democratic,Chris
 Pierce,Legislative District 28 State Representative (Pos. 2),28,Republican,Monique Valenzuela Trudnowski,5936
 Pierce,Legislative District 28 State Representative (Pos. 2),28,Independent,Kevin Heiderich,682
 Pierce,Legislative District 28 State Representative (Pos. 2),28,Democratic,John Connelly,2886
-Pierce,Legislative District 29 State Senator,29,Democratic,Steve Conway,7078
-Pierce,Legislative District 29 State Senator,29,Republican,Terry Harder,4240
+Pierce,Legislative District 29 State Senate,29,Democratic,Steve Conway,7078
+Pierce,Legislative District 29 State Senate,29,Republican,Terry Harder,4240
 Pierce,Legislative District 29 State Representative (Pos. 1),29,Democratic,David Sawyer,6631
 Pierce,Legislative District 29 State Representative (Pos. 1),29,Republican,Jason Bergstrom,4580
 Pierce,Legislative District 29 State Representative (Pos. 2),29,Democratic,Steve Kirby,8748
-Pierce,Legislative District 30 State Senator,30,Republican,Mark Miloscia,556
-Pierce,Legislative District 30 State Senator,30,Democratic,Shari Song,434
+Pierce,Legislative District 30 State Senate,30,Republican,Mark Miloscia,556
+Pierce,Legislative District 30 State Senate,30,Democratic,Shari Song,434
 Pierce,Legislative District 30 State Representative (Pos. 1),30,Republican,Linda Kochmar,573
 Pierce,Legislative District 30 State Representative (Pos. 1),30,Democratic,Greg Baruso,408
 Pierce,Legislative District 30 State Representative (Pos. 2),30,Republican,Jack Dovey,469
 Pierce,Legislative District 30 State Representative (Pos. 2),30,Democratic,Roger Freeman,511
-Pierce,Legislative District 31 State Senator,31,Republican,Cathy Dahlquist,5557
-Pierce,Legislative District 31 State Senator,31,Republican,Pam Roach,6039
-Pierce,Legislative District 31 State Senator,31,Democratic,Lynda Messner,3194
+Pierce,Legislative District 31 State Senate,31,Republican,Cathy Dahlquist,5557
+Pierce,Legislative District 31 State Senate,31,Republican,Pam Roach,6039
+Pierce,Legislative District 31 State Senate,31,Democratic,Lynda Messner,3194
 Pierce,Legislative District 31 State Representative (Pos. 1),31,Republican,Drew Stokesbary,7567
 Pierce,Legislative District 31 State Representative (Pos. 1),31,Independent Democrat,Jonathon Dunn,2484
 Pierce,Legislative District 31 State Representative (Pos. 1),31,Democratic,Mike Sando,4424
@@ -1273,23 +1273,23 @@ Pierce,PRECINCT 29-669 Precinct Committee Officer - Democratic,,,Joan G. Harris,
 Pierce,PRECINCT 29-669 Precinct Committee Officer - Democratic,,,Helen Myrick,55
 Pierce,PRECINCT 29-674 Precinct Committee Officer - Democratic,,,Stephenie Burbach,40
 Pierce,PRECINCT 29-674 Precinct Committee Officer - Democratic,,,Ken Stevenson,17
-San Juan,U.S. Representative,2,Independent,Mike Lapointe,1098
-San Juan,U.S. Representative,2,Democratic,Rick Larsen,2733
-San Juan,U.S. Representative,2,Republican,B.J. Guillot,1084
+San Juan,U.S. House,2,Independent,Mike Lapointe,1098
+San Juan,U.S. House,2,Democratic,Rick Larsen,2733
+San Juan,U.S. House,2,Republican,B.J. Guillot,1084
 San Juan,Legislative District 40 State Representative (Pos. 1),40,Democratic,Kristine Lytton,3372
 San Juan,Legislative District 40 State Representative (Pos. 1),40,Republican,Daniel R. Miller,1335
 San Juan,Legislative District 40 State Representative (Pos. 2),40,Democratic,Jeff Morris,3612
 San Juan,San Juan County Prosecuting Attorney,,Democratic,Randall K. Gaylord,3209
-Skagit,U.S. Representative,1,Republican,John Orlinski,1234
-Skagit,U.S. Representative,1,Democratic,Suzan DelBene,4285
-Skagit,U.S. Representative,1,National Union,Mike The Mover,103
-Skagit,U.S. Representative,1,GOP,Edwin F. Moats,279
-Skagit,U.S. Representative,1,Republican,Pedro Celis,682
-Skagit,U.S. Representative,1,Republican,Robert J. Sutherland,1140
-Skagit,U.S. Representative,1,States No Party Preference,Richard J. Todd,261
-Skagit,U.S. Representative,2,Independent,Mike Lapointe,1325
-Skagit,U.S. Representative,2,Democratic,Rick Larsen,8295
-Skagit,U.S. Representative,2,Republican,B.J. Guillot,5424
+Skagit,U.S. House,1,Republican,John Orlinski,1234
+Skagit,U.S. House,1,Democratic,Suzan DelBene,4285
+Skagit,U.S. House,1,National Union,Mike The Mover,103
+Skagit,U.S. House,1,GOP,Edwin F. Moats,279
+Skagit,U.S. House,1,Republican,Pedro Celis,682
+Skagit,U.S. House,1,Republican,Robert J. Sutherland,1140
+Skagit,U.S. House,1,States No Party Preference,Richard J. Todd,261
+Skagit,U.S. House,2,Independent,Mike Lapointe,1325
+Skagit,U.S. House,2,Democratic,Rick Larsen,8295
+Skagit,U.S. House,2,Republican,B.J. Guillot,5424
 Skagit,Legislative District 10 State Representative (Pos. 1),10,Republican,Norma Smith,4818
 Skagit,Legislative District 10 State Representative (Pos. 1),10,Libertarian,Michael Scott,1289
 Skagit,Legislative District 10 State Representative (Pos. 2),10,Republican,Dave Hayes,3141
@@ -1321,9 +1321,9 @@ Skagit,SKAGIT COUNTY Treasurer,,Republican,Katie Jungquist,14613
 Skagit,SKAGIT COUNTY PUD COMMISSIONER DIST 1 Commissioner 1,,,Greg Nelson,2151
 Skagit,SKAGIT COUNTY PUD COMMISSIONER DIST 1 Commissioner 1,,,Al Littlefield,3183
 Skagit,SKAGIT COUNTY PUD COMMISSIONER DIST 1 Commissioner 1,,,Jason Easton,2473
-Skamania,U.S. Representative,3,Democratic,Bob Dingethal,868
-Skamania,U.S. Representative,3,Republican,Jaime Herrera Beutler,1214
-Skamania,U.S. Representative,3,Republican,Michael Delavar,359
+Skamania,U.S. House,3,Democratic,Bob Dingethal,868
+Skamania,U.S. House,3,Republican,Jaime Herrera Beutler,1214
+Skamania,U.S. House,3,Republican,Michael Delavar,359
 Skamania,Legislative District 14 State Representative (Pos. 1),14,Republican,Norm Johnson,1637
 Skamania,Legislative District 14 State Representative (Pos. 2),14,Republican,Ben Shoval,260
 Skamania,Legislative District 14 State Representative (Pos. 2),14,Republican,Gina R. McCabe,788
@@ -1353,21 +1353,21 @@ Skamania,PRECINCT 310 Precinct Committee Officer - Republican,,,Thomasina (Tommy
 Skamania,PRECINCT 310 Precinct Committee Officer - Republican,,,Sarah Mosier,43
 Skamania,PRECINCT 311 Precinct Committee Officer - Republican,,,Chris Davis,36
 Skamania,PRECINCT 311 Precinct Committee Officer - Republican,,,Helen Paulus,15
-Snohomish,U.S. Representative,1,Republican,John Orlinski,5068
-Snohomish,U.S. Representative,1,Democratic,Suzan DelBene,19666
-Snohomish,U.S. Representative,1,National Union,Mike The Mover,562
-Snohomish,U.S. Representative,1,GOP,Edwin F. Moats,2326
-Snohomish,U.S. Representative,1,Republican,Pedro Celis,4945
-Snohomish,U.S. Representative,1,Republican,Robert J. Sutherland,6896
-Snohomish,U.S. Representative,1,States No Party Preference,Richard J. Todd,932
-Snohomish,U.S. Representative,2,Independent,Mike Lapointe,6379
-Snohomish,U.S. Representative,2,Democratic,Rick Larsen,28815
-Snohomish,U.S. Representative,2,Republican,B.J. Guillot,18461
-Snohomish,U.S. Representative,7,Republican,Scott Sutherland,1279
-Snohomish,U.S. Representative,7,Work and Wealth,GoodSpaceGuy,80
-Snohomish,U.S. Representative,7,Democratic,Jim McDermott,6644
-Snohomish,U.S. Representative,7,Republican,Craig Keller,2116
-Snohomish,U.S. Representative,7,Independent,Doug McQuaid,751
+Snohomish,U.S. House,1,Republican,John Orlinski,5068
+Snohomish,U.S. House,1,Democratic,Suzan DelBene,19666
+Snohomish,U.S. House,1,National Union,Mike The Mover,562
+Snohomish,U.S. House,1,GOP,Edwin F. Moats,2326
+Snohomish,U.S. House,1,Republican,Pedro Celis,4945
+Snohomish,U.S. House,1,Republican,Robert J. Sutherland,6896
+Snohomish,U.S. House,1,States No Party Preference,Richard J. Todd,932
+Snohomish,U.S. House,2,Independent,Mike Lapointe,6379
+Snohomish,U.S. House,2,Democratic,Rick Larsen,28815
+Snohomish,U.S. House,2,Republican,B.J. Guillot,18461
+Snohomish,U.S. House,7,Republican,Scott Sutherland,1279
+Snohomish,U.S. House,7,Work and Wealth,GoodSpaceGuy,80
+Snohomish,U.S. House,7,Democratic,Jim McDermott,6644
+Snohomish,U.S. House,7,Republican,Craig Keller,2116
+Snohomish,U.S. House,7,Independent,Doug McQuaid,751
 Snohomish,Legislative District 1 State Representative (Pos. 1),1,Democratic,Derek Stanford,9819
 Snohomish,Legislative District 1 State Representative (Pos. 2),1,Republican,Edward J. Barton,6144
 Snohomish,Legislative District 1 State Representative (Pos. 2),1,Democratic,Luis Moscoso,5988
@@ -1378,8 +1378,8 @@ Snohomish,Legislative District 10 State Representative (Pos. 2),10,Republican,Da
 Snohomish,Legislative District 10 State Representative (Pos. 2),10,Democratic,David Sponheim,638
 Snohomish,Legislative District 10 State Representative (Pos. 2),10,Democratic,Nick Petrish,1121
 Snohomish,Legislative District 10 State Representative (Pos. 2),10,Republican,Brien Lillquist,500
-Snohomish,Legislative District 21 State Senator,21,GOP,Dan Matthews,8981
-Snohomish,Legislative District 21 State Senator,21,Democratic,Marko Liias,11741
+Snohomish,Legislative District 21 State Senate,21,GOP,Dan Matthews,8981
+Snohomish,Legislative District 21 State Senate,21,Democratic,Marko Liias,11741
 Snohomish,Legislative District 21 State Representative (Pos. 1),21,Democratic,Scott V. Whelpley,4252
 Snohomish,Legislative District 21 State Representative (Pos. 1),21,Democratic,Justin McMahon,3078
 Snohomish,Legislative District 21 State Representative (Pos. 1),21,Democratic,Dick McManus,782
@@ -1389,14 +1389,14 @@ Snohomish,Legislative District 21 State Representative (Pos. 2),21,Independent,E
 Snohomish,Legislative District 21 State Representative (Pos. 2),21,Democratic,Lillian Ortiz-Self,11552
 Snohomish,Legislative District 21 State Representative (Pos. 2),21,Republican,Jeff Scherrer,7095
 Snohomish,Legislative District 21 State Representative (Pos. 2),21,Green,Bob Lewis,806
-Snohomish,Legislative District 32 State Senator,32,Democratic,Maralyn Chase,4698
-Snohomish,Legislative District 32 State Senator,32,Democratic,Chris Eggen,1909
-Snohomish,Legislative District 32 State Senator,32,Republican,Robert Reedy,2980
+Snohomish,Legislative District 32 State Senate,32,Democratic,Maralyn Chase,4698
+Snohomish,Legislative District 32 State Senate,32,Democratic,Chris Eggen,1909
+Snohomish,Legislative District 32 State Senate,32,Republican,Robert Reedy,2980
 Snohomish,Legislative District 32 State Representative (Pos. 1),32,Democratic,Cindy Ryu,7168
 Snohomish,Legislative District 32 State Representative (Pos. 2),32,Democratic,Ruth Kagi,6288
 Snohomish,Legislative District 32 State Representative (Pos. 2),32,Republican,Alvin A. Rutledge,3164
-Snohomish,Legislative District 38 State Senator,38,Democratic,John McCoy,10694
-Snohomish,Legislative District 38 State Senator,38,Republican,Craig French,5914
+Snohomish,Legislative District 38 State Senate,38,Democratic,John McCoy,10694
+Snohomish,Legislative District 38 State Senate,38,Republican,Craig French,5914
 Snohomish,Legislative District 38 State Representative (Pos. 1),38,Democratic,June Robinson,9754
 Snohomish,Legislative District 38 State Representative (Pos. 1),38,Republican,Jesse Anderson,6802
 Snohomish,Legislative District 38 State Representative (Pos. 2),38,Libertarian,Elijah Olson,4918
@@ -1404,8 +1404,8 @@ Snohomish,Legislative District 38 State Representative (Pos. 2),38,Democratic,Mi
 Snohomish,Legislative District 39 State Representative (Pos. 1),39,Republican,Dan Kristiansen,11657
 Snohomish,Legislative District 39 State Representative (Pos. 2),39,Democratic,Charles Jensen,6471
 Snohomish,Legislative District 39 State Representative (Pos. 2),39,Republican,Elizabeth Scott,9034
-Snohomish,Legislative District 44 State Senator,44,Democratic,Steve Hobbs,11705
-Snohomish,Legislative District 44 State Senator,44,Republican,Jim Kellett,10680
+Snohomish,Legislative District 44 State Senate,44,Democratic,Steve Hobbs,11705
+Snohomish,Legislative District 44 State Senate,44,Republican,Jim Kellett,10680
 Snohomish,Legislative District 44 State Representative (Pos. 1),44,Democratic,Hans Dunshee,11948
 Snohomish,Legislative District 44 State Representative (Pos. 1),44,Republican,Rob Toyer,10544
 Snohomish,Legislative District 44 State Representative (Pos. 2),44,Republican,Mark Harmsworth,11567
@@ -1482,10 +1482,10 @@ Snohomish,WALLACE Precinct Committee Officer - Republican,,,John C. Henry,37
 Snohomish,WALLACE Precinct Committee Officer - Republican,,,Nicholas Wyndham,30
 Snohomish,WELCH Precinct Committee Officer - Republican,,,Richard Cole,40
 Snohomish,WELCH Precinct Committee Officer - Republican,,,Nancy Johnson,66
-Spokane,U.S. Representative,5,Republican,Cathy McMorris Rodgers,48271
-Spokane,U.S. Representative,5,Independent,Dave Wilson,11996
-Spokane,U.S. Representative,5,Democratic,Joseph (Joe) Pakootas,29726
-Spokane,U.S. Representative,5,Republican,Tom Horne,7606
+Spokane,U.S. House,5,Republican,Cathy McMorris Rodgers,48271
+Spokane,U.S. House,5,Independent,Dave Wilson,11996
+Spokane,U.S. House,5,Democratic,Joseph (Joe) Pakootas,29726
+Spokane,U.S. House,5,Republican,Tom Horne,7606
 Spokane,Legislative District 3 State Representative (Pos. 1),3,Independent Republican,Tim Benn,7084
 Spokane,Legislative District 3 State Representative (Pos. 1),3,Democratic,Marcus Riccelli,11873
 Spokane,Legislative District 3 State Representative (Pos. 1),3,Libertarian,Randy McGlenn II,1661
@@ -1496,14 +1496,14 @@ Spokane,Legislative District 4 State Representative (Pos. 1),4,Republican,Diana 
 Spokane,Legislative District 4 State Representative (Pos. 1),4,Republican,Bob McCaslin,11876
 Spokane,Legislative District 4 State Representative (Pos. 2),4,Republican,Josh Arritola,11905
 Spokane,Legislative District 4 State Representative (Pos. 2),4,Republican,Matt Shea,14798
-Spokane,Legislative District 6 State Senator,6,Republican,Michael Baumgartner,18471
-Spokane,Legislative District 6 State Senator,6,Democratic,Rich Cowan,13804
+Spokane,Legislative District 6 State Senate,6,Republican,Michael Baumgartner,18471
+Spokane,Legislative District 6 State Senate,6,Democratic,Rich Cowan,13804
 Spokane,Legislative District 6 State Representative (Pos. 1),6,Democratic,Donald Dover,11475
 Spokane,Legislative District 6 State Representative (Pos. 1),6,Republican,Kevin Parker,19991
 Spokane,Legislative District 6 State Representative (Pos. 2),6,Republican,Jeff Holy,22228
 Spokane,Legislative District 6 State Representative (Pos. 2),6,Democratic,Write-In: Ziggy Siegfried,513
-Spokane,Legislative District 7 State Senator,7,Republican,Tony Booth,2983
-Spokane,Legislative District 7 State Senator,7,Republican,Brian Dansel,6281
+Spokane,Legislative District 7 State Senate,7,Republican,Tony Booth,2983
+Spokane,Legislative District 7 State Senate,7,Republican,Brian Dansel,6281
 Spokane,Legislative District 7 State Representative (Pos. 1),7,Republican,Shelly Short,8186
 Spokane,Legislative District 7 State Representative (Pos. 1),7,Libertarian,James R. Apker,2181
 Spokane,Legislative District 7 State Representative (Pos. 2),7,Republican,Joel Kretz,8673
@@ -1592,12 +1592,12 @@ Spokane,6600    Precinct Committee Officer - Republican,,,Brian olmstead,125
 Spokane,6600    Precinct Committee Officer - Republican,,,John W. Aiken Jr,68
 Spokane,7034    Precinct Committee Officer - Republican,,States No Party Preference,Glenn Schmauder,69
 Spokane,7034    Precinct Committee Officer - Republican,,States No Party Preference,John W Serben Jr,47
-Stevens,U.S. Representative,5,Republican,Cathy McMorris Rodgers,6330
-Stevens,U.S. Representative,5,Independent,Dave Wilson,1056
-Stevens,U.S. Representative,5,Democratic,Joseph (Joe) Pakootas,2868
-Stevens,U.S. Representative,5,Republican,Tom Horne,1168
-Stevens,Legislative District 7 State Senator,7,Republican,Tony Booth,3287
-Stevens,Legislative District 7 State Senator,7,Republican,Brian Dansel,7083
+Stevens,U.S. House,5,Republican,Cathy McMorris Rodgers,6330
+Stevens,U.S. House,5,Independent,Dave Wilson,1056
+Stevens,U.S. House,5,Democratic,Joseph (Joe) Pakootas,2868
+Stevens,U.S. House,5,Republican,Tom Horne,1168
+Stevens,Legislative District 7 State Senate,7,Republican,Tony Booth,3287
+Stevens,Legislative District 7 State Senate,7,Republican,Brian Dansel,7083
 Stevens,Legislative District 7 State Representative (Pos. 1),7,Republican,Shelly Short,8486
 Stevens,Legislative District 7 State Representative (Pos. 1),7,Libertarian,James R. Apker,1969
 Stevens,Legislative District 7 State Representative (Pos. 2),7,Republican,Joel Kretz,8780
@@ -1626,13 +1626,13 @@ Stevens,ECHO VALLEY Precinct Committee Officer-Republican,,,Amanda Hedrick,76
 Stevens,ECHO VALLEY Precinct Committee Officer-Republican,,,Franseen B MacKay,16
 Stevens,LOON LAKE 1 Precinct Committee Officer-Republican,,,Dave Jewett,98
 Stevens,LOON LAKE 1 Precinct Committee Officer-Republican,,,Jim Nimnicht,103
-Thurston,U.S. Representative,3,Democratic,Bob Dingethal,718
-Thurston,U.S. Representative,3,Republican,Jaime Herrera Beutler,710
-Thurston,U.S. Representative,3,Republican,Michael Delavar,291
-Thurston,U.S. Representative,10,Republican,Joyce McDonald,15360
-Thurston,U.S. Representative,10,Democratic,Denny Heck,26112
-Thurston,U.S. Representative,10,The Human Rights,Sam Wright,1180
-Thurston,U.S. Representative,10,Independent,Jennifer Gigi Ferguson,1955
+Thurston,U.S. House,3,Democratic,Bob Dingethal,718
+Thurston,U.S. House,3,Republican,Jaime Herrera Beutler,710
+Thurston,U.S. House,3,Republican,Michael Delavar,291
+Thurston,U.S. House,10,Republican,Joyce McDonald,15360
+Thurston,U.S. House,10,Democratic,Denny Heck,26112
+Thurston,U.S. House,10,The Human Rights,Sam Wright,1180
+Thurston,U.S. House,10,Independent,Jennifer Gigi Ferguson,1955
 Thurston,Legislative District 2 State Representative (Pos. 1),2,Republican,Graham Hunt,4051
 Thurston,Legislative District 2 State Representative (Pos. 1),2,Democratic,Greg Hartman,3593
 Thurston,Legislative District 2 State Representative (Pos. 2),2,Republican,J.T. Wilcox,4891
@@ -1646,9 +1646,9 @@ Thurston,Legislative District 22 State Representative (Pos. 1),22,Republican,Ste
 Thurston,Legislative District 22 State Representative (Pos. 1),22,Democratic,Chris Reykdal,16857
 Thurston,Legislative District 22 State Representative (Pos. 2),22,Democratic,Sam Hunt,19006
 Thurston,Legislative District 22 State Representative (Pos. 2),22,States No Party Preference,Franklin Edwards,5523
-Thurston,Legislative District 35 State Senator,35,Democratic,Irene Bowling,3192
-Thurston,Legislative District 35 State Senator,35,Republican,Travis Couture,2534
-Thurston,Legislative District 35 State Senator,35,Democratic,Tim Sheldon,2666
+Thurston,Legislative District 35 State Senate,35,Democratic,Irene Bowling,3192
+Thurston,Legislative District 35 State Senate,35,Republican,Travis Couture,2534
+Thurston,Legislative District 35 State Senate,35,Democratic,Tim Sheldon,2666
 Thurston,Legislative District 35 State Representative (Pos. 1),35,Democratic,Kathy Haigh,4461
 Thurston,Legislative District 35 State Representative (Pos. 1),35,Republican,Dan Griffey,2313
 Thurston,Legislative District 35 State Representative (Pos. 1),35,Republican,Josiah Rowell,1575
@@ -1725,9 +1725,9 @@ Thurston,701 Precinct Committee Officer - Republican,,,Zachary Smith,43
 Thurston,701 Precinct Committee Officer - Republican,,,James Terry,30
 Wahkiakum,WAHKIAKUM COUNTY Wahkiakum County Proposition #1 Renewal of Six Year Levy for Emergency Medical Services,,,Yes,910
 Wahkiakum,WAHKIAKUM COUNTY Wahkiakum County Proposition #1 Renewal of Six Year Levy for Emergency Medical Services,,,No,277
-Wahkiakum,U.S. Representative,3,Democratic,Bob Dingethal,449
-Wahkiakum,U.S. Representative,3,Republican,Jaime Herrera Beutler,581
-Wahkiakum,U.S. Representative,3,Republican,Michael Delavar,156
+Wahkiakum,U.S. House,3,Democratic,Bob Dingethal,449
+Wahkiakum,U.S. House,3,Republican,Jaime Herrera Beutler,581
+Wahkiakum,U.S. House,3,Republican,Michael Delavar,156
 Wahkiakum,Legislative District 19 State Representative (Pos. 1),19,Democratic,Dean Takko,794
 Wahkiakum,Legislative District 19 State Representative (Pos. 1),19,Libertarian,David A. Steenson,339
 Wahkiakum,Legislative District 19 State Representative (Pos. 2),19,Republican,Hugh Fleet,418
@@ -1744,22 +1744,22 @@ Wahkiakum,WAHKIAKUM COUNTY Prosecuting Attorney,,States No Party Preference,Writ
 Wahkiakum,WAHKIAKUM COUNTY County Sheriff,,Independent,Mark C. Howie,932
 Wahkiakum,WAHKIAKUM COUNTY County Sheriff,,States No Party Preference,Write-In: Mike Balch,62
 Wahkiakum,WAHKIAKUM COUNTY County Treasurer,,Democratic,Tammy Peterson,945
-Walla Walla,U.S. Representative,4,Republican,Gavin Seim,13
-Walla Walla,U.S. Representative,4,Democratic,Estakio Beltran,44
-Walla Walla,U.S. Representative,4,Republican,Dan Newhouse,224
-Walla Walla,U.S. Representative,4,Republican,Clint Didier,619
-Walla Walla,U.S. Representative,4,Independent,Josh Ramirez,11
-Walla Walla,U.S. Representative,4,Republican,Gordon Allen Pross,2
-Walla Walla,U.S. Representative,4,Democratic,Tony Sandoval,49
-Walla Walla,U.S. Representative,4,Republican,Kevin Midbust,0
-Walla Walla,U.S. Representative,4,Republican,Glen R. Stockwell,5
-Walla Walla,U.S. Representative,4,Republican,George Cicotte,42
-Walla Walla,U.S. Representative,4,Republican,Janea Holmquist,54
-Walla Walla,U.S. Representative,4,Independent,Richard Wright,31
-Walla Walla,U.S. Representative,5,Republican,Cathy McMorris Rodgers,7078
-Walla Walla,U.S. Representative,5,Independent,Dave Wilson,1207
-Walla Walla,U.S. Representative,5,Democratic,Joseph (Joe) Pakootas,2801
-Walla Walla,U.S. Representative,5,Republican,Tom Horne,1016
+Walla Walla,U.S. House,4,Republican,Gavin Seim,13
+Walla Walla,U.S. House,4,Democratic,Estakio Beltran,44
+Walla Walla,U.S. House,4,Republican,Dan Newhouse,224
+Walla Walla,U.S. House,4,Republican,Clint Didier,619
+Walla Walla,U.S. House,4,Independent,Josh Ramirez,11
+Walla Walla,U.S. House,4,Republican,Gordon Allen Pross,2
+Walla Walla,U.S. House,4,Democratic,Tony Sandoval,49
+Walla Walla,U.S. House,4,Republican,Kevin Midbust,0
+Walla Walla,U.S. House,4,Republican,Glen R. Stockwell,5
+Walla Walla,U.S. House,4,Republican,George Cicotte,42
+Walla Walla,U.S. House,4,Republican,Janea Holmquist,54
+Walla Walla,U.S. House,4,Independent,Richard Wright,31
+Walla Walla,U.S. House,5,Republican,Cathy McMorris Rodgers,7078
+Walla Walla,U.S. House,5,Independent,Dave Wilson,1207
+Walla Walla,U.S. House,5,Democratic,Joseph (Joe) Pakootas,2801
+Walla Walla,U.S. House,5,Republican,Tom Horne,1016
 Walla Walla,Legislative District 16 State Representative (Pos. 1),16,Republican,Mary Ruth Edwards,4738
 Walla Walla,Legislative District 16 State Representative (Pos. 1),16,Republican,Maureen S. Walsh,8008
 Walla Walla,Legislative District 16 State Representative (Pos. 2),16,Republican,Terry R. Nealey,10428
@@ -1797,21 +1797,21 @@ Walla Walla,MONROE 18 Precinct Committee Officer - Republican,,,Troy G. Vinyard,
 Walla Walla,MONROE 18 Precinct Committee Officer - Republican,,,Douglas L. Bayne,253
 Walla Walla,WAITSBURG 65 Precinct Committee Officer - Republican,,,Kristine (Kris) Halley,128
 Walla Walla,WAITSBURG 65 Precinct Committee Officer - Republican,,,Jim Romine,107
-Whatcom,U.S. Representative,1,Republican,John Orlinski,2164
-Whatcom,U.S. Representative,1,Democratic,Suzan DelBene,9323
-Whatcom,U.S. Representative,1,National Union,Mike The Mover,235
-Whatcom,U.S. Representative,1,GOP,Edwin F. Moats,1370
-Whatcom,U.S. Representative,1,Republican,Pedro Celis,6051
-Whatcom,U.S. Representative,1,Republican,Robert J. Sutherland,3861
-Whatcom,U.S. Representative,1,States No Party Preference,Richard J. Todd,355
-Whatcom,U.S. Representative,2,Independent,Mike Lapointe,2040
-Whatcom,U.S. Representative,2,Democratic,Rick Larsen,11872
-Whatcom,U.S. Representative,2,Republican,B.J. Guillot,4498
+Whatcom,U.S. House,1,Republican,John Orlinski,2164
+Whatcom,U.S. House,1,Democratic,Suzan DelBene,9323
+Whatcom,U.S. House,1,National Union,Mike The Mover,235
+Whatcom,U.S. House,1,GOP,Edwin F. Moats,1370
+Whatcom,U.S. House,1,Republican,Pedro Celis,6051
+Whatcom,U.S. House,1,Republican,Robert J. Sutherland,3861
+Whatcom,U.S. House,1,States No Party Preference,Richard J. Todd,355
+Whatcom,U.S. House,2,Independent,Mike Lapointe,2040
+Whatcom,U.S. House,2,Democratic,Rick Larsen,11872
+Whatcom,U.S. House,2,Republican,B.J. Guillot,4498
 Whatcom,Legislative District 40 State Representative (Pos. 1),40,Democratic,Kristine Lytton,8252
 Whatcom,Legislative District 40 State Representative (Pos. 1),40,Republican,Daniel R. Miller,3413
 Whatcom,Legislative District 40 State Representative (Pos. 2),40,Democratic,Jeff Morris,8729
-Whatcom,Legislative District 42 State Senator,42,Democratic,Seth Fleetwood,13034
-Whatcom,Legislative District 42 State Senator,42,Republican,Doug Ericksen,17233
+Whatcom,Legislative District 42 State Senate,42,Democratic,Seth Fleetwood,13034
+Whatcom,Legislative District 42 State Senate,42,Republican,Doug Ericksen,17233
 Whatcom,Legislative District 42 State Representative (Pos. 1),42,Libertarian,Nicholas Kunkel,1197
 Whatcom,Legislative District 42 State Representative (Pos. 1),42,Democratic,Satpal Sidhu,11736
 Whatcom,Legislative District 42 State Representative (Pos. 1),42,Republican,Luanne VanWerven,10360
@@ -1845,10 +1845,10 @@ Whatcom,601 Precinct Committee Officer - Republican,,,Matt Shoemake,142
 Whatcom,601 Precinct Committee Officer - Republican,,,Rex E. Dudley,110
 Whatcom,801 Precinct Committee Officer - Republican,,,Henry T. Hoefakker,90
 Whatcom,801 Precinct Committee Officer - Republican,,,Lane Luxon,34
-Whitman,U.S. Representative,5,Republican,Cathy McMorris Rodgers,3765
-Whitman,U.S. Representative,5,Independent,Dave Wilson,552
-Whitman,U.S. Representative,5,Democratic,Joseph (Joe) Pakootas,1928
-Whitman,U.S. Representative,5,Republican,Tom Horne,447
+Whitman,U.S. House,5,Republican,Cathy McMorris Rodgers,3765
+Whitman,U.S. House,5,Independent,Dave Wilson,552
+Whitman,U.S. House,5,Democratic,Joseph (Joe) Pakootas,1928
+Whitman,U.S. House,5,Republican,Tom Horne,447
 Whitman,Legislative District 9 State Representative (Pos. 1),9,Republican,Susan Fagan,4825
 Whitman,Legislative District 9 State Representative (Pos. 2),9,GOP,Joe Schmick,4863
 Whitman,COMMISSIONER DISTRICT - 3 Commissioner 3,,Republican,Michael Largent,2350
@@ -1869,20 +1869,20 @@ Whitman,GARFIELD TOWN Proposition No. 1,,,Yes,105
 Whitman,GARFIELD TOWN Proposition No. 1,,,No,50
 Whitman,GARFIELD CEMETERY DISTRICT - 2 Proposition No. 1,,,Yes,174
 Whitman,GARFIELD CEMETERY DISTRICT - 2 Proposition No. 1,,,No,55
-Yakima,U.S. Representative,4,Republican,Gavin Seim,599
-Yakima,U.S. Representative,4,Democratic,Estakio Beltran,5221
-Yakima,U.S. Representative,4,Republican,Dan Newhouse,13580
-Yakima,U.S. Representative,4,Republican,Clint Didier,6616
-Yakima,U.S. Representative,4,Independent,Josh Ramirez,373
-Yakima,U.S. Representative,4,Republican,Gordon Allen Pross,49
-Yakima,U.S. Representative,4,Democratic,Tony Sandoval,2100
-Yakima,U.S. Representative,4,Republican,Kevin Midbust,44
-Yakima,U.S. Representative,4,Republican,Glen R. Stockwell,118
-Yakima,U.S. Representative,4,Republican,George Cicotte,853
-Yakima,U.S. Representative,4,Republican,Janea Holmquist,3007
-Yakima,U.S. Representative,4,Independent,Richard Wright,719
-Yakima,Legislative District 13 State Senator,13,Republican,Judith (Judy) Warnick,680
-Yakima,Legislative District 13 State Senator,13,Democratic,Mohammad Said,83
+Yakima,U.S. House,4,Republican,Gavin Seim,599
+Yakima,U.S. House,4,Democratic,Estakio Beltran,5221
+Yakima,U.S. House,4,Republican,Dan Newhouse,13580
+Yakima,U.S. House,4,Republican,Clint Didier,6616
+Yakima,U.S. House,4,Independent,Josh Ramirez,373
+Yakima,U.S. House,4,Republican,Gordon Allen Pross,49
+Yakima,U.S. House,4,Democratic,Tony Sandoval,2100
+Yakima,U.S. House,4,Republican,Kevin Midbust,44
+Yakima,U.S. House,4,Republican,Glen R. Stockwell,118
+Yakima,U.S. House,4,Republican,George Cicotte,853
+Yakima,U.S. House,4,Republican,Janea Holmquist,3007
+Yakima,U.S. House,4,Independent,Richard Wright,719
+Yakima,Legislative District 13 State Senate,13,Republican,Judith (Judy) Warnick,680
+Yakima,Legislative District 13 State Senate,13,Democratic,Mohammad Said,83
 Yakima,Legislative District 13 State Representative (Pos. 1),13,Republican,Dannette (Dani) Bolyard,272
 Yakima,Legislative District 13 State Representative (Pos. 1),13,Republican,Tom Dent,386
 Yakima,Legislative District 13 State Representative (Pos. 2),13,Republican,Matt Manweller,621
@@ -1891,8 +1891,8 @@ Yakima,Legislative District 14 State Representative (Pos. 2),14,Republican,Ben S
 Yakima,Legislative District 14 State Representative (Pos. 2),14,Republican,Gina R. McCabe,7659
 Yakima,Legislative District 14 State Representative (Pos. 2),14,Republican,Adam Yoest,2150
 Yakima,Legislative District 14 State Representative (Pos. 2),14,Democratic,Paul George,4401
-Yakima,Legislative District 15 State Senator,15,GOP,Jim Honeyford,11464
-Yakima,Legislative District 15 State Senator,15,Democratic,Gabriel Munoz,3719
+Yakima,Legislative District 15 State Senate,15,GOP,Jim Honeyford,11464
+Yakima,Legislative District 15 State Senate,15,Democratic,Gabriel Munoz,3719
 Yakima,Legislative District 15 State Representative (Pos. 1),15,Republican,Bruce Chandler,12462
 Yakima,Legislative District 15 State Representative (Pos. 2),15,Republican,David V. Taylor,11246
 Yakima,Legislative District 15 State Representative (Pos. 2),15,Democratic,Teodora Martinez-Chavez,3683
