@@ -1,0 +1,664 @@
+county,office,district,party,candidate,votes
+Adams,US President,,Democratic Party,Michael Bennet,3
+Adams,US President,,Democratic Party,Joseph R. Biden,315
+Adams,US President,,Democratic Party,Michael Bloomberg,131
+Adams,US President,,Democratic Party,Cory Booker,0
+Adams,US President,,Democratic Party,Pete Buttigieg,26
+Adams,US President,,Democratic Party,John Delaney,5
+Adams,US President,,Democratic Party,Tulsi Gabbard,11
+Adams,US President,,Democratic Party,Amy Klobuchar,24
+Adams,US President,,Democratic Party,Deval Patrick,1
+Adams,US President,,Democratic Party,Bernie Sanders,322
+Adams,US President,,Democratic Party,Tom Steyer,6
+Adams,US President,,Democratic Party,Elizabeth Warren,60
+Adams,US President,,Democratic Party,Andrew Yang,7
+Adams,US President,,Democratic Party,Uncommitted Delegates,7
+Adams,US President,,Democratic Party,Write-in,0
+Adams,US President,,Republican Party,Donald J. Trump,1928
+Adams,US President,,Republican Party,Write-in,0
+Asotin,US President,,Democratic Party,Michael Bennet,4
+Asotin,US President,,Democratic Party,Joseph R. Biden,1148
+Asotin,US President,,Democratic Party,Michael Bloomberg,414
+Asotin,US President,,Democratic Party,Cory Booker,4
+Asotin,US President,,Democratic Party,Pete Buttigieg,177
+Asotin,US President,,Democratic Party,John Delaney,3
+Asotin,US President,,Democratic Party,Tulsi Gabbard,41
+Asotin,US President,,Democratic Party,Amy Klobuchar,91
+Asotin,US President,,Democratic Party,Deval Patrick,2
+Asotin,US President,,Democratic Party,Bernie Sanders,730
+Asotin,US President,,Democratic Party,Tom Steyer,19
+Asotin,US President,,Democratic Party,Elizabeth Warren,203
+Asotin,US President,,Democratic Party,Andrew Yang,20
+Asotin,US President,,Democratic Party,Uncommitted Delegates,28
+Asotin,US President,,Democratic Party,Write-in,8
+Asotin,US President,,Republican Party,Donald J. Trump,3771
+Asotin,US President,,Republican Party,Write-in,51
+Benton,US President,,Democratic Party,Michael Bennet,41
+Benton,US President,,Democratic Party,Joseph R. Biden,9003
+Benton,US President,,Democratic Party,Michael Bloomberg,2329
+Benton,US President,,Democratic Party,Cory Booker,31
+Benton,US President,,Democratic Party,Pete Buttigieg,1165
+Benton,US President,,Democratic Party,John Delaney,20
+Benton,US President,,Democratic Party,Tulsi Gabbard,343
+Benton,US President,,Democratic Party,Amy Klobuchar,619
+Benton,US President,,Democratic Party,Deval Patrick,10
+Benton,US President,,Democratic Party,Bernie Sanders,7458
+Benton,US President,,Democratic Party,Tom Steyer,85
+Benton,US President,,Democratic Party,Elizabeth Warren,1654
+Benton,US President,,Democratic Party,Andrew Yang,121
+Benton,US President,,Democratic Party,Uncommitted Delegates,167
+Benton,US President,,Democratic Party,Write-in,67
+Benton,US President,,Republican Party,Donald J. Trump,27055
+Benton,US President,,Republican Party,Write-in,457
+Chelan,US President,,Democratic Party,Michael Bennet,29
+Chelan,US President,,Democratic Party,Joseph R. Biden,4813
+Chelan,US President,,Democratic Party,Michael Bloomberg,1171
+Chelan,US President,,Democratic Party,Cory Booker,12
+Chelan,US President,,Democratic Party,Pete Buttigieg,663
+Chelan,US President,,Democratic Party,John Delaney,3
+Chelan,US President,,Democratic Party,Tulsi Gabbard,134
+Chelan,US President,,Democratic Party,Amy Klobuchar,359
+Chelan,US President,,Democratic Party,Deval Patrick,5
+Chelan,US President,,Democratic Party,Bernie Sanders,4192
+Chelan,US President,,Democratic Party,Tom Steyer,47
+Chelan,US President,,Democratic Party,Elizabeth Warren,980
+Chelan,US President,,Democratic Party,Andrew Yang,50
+Chelan,US President,,Democratic Party,Uncommitted Delegates,64
+Chelan,US President,,Democratic Party,Write-in,8
+Chelan,US President,,Republican Party,Donald J. Trump,11535
+Chelan,US President,,Republican Party,Write-in,144
+Clallam,US President,,Democratic Party,Michael Bennet,31
+Clallam,US President,,Democratic Party,Joseph R. Biden,7255
+Clallam,US President,,Democratic Party,Michael Bloomberg,1910
+Clallam,US President,,Democratic Party,Cory Booker,17
+Clallam,US President,,Democratic Party,Pete Buttigieg,921
+Clallam,US President,,Democratic Party,John Delaney,10
+Clallam,US President,,Democratic Party,Tulsi Gabbard,220
+Clallam,US President,,Democratic Party,Amy Klobuchar,632
+Clallam,US President,,Democratic Party,Deval Patrick,8
+Clallam,US President,,Democratic Party,Bernie Sanders,5588
+Clallam,US President,,Democratic Party,Tom Steyer,65
+Clallam,US President,,Democratic Party,Elizabeth Warren,1789
+Clallam,US President,,Democratic Party,Andrew Yang,65
+Clallam,US President,,Democratic Party,Uncommitted Delegates,114
+Clallam,US President,,Democratic Party,Write-in,19
+Clallam,US President,,Republican Party,Donald J. Trump,12122
+Clallam,US President,,Republican Party,Write-in,174
+Clark,US President,,Democratic Party,Michael Bennet,137
+Clark,US President,,Democratic Party,Joseph R. Biden,32525
+Clark,US President,,Democratic Party,Michael Bloomberg,8296
+Clark,US President,,Democratic Party,Cory Booker,66
+Clark,US President,,Democratic Party,Pete Buttigieg,4332
+Clark,US President,,Democratic Party,John Delaney,33
+Clark,US President,,Democratic Party,Tulsi Gabbard,863
+Clark,US President,,Democratic Party,Amy Klobuchar,1801
+Clark,US President,,Democratic Party,Deval Patrick,36
+Clark,US President,,Democratic Party,Bernie Sanders,30341
+Clark,US President,,Democratic Party,Tom Steyer,250
+Clark,US President,,Democratic Party,Elizabeth Warren,6717
+Clark,US President,,Democratic Party,Andrew Yang,370
+Clark,US President,,Democratic Party,Uncommitted Delegates,323
+Clark,US President,,Democratic Party,Write-in,110
+Clark,US President,,Republican Party,Donald J. Trump,51576
+Clark,US President,,Republican Party,Write-in,834
+Columbia,US President,,Democratic Party,Michael Bennet,2
+Columbia,US President,,Democratic Party,Joseph R. Biden,190
+Columbia,US President,,Democratic Party,Michael Bloomberg,69
+Columbia,US President,,Democratic Party,Cory Booker,2
+Columbia,US President,,Democratic Party,Pete Buttigieg,26
+Columbia,US President,,Democratic Party,John Delaney,1
+Columbia,US President,,Democratic Party,Tulsi Gabbard,8
+Columbia,US President,,Democratic Party,Amy Klobuchar,23
+Columbia,US President,,Democratic Party,Deval Patrick,0
+Columbia,US President,,Democratic Party,Bernie Sanders,135
+Columbia,US President,,Democratic Party,Tom Steyer,2
+Columbia,US President,,Democratic Party,Elizabeth Warren,34
+Columbia,US President,,Democratic Party,Andrew Yang,2
+Columbia,US President,,Democratic Party,Uncommitted Delegates,4
+Columbia,US President,,Democratic Party,Write-in,3
+Columbia,US President,,Republican Party,Donald J. Trump,996
+Columbia,US President,,Republican Party,Write-in,13
+Cowlitz,US President,,Democratic Party,Michael Bennet,47
+Cowlitz,US President,,Democratic Party,Joseph R. Biden,6459
+Cowlitz,US President,,Democratic Party,Michael Bloomberg,2091
+Cowlitz,US President,,Democratic Party,Cory Booker,11
+Cowlitz,US President,,Democratic Party,Pete Buttigieg,747
+Cowlitz,US President,,Democratic Party,John Delaney,10
+Cowlitz,US President,,Democratic Party,Tulsi Gabbard,186
+Cowlitz,US President,,Democratic Party,Amy Klobuchar,339
+Cowlitz,US President,,Democratic Party,Deval Patrick,15
+Cowlitz,US President,,Democratic Party,Bernie Sanders,4924
+Cowlitz,US President,,Democratic Party,Tom Steyer,84
+Cowlitz,US President,,Democratic Party,Elizabeth Warren,1061
+Cowlitz,US President,,Democratic Party,Andrew Yang,93
+Cowlitz,US President,,Democratic Party,Uncommitted Delegates,120
+Cowlitz,US President,,Democratic Party,Write-in,25
+Cowlitz,US President,,Republican Party,Donald J. Trump,15410
+Cowlitz,US President,,Republican Party,Write-in,143
+Douglas,US President,,Democratic Party,Michael Bennet,11
+Douglas,US President,,Democratic Party,Joseph R. Biden,1905
+Douglas,US President,,Democratic Party,Michael Bloomberg,485
+Douglas,US President,,Democratic Party,Cory Booker,7
+Douglas,US President,,Democratic Party,Pete Buttigieg,233
+Douglas,US President,,Democratic Party,John Delaney,4
+Douglas,US President,,Democratic Party,Tulsi Gabbard,49
+Douglas,US President,,Democratic Party,Amy Klobuchar,104
+Douglas,US President,,Democratic Party,Deval Patrick,1
+Douglas,US President,,Democratic Party,Bernie Sanders,1546
+Douglas,US President,,Democratic Party,Tom Steyer,15
+Douglas,US President,,Democratic Party,Elizabeth Warren,288
+Douglas,US President,,Democratic Party,Andrew Yang,23
+Douglas,US President,,Democratic Party,Uncommitted Delegates,19
+Douglas,US President,,Democratic Party,Write-in,4
+Douglas,US President,,Republican Party,Donald J. Trump,6394
+Douglas,US President,,Republican Party,Write-in,44
+Ferry,US President,,Democratic Party,Michael Bennet,0
+Ferry,US President,,Democratic Party,Joseph R. Biden,306
+Ferry,US President,,Democratic Party,Michael Bloomberg,124
+Ferry,US President,,Democratic Party,Cory Booker,0
+Ferry,US President,,Democratic Party,Pete Buttigieg,50
+Ferry,US President,,Democratic Party,John Delaney,1
+Ferry,US President,,Democratic Party,Tulsi Gabbard,14
+Ferry,US President,,Democratic Party,Amy Klobuchar,31
+Ferry,US President,,Democratic Party,Deval Patrick,2
+Ferry,US President,,Democratic Party,Bernie Sanders,347
+Ferry,US President,,Democratic Party,Tom Steyer,0
+Ferry,US President,,Democratic Party,Elizabeth Warren,75
+Ferry,US President,,Democratic Party,Andrew Yang,3
+Ferry,US President,,Democratic Party,Uncommitted Delegates,11
+Ferry,US President,,Democratic Party,Write-in,0
+Ferry,US President,,Republican Party,Donald J. Trump,1662
+Ferry,US President,,Republican Party,Write-in,7
+Franklin,US President,,Democratic Party,Michael Bennet,27
+Franklin,US President,,Democratic Party,Joseph R. Biden,2477
+Franklin,US President,,Democratic Party,Michael Bloomberg,728
+Franklin,US President,,Democratic Party,Cory Booker,9
+Franklin,US President,,Democratic Party,Pete Buttigieg,254
+Franklin,US President,,Democratic Party,John Delaney,11
+Franklin,US President,,Democratic Party,Tulsi Gabbard,79
+Franklin,US President,,Democratic Party,Amy Klobuchar,144
+Franklin,US President,,Democratic Party,Deval Patrick,3
+Franklin,US President,,Democratic Party,Bernie Sanders,2865
+Franklin,US President,,Democratic Party,Tom Steyer,21
+Franklin,US President,,Democratic Party,Elizabeth Warren,399
+Franklin,US President,,Democratic Party,Andrew Yang,39
+Franklin,US President,,Democratic Party,Uncommitted Delegates,31
+Franklin,US President,,Democratic Party,Write-in,5
+Franklin,US President,,Republican Party,Donald J. Trump,8242
+Franklin,US President,,Republican Party,Write-in,76
+Garfield,US President,,Democratic Party,Michael Bennet,1
+Garfield,US President,,Democratic Party,Joseph R. Biden,107
+Garfield,US President,,Democratic Party,Michael Bloomberg,30
+Garfield,US President,,Democratic Party,Cory Booker,0
+Garfield,US President,,Democratic Party,Pete Buttigieg,20
+Garfield,US President,,Democratic Party,John Delaney,0
+Garfield,US President,,Democratic Party,Tulsi Gabbard,4
+Garfield,US President,,Democratic Party,Amy Klobuchar,13
+Garfield,US President,,Democratic Party,Deval Patrick,0
+Garfield,US President,,Democratic Party,Bernie Sanders,62
+Garfield,US President,,Democratic Party,Tom Steyer,2
+Garfield,US President,,Democratic Party,Elizabeth Warren,26
+Garfield,US President,,Democratic Party,Andrew Yang,0
+Garfield,US President,,Democratic Party,Uncommitted Delegates,0
+Garfield,US President,,Democratic Party,Write-in,1
+Garfield,US President,,Republican Party,Donald J. Trump,550
+Garfield,US President,,Republican Party,Write-in,1
+Grant,US President,,Democratic Party,Michael Bennet,23
+Grant,US President,,Democratic Party,Joseph R. Biden,2276
+Grant,US President,,Democratic Party,Michael Bloomberg,951
+Grant,US President,,Democratic Party,Cory Booker,17
+Grant,US President,,Democratic Party,Pete Buttigieg,381
+Grant,US President,,Democratic Party,John Delaney,4
+Grant,US President,,Democratic Party,Tulsi Gabbard,91
+Grant,US President,,Democratic Party,Amy Klobuchar,213
+Grant,US President,,Democratic Party,Deval Patrick,2
+Grant,US President,,Democratic Party,Bernie Sanders,2285
+Grant,US President,,Democratic Party,Tom Steyer,35
+Grant,US President,,Democratic Party,Elizabeth Warren,438
+Grant,US President,,Democratic Party,Andrew Yang,34
+Grant,US President,,Democratic Party,Uncommitted Delegates,59
+Grant,US President,,Democratic Party,Write-in,17
+Grant,US President,,Republican Party,Donald J. Trump,12303
+Grant,US President,,Republican Party,Write-in,99
+Grays Harbor,US President,,Democratic Party,Michael Bennet,24
+Grays Harbor,US President,,Democratic Party,Joseph R. Biden,4097
+Grays Harbor,US President,,Democratic Party,Michael Bloomberg,1495
+Grays Harbor,US President,,Democratic Party,Cory Booker,13
+Grays Harbor,US President,,Democratic Party,Pete Buttigieg,632
+Grays Harbor,US President,,Democratic Party,John Delaney,9
+Grays Harbor,US President,,Democratic Party,Tulsi Gabbard,111
+Grays Harbor,US President,,Democratic Party,Amy Klobuchar,305
+Grays Harbor,US President,,Democratic Party,Deval Patrick,5
+Grays Harbor,US President,,Democratic Party,Bernie Sanders,3865
+Grays Harbor,US President,,Democratic Party,Tom Steyer,59
+Grays Harbor,US President,,Democratic Party,Elizabeth Warren,853
+Grays Harbor,US President,,Democratic Party,Andrew Yang,53
+Grays Harbor,US President,,Democratic Party,Uncommitted Delegates,74
+Grays Harbor,US President,,Democratic Party,Write-in,21
+Grays Harbor,US President,,Republican Party,Donald J. Trump,8823
+Grays Harbor,US President,,Republican Party,Write-in,97
+Island,US President,,Democratic Party,Michael Bennet,17
+Island,US President,,Democratic Party,Joseph R. Biden,8394
+Island,US President,,Democratic Party,Michael Bloomberg,1873
+Island,US President,,Democratic Party,Cory Booker,13
+Island,US President,,Democratic Party,Pete Buttigieg,1082
+Island,US President,,Democratic Party,John Delaney,10
+Island,US President,,Democratic Party,Tulsi Gabbard,233
+Island,US President,,Democratic Party,Amy Klobuchar,750
+Island,US President,,Democratic Party,Deval Patrick,8
+Island,US President,,Democratic Party,Bernie Sanders,6246
+Island,US President,,Democratic Party,Tom Steyer,60
+Island,US President,,Democratic Party,Elizabeth Warren,1991
+Island,US President,,Democratic Party,Andrew Yang,69
+Island,US President,,Democratic Party,Uncommitted Delegates,115
+Island,US President,,Democratic Party,Write-in,20
+Island,US President,,Republican Party,Donald J. Trump,11304
+Island,US President,,Republican Party,Write-in,241
+Jefferson,US President,,Democratic Party,Michael Bennet,11
+Jefferson,US President,,Democratic Party,Joseph R. Biden,5086
+Jefferson,US President,,Democratic Party,Michael Bloomberg,930
+Jefferson,US President,,Democratic Party,Cory Booker,11
+Jefferson,US President,,Democratic Party,Pete Buttigieg,474
+Jefferson,US President,,Democratic Party,John Delaney,6
+Jefferson,US President,,Democratic Party,Tulsi Gabbard,114
+Jefferson,US President,,Democratic Party,Amy Klobuchar,386
+Jefferson,US President,,Democratic Party,Deval Patrick,5
+Jefferson,US President,,Democratic Party,Bernie Sanders,5163
+Jefferson,US President,,Democratic Party,Tom Steyer,27
+Jefferson,US President,,Democratic Party,Elizabeth Warren,1469
+Jefferson,US President,,Democratic Party,Andrew Yang,31
+Jefferson,US President,,Democratic Party,Uncommitted Delegates,85
+Jefferson,US President,,Democratic Party,Write-in,14
+Jefferson,US President,,Republican Party,Donald J. Trump,3369
+Jefferson,US President,,Republican Party,Write-in,66
+King,US President,,Democratic Party,Michael Bennet,560
+King,US President,,Democratic Party,Joseph R. Biden,235655
+King,US President,,Democratic Party,Michael Bloomberg,36978
+King,US President,,Democratic Party,Cory Booker,459
+King,US President,,Democratic Party,Pete Buttigieg,21278
+King,US President,,Democratic Party,John Delaney,128
+King,US President,,Democratic Party,Tulsi Gabbard,3701
+King,US President,,Democratic Party,Amy Klobuchar,12130
+King,US President,,Democratic Party,Deval Patrick,149
+King,US President,,Democratic Party,Bernie Sanders,232575
+King,US President,,Democratic Party,Tom Steyer,814
+King,US President,,Democratic Party,Elizabeth Warren,67096
+King,US President,,Democratic Party,Andrew Yang,2370
+King,US President,,Democratic Party,Uncommitted Delegates,1545
+King,US President,,Democratic Party,Write-in,424
+King,US President,,Republican Party,Donald J. Trump,101141
+King,US President,,Republican Party,Write-in,2724
+Kitsap,US President,,Democratic Party,Michael Bennet,65
+Kitsap,US President,,Democratic Party,Joseph R. Biden,23998
+Kitsap,US President,,Democratic Party,Michael Bloomberg,5388
+Kitsap,US President,,Democratic Party,Cory Booker,45
+Kitsap,US President,,Democratic Party,Pete Buttigieg,3171
+Kitsap,US President,,Democratic Party,John Delaney,19
+Kitsap,US President,,Democratic Party,Tulsi Gabbard,594
+Kitsap,US President,,Democratic Party,Amy Klobuchar,1715
+Kitsap,US President,,Democratic Party,Deval Patrick,22
+Kitsap,US President,,Democratic Party,Bernie Sanders,20029
+Kitsap,US President,,Democratic Party,Tom Steyer,177
+Kitsap,US President,,Democratic Party,Elizabeth Warren,5713
+Kitsap,US President,,Democratic Party,Andrew Yang,258
+Kitsap,US President,,Democratic Party,Uncommitted Delegates,341
+Kitsap,US President,,Democratic Party,Write-in,59
+Kitsap,US President,,Republican Party,Donald J. Trump,27631
+Kitsap,US President,,Republican Party,Write-in,465
+Kittitas,US President,,Democratic Party,Michael Bennet,13
+Kittitas,US President,,Democratic Party,Joseph R. Biden,2561
+Kittitas,US President,,Democratic Party,Michael Bloomberg,597
+Kittitas,US President,,Democratic Party,Cory Booker,11
+Kittitas,US President,,Democratic Party,Pete Buttigieg,328
+Kittitas,US President,,Democratic Party,John Delaney,4
+Kittitas,US President,,Democratic Party,Tulsi Gabbard,107
+Kittitas,US President,,Democratic Party,Amy Klobuchar,224
+Kittitas,US President,,Democratic Party,Deval Patrick,3
+Kittitas,US President,,Democratic Party,Bernie Sanders,2883
+Kittitas,US President,,Democratic Party,Tom Steyer,21
+Kittitas,US President,,Democratic Party,Elizabeth Warren,667
+Kittitas,US President,,Democratic Party,Andrew Yang,36
+Kittitas,US President,,Democratic Party,Uncommitted Delegates,40
+Kittitas,US President,,Democratic Party,Write-in,2
+Kittitas,US President,,Republican Party,Donald J. Trump,6761
+Kittitas,US President,,Republican Party,Write-in,56
+Klickitat,US President,,Democratic Party,Michael Bennet,5
+Klickitat,US President,,Democratic Party,Joseph R. Biden,1475
+Klickitat,US President,,Democratic Party,Michael Bloomberg,345
+Klickitat,US President,,Democratic Party,Cory Booker,5
+Klickitat,US President,,Democratic Party,Pete Buttigieg,204
+Klickitat,US President,,Democratic Party,John Delaney,5
+Klickitat,US President,,Democratic Party,Tulsi Gabbard,45
+Klickitat,US President,,Democratic Party,Amy Klobuchar,114
+Klickitat,US President,,Democratic Party,Deval Patrick,1
+Klickitat,US President,,Democratic Party,Bernie Sanders,1526
+Klickitat,US President,,Democratic Party,Tom Steyer,18
+Klickitat,US President,,Democratic Party,Elizabeth Warren,356
+Klickitat,US President,,Democratic Party,Andrew Yang,13
+Klickitat,US President,,Democratic Party,Uncommitted Delegates,38
+Klickitat,US President,,Democratic Party,Write-in,5
+Klickitat,US President,,Republican Party,Donald J. Trump,3957
+Klickitat,US President,,Republican Party,Write-in,47
+Lewis,US President,,Democratic Party,Michael Bennet,21
+Lewis,US President,,Democratic Party,Joseph R. Biden,3512
+Lewis,US President,,Democratic Party,Michael Bloomberg,1120
+Lewis,US President,,Democratic Party,Cory Booker,14
+Lewis,US President,,Democratic Party,Pete Buttigieg,488
+Lewis,US President,,Democratic Party,John Delaney,12
+Lewis,US President,,Democratic Party,Tulsi Gabbard,113
+Lewis,US President,,Democratic Party,Amy Klobuchar,216
+Lewis,US President,,Democratic Party,Deval Patrick,5
+Lewis,US President,,Democratic Party,Bernie Sanders,3453
+Lewis,US President,,Democratic Party,Tom Steyer,37
+Lewis,US President,,Democratic Party,Elizabeth Warren,719
+Lewis,US President,,Democratic Party,Andrew Yang,39
+Lewis,US President,,Democratic Party,Uncommitted Delegates,86
+Lewis,US President,,Democratic Party,Write-in,14
+Lewis,US President,,Republican Party,Donald J. Trump,14955
+Lewis,US President,,Republican Party,Write-in,86
+Lincoln,US President,,Democratic Party,Michael Bennet,4
+Lincoln,US President,,Democratic Party,Joseph R. Biden,414
+Lincoln,US President,,Democratic Party,Michael Bloomberg,183
+Lincoln,US President,,Democratic Party,Cory Booker,1
+Lincoln,US President,,Democratic Party,Pete Buttigieg,75
+Lincoln,US President,,Democratic Party,John Delaney,0
+Lincoln,US President,,Democratic Party,Tulsi Gabbard,24
+Lincoln,US President,,Democratic Party,Amy Klobuchar,39
+Lincoln,US President,,Democratic Party,Deval Patrick,0
+Lincoln,US President,,Democratic Party,Bernie Sanders,295
+Lincoln,US President,,Democratic Party,Tom Steyer,3
+Lincoln,US President,,Democratic Party,Elizabeth Warren,83
+Lincoln,US President,,Democratic Party,Andrew Yang,5
+Lincoln,US President,,Democratic Party,Uncommitted Delegates,12
+Lincoln,US President,,Democratic Party,Write-in,2
+Lincoln,US President,,Republican Party,Donald J. Trump,2911
+Lincoln,US President,,Republican Party,Write-in,21
+Mason,US President,,Democratic Party,Michael Bennet,20
+Mason,US President,,Democratic Party,Joseph R. Biden,4613
+Mason,US President,,Democratic Party,Michael Bloomberg,1442
+Mason,US President,,Democratic Party,Cory Booker,10
+Mason,US President,,Democratic Party,Pete Buttigieg,618
+Mason,US President,,Democratic Party,John Delaney,4
+Mason,US President,,Democratic Party,Tulsi Gabbard,135
+Mason,US President,,Democratic Party,Amy Klobuchar,307
+Mason,US President,,Democratic Party,Deval Patrick,3
+Mason,US President,,Democratic Party,Bernie Sanders,3892
+Mason,US President,,Democratic Party,Tom Steyer,60
+Mason,US President,,Democratic Party,Elizabeth Warren,845
+Mason,US President,,Democratic Party,Andrew Yang,39
+Mason,US President,,Democratic Party,Uncommitted Delegates,73
+Mason,US President,,Democratic Party,Write-in,15
+Mason,US President,,Republican Party,Donald J. Trump,9083
+Mason,US President,,Republican Party,Write-in,134
+Okanogan,US President,,Democratic Party,Michael Bennet,17
+Okanogan,US President,,Democratic Party,Joseph R. Biden,1996
+Okanogan,US President,,Democratic Party,Michael Bloomberg,544
+Okanogan,US President,,Democratic Party,Cory Booker,8
+Okanogan,US President,,Democratic Party,Pete Buttigieg,220
+Okanogan,US President,,Democratic Party,John Delaney,3
+Okanogan,US President,,Democratic Party,Tulsi Gabbard,62
+Okanogan,US President,,Democratic Party,Amy Klobuchar,131
+Okanogan,US President,,Democratic Party,Deval Patrick,2
+Okanogan,US President,,Democratic Party,Bernie Sanders,2327
+Okanogan,US President,,Democratic Party,Tom Steyer,10
+Okanogan,US President,,Democratic Party,Elizabeth Warren,564
+Okanogan,US President,,Democratic Party,Andrew Yang,27
+Okanogan,US President,,Democratic Party,Uncommitted Delegates,54
+Okanogan,US President,,Democratic Party,Write-in,13
+Okanogan,US President,,Republican Party,Donald J. Trump,6337
+Okanogan,US President,,Republican Party,Write-in,56
+Pacific,US President,,Democratic Party,Michael Bennet,11
+Pacific,US President,,Democratic Party,Joseph R. Biden,1826
+Pacific,US President,,Democratic Party,Michael Bloomberg,589
+Pacific,US President,,Democratic Party,Cory Booker,6
+Pacific,US President,,Democratic Party,Pete Buttigieg,269
+Pacific,US President,,Democratic Party,John Delaney,5
+Pacific,US President,,Democratic Party,Tulsi Gabbard,47
+Pacific,US President,,Democratic Party,Amy Klobuchar,119
+Pacific,US President,,Democratic Party,Deval Patrick,1
+Pacific,US President,,Democratic Party,Bernie Sanders,1433
+Pacific,US President,,Democratic Party,Tom Steyer,18
+Pacific,US President,,Democratic Party,Elizabeth Warren,404
+Pacific,US President,,Democratic Party,Andrew Yang,24
+Pacific,US President,,Democratic Party,Uncommitted Delegates,48
+Pacific,US President,,Democratic Party,Write-in,5
+Pacific,US President,,Republican Party,Donald J. Trump,3516
+Pacific,US President,,Republican Party,Write-in,37
+Pend Oreille,US President,,Democratic Party,Michael Bennet,4
+Pend Oreille,US President,,Democratic Party,Joseph R. Biden,684
+Pend Oreille,US President,,Democratic Party,Michael Bloomberg,208
+Pend Oreille,US President,,Democratic Party,Cory Booker,2
+Pend Oreille,US President,,Democratic Party,Pete Buttigieg,97
+Pend Oreille,US President,,Democratic Party,John Delaney,1
+Pend Oreille,US President,,Democratic Party,Tulsi Gabbard,22
+Pend Oreille,US President,,Democratic Party,Amy Klobuchar,42
+Pend Oreille,US President,,Democratic Party,Deval Patrick,2
+Pend Oreille,US President,,Democratic Party,Bernie Sanders,560
+Pend Oreille,US President,,Democratic Party,Tom Steyer,13
+Pend Oreille,US President,,Democratic Party,Elizabeth Warren,101
+Pend Oreille,US President,,Democratic Party,Andrew Yang,10
+Pend Oreille,US President,,Democratic Party,Uncommitted Delegates,23
+Pend Oreille,US President,,Democratic Party,Write-in,5
+Pend Oreille,US President,,Republican Party,Donald J. Trump,2894
+Pend Oreille,US President,,Republican Party,Write-in,22
+Pierce,US President,,Democratic Party,Michael Bennet,232
+Pierce,US President,,Democratic Party,Joseph R. Biden,61097
+Pierce,US President,,Democratic Party,Michael Bloomberg,13340
+Pierce,US President,,Democratic Party,Cory Booker,143
+Pierce,US President,,Democratic Party,Pete Buttigieg,5856
+Pierce,US President,,Democratic Party,John Delaney,62
+Pierce,US President,,Democratic Party,Tulsi Gabbard,1401
+Pierce,US President,,Democratic Party,Amy Klobuchar,2489
+Pierce,US President,,Democratic Party,Deval Patrick,53
+Pierce,US President,,Democratic Party,Bernie Sanders,54385
+Pierce,US President,,Democratic Party,Tom Steyer,350
+Pierce,US President,,Democratic Party,Elizabeth Warren,10938
+Pierce,US President,,Democratic Party,Andrew Yang,671
+Pierce,US President,,Democratic Party,Uncommitted Delegates,690
+Pierce,US President,,Democratic Party,Write-in,167
+Pierce,US President,,Republican Party,Donald J. Trump,78783
+Pierce,US President,,Republican Party,Write-in,1240
+San Juan,US President,,Democratic Party,Michael Bennet,5
+San Juan,US President,,Democratic Party,Joseph R. Biden,2633
+San Juan,US President,,Democratic Party,Michael Bloomberg,422
+San Juan,US President,,Democratic Party,Cory Booker,4
+San Juan,US President,,Democratic Party,Pete Buttigieg,305
+San Juan,US President,,Democratic Party,John Delaney,3
+San Juan,US President,,Democratic Party,Tulsi Gabbard,79
+San Juan,US President,,Democratic Party,Amy Klobuchar,211
+San Juan,US President,,Democratic Party,Deval Patrick,3
+San Juan,US President,,Democratic Party,Bernie Sanders,2780
+San Juan,US President,,Democratic Party,Tom Steyer,14
+San Juan,US President,,Democratic Party,Elizabeth Warren,874
+San Juan,US President,,Democratic Party,Andrew Yang,16
+San Juan,US President,,Democratic Party,Uncommitted Delegates,23
+San Juan,US President,,Democratic Party,Write-in,0
+San Juan,US President,,Republican Party,Donald J. Trump,1391
+San Juan,US President,,Republican Party,Write-in,0
+Skagit,US President,,Democratic Party,Michael Bennet,41
+Skagit,US President,,Democratic Party,Joseph R. Biden,10145
+Skagit,US President,,Democratic Party,Michael Bloomberg,2371
+Skagit,US President,,Democratic Party,Cory Booker,23
+Skagit,US President,,Democratic Party,Pete Buttigieg,1227
+Skagit,US President,,Democratic Party,John Delaney,9
+Skagit,US President,,Democratic Party,Tulsi Gabbard,274
+Skagit,US President,,Democratic Party,Amy Klobuchar,760
+Skagit,US President,,Democratic Party,Deval Patrick,8
+Skagit,US President,,Democratic Party,Bernie Sanders,8514
+Skagit,US President,,Democratic Party,Tom Steyer,71
+Skagit,US President,,Democratic Party,Elizabeth Warren,2090
+Skagit,US President,,Democratic Party,Andrew Yang,82
+Skagit,US President,,Democratic Party,Uncommitted Delegates,129
+Skagit,US President,,Democratic Party,Write-in,32
+Skagit,US President,,Republican Party,Donald J. Trump,14751
+Skagit,US President,,Republican Party,Write-in,220
+Skamania,US President,,Democratic Party,Michael Bennet,1
+Skamania,US President,,Democratic Party,Joseph R. Biden,822
+Skamania,US President,,Democratic Party,Michael Bloomberg,187
+Skamania,US President,,Democratic Party,Cory Booker,0
+Skamania,US President,,Democratic Party,Pete Buttigieg,86
+Skamania,US President,,Democratic Party,John Delaney,2
+Skamania,US President,,Democratic Party,Tulsi Gabbard,31
+Skamania,US President,,Democratic Party,Amy Klobuchar,60
+Skamania,US President,,Democratic Party,Deval Patrick,0
+Skamania,US President,,Democratic Party,Bernie Sanders,794
+Skamania,US President,,Democratic Party,Tom Steyer,1
+Skamania,US President,,Democratic Party,Elizabeth Warren,164
+Skamania,US President,,Democratic Party,Andrew Yang,8
+Skamania,US President,,Democratic Party,Uncommitted Delegates,12
+Skamania,US President,,Democratic Party,Write-in,5
+Skamania,US President,,Republican Party,Donald J. Trump,1950
+Skamania,US President,,Republican Party,Write-in,30
+Snohomish,US President,,Democratic Party,Michael Bennet,233
+Snohomish,US President,,Democratic Party,Joseph R. Biden,64871
+Snohomish,US President,,Democratic Party,Michael Bloomberg,12718
+Snohomish,US President,,Democratic Party,Cory Booker,111
+Snohomish,US President,,Democratic Party,Pete Buttigieg,6580
+Snohomish,US President,,Democratic Party,John Delaney,63
+Snohomish,US President,,Democratic Party,Tulsi Gabbard,1593
+Snohomish,US President,,Democratic Party,Amy Klobuchar,3102
+Snohomish,US President,,Democratic Party,Deval Patrick,64
+Snohomish,US President,,Democratic Party,Bernie Sanders,59779
+Snohomish,US President,,Democratic Party,Tom Steyer,364
+Snohomish,US President,,Democratic Party,Elizabeth Warren,12642
+Snohomish,US President,,Democratic Party,Andrew Yang,711
+Snohomish,US President,,Democratic Party,Uncommitted Delegates,664
+Snohomish,US President,,Democratic Party,Write-in,172
+Snohomish,US President,,Republican Party,Donald J. Trump,66870
+Snohomish,US President,,Republican Party,Write-in,1304
+Spokane,US President,,Democratic Party,Michael Bennet,115
+Spokane,US President,,Democratic Party,Joseph R. Biden,30618
+Spokane,US President,,Democratic Party,Michael Bloomberg,9880
+Spokane,US President,,Democratic Party,Cory Booker,104
+Spokane,US President,,Democratic Party,Pete Buttigieg,4581
+Spokane,US President,,Democratic Party,John Delaney,46
+Spokane,US President,,Democratic Party,Tulsi Gabbard,828
+Spokane,US President,,Democratic Party,Amy Klobuchar,2001
+Spokane,US President,,Democratic Party,Deval Patrick,23
+Spokane,US President,,Democratic Party,Bernie Sanders,29750
+Spokane,US President,,Democratic Party,Tom Steyer,252
+Spokane,US President,,Democratic Party,Elizabeth Warren,6520
+Spokane,US President,,Democratic Party,Andrew Yang,390
+Spokane,US President,,Democratic Party,Uncommitted Delegates,596
+Spokane,US President,,Democratic Party,Write-in,102
+Spokane,US President,,Republican Party,Donald J. Trump,65889
+Spokane,US President,,Republican Party,Write-in,913
+Stevens,US President,,Democratic Party,Michael Bennet,15
+Stevens,US President,,Democratic Party,Joseph R. Biden,1954
+Stevens,US President,,Democratic Party,Michael Bloomberg,693
+Stevens,US President,,Democratic Party,Cory Booker,8
+Stevens,US President,,Democratic Party,Pete Buttigieg,295
+Stevens,US President,,Democratic Party,John Delaney,8
+Stevens,US President,,Democratic Party,Tulsi Gabbard,61
+Stevens,US President,,Democratic Party,Amy Klobuchar,172
+Stevens,US President,,Democratic Party,Deval Patrick,3
+Stevens,US President,,Democratic Party,Bernie Sanders,1737
+Stevens,US President,,Democratic Party,Tom Steyer,25
+Stevens,US President,,Democratic Party,Elizabeth Warren,394
+Stevens,US President,,Democratic Party,Andrew Yang,21
+Stevens,US President,,Democratic Party,Uncommitted Delegates,37
+Stevens,US President,,Democratic Party,Write-in,13
+Stevens,US President,,Republican Party,Donald J. Trump,10383
+Stevens,US President,,Republican Party,Write-in,84
+Thurston,US President,,Democratic Party,Michael Bennet,76
+Thurston,US President,,Democratic Party,Joseph R. Biden,23350
+Thurston,US President,,Democratic Party,Michael Bloomberg,5072
+Thurston,US President,,Democratic Party,Cory Booker,52
+Thurston,US President,,Democratic Party,Pete Buttigieg,2776
+Thurston,US President,,Democratic Party,John Delaney,24
+Thurston,US President,,Democratic Party,Tulsi Gabbard,593
+Thurston,US President,,Democratic Party,Amy Klobuchar,1583
+Thurston,US President,,Democratic Party,Deval Patrick,17
+Thurston,US President,,Democratic Party,Bernie Sanders,24833
+Thurston,US President,,Democratic Party,Tom Steyer,179
+Thurston,US President,,Democratic Party,Elizabeth Warren,6184
+Thurston,US President,,Democratic Party,Andrew Yang,284
+Thurston,US President,,Democratic Party,Uncommitted Delegates,351
+Thurston,US President,,Democratic Party,Write-in,54
+Thurston,US President,,Republican Party,Donald J. Trump,27426
+Thurston,US President,,Republican Party,Write-in,441
+Wahkiakum,US President,,Democratic Party,Michael Bennet,3
+Wahkiakum,US President,,Democratic Party,Joseph R. Biden,345
+Wahkiakum,US President,,Democratic Party,Michael Bloomberg,106
+Wahkiakum,US President,,Democratic Party,Cory Booker,1
+Wahkiakum,US President,,Democratic Party,Pete Buttigieg,49
+Wahkiakum,US President,,Democratic Party,John Delaney,0
+Wahkiakum,US President,,Democratic Party,Tulsi Gabbard,11
+Wahkiakum,US President,,Democratic Party,Amy Klobuchar,23
+Wahkiakum,US President,,Democratic Party,Deval Patrick,0
+Wahkiakum,US President,,Democratic Party,Bernie Sanders,285
+Wahkiakum,US President,,Democratic Party,Tom Steyer,1
+Wahkiakum,US President,,Democratic Party,Elizabeth Warren,62
+Wahkiakum,US President,,Democratic Party,Andrew Yang,4
+Wahkiakum,US President,,Democratic Party,Uncommitted Delegates,7
+Wahkiakum,US President,,Democratic Party,Write-in,3
+Wahkiakum,US President,,Republican Party,Donald J. Trump,900
+Wahkiakum,US President,,Republican Party,Write-in,9
+Walla Walla,US President,,Democratic Party,Michael Bennet,21
+Walla Walla,US President,,Democratic Party,Joseph R. Biden,3547
+Walla Walla,US President,,Democratic Party,Michael Bloomberg,834
+Walla Walla,US President,,Democratic Party,Cory Booker,8
+Walla Walla,US President,,Democratic Party,Pete Buttigieg,377
+Walla Walla,US President,,Democratic Party,John Delaney,4
+Walla Walla,US President,,Democratic Party,Tulsi Gabbard,103
+Walla Walla,US President,,Democratic Party,Amy Klobuchar,293
+Walla Walla,US President,,Democratic Party,Deval Patrick,0
+Walla Walla,US President,,Democratic Party,Bernie Sanders,2925
+Walla Walla,US President,,Democratic Party,Tom Steyer,33
+Walla Walla,US President,,Democratic Party,Elizabeth Warren,801
+Walla Walla,US President,,Democratic Party,Andrew Yang,45
+Walla Walla,US President,,Democratic Party,Uncommitted Delegates,45
+Walla Walla,US President,,Democratic Party,Write-in,0
+Walla Walla,US President,,Republican Party,Donald J. Trump,8090
+Walla Walla,US President,,Republican Party,Write-in,0
+Whatcom,US President,,Democratic Party,Michael Bennet,61
+Whatcom,US President,,Democratic Party,Joseph R. Biden,18752
+Whatcom,US President,,Democratic Party,Michael Bloomberg,3175
+Whatcom,US President,,Democratic Party,Cory Booker,55
+Whatcom,US President,,Democratic Party,Pete Buttigieg,2068
+Whatcom,US President,,Democratic Party,John Delaney,20
+Whatcom,US President,,Democratic Party,Tulsi Gabbard,572
+Whatcom,US President,,Democratic Party,Amy Klobuchar,1169
+Whatcom,US President,,Democratic Party,Deval Patrick,31
+Whatcom,US President,,Democratic Party,Bernie Sanders,27295
+Whatcom,US President,,Democratic Party,Tom Steyer,115
+Whatcom,US President,,Democratic Party,Elizabeth Warren,5354
+Whatcom,US President,,Democratic Party,Andrew Yang,256
+Whatcom,US President,,Democratic Party,Uncommitted Delegates,228
+Whatcom,US President,,Democratic Party,Write-in,42
+Whatcom,US President,,Republican Party,Donald J. Trump,23191
+Whatcom,US President,,Republican Party,Write-in,372
+Whitman,US President,,Democratic Party,Michael Bennet,5
+Whitman,US President,,Democratic Party,Joseph R. Biden,2050
+Whitman,US President,,Democratic Party,Michael Bloomberg,383
+Whitman,US President,,Democratic Party,Cory Booker,3
+Whitman,US President,,Democratic Party,Pete Buttigieg,291
+Whitman,US President,,Democratic Party,John Delaney,0
+Whitman,US President,,Democratic Party,Tulsi Gabbard,72
+Whitman,US President,,Democratic Party,Amy Klobuchar,144
+Whitman,US President,,Democratic Party,Deval Patrick,6
+Whitman,US President,,Democratic Party,Bernie Sanders,3040
+Whitman,US President,,Democratic Party,Tom Steyer,12
+Whitman,US President,,Democratic Party,Elizabeth Warren,727
+Whitman,US President,,Democratic Party,Andrew Yang,37
+Whitman,US President,,Democratic Party,Uncommitted Delegates,37
+Whitman,US President,,Democratic Party,Write-in,5
+Whitman,US President,,Republican Party,Donald J. Trump,4312
+Whitman,US President,,Republican Party,Write-in,84
+Yakima,US President,,Democratic Party,Michael Bennet,108
+Yakima,US President,,Democratic Party,Joseph R. Biden,8129
+Yakima,US President,,Democratic Party,Michael Bloomberg,2928
+Yakima,US President,,Democratic Party,Cory Booker,28
+Yakima,US President,,Democratic Party,Pete Buttigieg,922
+Yakima,US President,,Democratic Party,John Delaney,21
+Yakima,US President,,Democratic Party,Tulsi Gabbard,230
+Yakima,US President,,Democratic Party,Amy Klobuchar,505
+Yakima,US President,,Democratic Party,Deval Patrick,9
+Yakima,US President,,Democratic Party,Bernie Sanders,8880
+Yakima,US President,,Democratic Party,Tom Steyer,90
+Yakima,US President,,Democratic Party,Elizabeth Warren,1317
+Yakima,US President,,Democratic Party,Andrew Yang,77
+Yakima,US President,,Democratic Party,Uncommitted Delegates,150
+Yakima,US President,,Democratic Party,Write-in,18
+Yakima,US President,,Republican Party,Donald J. Trump,24077
+Yakima,US President,,Republican Party,Write-in,244
