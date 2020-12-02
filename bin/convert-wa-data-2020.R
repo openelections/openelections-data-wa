@@ -7,19 +7,19 @@ SOURCE_DATA_DIR = '../../openelections-sources-wa/2020/'
 OUTPUT_DATA_DIR = '../2020/'
 
 countyFiles <- c(
-  '20200804_AllCounties.csv'
+  '20200804_AllCounties.csv', '20201103_AllCounties.csv'
 )
 
 statePrecinctFiles <- c(
-  '20200804_AllStatePrecincts.csv'
+  '20200804_AllStatePrecincts.csv', '20201103_AllStatePrecincts.csv'
 )
 
 kingCountyPrecinctFiles <- c(
-  '20200804_KingPrecincts.csv'
+  '20200804_KingPrecincts.csv', '20201103_KingPrecincts.csv'
 )
 
 electionTypes <- c(
-  'primary'
+  'primary', 'general'
 )
 
 countyCodes <- read_sf('/opt/data/washington/elections/statewide-precincts/2017/Statewide_Prec_2017.shp') %>% st_set_geometry(NULL) %>%
@@ -29,13 +29,15 @@ countyCodes <- read_sf('/opt/data/washington/elections/statewide-precincts/2017/
 cleanOffice <- function(Race) {
   gsub(x=Race, pattern='Legislative District [0-9]+(?: -)? State (.+)(?: Pos.*)?', replacement='State \\1', perl=TRUE, ignore.case=TRUE) %>%
     gsub(x=., pattern='Legislative District No\\.[ ]+[0-9]+(?: -)? State (.+)(?: Pos.*)?', replacement='State \\1', perl=TRUE, ignore.case=TRUE) %>%
+    gsub(x=., pattern='Legislative District 15.+Representative.+([12])', replacement='State Representative Pos. \\1', perl=TRUE, ignore.case=TRUE) %>%
     gsub(x=., pattern='Congressional District [0-9]+.+', replacement='U.S. Representative', perl=TRUE, ignore.case=TRUE) %>%
     gsub(x=., pattern='Congressional District No\\.[ ]+[0-9]+.+', replacement='U.S. Representative', perl=TRUE, ignore.case=TRUE) %>%
     gsub(x=., pattern='State State', replacement='State', perl=TRUE, ignore.case=TRUE) %>%
     gsub(x=., pattern='&amp;', replacement='&') %>%
     gsub(x=., pattern='Position No', replacement='Pos') %>%
     gsub(x=., pattern='^Governor$', replacement='Governor') %>%
-    gsub(x=., pattern='.*State Governor.*', replacement='Governor') %>%
+    gsub(x=., pattern='.*State.+Lt.+Governor.*', replacement='Lt. Governor') %>%
+    gsub(x=., pattern='.*State.+Governor.*', replacement='Governor') %>%
     gsub(x=., pattern='.*Lt\\. Governor.*', replacement='Lt. Governor') %>%
     gsub(x=., pattern='.*Commissioner of Public Lands.*', replacement='Commissioner of Public Lands') %>%
     gsub(x=., pattern='.*Superintendent of Public Instruction.*', replacement='Superintendent of Public Instruction') %>%
@@ -46,6 +48,11 @@ cleanOffice <- function(Race) {
     gsub(x=., pattern='^Treasurer$', replacement='State Treasurer') %>%
     gsub(x=., pattern='.*State Treasurer.*', replacement='State Treasurer') %>%
     gsub(x=., pattern='.*Insurance Commissioner.*', replacement='Insurance Commissioner') %>%
+    gsub(x=., pattern='.*President.+President$', replacement='President / Vice President') %>%
+    gsub(x=., pattern='.*Supreme.+Justice.+([1-9])', replacement='State Supreme Court Justice Pos \\1') %>%
+    gsub(x=., pattern='.*Advisory Vote.+([1-9]+)', replacement='State Advisory Vote \\1') %>%
+    gsub(x=., pattern='.*Referendum.+([1-9]+)', replacement='Referendum Measure \\1') %>%
+    gsub(x=., pattern='.+Senate.+8212.*)', replacement='Engrossed Senate Joint Resolution No. 8212') %>%
     trimws(.)
 }
 
@@ -56,11 +63,13 @@ cleanParty <- function(Party) {
     gsub(x=., pattern='DEMOCRATIC', replacement="Democratic") %>%
     gsub(x=., pattern='REPUBLICAN', replacement="Republican") %>%
     gsub(x=., pattern='INDEPENDENT', replacement="Independent") %>%
+    gsub(x=., pattern='\\(?(.+) Party Nominees\\)?', replacement="\\1") %>%
     trimws(.)
 }
 
 cleanDistrict <- function(Race) {
   case_when(
+    grepl(x=Race, pattern='^Legislative District 15', ignore.case=TRUE) ~ '15',
     grepl(x=Race, pattern='^Legislative District No', ignore.case=TRUE) ~ gsub(x=Race, pattern='Legislative District No.[ ]+([0-9]+) .+', replacement='\\1', ignore.case=TRUE),
     grepl(x=Race, pattern='^Legislative District', ignore.case=TRUE) ~ gsub(x=Race, pattern='Legislative District ([0-9]+)(?: -)? State.+', replacement='\\1', ignore.case=TRUE),
     grepl(x=Race, pattern='^Congressional District No', ignore.case=TRUE) ~ gsub(x=Race, pattern='Congressional District No.[ ]+([0-9]+).+', replacement='\\1', ignore.case=TRUE),
@@ -71,6 +80,8 @@ cleanDistrict <- function(Race) {
 
 cleanCandidate <- function(Candidate) {
   gsub(x=Candidate, pattern='&quot;', replacement='"') %>%
+    gsub(x=., pattern='(.+) and (.+)', replacement='\\1 / \\2') %>%
+    gsub(x=., pattern='WRITE-IN', replacement='Write-in') %>%
     trimws(.)
 }
 
@@ -135,11 +146,12 @@ processPrecinctFile <- function(inputFileName, electionType=c('special__general'
   electionType <- match.arg(electionType)
   electionDate <- extractElectionDate(inputFileName)
   
-  cdf <- suppressMessages(read_csv(paste0(SOURCE_DATA_DIR, inputFileName), col_types='cciiicccc')) %>%
+  cdf <- suppressMessages(read_csv(paste0(SOURCE_DATA_DIR, inputFileName), col_types='cciiicccc', locale = locale(encoding = 'ISO-8859-1'))) %>%
     select(Precinct, Race, party=Party, candidate=CounterType, votes=SumOfCount) %>%
     mutate(votes=as.integer(gsub(x=votes, pattern=',', replacement=''))) %>%
     mutate(office=cleanOffice(Race),
            party=cleanParty(party),
+           candidate=cleanCandidate(candidate),
            district=cleanDistrict(Race),
            county='King'
     ) %>%
