@@ -272,26 +272,26 @@ Peter,Goldmark,Peter Goldmark,D,D,U. S. Representative District #5,NA,,county,St
 Peter,Goldmark,Peter Goldmark,D,D,U. S. Representative District #5,NA,,county,Walla Walla,6574
 Peter,Goldmark,Peter Goldmark,D,D,U. S. Representative District #5,NA,,county,Whitman,6117
 Peter,Goldmark,Peter Goldmark,D,D,U. S. Representative District #5,NA,,state,Washington,104357
-Cathy,McMorris,Cathy  McMorris,R,R,U. S. Representative District #5,NA,,county,Adams,1372
-Cathy,McMorris,Cathy  McMorris,R,R,U. S. Representative District #5,NA,,county,Asotin,4089
-Cathy,McMorris,Cathy  McMorris,R,R,U. S. Representative District #5,NA,,county,Columbia,1302
-Cathy,McMorris,Cathy  McMorris,R,R,U. S. Representative District #5,NA,,county,Ferry,1777
-Cathy,McMorris,Cathy  McMorris,R,R,U. S. Representative District #5,NA,,county,Garfield,816
-Cathy,McMorris,Cathy  McMorris,R,R,U. S. Representative District #5,NA,,county,Lincoln,2988
-Cathy,McMorris,Cathy  McMorris,R,R,U. S. Representative District #5,NA,,county,Okanogan,7033
-Cathy,McMorris,Cathy  McMorris,R,R,U. S. Representative District #5,NA,,county,Pend Oreille,3002
-Cathy,McMorris,Cathy  McMorris,R,R,U. S. Representative District #5,NA,,county,Spokane,84041
-Cathy,McMorris,Cathy  McMorris,R,R,U. S. Representative District #5,NA,,county,Stevens,10641
-Cathy,McMorris,Cathy  McMorris,R,R,U. S. Representative District #5,NA,,county,Walla Walla,11134
-Cathy,McMorris,Cathy  McMorris,R,R,U. S. Representative District #5,NA,,county,Whitman,6772
-Cathy,McMorris,Cathy  McMorris,R,R,U. S. Representative District #5,NA,,state,Washington,134967
-Douglas,Cloud,Douglas  Cloud,R,R,U. S. Representative District #6,NA,,county,Clallam,11609
-Douglas,Cloud,Douglas  Cloud,R,R,U. S. Representative District #6,NA,,county,Grays Harbor,5796
-Douglas,Cloud,Douglas  Cloud,R,R,U. S. Representative District #6,NA,,county,Jefferson,3926
-Douglas,Cloud,Douglas  Cloud,R,R,U. S. Representative District #6,NA,,county,Kitsap,11451
-Douglas,Cloud,Douglas  Cloud,R,R,U. S. Representative District #6,NA,,county,Mason,6329
-Douglas,Cloud,Douglas  Cloud,R,R,U. S. Representative District #6,NA,,county,Pierce,26772
-Douglas,Cloud,Douglas  Cloud,R,R,U. S. Representative District #6,NA,,state,Washington,65883
+Cathy,McMorris,Cathy McMorris,R,R,U. S. Representative District #5,NA,,county,Adams,1372
+Cathy,McMorris,Cathy McMorris,R,R,U. S. Representative District #5,NA,,county,Asotin,4089
+Cathy,McMorris,Cathy McMorris,R,R,U. S. Representative District #5,NA,,county,Columbia,1302
+Cathy,McMorris,Cathy McMorris,R,R,U. S. Representative District #5,NA,,county,Ferry,1777
+Cathy,McMorris,Cathy McMorris,R,R,U. S. Representative District #5,NA,,county,Garfield,816
+Cathy,McMorris,Cathy McMorris,R,R,U. S. Representative District #5,NA,,county,Lincoln,2988
+Cathy,McMorris,Cathy McMorris,R,R,U. S. Representative District #5,NA,,county,Okanogan,7033
+Cathy,McMorris,Cathy McMorris,R,R,U. S. Representative District #5,NA,,county,Pend Oreille,3002
+Cathy,McMorris,Cathy McMorris,R,R,U. S. Representative District #5,NA,,county,Spokane,84041
+Cathy,McMorris,Cathy McMorris,R,R,U. S. Representative District #5,NA,,county,Stevens,10641
+Cathy,McMorris,Cathy McMorris,R,R,U. S. Representative District #5,NA,,county,Walla Walla,11134
+Cathy,McMorris,Cathy McMorris,R,R,U. S. Representative District #5,NA,,county,Whitman,6772
+Cathy,McMorris,Cathy McMorris,R,R,U. S. Representative District #5,NA,,state,Washington,134967
+Douglas,Cloud,Douglas Cloud,R,R,U. S. Representative District #6,NA,,county,Clallam,11609
+Douglas,Cloud,Douglas Cloud,R,R,U. S. Representative District #6,NA,,county,Grays Harbor,5796
+Douglas,Cloud,Douglas Cloud,R,R,U. S. Representative District #6,NA,,county,Jefferson,3926
+Douglas,Cloud,Douglas Cloud,R,R,U. S. Representative District #6,NA,,county,Kitsap,11451
+Douglas,Cloud,Douglas Cloud,R,R,U. S. Representative District #6,NA,,county,Mason,6329
+Douglas,Cloud,Douglas Cloud,R,R,U. S. Representative District #6,NA,,county,Pierce,26772
+Douglas,Cloud,Douglas Cloud,R,R,U. S. Representative District #6,NA,,state,Washington,65883
 Norman,Dicks,Norman Dicks,D,D,U. S. Representative District #6,NA,,county,Clallam,18223
 Norman,Dicks,Norman Dicks,D,D,U. S. Representative District #6,NA,,county,Grays Harbor,15774
 Norman,Dicks,Norman Dicks,D,D,U. S. Representative District #6,NA,,county,Jefferson,11813
@@ -644,12 +644,12 @@ Tim,Knue,Tim Knue,D,D,State Representative District #10,Position #2,,county,Isla
 Tim,Knue,Tim Knue,D,D,State Representative District #10,Position #2,,county,Skagit,4503
 Tim,Knue,Tim Knue,D,D,State Representative District #10,Position #2,,county,Snohomish,5232
 Tim,Knue,Tim Knue,D,D,State Representative District #10,Position #2,,state,Washington,23982
-Zachary,Hudgins,Zachary  Hudgins,D,D,State Representative District #11,Position #1,,county,King,19409
-Zachary,Hudgins,Zachary  Hudgins,D,D,State Representative District #11,Position #1,,state,Washington,19409
+Zachary,Hudgins,Zachary Hudgins,D,D,State Representative District #11,Position #1,,county,King,19409
+Zachary,Hudgins,Zachary Hudgins,D,D,State Representative District #11,Position #1,,state,Washington,19409
 Robert,Hasegawa,Robert Hasegawa,D,D,State Representative District #11,Position #2,,county,King,18589
 Robert,Hasegawa,Robert Hasegawa,D,D,State Representative District #11,Position #2,,state,Washington,18589
-John,Potter,John  Potter,R,R,State Representative District #11,Position #2,,county,King,7123
-John,Potter,John  Potter,R,R,State Representative District #11,Position #2,,state,Washington,7123
+John,Potter,John Potter,R,R,State Representative District #11,Position #2,,county,King,7123
+John,Potter,John Potter,R,R,State Representative District #11,Position #2,,state,Washington,7123
 Cary,Condotta,Cary Condotta,R,R,State Representative District #12,Position #1,,county,Chelan,16584
 Cary,Condotta,Cary Condotta,R,R,State Representative District #12,Position #1,,county,Douglas,8181
 Cary,Condotta,Cary Condotta,R,R,State Representative District #12,Position #1,,county,Grant,1187
@@ -672,10 +672,10 @@ Judith,Warnick,Judith Warnick,R,R,State Representative District #13,Position #1,
 Judith,Warnick,Judith Warnick,R,R,State Representative District #13,Position #1,,county,Kittitas,8922
 Judith,Warnick,Judith Warnick,R,R,State Representative District #13,Position #1,,county,Yakima,5174
 Judith,Warnick,Judith Warnick,R,R,State Representative District #13,Position #1,,state,Washington,27731
-William,Hinkle,William  Hinkle,R,R,State Representative District #13,Position #2,,county,Grant,13490
-William,Hinkle,William  Hinkle,R,R,State Representative District #13,Position #2,,county,Kittitas,8793
-William,Hinkle,William  Hinkle,R,R,State Representative District #13,Position #2,,county,Yakima,5207
-William,Hinkle,William  Hinkle,R,R,State Representative District #13,Position #2,,state,Washington,27490
+William,Hinkle,William Hinkle,R,R,State Representative District #13,Position #2,,county,Grant,13490
+William,Hinkle,William Hinkle,R,R,State Representative District #13,Position #2,,county,Kittitas,8793
+William,Hinkle,William Hinkle,R,R,State Representative District #13,Position #2,,county,Yakima,5207
+William,Hinkle,William Hinkle,R,R,State Representative District #13,Position #2,,state,Washington,27490
 Don,Hinman,Don Hinman,D,D,State Representative District #14,Position #1,,county,Yakima,11082
 Don,Hinman,Don Hinman,D,D,State Representative District #14,Position #1,,state,Washington,11082
 Mary,Skinner,Mary Skinner,R,R,State Representative District #14,Position #1,,county,Yakima,21771
@@ -843,8 +843,8 @@ Jeanne,Kohl-Welles,Jeanne Kohl-Welles,D,D,State Senate District #36,,,county,Kin
 Jeanne,Kohl-Welles,Jeanne Kohl-Welles,D,D,State Senate District #36,,,state,Washington,41792
 Helen,Sommers,Helen Sommers,D,D,State Representative District #36,Position #1,,county,King,41311
 Helen,Sommers,Helen Sommers,D,D,State Representative District #36,Position #1,,state,Washington,41311
-Mary,Dickerson,Mary  Dickerson,D,D,State Representative District #36,Position #2,,county,King,41212
-Mary,Dickerson,Mary  Dickerson,D,D,State Representative District #36,Position #2,,state,Washington,41212
+Mary,Dickerson,Mary Dickerson,D,D,State Representative District #36,Position #2,,county,King,41212
+Mary,Dickerson,Mary Dickerson,D,D,State Representative District #36,Position #2,,state,Washington,41212
 Adam,Kline,Adam Kline,D,D,State Senate District #37,,,county,King,28417
 Adam,Kline,Adam Kline,D,D,State Senate District #37,,,state,Washington,28417
 Brian,Thomas,Brian Thomas,R,R,State Senate District #37,,,county,King,4433
@@ -882,10 +882,10 @@ David,Quall,David Quall,D,D,State Representative District #40,Position #1,,count
 David,Quall,David Quall,D,D,State Representative District #40,Position #1,,county,Skagit,16079
 David,Quall,David Quall,D,D,State Representative District #40,Position #1,,county,Whatcom,14689
 David,Quall,David Quall,D,D,State Representative District #40,Position #1,,state,Washington,36953
-Douglas,Revelle,Douglas  Revelle,R,R,State Representative District #40,Position #1,,county,San Juan,1605
-Douglas,Revelle,Douglas  Revelle,R,R,State Representative District #40,Position #1,,county,Skagit,5639
-Douglas,Revelle,Douglas  Revelle,R,R,State Representative District #40,Position #1,,county,Whatcom,4028
-Douglas,Revelle,Douglas  Revelle,R,R,State Representative District #40,Position #1,,state,Washington,11272
+Douglas,Revelle,Douglas Revelle,R,R,State Representative District #40,Position #1,,county,San Juan,1605
+Douglas,Revelle,Douglas Revelle,R,R,State Representative District #40,Position #1,,county,Skagit,5639
+Douglas,Revelle,Douglas Revelle,R,R,State Representative District #40,Position #1,,county,Whatcom,4028
+Douglas,Revelle,Douglas Revelle,R,R,State Representative District #40,Position #1,,state,Washington,11272
 Jeff,Morris,Jeff Morris,D,D,State Representative District #40,Position #2,,county,San Juan,6358
 Jeff,Morris,Jeff Morris,D,D,State Representative District #40,Position #2,,county,Skagit,16887
 Jeff,Morris,Jeff Morris,D,D,State Representative District #40,Position #2,,county,Whatcom,14717
@@ -956,18 +956,18 @@ Wally,Emberson-Nash,Wally Emberson-Nash,R,R,State Representative District #25,Po
 Wally,Emberson-Nash,Wally Emberson-Nash,R,R,State Representative District #25,Position #2,,state,Washington,15552
 Lavonna,Morrell,Lavonna Morrell,D,D,State Representative District #25,Position #2,,county,Pierce,23223
 Lavonna,Morrell,Lavonna Morrell,D,D,State Representative District #25,Position #2,,state,Washington,23223
-James,Hines,James  Hines,R,R,State Senate District #26,,,county,Kitsap,8398
-James,Hines,James  Hines,R,R,State Senate District #26,,,county,Pierce,10526
-James,Hines,James  Hines,R,R,State Senate District #26,,,state,Washington,18924
+James,Hines,James Hines,R,R,State Senate District #26,,,county,Kitsap,8398
+James,Hines,James Hines,R,R,State Senate District #26,,,county,Pierce,10526
+James,Hines,James Hines,R,R,State Senate District #26,,,state,Washington,18924
 Derek,Kilmer,Derek Kilmer,D,D,State Senate District #26,,,county,Kitsap,14127
 Derek,Kilmer,Derek Kilmer,D,D,State Senate District #26,,,county,Pierce,14214
 Derek,Kilmer,Derek Kilmer,D,D,State Senate District #26,,,state,Washington,28341
 Beckie,Krantz,Beckie Krantz,R,R,State Representative District #26,Position #1,,county,Kitsap,9247
 Beckie,Krantz,Beckie Krantz,R,R,State Representative District #26,Position #1,,county,Pierce,11083
 Beckie,Krantz,Beckie Krantz,R,R,State Representative District #26,Position #1,,state,Washington,20330
-Patricia,Lantz,Patricia  Lantz,D,D,State Representative District #26,Position #1,,county,Kitsap,13089
-Patricia,Lantz,Patricia  Lantz,D,D,State Representative District #26,Position #1,,county,Pierce,13528
-Patricia,Lantz,Patricia  Lantz,D,D,State Representative District #26,Position #1,,state,Washington,26617
+Patricia,Lantz,Patricia Lantz,D,D,State Representative District #26,Position #1,,county,Kitsap,13089
+Patricia,Lantz,Patricia Lantz,D,D,State Representative District #26,Position #1,,county,Pierce,13528
+Patricia,Lantz,Patricia Lantz,D,D,State Representative District #26,Position #1,,state,Washington,26617
 Ron,Boehme,Ron Boehme,R,R,State Representative District #26,Position #2,,county,Kitsap,9938
 Ron,Boehme,Ron Boehme,R,R,State Representative District #26,Position #2,,county,Pierce,10982
 Ron,Boehme,Ron Boehme,R,R,State Representative District #26,Position #2,,state,Washington,20920
@@ -992,8 +992,8 @@ Robert,Lawrence,Robert Lawrence,R,R,State Representative District #28,Position #
 Robert,Lawrence,Robert Lawrence,R,R,State Representative District #28,Position #2,,state,Washington,15459
 Rosa,Franklin,Rosa Franklin,D,D,State Senate District #29,,,county,Pierce,17496
 Rosa,Franklin,Rosa Franklin,D,D,State Senate District #29,,,state,Washington,17496
-Steven,Conway,Steven  Conway,D,D,State Representative District #29,Position #1,,county,Pierce,17192
-Steven,Conway,Steven  Conway,D,D,State Representative District #29,Position #1,,state,Washington,17192
+Steven,Conway,Steven Conway,D,D,State Representative District #29,Position #1,,county,Pierce,17192
+Steven,Conway,Steven Conway,D,D,State Representative District #29,Position #1,,state,Washington,17192
 Steven,Kirby,Steven Kirby,D,D,State Representative District #29,Position #2,,county,Pierce,17096
 Steven,Kirby,Steven Kirby,D,D,State Representative District #29,Position #2,,state,Washington,17096
 Tracey,Eide,Tracey Eide,D,D,State Senate District #30,,,county,King,18366
@@ -1072,8 +1072,8 @@ Timothy,Lee,Timothy Lee,R,R,State Representative District #45,Position #2,,count
 Timothy,Lee,Timothy Lee,R,R,State Representative District #45,Position #2,,state,Washington,19173
 Lawrence,Springer,Lawrence Springer,D,D,State Representative District #45,Position #2,,county,King,27596
 Lawrence,Springer,Lawrence Springer,D,D,State Representative District #45,Position #2,,state,Washington,27596
-Ken,Jacobsen,Ken  Jacobsen,D,D,State Senate District #46,,,county,King,41948
-Ken,Jacobsen,Ken  Jacobsen,D,D,State Senate District #46,,,state,Washington,41948
+Ken,Jacobsen,Ken Jacobsen,D,D,State Senate District #46,,,county,King,41948
+Ken,Jacobsen,Ken Jacobsen,D,D,State Senate District #46,,,state,Washington,41948
 Brian,Travis,Brian Travis,R,R,State Senate District #46,,,county,King,7839
 Brian,Travis,Brian Travis,R,R,State Senate District #46,,,state,Washington,7839
 James,McIntire,James McIntire,D,D,State Representative District #46,Position #1,,county,King,41042

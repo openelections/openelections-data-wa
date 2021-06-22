@@ -65,17 +65,17 @@ Columbia,WAITSBURG SCHOOL DISTRICT 401-100 Proposition 2 Bonds to Improve and Up
 Columbia,WAITSBURG SCHOOL DISTRICT 401-100 Proposition 2 Bonds to Improve and Upgrade Waitsburg School Facilities,,,Rejected,15
 Douglas,"BREWSTER SD Proposition 1 School Facilities Improvements General Obligation Bonds - $17,881,998",,,Approved,47
 Douglas,"BREWSTER SD Proposition 1 School Facilities Improvements General Obligation Bonds - $17,881,998",,,Rejected,50
-Douglas,BRIDGEPORT SD Proposition 1 Maintenance And Operation Levy,,,LEVY____  YES,213
+Douglas,BRIDGEPORT SD Proposition 1 Maintenance And Operation Levy,,,LEVY____ YES,213
 Douglas,BRIDGEPORT SD Proposition 1 Maintenance And Operation Levy,,,LEVY ____ NO,135
 Douglas,LAKE CHELAN SD PROPOSITION 1 REPLACEMENT MAINTENANCE AND OPERATION LEVY,,,LEVY . . . YES,20
 Douglas,LAKE CHELAN SD PROPOSITION 1 REPLACEMENT MAINTENANCE AND OPERATION LEVY,,,LEVY . . . NO,17
 Douglas,LAKE CHELAN SD PROPOSITION 2 CAPITAL LEVY FOR EDUCATIONAL TECHNOLOGY IMPROVEMENTS,,,LEVY . . . YES,25
 Douglas,LAKE CHELAN SD PROPOSITION 2 CAPITAL LEVY FOR EDUCATIONAL TECHNOLOGY IMPROVEMENTS,,,LEVY . . . NO,12
-Douglas,MANSFIELD SD Proposition 1  FOUR YEAR SCHOOL MAINTENANCE AND OPERATION LEVY,,,LEVY____  YES,130
-Douglas,MANSFIELD SD Proposition 1  FOUR YEAR SCHOOL MAINTENANCE AND OPERATION LEVY,,,LEVY ____ NO,50
-Douglas,ORONDO SD Proposition 1 TWO-YEAR REPLACEMENT MAINTENANCE AND OPERATION LEVY,,,LEVY____  YES,129
+Douglas,MANSFIELD SD Proposition 1 FOUR YEAR SCHOOL MAINTENANCE AND OPERATION LEVY,,,LEVY____ YES,130
+Douglas,MANSFIELD SD Proposition 1 FOUR YEAR SCHOOL MAINTENANCE AND OPERATION LEVY,,,LEVY ____ NO,50
+Douglas,ORONDO SD Proposition 1 TWO-YEAR REPLACEMENT MAINTENANCE AND OPERATION LEVY,,,LEVY____ YES,129
 Douglas,ORONDO SD Proposition 1 TWO-YEAR REPLACEMENT MAINTENANCE AND OPERATION LEVY,,,LEVY ____ NO,94
-Douglas,PALISADES SD Proposition 1 Maintenance And Operation Levy,,,LEVY____  YES,56
+Douglas,PALISADES SD Proposition 1 Maintenance And Operation Levy,,,LEVY____ YES,56
 Douglas,PALISADES SD Proposition 1 Maintenance And Operation Levy,,,LEVY ____ NO,9
 Douglas,"QUINCY SD PROPOSITION NO. 1 BONDS TO CONSTRUCT, RENOVATE AND IMPROVE SCHOOL FACILITIES",,,Approved,24
 Douglas,"QUINCY SD PROPOSITION NO. 1 BONDS TO CONSTRUCT, RENOVATE AND IMPROVE SCHOOL FACILITIES",,,Rejected,5
@@ -249,7 +249,7 @@ Mason,"Hood Canal School 404 Replacement of Expiring Educational Programs, Maint
 Mason,"Hood Canal School 404 Replacement of Expiring Educational Programs, Maintenance and Operations Levy",,,Levy...No,701
 Okanogan,NESPELEM SCHOOL 14 Proposition 1 Replacement Maintenance and Operation Levy,,,Levy Yes,72
 Okanogan,NESPELEM SCHOOL 14 Proposition 1 Replacement Maintenance and Operation Levy,,,Levy No,20
-Okanogan,BRIDGEPORT SCHOOL 75J Proposition 1 Maintenance And Operation Levy,,,LEVY____  YES,7
+Okanogan,BRIDGEPORT SCHOOL 75J Proposition 1 Maintenance And Operation Levy,,,LEVY____ YES,7
 Okanogan,BRIDGEPORT SCHOOL 75J Proposition 1 Maintenance And Operation Levy,,,LEVY ____ NO,2
 Okanogan,"BREWSTER SCHOOL 111-203J Proposition 1 School Facilities Improvements General Obligation Bonds - $17,881,998",,,Approved,408
 Okanogan,"BREWSTER SCHOOL 111-203J Proposition 1 School Facilities Improvements General Obligation Bonds - $17,881,998",,,Rejected,214
@@ -267,8 +267,8 @@ Okanogan,OROVILLE SCHOOL 410 Proposition 1 Replacement Maintenance and Operation
 Okanogan,OROVILLE SCHOOL 410 Proposition 1 Replacement Maintenance and Operation Levy,,,Levy No,391
 Pacific,School District #116 PROPOSITION NO. 1 REPLACEMENT OF EXPIRING SCHOOL MAINTENANCE AND OPERATION LEVY,,,Yes,516
 Pacific,School District #116 PROPOSITION NO. 1 REPLACEMENT OF EXPIRING SCHOOL MAINTENANCE AND OPERATION LEVY,,,No,277
-Pacific,School District #118 PROPOSITION NO. 1 EXCESS REPLACEMENT  LEVY,,,Yes,426
-Pacific,School District #118 PROPOSITION NO. 1 EXCESS REPLACEMENT  LEVY,,,No,174
+Pacific,School District #118 PROPOSITION NO. 1 EXCESS REPLACEMENT LEVY,,,Yes,426
+Pacific,School District #118 PROPOSITION NO. 1 EXCESS REPLACEMENT LEVY,,,No,174
 Pacific,School District #160 PROPOSITION NO. 1 REPLACEMENT OF EXPIRING EDUCATIONAL PROGRAMS AND OPERATION LEVY,,,Yes,440
 Pacific,School District #160 PROPOSITION NO. 1 REPLACEMENT OF EXPIRING EDUCATIONAL PROGRAMS AND OPERATION LEVY,,,No,297
 Pacific,School District #301 Replacement Educational Maintenance and Operation Levy,,,Yes,0
@@ -345,8 +345,8 @@ Spokane,GREAT NORTHERN SD 312 Great Northern School District No. 312 Proposition
 Spokane,GREAT NORTHERN SD 312 Great Northern School District No. 312 Proposition No. 1 Two-Year Maintenance and Operation Levy,,,Levy No,47
 Spokane,EAST VALLEY SD 361 East Valley School District No. 361 Proposition No. 1 Replacement of Expiring Maintenance and Operation Levy,,,Levy Yes,3228
 Spokane,EAST VALLEY SD 361 East Valley School District No. 361 Proposition No. 1 Replacement of Expiring Maintenance and Operation Levy,,,Levy No,1995
-Spokane,"LIBERTY SD 362 Liberty School District Proposition No. 1  Bonds to Renovate, Improve and Construct School Facilities",,,Approved,892
-Spokane,"LIBERTY SD 362 Liberty School District Proposition No. 1  Bonds to Renovate, Improve and Construct School Facilities",,,Rejected,560
+Spokane,"LIBERTY SD 362 Liberty School District Proposition No. 1 Bonds to Renovate, Improve and Construct School Facilities",,,Approved,892
+Spokane,"LIBERTY SD 362 Liberty School District Proposition No. 1 Bonds to Renovate, Improve and Construct School Facilities",,,Rejected,560
 Spokane,"ST JOHN SD 401 St John School District No. 322 Proposition 2 Capital Levy for Technology, Safety and Security Improvements",,,YES,2
 Spokane,"ST JOHN SD 401 St John School District No. 322 Proposition 2 Capital Levy for Technology, Safety and Security Improvements",,,NO,2
 Spokane,ST JOHN SD 401 St John School District No. 322 Proposition 1 Replacement Maintenance and Operation Levy,,,YES,2
@@ -415,14 +415,14 @@ Whatcom,Ferndale School District 502 Proposition No. 2016-1 Replacement Educatio
 Whatcom,Ferndale School District 502 Proposition No. 2016-1 Replacement Educational Program and Operations Levy,,,No,2467
 Whatcom,Blaine School District 503 Proposition No. 2016-1 Replacement Maintenance and Operations Levy,,,Yes,2887
 Whatcom,Blaine School District 503 Proposition No. 2016-1 Replacement Maintenance and Operations Levy,,,No,1305
-Whatcom,Lynden School District  504 Proposition No. 2016-1 Replacement Educational Maintenance and Operations Levy,,,Yes,3567
-Whatcom,Lynden School District  504 Proposition No. 2016-1 Replacement Educational Maintenance and Operations Levy,,,No,1804
+Whatcom,Lynden School District 504 Proposition No. 2016-1 Replacement Educational Maintenance and Operations Levy,,,Yes,3567
+Whatcom,Lynden School District 504 Proposition No. 2016-1 Replacement Educational Maintenance and Operations Levy,,,No,1804
 Whatcom,Meridian School District 505 Proposition No. 2016-1 Replacement Educational Maintenance and Operations Levy,,,Yes,1806
 Whatcom,Meridian School District 505 Proposition No. 2016-1 Replacement Educational Maintenance and Operations Levy,,,No,865
 Whatcom,Nooksack Valley School District 506 Proposition No. 2016-1 Educational Maintenance and Operations Levy,,,Yes,1490
 Whatcom,Nooksack Valley School District 506 Proposition No. 2016-1 Educational Maintenance and Operations Levy,,,No,662
-Whatcom,Mt Baker School District  507 Proposition No. 2016-1 Replacement Educational Programs and Operations Levy,,,Yes,2027
-Whatcom,Mt Baker School District  507 Proposition No. 2016-1 Replacement Educational Programs and Operations Levy,,,No,1100
+Whatcom,Mt Baker School District 507 Proposition No. 2016-1 Replacement Educational Programs and Operations Levy,,,Yes,2027
+Whatcom,Mt Baker School District 507 Proposition No. 2016-1 Replacement Educational Programs and Operations Levy,,,No,1100
 Whatcom,"Concrete School District 11 Proposition No. 1 Concrete School District No. 11, Replacement Educational Programs and Operations Levy",,,Levy Yes,7
 Whatcom,"Concrete School District 11 Proposition No. 1 Concrete School District No. 11, Replacement Educational Programs and Operations Levy",,,Levy No,1
 Whatcom,Fire Protection District 8 Proposition No. 2016-1 Tax Levy For Maintenance and Operations,,,Yes,965
