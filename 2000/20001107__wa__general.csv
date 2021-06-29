@@ -1344,24 +1344,24 @@ Kent,Landerholm,Kent Landerholm,D,D,State Senate District #18,,,county,Clark,124
 Kent,Landerholm,Kent Landerholm,D,D,State Senate District #18,,,county,Cowlitz,7417
 Kent,Landerholm,Kent Landerholm,D,D,State Senate District #18,,,county,Lewis,2945
 Kent,Landerholm,Kent Landerholm,D,D,State Senate District #18,,,state,Washington,22844
-Joseph ,Zarelli,Joseph Zarelli,R,R,State Senate District #18,,,county,Clark,16741
-Joseph ,Zarelli,Joseph Zarelli,R,R,State Senate District #18,,,county,Cowlitz,8925
-Joseph ,Zarelli,Joseph Zarelli,R,R,State Senate District #18,,,county,Lewis,6623
-Joseph ,Zarelli,Joseph Zarelli,R,R,State Senate District #18,,,state,Washington,32289
+Joseph,Zarelli,Joseph Zarelli,R,R,State Senate District #18,,,county,Clark,16741
+Joseph,Zarelli,Joseph Zarelli,R,R,State Senate District #18,,,county,Cowlitz,8925
+Joseph,Zarelli,Joseph Zarelli,R,R,State Senate District #18,,,county,Lewis,6623
+Joseph,Zarelli,Joseph Zarelli,R,R,State Senate District #18,,,state,Washington,32289
 Sid,Snyder,Sid Snyder,D,D,State Senate District #19,,,county,Cowlitz,11500
 Sid,Snyder,Sid Snyder,D,D,State Senate District #19,,,county,Grays Harbor,7849
 Sid,Snyder,Sid Snyder,D,D,State Senate District #19,,,county,Pacific,6457
 Sid,Snyder,Sid Snyder,D,D,State Senate District #19,,,county,Wahkiakum,1368
 Sid,Snyder,Sid Snyder,D,D,State Senate District #19,,,state,Washington,27174
-Bill ,Schumacher,Bill Schumacher,R,R,State Senate District #19,,,county,Cowlitz,6951
-Bill ,Schumacher,Bill Schumacher,R,R,State Senate District #19,,,county,Grays Harbor,3879
-Bill ,Schumacher,Bill Schumacher,R,R,State Senate District #19,,,county,Pacific,2648
-Bill ,Schumacher,Bill Schumacher,R,R,State Senate District #19,,,county,Wahkiakum,558
-Bill ,Schumacher,Bill Schumacher,R,R,State Senate District #19,,,state,Washington,14036
-Tom ,Beattie,Tom Beattie,D,D,State Senate District #20,,,county,Lewis,5045
-Tom ,Beattie,Tom Beattie,D,D,State Senate District #20,,,county,Pierce,1842
-Tom ,Beattie,Tom Beattie,D,D,State Senate District #20,,,county,Thurston,9288
-Tom ,Beattie,Tom Beattie,D,D,State Senate District #20,,,state,Washington,16175
+Bill,Schumacher,Bill Schumacher,R,R,State Senate District #19,,,county,Cowlitz,6951
+Bill,Schumacher,Bill Schumacher,R,R,State Senate District #19,,,county,Grays Harbor,3879
+Bill,Schumacher,Bill Schumacher,R,R,State Senate District #19,,,county,Pacific,2648
+Bill,Schumacher,Bill Schumacher,R,R,State Senate District #19,,,county,Wahkiakum,558
+Bill,Schumacher,Bill Schumacher,R,R,State Senate District #19,,,state,Washington,14036
+Tom,Beattie,Tom Beattie,D,D,State Senate District #20,,,county,Lewis,5045
+Tom,Beattie,Tom Beattie,D,D,State Senate District #20,,,county,Pierce,1842
+Tom,Beattie,Tom Beattie,D,D,State Senate District #20,,,county,Thurston,9288
+Tom,Beattie,Tom Beattie,D,D,State Senate District #20,,,state,Washington,16175
 Dan,Swecker,Dan Swecker,R,R,State Senate District #20,,,county,Lewis,12675
 Dan,Swecker,Dan Swecker,R,R,State Senate District #20,,,county,Pierce,2879
 Dan,Swecker,Dan Swecker,R,R,State Senate District #20,,,county,Thurston,14722
@@ -1434,9 +1434,9 @@ Ian N.,Bannerman,Ian N. Bannerman,L,L,State Senate District #40,,,county,San Jua
 Ian N.,Bannerman,Ian N. Bannerman,L,L,State Senate District #40,,,county,Skagit,1394
 Ian N.,Bannerman,Ian N. Bannerman,L,L,State Senate District #40,,,county,Whatcom,655
 Ian N.,Bannerman,Ian N. Bannerman,L,L,State Senate District #40,,,state,Washington,2432
-Jim ,Peck,Jim Peck,D,D,State Senate District #4,,,county,King,0
-Jim ,Peck,Jim Peck,D,D,State Senate District #4,,,county,Spokane,15648
-Jim ,Peck,Jim Peck,D,D,State Senate District #4,,,state,Washington,15648
+Jim,Peck,Jim Peck,D,D,State Senate District #4,,,county,King,0
+Jim,Peck,Jim Peck,D,D,State Senate District #4,,,county,Spokane,15648
+Jim,Peck,Jim Peck,D,D,State Senate District #4,,,state,Washington,15648
 Bob,McCaslin,Bob McCaslin,R,R,State Senate District #4,,,county,King,0
 Bob,McCaslin,Bob McCaslin,R,R,State Senate District #4,,,county,Spokane,28862
 Bob,McCaslin,Bob McCaslin,R,R,State Senate District #4,,,state,Washington,28862
@@ -2090,86 +2090,86 @@ J. Bradley,Gibson,J. Bradley Gibson,L,L,Secretary of State,NA,,county,Whatcom,29
 J. Bradley,Gibson,J. Bradley Gibson,L,L,Secretary of State,NA,,county,Whitman,617
 J. Bradley,Gibson,J. Bradley Gibson,L,L,Secretary of State,NA,,county,Yakima,2484
 J. Bradley,Gibson,J. Bradley Gibson,L,L,Secretary of State,NA,,state,Washington,94202
-Chris ,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Adams,68
-Chris ,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Asotin,172
-Chris ,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Benton,1284
-Chris ,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Chelan,609
-Chris ,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Clallam,605
-Chris ,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Clark,2909
-Chris ,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Columbia,57
-Chris ,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Cowlitz,938
-Chris ,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Douglas,204
-Chris ,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Ferry,116
-Chris ,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Franklin,237
-Chris ,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Garfield,38
-Chris ,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Grant,454
-Chris ,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Grays Harbor,478
-Chris ,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Island,614
-Chris ,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Jefferson,318
-Chris ,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,King,15839
-Chris ,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Kitsap,1868
-Chris ,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Kittitas,290
-Chris ,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Klickitat,155
-Chris ,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Lewis,580
-Chris ,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Lincoln,98
-Chris ,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Mason,455
-Chris ,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Okanogan,380
-Chris ,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Pacific,176
-Chris ,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Pend Oreille,137
-Chris ,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Pierce,5399
-Chris ,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,San Juan,181
-Chris ,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Skagit,892
-Chris ,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Skamania,136
-Chris ,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Snohomish,4829
-Chris ,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Spokane,2988
-Chris ,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Stevens,601
-Chris ,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Thurston,1858
-Chris ,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Wahkiakum,36
-Chris ,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Walla Walla,432
-Chris ,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Whatcom,1330
-Chris ,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Whitman,301
-Chris ,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Yakima,1355
-Chris ,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,state,Washington,49417
-Maria ,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Adams,1328
-Maria ,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Asotin,2789
-Maria ,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Benton,17858
-Maria ,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Chelan,7758
-Maria ,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Clallam,13202
-Maria ,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Clark,58971
-Maria ,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Columbia,467
-Maria ,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Cowlitz,16271
-Maria ,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Douglas,3177
-Maria ,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Ferry,996
-Maria ,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Franklin,4445
-Maria ,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Garfield,284
-Maria ,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Grant,6768
-Maria ,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Grays Harbor,11449
-Maria ,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Island,14676
-Maria ,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Jefferson,8647
-Maria ,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,King,459605
-Maria ,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Kitsap,49627
-Maria ,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Kittitas,5598
-Maria ,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Klickitat,3214
-Maria ,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Lewis,8843
-Maria ,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Lincoln,1379
-Maria ,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Mason,10268
-Maria ,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Okanogan,4253
-Maria ,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Pacific,4348
-Maria ,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Pend Oreille,1994
-Maria ,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Pierce,127644
-Maria ,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,San Juan,4729
-Maria ,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Skagit,19628
-Maria ,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Skamania,1717
-Maria ,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Snohomish,123111
-Maria ,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Spokane,73565
-Maria ,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Stevens,5792
-Maria ,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Thurston,50436
-Maria ,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Wahkiakum,762
-Maria ,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Walla Walla,7249
-Maria ,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Whatcom,33308
-Maria ,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Whitman,6516
-Maria ,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Yakima,26765
-Maria ,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,state,Washington,1199437
+Chris,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Adams,68
+Chris,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Asotin,172
+Chris,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Benton,1284
+Chris,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Chelan,609
+Chris,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Clallam,605
+Chris,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Clark,2909
+Chris,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Columbia,57
+Chris,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Cowlitz,938
+Chris,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Douglas,204
+Chris,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Ferry,116
+Chris,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Franklin,237
+Chris,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Garfield,38
+Chris,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Grant,454
+Chris,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Grays Harbor,478
+Chris,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Island,614
+Chris,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Jefferson,318
+Chris,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,King,15839
+Chris,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Kitsap,1868
+Chris,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Kittitas,290
+Chris,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Klickitat,155
+Chris,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Lewis,580
+Chris,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Lincoln,98
+Chris,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Mason,455
+Chris,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Okanogan,380
+Chris,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Pacific,176
+Chris,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Pend Oreille,137
+Chris,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Pierce,5399
+Chris,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,San Juan,181
+Chris,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Skagit,892
+Chris,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Skamania,136
+Chris,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Snohomish,4829
+Chris,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Spokane,2988
+Chris,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Stevens,601
+Chris,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Thurston,1858
+Chris,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Wahkiakum,36
+Chris,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Walla Walla,432
+Chris,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Whatcom,1330
+Chris,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Whitman,301
+Chris,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,county,Yakima,1355
+Chris,Loftis,Chris Loftis,RFM,RFM,Secretary of State,NA,,state,Washington,49417
+Maria,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Adams,1328
+Maria,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Asotin,2789
+Maria,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Benton,17858
+Maria,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Chelan,7758
+Maria,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Clallam,13202
+Maria,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Clark,58971
+Maria,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Columbia,467
+Maria,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Cowlitz,16271
+Maria,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Douglas,3177
+Maria,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Ferry,996
+Maria,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Franklin,4445
+Maria,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Garfield,284
+Maria,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Grant,6768
+Maria,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Grays Harbor,11449
+Maria,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Island,14676
+Maria,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Jefferson,8647
+Maria,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,King,459605
+Maria,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Kitsap,49627
+Maria,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Kittitas,5598
+Maria,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Klickitat,3214
+Maria,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Lewis,8843
+Maria,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Lincoln,1379
+Maria,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Mason,10268
+Maria,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Okanogan,4253
+Maria,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Pacific,4348
+Maria,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Pend Oreille,1994
+Maria,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Pierce,127644
+Maria,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,San Juan,4729
+Maria,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Skagit,19628
+Maria,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Skamania,1717
+Maria,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Snohomish,123111
+Maria,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Spokane,73565
+Maria,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Stevens,5792
+Maria,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Thurston,50436
+Maria,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Wahkiakum,762
+Maria,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Walla Walla,7249
+Maria,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Whatcom,33308
+Maria,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Whitman,6516
+Maria,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,county,Yakima,26765
+Maria,Cantwell,Maria Cantwell,D,D,U. S. Senator,NA,,state,Washington,1199437
 Slade,Gorton,Slade Gorton,R,R,U. S. Senator,NA,,county,Adams,3542
 Slade,Gorton,Slade Gorton,R,R,U. S. Senator,NA,,county,Asotin,4917
 Slade,Gorton,Slade Gorton,R,R,U. S. Senator,NA,,county,Benton,40314
@@ -2462,8 +2462,8 @@ Joyce,Mulliken,Joyce Mulliken,R,R,State Representative District #13,Position #2,
 Joyce,Mulliken,Joyce Mulliken,R,R,State Representative District #13,Position #2,,county,Kittitas,8405
 Joyce,Mulliken,Joyce Mulliken,R,R,State Representative District #13,Position #2,,county,Yakima,7617
 Joyce,Mulliken,Joyce Mulliken,R,R,State Representative District #13,Position #2,,state,Washington,31304
-Jim R. ,Morrison,Jim R. Morrison,D,D,State Representative District #14,Position #1,,county,Yakima,10443
-Jim R. ,Morrison,Jim R. Morrison,D,D,State Representative District #14,Position #1,,state,Washington,10443
+Jim R.,Morrison,Jim R. Morrison,D,D,State Representative District #14,Position #1,,county,Yakima,10443
+Jim R.,Morrison,Jim R. Morrison,D,D,State Representative District #14,Position #1,,state,Washington,10443
 Mary,Skinner,Mary Skinner,R,R,State Representative District #14,Position #1,,county,Yakima,25404
 Mary,Skinner,Mary Skinner,R,R,State Representative District #14,Position #1,,state,Washington,25404
 Paul Douglas,Franklin,Paul Douglas Franklin,CPY,CPY,State Representative District #14,Position #1,,county,Yakima,2073
@@ -2472,11 +2472,11 @@ Ed,Lisowski,Ed Lisowski,D,D,State Representative District #14,Position #2,,count
 Ed,Lisowski,Ed Lisowski,D,D,State Representative District #14,Position #2,,state,Washington,9903
 Jim,Clements,Jim Clements,R,R,State Representative District #14,Position #2,,county,Yakima,27457
 Jim,Clements,Jim Clements,R,R,State Representative District #14,Position #2,,state,Washington,27457
-William J. ,"Yallup, Jr.","William J. Yallup, Jr.",D,D,State Representative District #15,Position #1,,county,Benton,1228
-William J. ,"Yallup, Jr.","William J. Yallup, Jr.",D,D,State Representative District #15,Position #1,,county,Klickitat,2695
-William J. ,"Yallup, Jr.","William J. Yallup, Jr.",D,D,State Representative District #15,Position #1,,county,Skamania,495
-William J. ,"Yallup, Jr.","William J. Yallup, Jr.",D,D,State Representative District #15,Position #1,,county,Yakima,6182
-William J. ,"Yallup, Jr.","William J. Yallup, Jr.",D,D,State Representative District #15,Position #1,,state,Washington,10600
+William J.,"Yallup, Jr.","William J. Yallup, Jr.",D,D,State Representative District #15,Position #1,,county,Benton,1228
+William J.,"Yallup, Jr.","William J. Yallup, Jr.",D,D,State Representative District #15,Position #1,,county,Klickitat,2695
+William J.,"Yallup, Jr.","William J. Yallup, Jr.",D,D,State Representative District #15,Position #1,,county,Skamania,495
+William J.,"Yallup, Jr.","William J. Yallup, Jr.",D,D,State Representative District #15,Position #1,,county,Yakima,6182
+William J.,"Yallup, Jr.","William J. Yallup, Jr.",D,D,State Representative District #15,Position #1,,state,Washington,10600
 Bruce,Chandler,Bruce Chandler,R,R,State Representative District #15,Position #1,,county,Benton,3784
 Bruce,Chandler,Bruce Chandler,R,R,State Representative District #15,Position #1,,county,Klickitat,4727
 Bruce,Chandler,Bruce Chandler,R,R,State Representative District #15,Position #1,,county,Skamania,709
@@ -2535,10 +2535,10 @@ Michele,Cotner,Michele Cotner,D,D,State Representative District #18,Position #1,
 Michele,Cotner,Michele Cotner,D,D,State Representative District #18,Position #1,,county,Cowlitz,7094
 Michele,Cotner,Michele Cotner,D,D,State Representative District #18,Position #1,,county,Lewis,2977
 Michele,Cotner,Michele Cotner,D,D,State Representative District #18,Position #1,,state,Washington,21380
-Tom ,Mielke,Tom Mielke,R,R,State Representative District #18,Position #1,,county,Clark,17404
-Tom ,Mielke,Tom Mielke,R,R,State Representative District #18,Position #1,,county,Cowlitz,9075
-Tom ,Mielke,Tom Mielke,R,R,State Representative District #18,Position #1,,county,Lewis,6475
-Tom ,Mielke,Tom Mielke,R,R,State Representative District #18,Position #1,,state,Washington,32954
+Tom,Mielke,Tom Mielke,R,R,State Representative District #18,Position #1,,county,Clark,17404
+Tom,Mielke,Tom Mielke,R,R,State Representative District #18,Position #1,,county,Cowlitz,9075
+Tom,Mielke,Tom Mielke,R,R,State Representative District #18,Position #1,,county,Lewis,6475
+Tom,Mielke,Tom Mielke,R,R,State Representative District #18,Position #1,,state,Washington,32954
 Marlene,Adams,Marlene Adams,D,D,State Representative District #18,Position #2,,county,Clark,9937
 Marlene,Adams,Marlene Adams,D,D,State Representative District #18,Position #2,,county,Cowlitz,6015
 Marlene,Adams,Marlene Adams,D,D,State Representative District #18,Position #2,,county,Lewis,2591
@@ -2561,11 +2561,11 @@ Doug,Camenzind,Doug Camenzind,R,R,State Representative District #19,Position #1,
 Doug,Camenzind,Doug Camenzind,R,R,State Representative District #19,Position #1,,county,Pacific,4048
 Doug,Camenzind,Doug Camenzind,R,R,State Representative District #19,Position #1,,county,Wahkiakum,678
 Doug,Camenzind,Doug Camenzind,R,R,State Representative District #19,Position #1,,state,Washington,14812
-Mark L. ,Doumit,Mark L. Doumit,D,D,State Representative District #19,Position #2,,county,Cowlitz,12029
-Mark L. ,Doumit,Mark L. Doumit,D,D,State Representative District #19,Position #2,,county,Grays Harbor,7933
-Mark L. ,Doumit,Mark L. Doumit,D,D,State Representative District #19,Position #2,,county,Pacific,5910
-Mark L. ,Doumit,Mark L. Doumit,D,D,State Representative District #19,Position #2,,county,Wahkiakum,1477
-Mark L. ,Doumit,Mark L. Doumit,D,D,State Representative District #19,Position #2,,state,Washington,27349
+Mark L.,Doumit,Mark L. Doumit,D,D,State Representative District #19,Position #2,,county,Cowlitz,12029
+Mark L.,Doumit,Mark L. Doumit,D,D,State Representative District #19,Position #2,,county,Grays Harbor,7933
+Mark L.,Doumit,Mark L. Doumit,D,D,State Representative District #19,Position #2,,county,Pacific,5910
+Mark L.,Doumit,Mark L. Doumit,D,D,State Representative District #19,Position #2,,county,Wahkiakum,1477
+Mark L.,Doumit,Mark L. Doumit,D,D,State Representative District #19,Position #2,,state,Washington,27349
 Rachel,Alexy,Rachel Alexy,R,R,State Representative District #19,Position #2,,county,Cowlitz,6178
 Rachel,Alexy,Rachel Alexy,R,R,State Representative District #19,Position #2,,county,Grays Harbor,3520
 Rachel,Alexy,Rachel Alexy,R,R,State Representative District #19,Position #2,,county,Pacific,2838
@@ -2593,8 +2593,8 @@ Mike,Cooper,Mike Cooper,D,D,State Representative District #21,Position #1,,count
 Mike,Cooper,Mike Cooper,D,D,State Representative District #21,Position #1,,state,Washington,27979
 Stan,Monlux,Stan Monlux,R,R,State Representative District #21,Position #1,,county,Snohomish,17299
 Stan,Monlux,Stan Monlux,R,R,State Representative District #21,Position #1,,state,Washington,17299
-Erica ,Merkley,Erica Merkley,L,L,State Representative District #21,Position #1,,county,Snohomish,1961
-Erica ,Merkley,Erica Merkley,L,L,State Representative District #21,Position #1,,state,Washington,1961
+Erica,Merkley,Erica Merkley,L,L,State Representative District #21,Position #1,,county,Snohomish,1961
+Erica,Merkley,Erica Merkley,L,L,State Representative District #21,Position #1,,state,Washington,1961
 Roger,Bush,Roger Bush,R,R,State Representative District #2,Position #1,,county,Pierce,22805
 Roger,Bush,Roger Bush,R,R,State Representative District #2,Position #1,,state,Washington,22805
 Ned,Daniels,Ned Daniels,D,D,State Representative District #21,Position #2,,county,Snohomish,20866
@@ -2611,8 +2611,8 @@ Franklin D.R.,"Wilson, III","Franklin D.R. Wilson, III",R,R,State Representative
 Franklin D.R.,"Wilson, III","Franklin D.R. Wilson, III",R,R,State Representative District #22,Position #1,,state,Washington,16731
 Joshua,Amos,Joshua Amos,L,L,State Representative District #22,Position #1,,county,Thurston,2522
 Joshua,Amos,Joshua Amos,L,L,State Representative District #22,Position #1,,state,Washington,2522
-Tom ,Campbell,Tom Campbell,R,R,State Representative District #2,Position #2,,county,Pierce,23039
-Tom ,Campbell,Tom Campbell,R,R,State Representative District #2,Position #2,,state,Washington,23039
+Tom,Campbell,Tom Campbell,R,R,State Representative District #2,Position #2,,county,Pierce,23039
+Tom,Campbell,Tom Campbell,R,R,State Representative District #2,Position #2,,state,Washington,23039
 Sam,Hunt,Sam Hunt,D,D,State Representative District #22,Position #2,,county,Thurston,35977
 Sam,Hunt,Sam Hunt,D,D,State Representative District #22,Position #2,,state,Washington,35977
 Bill,Pilkey,Bill Pilkey,R,R,State Representative District #22,Position #2,,county,Thurston,17262
@@ -2657,9 +2657,9 @@ Adrienne,Thompson,Adrienne Thompson,D,D,State Representative District #25,Positi
 Dave,Morell,Dave Morell,R,R,State Representative District #25,Position #2,,county,King,849
 Dave,Morell,Dave Morell,R,R,State Representative District #25,Position #2,,county,Pierce,23375
 Dave,Morell,Dave Morell,R,R,State Representative District #25,Position #2,,state,Washington,24224
-Patricia ,Lantz,Patricia Lantz,D,D,State Representative District #26,Position #1,,county,Kitsap,13454
-Patricia ,Lantz,Patricia Lantz,D,D,State Representative District #26,Position #1,,county,Pierce,15874
-Patricia ,Lantz,Patricia Lantz,D,D,State Representative District #26,Position #1,,state,Washington,29328
+Patricia,Lantz,Patricia Lantz,D,D,State Representative District #26,Position #1,,county,Kitsap,13454
+Patricia,Lantz,Patricia Lantz,D,D,State Representative District #26,Position #1,,county,Pierce,15874
+Patricia,Lantz,Patricia Lantz,D,D,State Representative District #26,Position #1,,state,Washington,29328
 Randy,Boss,Randy Boss,R,R,State Representative District #26,Position #1,,county,Kitsap,9858
 Randy,Boss,Randy Boss,R,R,State Representative District #26,Position #1,,county,Pierce,13969
 Randy,Boss,Randy Boss,R,R,State Representative District #26,Position #1,,state,Washington,23827
@@ -2693,9 +2693,9 @@ Nicholis,Nelson,Nicholis Nelson,R,R,State Representative District #29,Position #
 Mark,Miloscia,Mark Miloscia,D,D,State Representative District #30,Position #1,,county,King,20236
 Mark,Miloscia,Mark Miloscia,D,D,State Representative District #30,Position #1,,county,Pierce,4397
 Mark,Miloscia,Mark Miloscia,D,D,State Representative District #30,Position #1,,state,Washington,24633
-Tom ,Pierson,Tom Pierson,R,R,State Representative District #30,Position #1,,county,King,14444
-Tom ,Pierson,Tom Pierson,R,R,State Representative District #30,Position #1,,county,Pierce,3592
-Tom ,Pierson,Tom Pierson,R,R,State Representative District #30,Position #1,,state,Washington,18036
+Tom,Pierson,Tom Pierson,R,R,State Representative District #30,Position #1,,county,King,14444
+Tom,Pierson,Tom Pierson,R,R,State Representative District #30,Position #1,,county,Pierce,3592
+Tom,Pierson,Tom Pierson,R,R,State Representative District #30,Position #1,,state,Washington,18036
 Michael R.,Maine,Michael R. Maine,D,D,State Representative District #30,Position #2,,county,King,12949
 Michael R.,Maine,Michael R. Maine,D,D,State Representative District #30,Position #2,,county,Pierce,3013
 Michael R.,Maine,Michael R. Maine,D,D,State Representative District #30,Position #2,,state,Washington,15962
@@ -2805,8 +2805,8 @@ Blythe,Brockway,Blythe Brockway,L,L,State Representative District #38,Position #
 Blythe,Brockway,Blythe Brockway,L,L,State Representative District #38,Position #1,,state,Washington,2086
 Patricia (Pat),Scott,"Patricia ""Pat"" Scott",D,D,State Representative District #38,Position #2,,county,Snohomish,29984
 Patricia (Pat),Scott,"Patricia ""Pat"" Scott",D,D,State Representative District #38,Position #2,,state,Washington,29984
-Gregory Dean ,Lemke,Gregory Dean Lemke,R,R,State Representative District #38,Position #2,,county,Snohomish,8729
-Gregory Dean ,Lemke,Gregory Dean Lemke,R,R,State Representative District #38,Position #2,,state,Washington,8729
+Gregory Dean,Lemke,Gregory Dean Lemke,R,R,State Representative District #38,Position #2,,county,Snohomish,8729
+Gregory Dean,Lemke,Gregory Dean Lemke,R,R,State Representative District #38,Position #2,,state,Washington,8729
 Howard,Gross,Howard Gross,L,L,State Representative District #38,Position #2,,county,Snohomish,3574
 Howard,Gross,Howard Gross,L,L,State Representative District #38,Position #2,,state,Washington,3574
 Hans,Dunshee,Hans Dunshee,D,D,State Representative District #39,Position #1,,county,King,148
@@ -2915,8 +2915,8 @@ Phil,Fortunato,Phil Fortunato,R,R,State Representative District #47,Position #1,
 Phil,Fortunato,Phil Fortunato,R,R,State Representative District #47,Position #1,,state,Washington,21856
 Debbie,Jacobson,Debbie Jacobson,D,D,State Representative District #47,Position #2,,county,King,21197
 Debbie,Jacobson,Debbie Jacobson,D,D,State Representative District #47,Position #2,,state,Washington,21197
-Jack ,Cairnes,Jack Cairnes,R,R,State Representative District #47,Position #2,,county,King,21311
-Jack ,Cairnes,Jack Cairnes,R,R,State Representative District #47,Position #2,,state,Washington,21311
+Jack,Cairnes,Jack Cairnes,R,R,State Representative District #47,Position #2,,county,King,21311
+Jack,Cairnes,Jack Cairnes,R,R,State Representative District #47,Position #2,,state,Washington,21311
 Randy,Johnson,Randy Johnson,D,D,State Representative District #48,Position #1,,county,King,17227
 Randy,Johnson,Randy Johnson,D,D,State Representative District #48,Position #1,,state,Washington,17227
 Luke,Esser,Luke Esser,R,R,State Representative District #48,Position #1,,county,King,24663
@@ -3131,46 +3131,46 @@ Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,c
 Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,county,Whitman,10152
 Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,county,Yakima,49637
 Bobbe J.,Bridge,Bobbe J. Bridge,NP,NP,State Supreme Court Justice,Position #7,,state,Washington,1523168
-Gerry L. ,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Adams,3125
-Gerry L. ,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Asotin,4859
-Gerry L. ,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Benton,35641
-Gerry L. ,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Chelan,15695
-Gerry L. ,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Clallam,17317
-Gerry L. ,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Clark,82582
-Gerry L. ,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Columbia,1355
-Gerry L. ,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Cowlitz,25162
-Gerry L. ,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Douglas,8287
-Gerry L. ,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Ferry,1795
-Gerry L. ,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Franklin,9376
-Gerry L. ,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Garfield,817
-Gerry L. ,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Grant,15115
-Gerry L. ,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Grays Harbor,16916
-Gerry L. ,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Island,17628
-Gerry L. ,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Jefferson,9837
-Gerry L. ,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,King,425690
-Gerry L. ,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Kitsap,70108
-Gerry L. ,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Kittitas,9310
-Gerry L. ,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Klickitat,5057
-Gerry L. ,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Lewis,17666
-Gerry L. ,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Lincoln,2692
-Gerry L. ,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Mason,13191
-Gerry L. ,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Okanogan,7542
-Gerry L. ,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Pacific,4715
-Gerry L. ,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Pend Oreille,3646
-Gerry L. ,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Pierce,180093
-Gerry L. ,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,San Juan,4579
-Gerry L. ,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Skagit,28751
-Gerry L. ,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Skamania,2655
-Gerry L. ,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Snohomish,165555
-Gerry L. ,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Spokane,108419
-Gerry L. ,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Stevens,10329
-Gerry L. ,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Thurston,59485
-Gerry L. ,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Wahkiakum,1178
-Gerry L. ,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Walla Walla,14138
-Gerry L. ,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Whatcom,32070
-Gerry L. ,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Whitman,10050
-Gerry L. ,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Yakima,49325
-Gerry L. ,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,state,Washington,1491751
+Gerry L.,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Adams,3125
+Gerry L.,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Asotin,4859
+Gerry L.,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Benton,35641
+Gerry L.,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Chelan,15695
+Gerry L.,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Clallam,17317
+Gerry L.,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Clark,82582
+Gerry L.,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Columbia,1355
+Gerry L.,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Cowlitz,25162
+Gerry L.,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Douglas,8287
+Gerry L.,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Ferry,1795
+Gerry L.,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Franklin,9376
+Gerry L.,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Garfield,817
+Gerry L.,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Grant,15115
+Gerry L.,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Grays Harbor,16916
+Gerry L.,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Island,17628
+Gerry L.,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Jefferson,9837
+Gerry L.,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,King,425690
+Gerry L.,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Kitsap,70108
+Gerry L.,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Kittitas,9310
+Gerry L.,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Klickitat,5057
+Gerry L.,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Lewis,17666
+Gerry L.,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Lincoln,2692
+Gerry L.,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Mason,13191
+Gerry L.,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Okanogan,7542
+Gerry L.,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Pacific,4715
+Gerry L.,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Pend Oreille,3646
+Gerry L.,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Pierce,180093
+Gerry L.,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,San Juan,4579
+Gerry L.,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Skagit,28751
+Gerry L.,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Skamania,2655
+Gerry L.,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Snohomish,165555
+Gerry L.,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Spokane,108419
+Gerry L.,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Stevens,10329
+Gerry L.,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Thurston,59485
+Gerry L.,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Wahkiakum,1178
+Gerry L.,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Walla Walla,14138
+Gerry L.,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Whatcom,32070
+Gerry L.,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Whitman,10050
+Gerry L.,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,county,Yakima,49325
+Gerry L.,Alexander,Gerry L. Alexander,NP,NP,State Supreme Court Justice,Position #8,,state,Washington,1491751
 Tom,Chambers,Tom Chambers,NP,NP,State Supreme Court Justice,Position #9,,county,Adams,2180
 Tom,Chambers,Tom Chambers,NP,NP,State Supreme Court Justice,Position #9,,county,Asotin,2622
 Tom,Chambers,Tom Chambers,NP,NP,State Supreme Court Justice,Position #9,,county,Benton,22265

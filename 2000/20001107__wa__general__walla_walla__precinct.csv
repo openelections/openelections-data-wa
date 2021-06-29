@@ -44,7 +44,7 @@ Walla Walla,Lincoln,President,,,Ballots Cast,79
 Walla Walla,Mill Creek,President,,,Ballots Cast,251
 Walla Walla,Moore,President,,,Ballots Cast,424
 Walla Walla,Prospect Pt,President,,,Ballots Cast,716
-Walla Walla,Ritz ,President,,,Ballots Cast,547
+Walla Walla,Ritz,President,,,Ballots Cast,547
 Walla Walla,McNary,President,,,Ballots Cast,334
 Walla Walla,Touchet,President,,,Ballots Cast,383
 Walla Walla,Twin Grove,President,,,Ballots Cast,286
@@ -106,7 +106,7 @@ Walla Walla,Lincoln,President,,Dem,Al Gore,19
 Walla Walla,Mill Creek,President,,Dem,Al Gore,61
 Walla Walla,Moore,President,,Dem,Al Gore,127
 Walla Walla,Prospect Pt,President,,Dem,Al Gore,196
-Walla Walla,Ritz ,President,,Dem,Al Gore,153
+Walla Walla,Ritz,President,,Dem,Al Gore,153
 Walla Walla,McNary,President,,Dem,Al Gore,72
 Walla Walla,Touchet,President,,Dem,Al Gore,52
 Walla Walla,Twin Grove,President,,Dem,Al Gore,82
@@ -168,7 +168,7 @@ Walla Walla,Lincoln,President,,Rep,George Bush,58
 Walla Walla,Mill Creek,President,,Rep,George Bush,179
 Walla Walla,Moore,President,,Rep,George Bush,279
 Walla Walla,Prospect Pt,President,,Rep,George Bush,492
-Walla Walla,Ritz ,President,,Rep,George Bush,370
+Walla Walla,Ritz,President,,Rep,George Bush,370
 Walla Walla,McNary,President,,Rep,George Bush,252
 Walla Walla,Touchet,President,,Rep,George Bush,311
 Walla Walla,Twin Grove,President,,Rep,George Bush,189
@@ -230,7 +230,7 @@ Walla Walla,Lincoln,President,,Lbt,Harry Browne,0
 Walla Walla,Mill Creek,President,,Lbt,Harry Browne,3
 Walla Walla,Moore,President,,Lbt,Harry Browne,1
 Walla Walla,Prospect Pt,President,,Lbt,Harry Browne,3
-Walla Walla,Ritz ,President,,Lbt,Harry Browne,3
+Walla Walla,Ritz,President,,Lbt,Harry Browne,3
 Walla Walla,McNary,President,,Lbt,Harry Browne,0
 Walla Walla,Touchet,President,,Lbt,Harry Browne,4
 Walla Walla,Twin Grove,President,,Lbt,Harry Browne,1
@@ -292,7 +292,7 @@ Walla Walla,Lincoln,President,,Soc,David McReynolds,0
 Walla Walla,Mill Creek,President,,Soc,David McReynolds,0
 Walla Walla,Moore,President,,Soc,David McReynolds,0
 Walla Walla,Prospect Pt,President,,Soc,David McReynolds,0
-Walla Walla,Ritz ,President,,Soc,David McReynolds,0
+Walla Walla,Ritz,President,,Soc,David McReynolds,0
 Walla Walla,McNary,President,,Soc,David McReynolds,0
 Walla Walla,Touchet,President,,Soc,David McReynolds,0
 Walla Walla,Twin Grove,President,,Soc,David McReynolds,0
@@ -354,7 +354,7 @@ Walla Walla,Lincoln,President,,Green,Ralph Nader,2
 Walla Walla,Mill Creek,President,,Green,Ralph Nader,5
 Walla Walla,Moore,President,,Green,Ralph Nader,16
 Walla Walla,Prospect Pt,President,,Green,Ralph Nader,20
-Walla Walla,Ritz ,President,,Green,Ralph Nader,14
+Walla Walla,Ritz,President,,Green,Ralph Nader,14
 Walla Walla,McNary,President,,Green,Ralph Nader,5
 Walla Walla,Touchet,President,,Green,Ralph Nader,8
 Walla Walla,Twin Grove,President,,Green,Ralph Nader,11
@@ -416,7 +416,7 @@ Walla Walla,Lincoln,President,,WWP,Monica Moorehead,0
 Walla Walla,Mill Creek,President,,WWP,Monica Moorehead,0
 Walla Walla,Moore,President,,WWP,Monica Moorehead,0
 Walla Walla,Prospect Pt,President,,WWP,Monica Moorehead,0
-Walla Walla,Ritz ,President,,WWP,Monica Moorehead,0
+Walla Walla,Ritz,President,,WWP,Monica Moorehead,0
 Walla Walla,McNary,President,,WWP,Monica Moorehead,0
 Walla Walla,Touchet,President,,WWP,Monica Moorehead,0
 Walla Walla,Twin Grove,President,,WWP,Monica Moorehead,0
@@ -478,7 +478,7 @@ Walla Walla,Lincoln,President,,Con,Howard Phillips,0
 Walla Walla,Mill Creek,President,,Con,Howard Phillips,0
 Walla Walla,Moore,President,,Con,Howard Phillips,0
 Walla Walla,Prospect Pt,President,,Con,Howard Phillips,1
-Walla Walla,Ritz ,President,,Con,Howard Phillips,3
+Walla Walla,Ritz,President,,Con,Howard Phillips,3
 Walla Walla,McNary,President,,Con,Howard Phillips,1
 Walla Walla,Touchet,President,,Con,Howard Phillips,0
 Walla Walla,Twin Grove,President,,Con,Howard Phillips,0
@@ -540,7 +540,7 @@ Walla Walla,Lincoln,President,,Reform,Pat Buchanan,0
 Walla Walla,Mill Creek,President,,Reform,Pat Buchanan,0
 Walla Walla,Moore,President,,Reform,Pat Buchanan,0
 Walla Walla,Prospect Pt,President,,Reform,Pat Buchanan,2
-Walla Walla,Ritz ,President,,Reform,Pat Buchanan,0
+Walla Walla,Ritz,President,,Reform,Pat Buchanan,0
 Walla Walla,McNary,President,,Reform,Pat Buchanan,2
 Walla Walla,Touchet,President,,Reform,Pat Buchanan,0
 Walla Walla,Twin Grove,President,,Reform,Pat Buchanan,0
@@ -602,7 +602,7 @@ Walla Walla,Lincoln,President,,SWP,James Harris,0
 Walla Walla,Mill Creek,President,,SWP,James Harris,0
 Walla Walla,Moore,President,,SWP,James Harris,1
 Walla Walla,Prospect Pt,President,,SWP,James Harris,0
-Walla Walla,Ritz ,President,,SWP,James Harris,0
+Walla Walla,Ritz,President,,SWP,James Harris,0
 Walla Walla,McNary,President,,SWP,James Harris,0
 Walla Walla,Touchet,President,,SWP,James Harris,0
 Walla Walla,Twin Grove,President,,SWP,James Harris,0
@@ -664,7 +664,7 @@ Walla Walla,Lincoln,President,,NL,Jon Hagelin,0
 Walla Walla,Mill Creek,President,,NL,Jon Hagelin,0
 Walla Walla,Moore,President,,NL,Jon Hagelin,0
 Walla Walla,Prospect Pt,President,,NL,Jon Hagelin,1
-Walla Walla,Ritz ,President,,NL,Jon Hagelin,0
+Walla Walla,Ritz,President,,NL,Jon Hagelin,0
 Walla Walla,McNary,President,,NL,Jon Hagelin,1
 Walla Walla,Touchet,President,,NL,Jon Hagelin,0
 Walla Walla,Twin Grove,President,,NL,Jon Hagelin,0
@@ -726,7 +726,7 @@ Walla Walla,Lincoln,US Senate,,Dem,Maria Cantwell,19
 Walla Walla,Mill Creek,US Senate,,Dem,Maria Cantwell,64
 Walla Walla,Moore,US Senate,,Dem,Maria Cantwell,123
 Walla Walla,Prospect Pt,US Senate,,Dem,Maria Cantwell,205
-Walla Walla,Ritz ,US Senate,,Dem,Maria Cantwell,136
+Walla Walla,Ritz,US Senate,,Dem,Maria Cantwell,136
 Walla Walla,McNary,US Senate,,Dem,Maria Cantwell,76
 Walla Walla,Touchet,US Senate,,Dem,Maria Cantwell,49
 Walla Walla,Twin Grove,US Senate,,Dem,Maria Cantwell,81
@@ -788,7 +788,7 @@ Walla Walla,Lincoln,US Senate,,Rep,Slade Gorton,59
 Walla Walla,Mill Creek,US Senate,,Rep,Slade Gorton,177
 Walla Walla,Moore,US Senate,,Rep,Slade Gorton,285
 Walla Walla,Prospect Pt,US Senate,,Rep,Slade Gorton,497
-Walla Walla,Ritz ,US Senate,,Rep,Slade Gorton,390
+Walla Walla,Ritz,US Senate,,Rep,Slade Gorton,390
 Walla Walla,McNary,US Senate,,Rep,Slade Gorton,250
 Walla Walla,Touchet,US Senate,,Rep,Slade Gorton,317
 Walla Walla,Twin Grove,US Senate,,Rep,Slade Gorton,193
@@ -850,7 +850,7 @@ Walla Walla,Lincoln,US Senate,,Lbt,Jeff Jared,0
 Walla Walla,Mill Creek,US Senate,,Lbt,Jeff Jared,4
 Walla Walla,Moore,US Senate,,Lbt,Jeff Jared,9
 Walla Walla,Prospect Pt,US Senate,,Lbt,Jeff Jared,9
-Walla Walla,Ritz ,US Senate,,Lbt,Jeff Jared,11
+Walla Walla,Ritz,US Senate,,Lbt,Jeff Jared,11
 Walla Walla,McNary,US Senate,,Lbt,Jeff Jared,5
 Walla Walla,Touchet,US Senate,,Lbt,Jeff Jared,10
 Walla Walla,Twin Grove,US Senate,,Lbt,Jeff Jared,3
@@ -912,7 +912,7 @@ Walla Walla,Lincoln,US House,5,Dem,Tom Keefe,26
 Walla Walla,Mill Creek,US House,5,Dem,Tom Keefe,68
 Walla Walla,Moore,US House,5,Dem,Tom Keefe,154
 Walla Walla,Prospect Pt,US House,5,Dem,Tom Keefe,223
-Walla Walla,Ritz ,US House,5,Dem,Tom Keefe,161
+Walla Walla,Ritz,US House,5,Dem,Tom Keefe,161
 Walla Walla,McNary,US House,5,Dem,Tom Keefe,71
 Walla Walla,Touchet,US House,5,Dem,Tom Keefe,79
 Walla Walla,Twin Grove,US House,5,Dem,Tom Keefe,83
@@ -974,7 +974,7 @@ Walla Walla,Lincoln,US House,5,Rep,George Nethercutt,50
 Walla Walla,Mill Creek,US House,5,Rep,George Nethercutt,171
 Walla Walla,Moore,US House,5,Rep,George Nethercutt,243
 Walla Walla,Prospect Pt,US House,5,Rep,George Nethercutt,459
-Walla Walla,Ritz ,US House,5,Rep,George Nethercutt,344
+Walla Walla,Ritz,US House,5,Rep,George Nethercutt,344
 Walla Walla,McNary,US House,5,Rep,George Nethercutt,239
 Walla Walla,Touchet,US House,5,Rep,George Nethercutt,276
 Walla Walla,Twin Grove,US House,5,Rep,George Nethercutt,182
@@ -1036,7 +1036,7 @@ Walla Walla,Lincoln,US House,5,Lbt,Greg Holmes,2
 Walla Walla,Mill Creek,US House,5,Lbt,Greg Holmes,7
 Walla Walla,Moore,US House,5,Lbt,Greg Holmes,9
 Walla Walla,Prospect Pt,US House,5,Lbt,Greg Holmes,15
-Walla Walla,Ritz ,US House,5,Lbt,Greg Holmes,16
+Walla Walla,Ritz,US House,5,Lbt,Greg Holmes,16
 Walla Walla,McNary,US House,5,Lbt,Greg Holmes,5
 Walla Walla,Touchet,US House,5,Lbt,Greg Holmes,13
 Walla Walla,Twin Grove,US House,5,Lbt,Greg Holmes,4
@@ -1098,7 +1098,7 @@ Walla Walla,Lincoln,Governor,,Dem,Gary Locke,32
 Walla Walla,Mill Creek,Governor,,Dem,Gary Locke,95
 Walla Walla,Moore,Governor,,Dem,Gary Locke,217
 Walla Walla,Prospect Pt,Governor,,Dem,Gary Locke,326
-Walla Walla,Ritz ,Governor,,Dem,Gary Locke,229
+Walla Walla,Ritz,Governor,,Dem,Gary Locke,229
 Walla Walla,McNary,Governor,,Dem,Gary Locke,118
 Walla Walla,Touchet,Governor,,Dem,Gary Locke,125
 Walla Walla,Twin Grove,Governor,,Dem,Gary Locke,127
@@ -1160,7 +1160,7 @@ Walla Walla,Lincoln,Governor,,Rep,John Carlson,46
 Walla Walla,Mill Creek,Governor,,Rep,John Carlson,145
 Walla Walla,Moore,Governor,,Rep,John Carlson,195
 Walla Walla,Prospect Pt,Governor,,Rep,John Carlson,375
-Walla Walla,Ritz ,Governor,,Rep,John Carlson,298
+Walla Walla,Ritz,Governor,,Rep,John Carlson,298
 Walla Walla,McNary,Governor,,Rep,John Carlson,209
 Walla Walla,Touchet,Governor,,Rep,John Carlson,237
 Walla Walla,Twin Grove,Governor,,Rep,John Carlson,146
@@ -1222,7 +1222,7 @@ Walla Walla,Lincoln,Governor,,Lbt,Steve LePage,1
 Walla Walla,Mill Creek,Governor,,Lbt,Steve LePage,5
 Walla Walla,Moore,Governor,,Lbt,Steve LePage,3
 Walla Walla,Prospect Pt,Governor,,Lbt,Steve LePage,9
-Walla Walla,Ritz ,Governor,,Lbt,Steve LePage,13
+Walla Walla,Ritz,Governor,,Lbt,Steve LePage,13
 Walla Walla,McNary,Governor,,Lbt,Steve LePage,3
 Walla Walla,Touchet,Governor,,Lbt,Steve LePage,11
 Walla Walla,Twin Grove,Governor,,Lbt,Steve LePage,2
@@ -1284,7 +1284,7 @@ Walla Walla,Lincoln,Lt Governor,,Dem,Brad Owen,32
 Walla Walla,Mill Creek,Lt Governor,,Dem,Brad Owen,81
 Walla Walla,Moore,Lt Governor,,Dem,Brad Owen,186
 Walla Walla,Prospect Pt,Lt Governor,,Dem,Brad Owen,274
-Walla Walla,Ritz ,Lt Governor,,Dem,Brad Owen,180
+Walla Walla,Ritz,Lt Governor,,Dem,Brad Owen,180
 Walla Walla,McNary,Lt Governor,,Dem,Brad Owen,119
 Walla Walla,Touchet,Lt Governor,,Dem,Brad Owen,116
 Walla Walla,Twin Grove,Lt Governor,,Dem,Brad Owen,99
@@ -1346,7 +1346,7 @@ Walla Walla,Lincoln,Lt Governor,,Rep,Mike Elliott,37
 Walla Walla,Mill Creek,Lt Governor,,Rep,Mike Elliott,138
 Walla Walla,Moore,Lt Governor,,Rep,Mike Elliott,197
 Walla Walla,Prospect Pt,Lt Governor,,Rep,Mike Elliott,372
-Walla Walla,Ritz ,Lt Governor,,Rep,Mike Elliott,284
+Walla Walla,Ritz,Lt Governor,,Rep,Mike Elliott,284
 Walla Walla,McNary,Lt Governor,,Rep,Mike Elliott,189
 Walla Walla,Touchet,Lt Governor,,Rep,Mike Elliott,210
 Walla Walla,Twin Grove,Lt Governor,,Rep,Mike Elliott,148
@@ -1408,7 +1408,7 @@ Walla Walla,Lincoln,Lt Governor,,Lbt,Ruth Bennett,4
 Walla Walla,Mill Creek,Lt Governor,,Lbt,Ruth Bennett,11
 Walla Walla,Moore,Lt Governor,,Lbt,Ruth Bennett,9
 Walla Walla,Prospect Pt,Lt Governor,,Lbt,Ruth Bennett,23
-Walla Walla,Ritz ,Lt Governor,,Lbt,Ruth Bennett,40
+Walla Walla,Ritz,Lt Governor,,Lbt,Ruth Bennett,40
 Walla Walla,McNary,Lt Governor,,Lbt,Ruth Bennett,10
 Walla Walla,Touchet,Lt Governor,,Lbt,Ruth Bennett,28
 Walla Walla,Twin Grove,Lt Governor,,Lbt,Ruth Bennett,7
@@ -1470,7 +1470,7 @@ Walla Walla,Lincoln,Secretary of  State,,Dem,Don Bonker,21
 Walla Walla,Mill Creek,Secretary of  State,,Dem,Don Bonker,58
 Walla Walla,Moore,Secretary of  State,,Dem,Don Bonker,118
 Walla Walla,Prospect Pt,Secretary of  State,,Dem,Don Bonker,182
-Walla Walla,Ritz ,Secretary of  State,,Dem,Don Bonker,134
+Walla Walla,Ritz,Secretary of  State,,Dem,Don Bonker,134
 Walla Walla,McNary,Secretary of  State,,Dem,Don Bonker,65
 Walla Walla,Touchet,Secretary of  State,,Dem,Don Bonker,67
 Walla Walla,Twin Grove,Secretary of  State,,Dem,Don Bonker,68
@@ -1532,7 +1532,7 @@ Walla Walla,Lincoln,Secretary of  State,,Rep,Sam Reed,46
 Walla Walla,Mill Creek,Secretary of  State,,Rep,Sam Reed,160
 Walla Walla,Moore,Secretary of  State,,Rep,Sam Reed,253
 Walla Walla,Prospect Pt,Secretary of  State,,Rep,Sam Reed,456
-Walla Walla,Ritz ,Secretary of  State,,Rep,Sam Reed,324
+Walla Walla,Ritz,Secretary of  State,,Rep,Sam Reed,324
 Walla Walla,McNary,Secretary of  State,,Rep,Sam Reed,228
 Walla Walla,Touchet,Secretary of  State,,Rep,Sam Reed,259
 Walla Walla,Twin Grove,Secretary of  State,,Rep,Sam Reed,179
@@ -1594,7 +1594,7 @@ Walla Walla,Lincoln,Secretary of  State,,Lbt,J Bradley Gibson,1
 Walla Walla,Mill Creek,Secretary of  State,,Lbt,J Bradley Gibson,6
 Walla Walla,Moore,Secretary of  State,,Lbt,J Bradley Gibson,13
 Walla Walla,Prospect Pt,Secretary of  State,,Lbt,J Bradley Gibson,13
-Walla Walla,Ritz ,Secretary of  State,,Lbt,J Bradley Gibson,27
+Walla Walla,Ritz,Secretary of  State,,Lbt,J Bradley Gibson,27
 Walla Walla,McNary,Secretary of  State,,Lbt,J Bradley Gibson,4
 Walla Walla,Touchet,Secretary of  State,,Lbt,J Bradley Gibson,22
 Walla Walla,Twin Grove,Secretary of  State,,Lbt,J Bradley Gibson,8
@@ -1656,7 +1656,7 @@ Walla Walla,Lincoln,Secretary of  State,,Reform,Chris Loftis,4
 Walla Walla,Mill Creek,Secretary of  State,,Reform,Chris Loftis,4
 Walla Walla,Moore,Secretary of  State,,Reform,Chris Loftis,3
 Walla Walla,Prospect Pt,Secretary of  State,,Reform,Chris Loftis,6
-Walla Walla,Ritz ,Secretary of  State,,Reform,Chris Loftis,14
+Walla Walla,Ritz,Secretary of  State,,Reform,Chris Loftis,14
 Walla Walla,McNary,Secretary of  State,,Reform,Chris Loftis,11
 Walla Walla,Touchet,Secretary of  State,,Reform,Chris Loftis,9
 Walla Walla,Twin Grove,Secretary of  State,,Reform,Chris Loftis,4
@@ -1718,7 +1718,7 @@ Walla Walla,Lincoln,State Treasurer,,Dem,Mike Murphy,38
 Walla Walla,Mill Creek,State Treasurer,,Dem,Mike Murphy,102
 Walla Walla,Moore,State Treasurer,,Dem,Mike Murphy,213
 Walla Walla,Prospect Pt,State Treasurer,,Dem,Mike Murphy,277
-Walla Walla,Ritz ,State Treasurer,,Dem,Mike Murphy,183
+Walla Walla,Ritz,State Treasurer,,Dem,Mike Murphy,183
 Walla Walla,McNary,State Treasurer,,Dem,Mike Murphy,101
 Walla Walla,Touchet,State Treasurer,,Dem,Mike Murphy,135
 Walla Walla,Twin Grove,State Treasurer,,Dem,Mike Murphy,109
@@ -1780,7 +1780,7 @@ Walla Walla,Lincoln,State Treasurer,,Rep,Diane Rhoades,34
 Walla Walla,Mill Creek,State Treasurer,,Rep,Diane Rhoades,119
 Walla Walla,Moore,State Treasurer,,Rep,Diane Rhoades,163
 Walla Walla,Prospect Pt,State Treasurer,,Rep,Diane Rhoades,358
-Walla Walla,Ritz ,State Treasurer,,Rep,Diane Rhoades,287
+Walla Walla,Ritz,State Treasurer,,Rep,Diane Rhoades,287
 Walla Walla,McNary,State Treasurer,,Rep,Diane Rhoades,191
 Walla Walla,Touchet,State Treasurer,,Rep,Diane Rhoades,208
 Walla Walla,Twin Grove,State Treasurer,,Rep,Diane Rhoades,141
@@ -1842,7 +1842,7 @@ Walla Walla,Lincoln,State Treasurer,,Lbt,Tim Perman,1
 Walla Walla,Mill Creek,State Treasurer,,Lbt,Tim Perman,8
 Walla Walla,Moore,State Treasurer,,Lbt,Tim Perman,7
 Walla Walla,Prospect Pt,State Treasurer,,Lbt,Tim Perman,19
-Walla Walla,Ritz ,State Treasurer,,Lbt,Tim Perman,25
+Walla Walla,Ritz,State Treasurer,,Lbt,Tim Perman,25
 Walla Walla,McNary,State Treasurer,,Lbt,Tim Perman,10
 Walla Walla,Touchet,State Treasurer,,Lbt,Tim Perman,14
 Walla Walla,Twin Grove,State Treasurer,,Lbt,Tim Perman,6
@@ -1904,7 +1904,7 @@ Walla Walla,Lincoln,State Auditor,,Dem,Brian Sonntag,37
 Walla Walla,Mill Creek,State Auditor,,Dem,Brian Sonntag,86
 Walla Walla,Moore,State Auditor,,Dem,Brian Sonntag,197
 Walla Walla,Prospect Pt,State Auditor,,Dem,Brian Sonntag,296
-Walla Walla,Ritz ,State Auditor,,Dem,Brian Sonntag,206
+Walla Walla,Ritz,State Auditor,,Dem,Brian Sonntag,206
 Walla Walla,McNary,State Auditor,,Dem,Brian Sonntag,103
 Walla Walla,Touchet,State Auditor,,Dem,Brian Sonntag,143
 Walla Walla,Twin Grove,State Auditor,,Dem,Brian Sonntag,98
@@ -1966,7 +1966,7 @@ Walla Walla,Lincoln,State Auditor,,Rep,Richard McEntee,36
 Walla Walla,Mill Creek,State Auditor,,Rep,Richard McEntee,136
 Walla Walla,Moore,State Auditor,,Rep,Richard McEntee,172
 Walla Walla,Prospect Pt,State Auditor,,Rep,Richard McEntee,331
-Walla Walla,Ritz ,State Auditor,,Rep,Richard McEntee,260
+Walla Walla,Ritz,State Auditor,,Rep,Richard McEntee,260
 Walla Walla,McNary,State Auditor,,Rep,Richard McEntee,182
 Walla Walla,Touchet,State Auditor,,Rep,Richard McEntee,190
 Walla Walla,Twin Grove,State Auditor,,Rep,Richard McEntee,148
@@ -2028,7 +2028,7 @@ Walla Walla,Lincoln,State Auditor,,Lbt,Chris Caputo,1
 Walla Walla,Mill Creek,State Auditor,,Lbt,Chris Caputo,7
 Walla Walla,Moore,State Auditor,,Lbt,Chris Caputo,7
 Walla Walla,Prospect Pt,State Auditor,,Lbt,Chris Caputo,28
-Walla Walla,Ritz ,State Auditor,,Lbt,Chris Caputo,27
+Walla Walla,Ritz,State Auditor,,Lbt,Chris Caputo,27
 Walla Walla,McNary,State Auditor,,Lbt,Chris Caputo,11
 Walla Walla,Touchet,State Auditor,,Lbt,Chris Caputo,22
 Walla Walla,Twin Grove,State Auditor,,Lbt,Chris Caputo,9
@@ -2090,7 +2090,7 @@ Walla Walla,Lincoln,Attorney General,,Dem,Christine Gregoire,33
 Walla Walla,Mill Creek,Attorney General,,Dem,Christine Gregoire,88
 Walla Walla,Moore,Attorney General,,Dem,Christine Gregoire,193
 Walla Walla,Prospect Pt,Attorney General,,Dem,Christine Gregoire,284
-Walla Walla,Ritz ,Attorney General,,Dem,Christine Gregoire,201
+Walla Walla,Ritz,Attorney General,,Dem,Christine Gregoire,201
 Walla Walla,McNary,Attorney General,,Dem,Christine Gregoire,127
 Walla Walla,Touchet,Attorney General,,Dem,Christine Gregoire,129
 Walla Walla,Twin Grove,Attorney General,,Dem,Christine Gregoire,103
@@ -2152,7 +2152,7 @@ Walla Walla,Lincoln,Attorney General,,Rep,Richard Pope,40
 Walla Walla,Mill Creek,Attorney General,,Rep,Richard Pope,130
 Walla Walla,Moore,Attorney General,,Rep,Richard Pope,190
 Walla Walla,Prospect Pt,Attorney General,,Rep,Richard Pope,355
-Walla Walla,Ritz ,Attorney General,,Rep,Richard Pope,267
+Walla Walla,Ritz,Attorney General,,Rep,Richard Pope,267
 Walla Walla,McNary,Attorney General,,Rep,Richard Pope,168
 Walla Walla,Touchet,Attorney General,,Rep,Richard Pope,199
 Walla Walla,Twin Grove,Attorney General,,Rep,Richard Pope,153
@@ -2214,7 +2214,7 @@ Walla Walla,Lincoln,Attorney General,,Lbt,Richard Shepard,0
 Walla Walla,Mill Creek,Attorney General,,Lbt,Richard Shepard,11
 Walla Walla,Moore,Attorney General,,Lbt,Richard Shepard,7
 Walla Walla,Prospect Pt,Attorney General,,Lbt,Richard Shepard,21
-Walla Walla,Ritz ,Attorney General,,Lbt,Richard Shepard,26
+Walla Walla,Ritz,Attorney General,,Lbt,Richard Shepard,26
 Walla Walla,McNary,Attorney General,,Lbt,Richard Shepard,7
 Walla Walla,Touchet,Attorney General,,Lbt,Richard Shepard,20
 Walla Walla,Twin Grove,Attorney General,,Lbt,Richard Shepard,3
@@ -2276,7 +2276,7 @@ Walla Walla,Lincoln,Attorney General,,NM,Stan Lippman,1
 Walla Walla,Mill Creek,Attorney General,,NM,Stan Lippman,1
 Walla Walla,Moore,Attorney General,,NM,Stan Lippman,0
 Walla Walla,Prospect Pt,Attorney General,,NM,Stan Lippman,2
-Walla Walla,Ritz ,Attorney General,,NM,Stan Lippman,5
+Walla Walla,Ritz,Attorney General,,NM,Stan Lippman,5
 Walla Walla,McNary,Attorney General,,NM,Stan Lippman,2
 Walla Walla,Touchet,Attorney General,,NM,Stan Lippman,5
 Walla Walla,Twin Grove,Attorney General,,NM,Stan Lippman,1
@@ -2338,7 +2338,7 @@ Walla Walla,Lincoln,Attorney General,,NL,Luanne Coachman,0
 Walla Walla,Mill Creek,Attorney General,,NL,Luanne Coachman,3
 Walla Walla,Moore,Attorney General,,NL,Luanne Coachman,1
 Walla Walla,Prospect Pt,Attorney General,,NL,Luanne Coachman,2
-Walla Walla,Ritz ,Attorney General,,NL,Luanne Coachman,3
+Walla Walla,Ritz,Attorney General,,NL,Luanne Coachman,3
 Walla Walla,McNary,Attorney General,,NL,Luanne Coachman,0
 Walla Walla,Touchet,Attorney General,,NL,Luanne Coachman,3
 Walla Walla,Twin Grove,Attorney General,,NL,Luanne Coachman,1
@@ -2400,7 +2400,7 @@ Walla Walla,Lincoln,Land Commissioner,,Dem,Mike Lowry,22
 Walla Walla,Mill Creek,Land Commissioner,,Dem,Mike Lowry,60
 Walla Walla,Moore,Land Commissioner,,Dem,Mike Lowry,132
 Walla Walla,Prospect Pt,Land Commissioner,,Dem,Mike Lowry,191
-Walla Walla,Ritz ,Land Commissioner,,Dem,Mike Lowry,142
+Walla Walla,Ritz,Land Commissioner,,Dem,Mike Lowry,142
 Walla Walla,McNary,Land Commissioner,,Dem,Mike Lowry,80
 Walla Walla,Touchet,Land Commissioner,,Dem,Mike Lowry,85
 Walla Walla,Twin Grove,Land Commissioner,,Dem,Mike Lowry,75
@@ -2462,7 +2462,7 @@ Walla Walla,Lincoln,Land Commissioner,,Rep,Doug Sutherland,53
 Walla Walla,Mill Creek,Land Commissioner,,Rep,Doug Sutherland,175
 Walla Walla,Moore,Land Commissioner,,Rep,Doug Sutherland,259
 Walla Walla,Prospect Pt,Land Commissioner,,Rep,Doug Sutherland,460
-Walla Walla,Ritz ,Land Commissioner,,Rep,Doug Sutherland,346
+Walla Walla,Ritz,Land Commissioner,,Rep,Doug Sutherland,346
 Walla Walla,McNary,Land Commissioner,,Rep,Doug Sutherland,232
 Walla Walla,Touchet,Land Commissioner,,Rep,Doug Sutherland,261
 Walla Walla,Twin Grove,Land Commissioner,,Rep,Doug Sutherland,181
@@ -2524,7 +2524,7 @@ Walla Walla,Lincoln,Land Commissioner,,Lbt,Steve Layman,3
 Walla Walla,Mill Creek,Land Commissioner,,Lbt,Steve Layman,8
 Walla Walla,Moore,Land Commissioner,,Lbt,Steve Layman,7
 Walla Walla,Prospect Pt,Land Commissioner,,Lbt,Steve Layman,22
-Walla Walla,Ritz ,Land Commissioner,,Lbt,Steve Layman,25
+Walla Walla,Ritz,Land Commissioner,,Lbt,Steve Layman,25
 Walla Walla,McNary,Land Commissioner,,Lbt,Steve Layman,3
 Walla Walla,Touchet,Land Commissioner,,Lbt,Steve Layman,18
 Walla Walla,Twin Grove,Land Commissioner,,Lbt,Steve Layman,12
@@ -2541,192 +2541,192 @@ Walla Walla,College Place 5,Land Commissioner,,Lbt,Steve Layman,14
 Walla Walla,College Place 6,Land Commissioner,,Lbt,Steve Layman,3
 Walla Walla,RURAL,Land Commissioner,,Lbt,Steve Layman,445
 Walla Walla,WALLA WALLA WA,Land Commissioner,,Lbt,Steve Layman,882
-Walla Walla,WW Alder,Insurance Commissioner ,,Dem,Mike Kreidler,115
-Walla Walla,WW Ash,Insurance Commissioner ,,Dem,Mike Kreidler,212
-Walla Walla,WW Baumeister,Insurance Commissioner ,,Dem,Mike Kreidler,174
-Walla Walla,WW Birch,Insurance Commissioner ,,Dem,Mike Kreidler,170
-Walla Walla,WW Clark,Insurance Commissioner ,,Dem,Mike Kreidler,111
-Walla Walla,WW College,Insurance Commissioner ,,Dem,Mike Kreidler,246
-Walla Walla,WW Edison,Insurance Commissioner ,,Dem,Mike Kreidler,130
-Walla Walla,WW Garfield,Insurance Commissioner ,,Dem,Mike Kreidler,199
-Walla Walla,WW Green Park,Insurance Commissioner ,,Dem,Mike Kreidler,145
-Walla Walla,WW Henderson,Insurance Commissioner ,,Dem,Mike Kreidler,165
-Walla Walla,WW Isaacs,Insurance Commissioner ,,Dem,Mike Kreidler,129
-Walla Walla,WW Jefferson,Insurance Commissioner ,,Dem,Mike Kreidler,213
-Walla Walla,WW Maple,Insurance Commissioner ,,Dem,Mike Kreidler,194
-Walla Walla,WW Marcus,Insurance Commissioner ,,Dem,Mike Kreidler,241
-Walla Walla,WW Monroe,Insurance Commissioner ,,Dem,Mike Kreidler,254
-Walla Walla,WW Paine,Insurance Commissioner ,,Dem,Mike Kreidler,106
-Walla Walla,WW Pine,Insurance Commissioner ,,Dem,Mike Kreidler,148
-Walla Walla,WW Pleasant,Insurance Commissioner ,,Dem,Mike Kreidler,242
-Walla Walla,WW Sharpstein,Insurance Commissioner ,,Dem,Mike Kreidler,146
-Walla Walla,WW Spruce,Insurance Commissioner ,,Dem,Mike Kreidler,137
-Walla Walla,WW Stadium,Insurance Commissioner ,,Dem,Mike Kreidler,161
-Walla Walla,WW Tausick,Insurance Commissioner ,,Dem,Mike Kreidler,92
-Walla Walla,WW Wainwright,Insurance Commissioner ,,Dem,Mike Kreidler,258
-Walla Walla,WW Watertown,Insurance Commissioner ,,Dem,Mike Kreidler,153
-Walla Walla,WW CITY,Insurance Commissioner ,,Dem,Mike Kreidler,4141
-Walla Walla,Abbott,Insurance Commissioner ,,Dem,Mike Kreidler,70
-Walla Walla,Alderbrook,Insurance Commissioner ,,Dem,Mike Kreidler,108
-Walla Walla,Baker,Insurance Commissioner ,,Dem,Mike Kreidler,30
-Walla Walla,Ice Harbor,Insurance Commissioner ,,Dem,Mike Kreidler,133
-Walla Walla,Berney,Insurance Commissioner ,,Dem,Mike Kreidler,138
-Walla Walla,Blalock,Insurance Commissioner ,,Dem,Mike Kreidler,123
-Walla Walla,Braden,Insurance Commissioner ,,Dem,Mike Kreidler,142
-Walla Walla,Burbank,Insurance Commissioner ,,Dem,Mike Kreidler,270
-Walla Walla,Clyde,Insurance Commissioner ,,Dem,Mike Kreidler,8
-Walla Walla,Derry,Insurance Commissioner ,,Dem,Mike Kreidler,44
-Walla Walla,Dixie,Insurance Commissioner ,,Dem,Mike Kreidler,63
-Walla Walla,Eureka,Insurance Commissioner ,,Dem,Mike Kreidler,33
-Walla Walla,Frenchtown,Insurance Commissioner ,,Dem,Mike Kreidler,47
-Walla Walla,Garrison,Insurance Commissioner ,,Dem,Mike Kreidler,83
-Walla Walla,Gose,Insurance Commissioner ,,Dem,Mike Kreidler,49
-Walla Walla,Haas,Insurance Commissioner ,,Dem,Mike Kreidler,2
-Walla Walla,Lincoln,Insurance Commissioner ,,Dem,Mike Kreidler,28
-Walla Walla,Mill Creek,Insurance Commissioner ,,Dem,Mike Kreidler,61
-Walla Walla,Moore,Insurance Commissioner ,,Dem,Mike Kreidler,144
-Walla Walla,Prospect Pt,Insurance Commissioner ,,Dem,Mike Kreidler,210
-Walla Walla,Ritz ,Insurance Commissioner ,,Dem,Mike Kreidler,161
-Walla Walla,McNary,Insurance Commissioner ,,Dem,Mike Kreidler,93
-Walla Walla,Touchet,Insurance Commissioner ,,Dem,Mike Kreidler,88
-Walla Walla,Twin Grove,Insurance Commissioner ,,Dem,Mike Kreidler,81
-Walla Walla,Yellowhawk,Insurance Commissioner ,,Dem,Mike Kreidler,27
-Walla Walla,Wallula,Insurance Commissioner ,,Dem,Mike Kreidler,25
-Walla Walla,Washington,Insurance Commissioner ,,Dem,Mike Kreidler,35
-Walla Walla,College Place 1,Insurance Commissioner ,,Dem,Mike Kreidler,170
-Walla Walla,College Place 2,Insurance Commissioner ,,Dem,Mike Kreidler,98
-Walla Walla,College Place 3,Insurance Commissioner ,,Dem,Mike Kreidler,230
-Walla Walla,Prescott,Insurance Commissioner ,,Dem,Mike Kreidler,55
-Walla Walla,Waitsburg,Insurance Commissioner ,,Dem,Mike Kreidler,173
-Walla Walla,College Place 4,Insurance Commissioner ,,Dem,Mike Kreidler,172
-Walla Walla,College Place 5,Insurance Commissioner ,,Dem,Mike Kreidler,122
-Walla Walla,College Place 6,Insurance Commissioner ,,Dem,Mike Kreidler,46
-Walla Walla,RURAL,Insurance Commissioner ,,Dem,Mike Kreidler,3362
-Walla Walla,WALLA WALLA WA,Insurance Commissioner ,,Dem,Mike Kreidler,7503
-Walla Walla,WW Alder,Insurance Commissioner ,,Rep,Don Davidson,96
-Walla Walla,WW Ash,Insurance Commissioner ,,Rep,Don Davidson,239
-Walla Walla,WW Baumeister,Insurance Commissioner ,,Rep,Don Davidson,180
-Walla Walla,WW Birch,Insurance Commissioner ,,Rep,Don Davidson,175
-Walla Walla,WW Clark,Insurance Commissioner ,,Rep,Don Davidson,105
-Walla Walla,WW College,Insurance Commissioner ,,Rep,Don Davidson,141
-Walla Walla,WW Edison,Insurance Commissioner ,,Rep,Don Davidson,203
-Walla Walla,WW Garfield,Insurance Commissioner ,,Rep,Don Davidson,211
-Walla Walla,WW Green Park,Insurance Commissioner ,,Rep,Don Davidson,109
-Walla Walla,WW Henderson,Insurance Commissioner ,,Rep,Don Davidson,189
-Walla Walla,WW Isaacs,Insurance Commissioner ,,Rep,Don Davidson,117
-Walla Walla,WW Jefferson,Insurance Commissioner ,,Rep,Don Davidson,392
-Walla Walla,WW Maple,Insurance Commissioner ,,Rep,Don Davidson,236
-Walla Walla,WW Marcus,Insurance Commissioner ,,Rep,Don Davidson,319
-Walla Walla,WW Monroe,Insurance Commissioner ,,Rep,Don Davidson,395
-Walla Walla,WW Paine,Insurance Commissioner ,,Rep,Don Davidson,75
-Walla Walla,WW Pine,Insurance Commissioner ,,Rep,Don Davidson,110
-Walla Walla,WW Pleasant,Insurance Commissioner ,,Rep,Don Davidson,301
-Walla Walla,WW Sharpstein,Insurance Commissioner ,,Rep,Don Davidson,161
-Walla Walla,WW Spruce,Insurance Commissioner ,,Rep,Don Davidson,131
-Walla Walla,WW Stadium,Insurance Commissioner ,,Rep,Don Davidson,160
-Walla Walla,WW Tausick,Insurance Commissioner ,,Rep,Don Davidson,129
-Walla Walla,WW Wainwright,Insurance Commissioner ,,Rep,Don Davidson,240
-Walla Walla,WW Watertown,Insurance Commissioner ,,Rep,Don Davidson,152
-Walla Walla,WW CITY,Insurance Commissioner ,,Rep,Don Davidson,4566
-Walla Walla,Abbott,Insurance Commissioner ,,Rep,Don Davidson,215
-Walla Walla,Alderbrook,Insurance Commissioner ,,Rep,Don Davidson,140
-Walla Walla,Baker,Insurance Commissioner ,,Rep,Don Davidson,73
-Walla Walla,Ice Harbor,Insurance Commissioner ,,Rep,Don Davidson,271
-Walla Walla,Berney,Insurance Commissioner ,,Rep,Don Davidson,167
-Walla Walla,Blalock,Insurance Commissioner ,,Rep,Don Davidson,237
-Walla Walla,Braden,Insurance Commissioner ,,Rep,Don Davidson,245
-Walla Walla,Burbank,Insurance Commissioner ,,Rep,Don Davidson,384
-Walla Walla,Clyde,Insurance Commissioner ,,Rep,Don Davidson,36
-Walla Walla,Derry,Insurance Commissioner ,,Rep,Don Davidson,87
-Walla Walla,Dixie,Insurance Commissioner ,,Rep,Don Davidson,146
-Walla Walla,Eureka,Insurance Commissioner ,,Rep,Don Davidson,42
-Walla Walla,Frenchtown,Insurance Commissioner ,,Rep,Don Davidson,138
-Walla Walla,Garrison,Insurance Commissioner ,,Rep,Don Davidson,164
-Walla Walla,Gose,Insurance Commissioner ,,Rep,Don Davidson,67
-Walla Walla,Haas,Insurance Commissioner ,,Rep,Don Davidson,4
-Walla Walla,Lincoln,Insurance Commissioner ,,Rep,Don Davidson,40
-Walla Walla,Mill Creek,Insurance Commissioner ,,Rep,Don Davidson,153
-Walla Walla,Moore,Insurance Commissioner ,,Rep,Don Davidson,212
-Walla Walla,Prospect Pt,Insurance Commissioner ,,Rep,Don Davidson,405
-Walla Walla,Ritz ,Insurance Commissioner ,,Rep,Don Davidson,298
-Walla Walla,McNary,Insurance Commissioner ,,Rep,Don Davidson,195
-Walla Walla,Touchet,Insurance Commissioner ,,Rep,Don Davidson,245
-Walla Walla,Twin Grove,Insurance Commissioner ,,Rep,Don Davidson,165
-Walla Walla,Yellowhawk,Insurance Commissioner ,,Rep,Don Davidson,27
-Walla Walla,Wallula,Insurance Commissioner ,,Rep,Don Davidson,35
-Walla Walla,Washington,Insurance Commissioner ,,Rep,Don Davidson,87
-Walla Walla,College Place 1,Insurance Commissioner ,,Rep,Don Davidson,317
-Walla Walla,College Place 2,Insurance Commissioner ,,Rep,Don Davidson,222
-Walla Walla,College Place 3,Insurance Commissioner ,,Rep,Don Davidson,347
-Walla Walla,Prescott,Insurance Commissioner ,,Rep,Don Davidson,67
-Walla Walla,Waitsburg,Insurance Commissioner ,,Rep,Don Davidson,300
-Walla Walla,College Place 4,Insurance Commissioner ,,Rep,Don Davidson,307
-Walla Walla,College Place 5,Insurance Commissioner ,,Rep,Don Davidson,216
-Walla Walla,College Place 6,Insurance Commissioner ,,Rep,Don Davidson,50
-Walla Walla,RURAL,Insurance Commissioner ,,Rep,Don Davidson,6104
-Walla Walla,WALLA WALLA WA,Insurance Commissioner ,,Rep,Don Davidson,10670
-Walla Walla,WW Alder,Insurance Commissioner ,,Lbt,Mike Hihn,11
-Walla Walla,WW Ash,Insurance Commissioner ,,Lbt,Mike Hihn,28
-Walla Walla,WW Baumeister,Insurance Commissioner ,,Lbt,Mike Hihn,15
-Walla Walla,WW Birch,Insurance Commissioner ,,Lbt,Mike Hihn,17
-Walla Walla,WW Clark,Insurance Commissioner ,,Lbt,Mike Hihn,7
-Walla Walla,WW College,Insurance Commissioner ,,Lbt,Mike Hihn,12
-Walla Walla,WW Edison,Insurance Commissioner ,,Lbt,Mike Hihn,18
-Walla Walla,WW Garfield,Insurance Commissioner ,,Lbt,Mike Hihn,27
-Walla Walla,WW Green Park,Insurance Commissioner ,,Lbt,Mike Hihn,13
-Walla Walla,WW Henderson,Insurance Commissioner ,,Lbt,Mike Hihn,19
-Walla Walla,WW Isaacs,Insurance Commissioner ,,Lbt,Mike Hihn,11
-Walla Walla,WW Jefferson,Insurance Commissioner ,,Lbt,Mike Hihn,19
-Walla Walla,WW Maple,Insurance Commissioner ,,Lbt,Mike Hihn,22
-Walla Walla,WW Marcus,Insurance Commissioner ,,Lbt,Mike Hihn,16
-Walla Walla,WW Monroe,Insurance Commissioner ,,Lbt,Mike Hihn,18
-Walla Walla,WW Paine,Insurance Commissioner ,,Lbt,Mike Hihn,14
-Walla Walla,WW Pine,Insurance Commissioner ,,Lbt,Mike Hihn,22
-Walla Walla,WW Pleasant,Insurance Commissioner ,,Lbt,Mike Hihn,10
-Walla Walla,WW Sharpstein,Insurance Commissioner ,,Lbt,Mike Hihn,14
-Walla Walla,WW Spruce,Insurance Commissioner ,,Lbt,Mike Hihn,13
-Walla Walla,WW Stadium,Insurance Commissioner ,,Lbt,Mike Hihn,21
-Walla Walla,WW Tausick,Insurance Commissioner ,,Lbt,Mike Hihn,10
-Walla Walla,WW Wainwright,Insurance Commissioner ,,Lbt,Mike Hihn,12
-Walla Walla,WW Watertown,Insurance Commissioner ,,Lbt,Mike Hihn,4
-Walla Walla,WW CITY,Insurance Commissioner ,,Lbt,Mike Hihn,373
-Walla Walla,Abbott,Insurance Commissioner ,,Lbt,Mike Hihn,7
-Walla Walla,Alderbrook,Insurance Commissioner ,,Lbt,Mike Hihn,8
-Walla Walla,Baker,Insurance Commissioner ,,Lbt,Mike Hihn,3
-Walla Walla,Ice Harbor,Insurance Commissioner ,,Lbt,Mike Hihn,13
-Walla Walla,Berney,Insurance Commissioner ,,Lbt,Mike Hihn,10
-Walla Walla,Blalock,Insurance Commissioner ,,Lbt,Mike Hihn,17
-Walla Walla,Braden,Insurance Commissioner ,,Lbt,Mike Hihn,11
-Walla Walla,Burbank,Insurance Commissioner ,,Lbt,Mike Hihn,28
-Walla Walla,Clyde,Insurance Commissioner ,,Lbt,Mike Hihn,4
-Walla Walla,Derry,Insurance Commissioner ,,Lbt,Mike Hihn,8
-Walla Walla,Dixie,Insurance Commissioner ,,Lbt,Mike Hihn,12
-Walla Walla,Eureka,Insurance Commissioner ,,Lbt,Mike Hihn,6
-Walla Walla,Frenchtown,Insurance Commissioner ,,Lbt,Mike Hihn,11
-Walla Walla,Garrison,Insurance Commissioner ,,Lbt,Mike Hihn,6
-Walla Walla,Gose,Insurance Commissioner ,,Lbt,Mike Hihn,1
-Walla Walla,Haas,Insurance Commissioner ,,Lbt,Mike Hihn,0
-Walla Walla,Lincoln,Insurance Commissioner ,,Lbt,Mike Hihn,3
-Walla Walla,Mill Creek,Insurance Commissioner ,,Lbt,Mike Hihn,6
-Walla Walla,Moore,Insurance Commissioner ,,Lbt,Mike Hihn,6
-Walla Walla,Prospect Pt,Insurance Commissioner ,,Lbt,Mike Hihn,15
-Walla Walla,Ritz ,Insurance Commissioner ,,Lbt,Mike Hihn,24
-Walla Walla,McNary,Insurance Commissioner ,,Lbt,Mike Hihn,5
-Walla Walla,Touchet,Insurance Commissioner ,,Lbt,Mike Hihn,15
-Walla Walla,Twin Grove,Insurance Commissioner ,,Lbt,Mike Hihn,4
-Walla Walla,Yellowhawk,Insurance Commissioner ,,Lbt,Mike Hihn,0
-Walla Walla,Wallula,Insurance Commissioner ,,Lbt,Mike Hihn,0
-Walla Walla,Washington,Insurance Commissioner ,,Lbt,Mike Hihn,2
-Walla Walla,College Place 1,Insurance Commissioner ,,Lbt,Mike Hihn,28
-Walla Walla,College Place 2,Insurance Commissioner ,,Lbt,Mike Hihn,25
-Walla Walla,College Place 3,Insurance Commissioner ,,Lbt,Mike Hihn,24
-Walla Walla,Prescott,Insurance Commissioner ,,Lbt,Mike Hihn,8
-Walla Walla,Waitsburg,Insurance Commissioner ,,Lbt,Mike Hihn,19
-Walla Walla,College Place 4,Insurance Commissioner ,,Lbt,Mike Hihn,34
-Walla Walla,College Place 5,Insurance Commissioner ,,Lbt,Mike Hihn,8
-Walla Walla,College Place 6,Insurance Commissioner ,,Lbt,Mike Hihn,2
-Walla Walla,RURAL,Insurance Commissioner ,,Lbt,Mike Hihn,373
-Walla Walla,WALLA WALLA WA,Insurance Commissioner ,,Lbt,Mike Hihn,746
+Walla Walla,WW Alder,Insurance Commissioner,,Dem,Mike Kreidler,115
+Walla Walla,WW Ash,Insurance Commissioner,,Dem,Mike Kreidler,212
+Walla Walla,WW Baumeister,Insurance Commissioner,,Dem,Mike Kreidler,174
+Walla Walla,WW Birch,Insurance Commissioner,,Dem,Mike Kreidler,170
+Walla Walla,WW Clark,Insurance Commissioner,,Dem,Mike Kreidler,111
+Walla Walla,WW College,Insurance Commissioner,,Dem,Mike Kreidler,246
+Walla Walla,WW Edison,Insurance Commissioner,,Dem,Mike Kreidler,130
+Walla Walla,WW Garfield,Insurance Commissioner,,Dem,Mike Kreidler,199
+Walla Walla,WW Green Park,Insurance Commissioner,,Dem,Mike Kreidler,145
+Walla Walla,WW Henderson,Insurance Commissioner,,Dem,Mike Kreidler,165
+Walla Walla,WW Isaacs,Insurance Commissioner,,Dem,Mike Kreidler,129
+Walla Walla,WW Jefferson,Insurance Commissioner,,Dem,Mike Kreidler,213
+Walla Walla,WW Maple,Insurance Commissioner,,Dem,Mike Kreidler,194
+Walla Walla,WW Marcus,Insurance Commissioner,,Dem,Mike Kreidler,241
+Walla Walla,WW Monroe,Insurance Commissioner,,Dem,Mike Kreidler,254
+Walla Walla,WW Paine,Insurance Commissioner,,Dem,Mike Kreidler,106
+Walla Walla,WW Pine,Insurance Commissioner,,Dem,Mike Kreidler,148
+Walla Walla,WW Pleasant,Insurance Commissioner,,Dem,Mike Kreidler,242
+Walla Walla,WW Sharpstein,Insurance Commissioner,,Dem,Mike Kreidler,146
+Walla Walla,WW Spruce,Insurance Commissioner,,Dem,Mike Kreidler,137
+Walla Walla,WW Stadium,Insurance Commissioner,,Dem,Mike Kreidler,161
+Walla Walla,WW Tausick,Insurance Commissioner,,Dem,Mike Kreidler,92
+Walla Walla,WW Wainwright,Insurance Commissioner,,Dem,Mike Kreidler,258
+Walla Walla,WW Watertown,Insurance Commissioner,,Dem,Mike Kreidler,153
+Walla Walla,WW CITY,Insurance Commissioner,,Dem,Mike Kreidler,4141
+Walla Walla,Abbott,Insurance Commissioner,,Dem,Mike Kreidler,70
+Walla Walla,Alderbrook,Insurance Commissioner,,Dem,Mike Kreidler,108
+Walla Walla,Baker,Insurance Commissioner,,Dem,Mike Kreidler,30
+Walla Walla,Ice Harbor,Insurance Commissioner,,Dem,Mike Kreidler,133
+Walla Walla,Berney,Insurance Commissioner,,Dem,Mike Kreidler,138
+Walla Walla,Blalock,Insurance Commissioner,,Dem,Mike Kreidler,123
+Walla Walla,Braden,Insurance Commissioner,,Dem,Mike Kreidler,142
+Walla Walla,Burbank,Insurance Commissioner,,Dem,Mike Kreidler,270
+Walla Walla,Clyde,Insurance Commissioner,,Dem,Mike Kreidler,8
+Walla Walla,Derry,Insurance Commissioner,,Dem,Mike Kreidler,44
+Walla Walla,Dixie,Insurance Commissioner,,Dem,Mike Kreidler,63
+Walla Walla,Eureka,Insurance Commissioner,,Dem,Mike Kreidler,33
+Walla Walla,Frenchtown,Insurance Commissioner,,Dem,Mike Kreidler,47
+Walla Walla,Garrison,Insurance Commissioner,,Dem,Mike Kreidler,83
+Walla Walla,Gose,Insurance Commissioner,,Dem,Mike Kreidler,49
+Walla Walla,Haas,Insurance Commissioner,,Dem,Mike Kreidler,2
+Walla Walla,Lincoln,Insurance Commissioner,,Dem,Mike Kreidler,28
+Walla Walla,Mill Creek,Insurance Commissioner,,Dem,Mike Kreidler,61
+Walla Walla,Moore,Insurance Commissioner,,Dem,Mike Kreidler,144
+Walla Walla,Prospect Pt,Insurance Commissioner,,Dem,Mike Kreidler,210
+Walla Walla,Ritz,Insurance Commissioner,,Dem,Mike Kreidler,161
+Walla Walla,McNary,Insurance Commissioner,,Dem,Mike Kreidler,93
+Walla Walla,Touchet,Insurance Commissioner,,Dem,Mike Kreidler,88
+Walla Walla,Twin Grove,Insurance Commissioner,,Dem,Mike Kreidler,81
+Walla Walla,Yellowhawk,Insurance Commissioner,,Dem,Mike Kreidler,27
+Walla Walla,Wallula,Insurance Commissioner,,Dem,Mike Kreidler,25
+Walla Walla,Washington,Insurance Commissioner,,Dem,Mike Kreidler,35
+Walla Walla,College Place 1,Insurance Commissioner,,Dem,Mike Kreidler,170
+Walla Walla,College Place 2,Insurance Commissioner,,Dem,Mike Kreidler,98
+Walla Walla,College Place 3,Insurance Commissioner,,Dem,Mike Kreidler,230
+Walla Walla,Prescott,Insurance Commissioner,,Dem,Mike Kreidler,55
+Walla Walla,Waitsburg,Insurance Commissioner,,Dem,Mike Kreidler,173
+Walla Walla,College Place 4,Insurance Commissioner,,Dem,Mike Kreidler,172
+Walla Walla,College Place 5,Insurance Commissioner,,Dem,Mike Kreidler,122
+Walla Walla,College Place 6,Insurance Commissioner,,Dem,Mike Kreidler,46
+Walla Walla,RURAL,Insurance Commissioner,,Dem,Mike Kreidler,3362
+Walla Walla,WALLA WALLA WA,Insurance Commissioner,,Dem,Mike Kreidler,7503
+Walla Walla,WW Alder,Insurance Commissioner,,Rep,Don Davidson,96
+Walla Walla,WW Ash,Insurance Commissioner,,Rep,Don Davidson,239
+Walla Walla,WW Baumeister,Insurance Commissioner,,Rep,Don Davidson,180
+Walla Walla,WW Birch,Insurance Commissioner,,Rep,Don Davidson,175
+Walla Walla,WW Clark,Insurance Commissioner,,Rep,Don Davidson,105
+Walla Walla,WW College,Insurance Commissioner,,Rep,Don Davidson,141
+Walla Walla,WW Edison,Insurance Commissioner,,Rep,Don Davidson,203
+Walla Walla,WW Garfield,Insurance Commissioner,,Rep,Don Davidson,211
+Walla Walla,WW Green Park,Insurance Commissioner,,Rep,Don Davidson,109
+Walla Walla,WW Henderson,Insurance Commissioner,,Rep,Don Davidson,189
+Walla Walla,WW Isaacs,Insurance Commissioner,,Rep,Don Davidson,117
+Walla Walla,WW Jefferson,Insurance Commissioner,,Rep,Don Davidson,392
+Walla Walla,WW Maple,Insurance Commissioner,,Rep,Don Davidson,236
+Walla Walla,WW Marcus,Insurance Commissioner,,Rep,Don Davidson,319
+Walla Walla,WW Monroe,Insurance Commissioner,,Rep,Don Davidson,395
+Walla Walla,WW Paine,Insurance Commissioner,,Rep,Don Davidson,75
+Walla Walla,WW Pine,Insurance Commissioner,,Rep,Don Davidson,110
+Walla Walla,WW Pleasant,Insurance Commissioner,,Rep,Don Davidson,301
+Walla Walla,WW Sharpstein,Insurance Commissioner,,Rep,Don Davidson,161
+Walla Walla,WW Spruce,Insurance Commissioner,,Rep,Don Davidson,131
+Walla Walla,WW Stadium,Insurance Commissioner,,Rep,Don Davidson,160
+Walla Walla,WW Tausick,Insurance Commissioner,,Rep,Don Davidson,129
+Walla Walla,WW Wainwright,Insurance Commissioner,,Rep,Don Davidson,240
+Walla Walla,WW Watertown,Insurance Commissioner,,Rep,Don Davidson,152
+Walla Walla,WW CITY,Insurance Commissioner,,Rep,Don Davidson,4566
+Walla Walla,Abbott,Insurance Commissioner,,Rep,Don Davidson,215
+Walla Walla,Alderbrook,Insurance Commissioner,,Rep,Don Davidson,140
+Walla Walla,Baker,Insurance Commissioner,,Rep,Don Davidson,73
+Walla Walla,Ice Harbor,Insurance Commissioner,,Rep,Don Davidson,271
+Walla Walla,Berney,Insurance Commissioner,,Rep,Don Davidson,167
+Walla Walla,Blalock,Insurance Commissioner,,Rep,Don Davidson,237
+Walla Walla,Braden,Insurance Commissioner,,Rep,Don Davidson,245
+Walla Walla,Burbank,Insurance Commissioner,,Rep,Don Davidson,384
+Walla Walla,Clyde,Insurance Commissioner,,Rep,Don Davidson,36
+Walla Walla,Derry,Insurance Commissioner,,Rep,Don Davidson,87
+Walla Walla,Dixie,Insurance Commissioner,,Rep,Don Davidson,146
+Walla Walla,Eureka,Insurance Commissioner,,Rep,Don Davidson,42
+Walla Walla,Frenchtown,Insurance Commissioner,,Rep,Don Davidson,138
+Walla Walla,Garrison,Insurance Commissioner,,Rep,Don Davidson,164
+Walla Walla,Gose,Insurance Commissioner,,Rep,Don Davidson,67
+Walla Walla,Haas,Insurance Commissioner,,Rep,Don Davidson,4
+Walla Walla,Lincoln,Insurance Commissioner,,Rep,Don Davidson,40
+Walla Walla,Mill Creek,Insurance Commissioner,,Rep,Don Davidson,153
+Walla Walla,Moore,Insurance Commissioner,,Rep,Don Davidson,212
+Walla Walla,Prospect Pt,Insurance Commissioner,,Rep,Don Davidson,405
+Walla Walla,Ritz,Insurance Commissioner,,Rep,Don Davidson,298
+Walla Walla,McNary,Insurance Commissioner,,Rep,Don Davidson,195
+Walla Walla,Touchet,Insurance Commissioner,,Rep,Don Davidson,245
+Walla Walla,Twin Grove,Insurance Commissioner,,Rep,Don Davidson,165
+Walla Walla,Yellowhawk,Insurance Commissioner,,Rep,Don Davidson,27
+Walla Walla,Wallula,Insurance Commissioner,,Rep,Don Davidson,35
+Walla Walla,Washington,Insurance Commissioner,,Rep,Don Davidson,87
+Walla Walla,College Place 1,Insurance Commissioner,,Rep,Don Davidson,317
+Walla Walla,College Place 2,Insurance Commissioner,,Rep,Don Davidson,222
+Walla Walla,College Place 3,Insurance Commissioner,,Rep,Don Davidson,347
+Walla Walla,Prescott,Insurance Commissioner,,Rep,Don Davidson,67
+Walla Walla,Waitsburg,Insurance Commissioner,,Rep,Don Davidson,300
+Walla Walla,College Place 4,Insurance Commissioner,,Rep,Don Davidson,307
+Walla Walla,College Place 5,Insurance Commissioner,,Rep,Don Davidson,216
+Walla Walla,College Place 6,Insurance Commissioner,,Rep,Don Davidson,50
+Walla Walla,RURAL,Insurance Commissioner,,Rep,Don Davidson,6104
+Walla Walla,WALLA WALLA WA,Insurance Commissioner,,Rep,Don Davidson,10670
+Walla Walla,WW Alder,Insurance Commissioner,,Lbt,Mike Hihn,11
+Walla Walla,WW Ash,Insurance Commissioner,,Lbt,Mike Hihn,28
+Walla Walla,WW Baumeister,Insurance Commissioner,,Lbt,Mike Hihn,15
+Walla Walla,WW Birch,Insurance Commissioner,,Lbt,Mike Hihn,17
+Walla Walla,WW Clark,Insurance Commissioner,,Lbt,Mike Hihn,7
+Walla Walla,WW College,Insurance Commissioner,,Lbt,Mike Hihn,12
+Walla Walla,WW Edison,Insurance Commissioner,,Lbt,Mike Hihn,18
+Walla Walla,WW Garfield,Insurance Commissioner,,Lbt,Mike Hihn,27
+Walla Walla,WW Green Park,Insurance Commissioner,,Lbt,Mike Hihn,13
+Walla Walla,WW Henderson,Insurance Commissioner,,Lbt,Mike Hihn,19
+Walla Walla,WW Isaacs,Insurance Commissioner,,Lbt,Mike Hihn,11
+Walla Walla,WW Jefferson,Insurance Commissioner,,Lbt,Mike Hihn,19
+Walla Walla,WW Maple,Insurance Commissioner,,Lbt,Mike Hihn,22
+Walla Walla,WW Marcus,Insurance Commissioner,,Lbt,Mike Hihn,16
+Walla Walla,WW Monroe,Insurance Commissioner,,Lbt,Mike Hihn,18
+Walla Walla,WW Paine,Insurance Commissioner,,Lbt,Mike Hihn,14
+Walla Walla,WW Pine,Insurance Commissioner,,Lbt,Mike Hihn,22
+Walla Walla,WW Pleasant,Insurance Commissioner,,Lbt,Mike Hihn,10
+Walla Walla,WW Sharpstein,Insurance Commissioner,,Lbt,Mike Hihn,14
+Walla Walla,WW Spruce,Insurance Commissioner,,Lbt,Mike Hihn,13
+Walla Walla,WW Stadium,Insurance Commissioner,,Lbt,Mike Hihn,21
+Walla Walla,WW Tausick,Insurance Commissioner,,Lbt,Mike Hihn,10
+Walla Walla,WW Wainwright,Insurance Commissioner,,Lbt,Mike Hihn,12
+Walla Walla,WW Watertown,Insurance Commissioner,,Lbt,Mike Hihn,4
+Walla Walla,WW CITY,Insurance Commissioner,,Lbt,Mike Hihn,373
+Walla Walla,Abbott,Insurance Commissioner,,Lbt,Mike Hihn,7
+Walla Walla,Alderbrook,Insurance Commissioner,,Lbt,Mike Hihn,8
+Walla Walla,Baker,Insurance Commissioner,,Lbt,Mike Hihn,3
+Walla Walla,Ice Harbor,Insurance Commissioner,,Lbt,Mike Hihn,13
+Walla Walla,Berney,Insurance Commissioner,,Lbt,Mike Hihn,10
+Walla Walla,Blalock,Insurance Commissioner,,Lbt,Mike Hihn,17
+Walla Walla,Braden,Insurance Commissioner,,Lbt,Mike Hihn,11
+Walla Walla,Burbank,Insurance Commissioner,,Lbt,Mike Hihn,28
+Walla Walla,Clyde,Insurance Commissioner,,Lbt,Mike Hihn,4
+Walla Walla,Derry,Insurance Commissioner,,Lbt,Mike Hihn,8
+Walla Walla,Dixie,Insurance Commissioner,,Lbt,Mike Hihn,12
+Walla Walla,Eureka,Insurance Commissioner,,Lbt,Mike Hihn,6
+Walla Walla,Frenchtown,Insurance Commissioner,,Lbt,Mike Hihn,11
+Walla Walla,Garrison,Insurance Commissioner,,Lbt,Mike Hihn,6
+Walla Walla,Gose,Insurance Commissioner,,Lbt,Mike Hihn,1
+Walla Walla,Haas,Insurance Commissioner,,Lbt,Mike Hihn,0
+Walla Walla,Lincoln,Insurance Commissioner,,Lbt,Mike Hihn,3
+Walla Walla,Mill Creek,Insurance Commissioner,,Lbt,Mike Hihn,6
+Walla Walla,Moore,Insurance Commissioner,,Lbt,Mike Hihn,6
+Walla Walla,Prospect Pt,Insurance Commissioner,,Lbt,Mike Hihn,15
+Walla Walla,Ritz,Insurance Commissioner,,Lbt,Mike Hihn,24
+Walla Walla,McNary,Insurance Commissioner,,Lbt,Mike Hihn,5
+Walla Walla,Touchet,Insurance Commissioner,,Lbt,Mike Hihn,15
+Walla Walla,Twin Grove,Insurance Commissioner,,Lbt,Mike Hihn,4
+Walla Walla,Yellowhawk,Insurance Commissioner,,Lbt,Mike Hihn,0
+Walla Walla,Wallula,Insurance Commissioner,,Lbt,Mike Hihn,0
+Walla Walla,Washington,Insurance Commissioner,,Lbt,Mike Hihn,2
+Walla Walla,College Place 1,Insurance Commissioner,,Lbt,Mike Hihn,28
+Walla Walla,College Place 2,Insurance Commissioner,,Lbt,Mike Hihn,25
+Walla Walla,College Place 3,Insurance Commissioner,,Lbt,Mike Hihn,24
+Walla Walla,Prescott,Insurance Commissioner,,Lbt,Mike Hihn,8
+Walla Walla,Waitsburg,Insurance Commissioner,,Lbt,Mike Hihn,19
+Walla Walla,College Place 4,Insurance Commissioner,,Lbt,Mike Hihn,34
+Walla Walla,College Place 5,Insurance Commissioner,,Lbt,Mike Hihn,8
+Walla Walla,College Place 6,Insurance Commissioner,,Lbt,Mike Hihn,2
+Walla Walla,RURAL,Insurance Commissioner,,Lbt,Mike Hihn,373
+Walla Walla,WALLA WALLA WA,Insurance Commissioner,,Lbt,Mike Hihn,746
 Walla Walla,WW Alder,State Senate,SD16,Dem,Valoria Loveland,129
 Walla Walla,WW Ash,State Senate,SD16,Dem,Valoria Loveland,211
 Walla Walla,WW Baumeister,State Senate,SD16,Dem,Valoria Loveland,197
@@ -2772,7 +2772,7 @@ Walla Walla,Lincoln,State Senate,SD16,Dem,Valoria Loveland,42
 Walla Walla,Mill Creek,State Senate,SD16,Dem,Valoria Loveland,82
 Walla Walla,Moore,State Senate,SD16,Dem,Valoria Loveland,186
 Walla Walla,Prospect Pt,State Senate,SD16,Dem,Valoria Loveland,257
-Walla Walla,Ritz ,State Senate,SD16,Dem,Valoria Loveland,175
+Walla Walla,Ritz,State Senate,SD16,Dem,Valoria Loveland,175
 Walla Walla,McNary,State Senate,SD16,Dem,Valoria Loveland,180
 Walla Walla,Touchet,State Senate,SD16,Dem,Valoria Loveland,127
 Walla Walla,Twin Grove,State Senate,SD16,Dem,Valoria Loveland,102
@@ -2834,7 +2834,7 @@ Walla Walla,Lincoln,State Senate,SD16,Rep,Mike Hewitt,37
 Walla Walla,Mill Creek,State Senate,SD16,Rep,Mike Hewitt,161
 Walla Walla,Moore,State Senate,SD16,Rep,Mike Hewitt,226
 Walla Walla,Prospect Pt,State Senate,SD16,Rep,Mike Hewitt,443
-Walla Walla,Ritz ,State Senate,SD16,Rep,Mike Hewitt,347
+Walla Walla,Ritz,State Senate,SD16,Rep,Mike Hewitt,347
 Walla Walla,McNary,State Senate,SD16,Rep,Mike Hewitt,144
 Walla Walla,Touchet,State Senate,SD16,Rep,Mike Hewitt,248
 Walla Walla,Twin Grove,State Senate,SD16,Rep,Mike Hewitt,170
@@ -2896,7 +2896,7 @@ Walla Walla,Lincoln,State House,HD16-1,Dem,Yolanda Trout,21
 Walla Walla,Mill Creek,State House,HD16-1,Dem,Yolanda Trout,57
 Walla Walla,Moore,State House,HD16-1,Dem,Yolanda Trout,101
 Walla Walla,Prospect Pt,State House,HD16-1,Dem,Yolanda Trout,135
-Walla Walla,Ritz ,State House,HD16-1,Dem,Yolanda Trout,115
+Walla Walla,Ritz,State House,HD16-1,Dem,Yolanda Trout,115
 Walla Walla,McNary,State House,HD16-1,Dem,Yolanda Trout,60
 Walla Walla,Touchet,State House,HD16-1,Dem,Yolanda Trout,59
 Walla Walla,Twin Grove,State House,HD16-1,Dem,Yolanda Trout,62
@@ -2958,7 +2958,7 @@ Walla Walla,Lincoln,State House,HD16-1,Rep,Dave Mastin,55
 Walla Walla,Mill Creek,State House,HD16-1,Rep,Dave Mastin,185
 Walla Walla,Moore,State House,HD16-1,Rep,Dave Mastin,309
 Walla Walla,Prospect Pt,State House,HD16-1,Rep,Dave Mastin,559
-Walla Walla,Ritz ,State House,HD16-1,Rep,Dave Mastin,410
+Walla Walla,Ritz,State House,HD16-1,Rep,Dave Mastin,410
 Walla Walla,McNary,State House,HD16-1,Rep,Dave Mastin,252
 Walla Walla,Touchet,State House,HD16-1,Rep,Dave Mastin,312
 Walla Walla,Twin Grove,State House,HD16-1,Rep,Dave Mastin,206
@@ -3020,7 +3020,7 @@ Walla Walla,Lincoln,State House,HD16-2,Dem,Bill Grant,67
 Walla Walla,Mill Creek,State House,HD16-2,Dem,Bill Grant,173
 Walla Walla,Moore,State House,HD16-2,Dem,Bill Grant,324
 Walla Walla,Prospect Pt,State House,HD16-2,Dem,Bill Grant,520
-Walla Walla,Ritz ,State House,HD16-2,Dem,Bill Grant,364
+Walla Walla,Ritz,State House,HD16-2,Dem,Bill Grant,364
 Walla Walla,McNary,State House,HD16-2,Dem,Bill Grant,196
 Walla Walla,Touchet,State House,HD16-2,Dem,Bill Grant,263
 Walla Walla,Twin Grove,State House,HD16-2,Dem,Bill Grant,191
@@ -3082,7 +3082,7 @@ Walla Walla,Lincoln,State House,HD16-2,AH,Lorne Blackman,10
 Walla Walla,Mill Creek,State House,HD16-2,AH,Lorne Blackman,62
 Walla Walla,Moore,State House,HD16-2,AH,Lorne Blackman,75
 Walla Walla,Prospect Pt,State House,HD16-2,AH,Lorne Blackman,134
-Walla Walla,Ritz ,State House,HD16-2,AH,Lorne Blackman,134
+Walla Walla,Ritz,State House,HD16-2,AH,Lorne Blackman,134
 Walla Walla,McNary,State House,HD16-2,AH,Lorne Blackman,81
 Walla Walla,Touchet,State House,HD16-2,AH,Lorne Blackman,99
 Walla Walla,Twin Grove,State House,HD16-2,AH,Lorne Blackman,64
