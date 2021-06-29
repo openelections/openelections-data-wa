@@ -11,8 +11,8 @@ Adams,HOSPITAL DISTRICT 2 Commissioner Position 3,,,John M.Kragt,974
 Adams,HOSPITAL DISTRICT 2 Commissioner Position 5,,,Stacey Selcho Plummer,794
 Adams,HOSPITAL DISTRICT 3 Commissioner Position 3,,,Bob Carlson,903
 Adams,HOSPITAL DISTRICT 3 Commissioner Position 5,,,Larry McCourtie,893
-Adams,SCHOOL DISTRICT 087 - LACROSSE LaCrosse School District No. 126  Proposition No. 1 Replacement Capital Levy,,,Yes,5
-Adams,SCHOOL DISTRICT 087 - LACROSSE LaCrosse School District No. 126  Proposition No. 1 Replacement Capital Levy,,,No,0
+Adams,SCHOOL DISTRICT 087 - LACROSSE LaCrosse School District No. 126 Proposition No. 1 Replacement Capital Levy,,,Yes,5
+Adams,SCHOOL DISTRICT 087 - LACROSSE LaCrosse School District No. 126 Proposition No. 1 Replacement Capital Levy,,,No,0
 Adams,SCHOOL DISTRICT 087 - LACROSSE Postion 1 at large,,,Kara Harder,3
 Adams,SCHOOL DISTRICT 087 - LACROSSE Position 2 at large,,,Tami Schwartz,5
 Adams,SCHOOL DISTRICT 087 - LACROSSE Position 3 at large,,,Harmon D Smith,5
@@ -34,7 +34,7 @@ Adams,SCHOOL DISTRICT 158 - LIND Director Position 1,,,Laurinda Ritz,242
 Adams,SCHOOL DISTRICT 158 - LIND Director Position 3,,,Adam Labes,251
 Adams,SCHOOL DISTRICT 161 - WARDEN SCHOOL DIRECTOR #01,,,Doug Skone,6
 Adams,SCHOOL DISTRICT 161 - WARDEN SCHOOL DIRECTOR 4 At Large,,,Bryce Cox,6
-Adams,SCHOOL DISTRICT 161 - WARDEN  SCHOOL DIRECTOR 5 At Large,,,Seamus McPartland,6
+Adams,SCHOOL DISTRICT 161 - WARDEN SCHOOL DIRECTOR 5 At Large,,,Seamus McPartland,6
 Adams,"SCHOOL DISTRICT 162 - N FRANKLIN Director, District 1, Position 1",,,Patricia (Patti) Walker,17
 Adams,"SCHOOL DISTRICT 162 - N FRANKLIN Director, District 2, Position 2",,,Terry A Utecht,14
 Adams,"SCHOOL DISTRICT 162 - N FRANKLIN Director, District 3, Position 3",,,Kara Booker,17
@@ -77,7 +77,7 @@ Adams,FIRE DISTRICT 4 Proposition 1 Maintenance and Operation Levy,,,Approved,7
 Adams,FIRE DISTRICT 4 Proposition 1 Maintenance and Operation Levy,,,Rejected,0
 Adams,FIRE DISTRICT 4 Commissioner Position 3,,,Carl Harder,7
 Adams,FIRE DISTRICT 5 Commissioner Position 1,,,Chad Smith,394
-Adams,FIRE DISTRICT 5 Commissioner Position  3,,,Doyle Pegram,399
+Adams,FIRE DISTRICT 5 Commissioner Position 3,,,Doyle Pegram,399
 Adams,FIRE DISTRICT 6 Commissioner Position 2,,,Fritz Coon,26
 Adams,LIND PARK AND RECREATION 3 Commissioner Position 1,,,Cortnie Strohmaier,219
 Adams,LIND PARK AND RECREATION 3 Commissioner Position 3,,,Eric Labes,235
@@ -136,7 +136,7 @@ Asotin,SCHOOL DISTRICT 420 SCHOOL DIRECTOR #03,,,Robert Uhrich,752
 Asotin,FIRE DISTRICT 1 FIRE COMMISSIONER 1,,,Patrick W. Loseth,3457
 Asotin,FIRE DISTRICT 1 Property Tax Levy for Protection and Emergency Medical Services Property Tax Levy for Protection and Emergency Medical Services,,,Approved,3146
 Asotin,FIRE DISTRICT 1 Property Tax Levy for Protection and Emergency Medical Services Property Tax Levy for Protection and Emergency Medical Services,,,Rejected,1404
-Asotin,BLUE MOUNTAIN FIRE DIST NO 1 Fire Commissioner  2,,,Brad Forgey,38
+Asotin,BLUE MOUNTAIN FIRE DIST NO 1 Fire Commissioner 2,,,Brad Forgey,38
 Asotin,CEMETERY DISTRICT COMMISSIONER #1,,,Shelley R. Williams,4994
 Benton,Advisory Votes Advisory Vote No. 16 Engrossed Substitute House Bill 1597,,,Repealed,24526
 Benton,Advisory Votes Advisory Vote No. 16 Engrossed Substitute House Bill 1597,,,Maintained,13184
@@ -221,7 +221,7 @@ Benton,Fire District #1 Commissioner (Pos. 1),,,Jerry Morris,1827
 Benton,Fire District #1 Commissioner (Pos. 1),,,Scott Carpenter,1422
 Benton,Fire District #2 Commissioner (Pos. 1),,,Barry Orth,1053
 Benton,Fire District #4 Commissioner (Pos. 1),,,Gregg A Couch,3568
-Benton,Fire District #5  Revised Commissioner (Pos. 1),,,Randy Mercer,66
+Benton,Fire District #5 Revised Commissioner (Pos. 1),,,Randy Mercer,66
 Benton,Fire District #6 Commissioner (Pos. 1),,,Machelle A Watts,105
 Benton,West Benton Regional Fire Authority Commissioner Position 3,,,David Moon,1715
 Benton,West Benton Regional Fire Authority Commissioner Position 5,,,Richard Clizbe,957
@@ -519,8 +519,8 @@ Clark,"PORT OF VANCOUVER COMMISSIONER, DISTRICT NO. 1",,,Kris Greene,18699
 Clark,"PORT OF VANCOUVER COMMISSIONER, DISTRICT NO. 1",,,Don Orange,34238
 Clark,WOODLAND POOL AND RECREATION Commissioner Position #2,,,Sharyn Crosby,232
 Clark,WOODLAND POOL AND RECREATION Commissioner Position #3,,,Rachael Stuart,226
-Clark,WOODLAND POOL AND RECREATION Commissioner Position  #4,,,Bruce Hulett,228
-Clark,WOODLAND POOL AND RECREATION Commissioner Position  #5,,,Shannon Tracy,228
+Clark,WOODLAND POOL AND RECREATION Commissioner Position #4,,,Bruce Hulett,228
+Clark,WOODLAND POOL AND RECREATION Commissioner Position #5,,,Shannon Tracy,228
 Clark,CITY OF WASHOUGAL Proposition No. 7 Emergency Medical Services Regular Property Tax Levy,,,Yes,2089
 Clark,CITY OF WASHOUGAL Proposition No. 7 Emergency Medical Services Regular Property Tax Levy,,,No,953
 Clark,CITY OF WOODLAND Proposition 1 Levy Lid Lift for Law Enforcement Personnel and Equipment,,,Yes,14
@@ -537,8 +537,8 @@ Columbia,Advisory Votes Advisory Vote No. 17 Engrossed House Bill 2163,,,Repeale
 Columbia,Advisory Votes Advisory Vote No. 17 Engrossed House Bill 2163,,,Maintained,260
 Columbia,Advisory Votes Advisory Vote No. 18 Engrossed House Bill 2242,,,Repealed,879
 Columbia,Advisory Votes Advisory Vote No. 18 Engrossed House Bill 2242,,,Maintained,328
-Columbia,COUNTY WIDE DISTRICT 01 Proposition No. 1  One-tenth of One Percent Sales and Use Tax for Emergency Communication Systems and Facilities,,,Yes,846
-Columbia,COUNTY WIDE DISTRICT 01 Proposition No. 1  One-tenth of One Percent Sales and Use Tax for Emergency Communication Systems and Facilities,,,No,419
+Columbia,COUNTY WIDE DISTRICT 01 Proposition No. 1 One-tenth of One Percent Sales and Use Tax for Emergency Communication Systems and Facilities,,,Yes,846
+Columbia,COUNTY WIDE DISTRICT 01 Proposition No. 1 One-tenth of One Percent Sales and Use Tax for Emergency Communication Systems and Facilities,,,No,419
 Columbia,COLUMBIA CO PORT DISTRICT COMMISSIONER #2,,,EARLE MARVIN,840
 Columbia,PUBLIC HOSPITAL DISTRICT COMMISSIONER #1,,,BOB HUTCHENS,1008
 Columbia,PUBLIC HOSPITAL DISTRICT COMMISSIONER #2,,,COLLEEN SPROUL,877
@@ -642,7 +642,7 @@ Cowlitz,Fire Protection District 6 Commissioner Position #1,,,Jeffery Gann,1494
 Cowlitz,Fire Protection District 6 Commissioner Position #3,,,Neil Agren,1534
 Cowlitz,Fire Protection District 7 Commissioner Position #2,,,Michael Rietman,183
 Cowlitz,Cemetery District 2 Commissioner Position #2,,,Frances Northcut,1719
-Cowlitz,Cemetery District 4 Commissioner Position  #2,,,John L. Alden,272
+Cowlitz,Cemetery District 4 Commissioner Position #2,,,John L. Alden,272
 Cowlitz,Cemetery District 5 Commissioner Position #1,,,Joanna Boatman,1328
 Cowlitz,Cemetery District 5 Commissioner Position #3,,,Loranne Sue Warila,1248
 Cowlitz,Cemetery District 6 Commissioner Position #2,,,Bill Spencer,707
@@ -650,8 +650,8 @@ Cowlitz,Cemetery District 7 Commissioner Position #1,,,Francis Naglich,132
 Cowlitz,Beacon Hill Water and Sewer District Commissioner Position #1,,,Monte Roden,1517
 Cowlitz,Woodland Swimming Pool and Recreation District Commissioner Position #2,,,Sharyn Crosby,1524
 Cowlitz,Woodland Swimming Pool and Recreation District Commissioner Position #3,,,Rachael Stuart,1509
-Cowlitz,Woodland Swimming Pool and Recreation District Commissioner Position  #4,,,Bruce Hulett,1534
-Cowlitz,Woodland Swimming Pool and Recreation District Commissioner Position  #5,,,Shannon Tracy,1501
+Cowlitz,Woodland Swimming Pool and Recreation District Commissioner Position #4,,,Bruce Hulett,1534
+Cowlitz,Woodland Swimming Pool and Recreation District Commissioner Position #5,,,Shannon Tracy,1501
 Cowlitz,City of Castle Rock Proposition 1,,,Approved,319
 Cowlitz,City of Castle Rock Proposition 1,,,Rejected,143
 Cowlitz,City of Kalama Proposition 1 General Obligation Bonds for Police and Public Safety Facilities,,,Yes,314
@@ -684,10 +684,10 @@ Douglas,EAST WENATCHEE WATER WATER COMMISSIONER #1,,,Nick Warner,2199
 Douglas,EAST WENATCHEE WATER WATER COMMISSIONER #1,,,John D. Sterk,1937
 Douglas,HOSPITAL DISTRICT #1 Commissioner (Pos. 1) At Large,,,Vicki Orford,300
 Douglas,HOSPITAL DISTRICT #1 Commissioner (Pos. 5) At Large,,,Tracy Shrable,337
-Douglas,HOSPITAL DISTRICT #2 COMMISSIONER  #2,,,Jeremy Weber,317
+Douglas,HOSPITAL DISTRICT #2 COMMISSIONER #2,,,Jeremy Weber,317
 Douglas,HOSPITAL DISTRICT #6 HOSPITAL COMMISSIONER #03,,,Jerry Kennedy,63
 Douglas,HOSPITAL DISTRICT #6 HOSPITAL COMMISSIONER #04,,,Geary Oliver,63
-Douglas,BREWSTER SD Director District 3,,,Maria A  Maldonado,28
+Douglas,BREWSTER SD Director District 3,,,Maria A Maldonado,28
 Douglas,BREWSTER SD Director District 3,,,Clark Cooper,31
 Douglas,BREWSTER SD Director District 5 At Large,,,Mario Camacho,43
 Douglas,BRIDGEPORT SD DIRECTOR #2 @ LARGE,,,Maggie Ochoa,167
@@ -719,7 +719,7 @@ Douglas,QUINCY SD SCHOOL DIRECTOR #01,,,Tricia C. Lubach,13
 Douglas,QUINCY SD SCHOOL DIRECTOR 5 At Large,,,Alex Ybarra,13
 Douglas,WATERVILLE SD DIRECTOR #1,,,Seth A. Normington,293
 Douglas,WATERVILLE SD DIRECTOR #3,,,Joel Harding,283
-Douglas,WATERVILLE SD DIRECTOR  #4,,,Amanda M. Viebrock,325
+Douglas,WATERVILLE SD DIRECTOR #4,,,Amanda M. Viebrock,325
 Douglas,CITY OF BRIDGEPORT Council Position 1,,,Matthew Schuh,103
 Douglas,CITY OF BRIDGEPORT Council Position 3,,,Jacqueline (Jackie) Hentges,102
 Douglas,TOWN OF COULEE DAM Mayor,,,Gayle Swagerty,24
@@ -735,7 +735,7 @@ Douglas,CITY OF EAST WENATCHEE Council Position 3,,,Chuck Johnson,1168
 Douglas,CITY OF EAST WENATCHEE Council Position 4,,,Jerrilea Crawford,1418
 Douglas,CITY OF EAST WENATCHEE Council Position 7,,,Matthew Hepner,1413
 Douglas,TOWN OF MANSFIELD Council Position 2,,,Adam Foged,76
-Douglas,TOWN OF MANSFIELD Council Position 4,,,Gerald  Poole,50
+Douglas,TOWN OF MANSFIELD Council Position 4,,,Gerald Poole,50
 Douglas,CITY OF ROCK ISLAND Council Position 1,,,Ray Pearson,46
 Douglas,CITY OF ROCK ISLAND Council Position 1,,,Cameron Marchmonte,36
 Douglas,CITY OF ROCK ISLAND Council Position 2,,,Jessica Ochoa,66
@@ -745,15 +745,15 @@ Douglas,CITY OF ROCK ISLAND Council Position 4,,,Jana C Howard,33
 Douglas,CITY OF ROCK ISLAND Council Postion 5,,,Carmen Andonaegui,67
 Douglas,TOWN OF WATERVILLE Council Position 1,,,Jenna Dixon,218
 Douglas,TOWN OF WATERVILLE Council Position 2,,,Loyd C. Smith,184
-Douglas,FIRE DISTRICT  #1 COMMISSIONER  #3,,,Gary Mullendore,128
-Douglas,FIRE DISTRICT  #2 COMMISSIONER  #1,,,Richard W. McBride,3525
-Douglas,FIRE DISTRICT #4 COMMISSIONER  #1,,,Pat Brandt,215
-Douglas,FIRE DISTRICT #5 COMMISSIONER  #1,,,Monty H. Black,153
-Douglas,FIRE DISTRICT  #8 COMMISSIONER  #1,,,Tim Behne,16
+Douglas,FIRE DISTRICT #1 COMMISSIONER #3,,,Gary Mullendore,128
+Douglas,FIRE DISTRICT #2 COMMISSIONER #1,,,Richard W. McBride,3525
+Douglas,FIRE DISTRICT #4 COMMISSIONER #1,,,Pat Brandt,215
+Douglas,FIRE DISTRICT #5 COMMISSIONER #1,,,Monty H. Black,153
+Douglas,FIRE DISTRICT #8 COMMISSIONER #1,,,Tim Behne,16
 Douglas,DOUGLAS-OKANOGAN FIRE Commissioner (Pos. 1),,,Ivan (Ike) Vallance,86
 Douglas,DOUGLAS-OKANOGAN FIRE Commissioner (Pos. 5),,,F. Eric Zahn,91
 Douglas,SEWER DISTRICT #1 SEWER COMMISSIONER #1,,,Wayne &quot;Barney&quot; Barnhart,2893
-Douglas,CEMETERY DISTRICT #2 COMMISSIONER  #1,,,Sandra J Stoddard,301
+Douglas,CEMETERY DISTRICT #2 COMMISSIONER #1,,,Sandra J Stoddard,301
 Ferry,Advisory Votes Advisory Vote No. 16 Engrossed Substitute House Bill 1597,,,Repealed,1688
 Ferry,Advisory Votes Advisory Vote No. 16 Engrossed Substitute House Bill 1597,,,Maintained,513
 Ferry,Advisory Votes Advisory Vote No. 17 Engrossed House Bill 2163,,,Repealed,1887
@@ -782,11 +782,11 @@ Ferry,SCHOOL DISTRICT 212 Director District #3,,,Matt Langrehr,175
 Ferry,SCHOOL DISTRICT 212 Director At-Large #5,,,Jerry Antoine,173
 Ferry,SCHOOL DISTRICT 212 CAPITAL LEVY FOR IMPROVEMENTS TO KETTLE FALLS ATHLETIC COMPLEX AND OTHER SCHOOL FACILITIES PROPOSITION 1,,,Levy Yes,114
 Ferry,SCHOOL DISTRICT 212 CAPITAL LEVY FOR IMPROVEMENTS TO KETTLE FALLS ATHLETIC COMPLEX AND OTHER SCHOOL FACILITIES PROPOSITION 1,,,Levy No,171
-Ferry,SCHOOL DISTRICT 309 Bonds to Construct and Remodel School Facilities  Proposition 1,,,Approved,488
-Ferry,SCHOOL DISTRICT 309 Bonds to Construct and Remodel School Facilities  Proposition 1,,,Rejected,738
+Ferry,SCHOOL DISTRICT 309 Bonds to Construct and Remodel School Facilities Proposition 1,,,Approved,488
+Ferry,SCHOOL DISTRICT 309 Bonds to Construct and Remodel School Facilities Proposition 1,,,Rejected,738
 Ferry,SCHOOL DISTRICT 309 SCHOOL DIRECTOR #1,,,Ralph C. Ellingson,866
 Ferry,SCHOOL DISTRICT 309 SCHOOL DIRECTOR #2,,,Neal Martin,747
-Ferry,SCHOOL DISTRICT 309 SCHOOL DIRECTOR  #5,,,Travis Fletcher,850
+Ferry,SCHOOL DISTRICT 309 SCHOOL DIRECTOR #5,,,Travis Fletcher,850
 Ferry,TOWN OF REPUBLIC Councilperson #1,,,Loni Simone,239
 Ferry,TOWN OF REPUBLIC Councilperson #3,,,Rachel D. Siracuse,249
 Ferry,TOWN OF REPUBLIC Councilperson #4,,,Marty Rugo,203
@@ -945,7 +945,7 @@ Grant,Quincy School Dist #144 SCHOOL DIRECTOR #01,,,Tricia C. Lubach,1302
 Grant,Quincy School Dist #144 SCHOOL DIRECTOR 5 At Large,,,Alex Ybarra,1323
 Grant,Warden School Dist #146 SCHOOL DIRECTOR #01,,,Doug Skone,292
 Grant,Warden School Dist #146 SCHOOL DIRECTOR 4 At Large,,,Bryce Cox,276
-Grant,Warden School Dist #146  SCHOOL DIRECTOR 5 At Large,,,Seamus McPartland,282
+Grant,Warden School Dist #146 SCHOOL DIRECTOR 5 At Large,,,Seamus McPartland,282
 Grant,Coulee Hartline School Dist #151 SCHOOL DIRECTOR #1,,,Karin Whitaker,233
 Grant,Coulee Hartline School Dist #151 SCHOOL DIRECTOR #03,,,Christina Jalali,229
 Grant,Coulee Hartline School Dist #151 SCHOOL DIRECTOR 5 AT LARGE,,,William H Murray,233
@@ -987,15 +987,15 @@ Grant,Grant County Fire Dist #5 FIRE COMMISSIONER #02,,,Lee Creiglow,877
 Grant,Grant County Fire Dist #6 FIRE COMMISSIONER #02,,,William &quot;Bill&quot; Higginbotham,45
 Grant,Grant County Fire Dist #6 FIRE COMMISSIONER #3,,,Gerald F. Dormaier,51
 Grant,Grant County Fire Dist #7 FIRE COMMISSIONER #03,,,Jeff Grass,321
-Grant,Grant County  Fire Dist #8 FIRE COMMISSIONER #02,,,Scott J. Nesbit,298
-Grant,Grant County  Fire Dist #8 Fire Commissioner 4,,,Debra Crain,290
+Grant,Grant County Fire Dist #8 FIRE COMMISSIONER #02,,,Scott J. Nesbit,298
+Grant,Grant County Fire Dist #8 Fire Commissioner 4,,,Debra Crain,290
 Grant,Grant County Fire Dist #10 FIRE COMMISSIONER #03,,,MICHAEL MOORE,247
-Grant,Grant County  Fire Dist #11 FIRE COMMISSIONER #02,,,RAY WARDENAAR,231
-Grant,Grant County  Fire Dist #11 FIRE COMMISSIONER #02,,,Dustin Biela,74
-Grant,Grant County  Fire Dist #12 FIRE COMMISSIONER #02,,,Mark Kane,139
+Grant,Grant County Fire Dist #11 FIRE COMMISSIONER #02,,,RAY WARDENAAR,231
+Grant,Grant County Fire Dist #11 FIRE COMMISSIONER #02,,,Dustin Biela,74
+Grant,Grant County Fire Dist #12 FIRE COMMISSIONER #02,,,Mark Kane,139
 Grant,Grant County Fire Dist #13 FIRE COMMISSIONER #02,,,Shane Heston,284
 Grant,Grant County Fire Dist #14 FIRE COMMISSIONER #2,,,Gary V Rosco,52
-Grant,Grant County  Fire Dist #15 FIRE COMMISSIONER #01,,,Richard Wentworth,197
+Grant,Grant County Fire Dist #15 FIRE COMMISSIONER #01,,,Richard Wentworth,197
 Grant,Coulee City MAYOR,,,Robert Dove,94
 Grant,Coulee City COUNCIL MEMBER #01,,,ShirleyRae Maes,97
 Grant,Coulee City COUNCIL MEMBER #04,,,Anita Paulsson,98
@@ -1069,9 +1069,9 @@ Grant,Royal City Cemetery Dist #5 COMMISSIONER #01,,,Wayne C Brown,342
 Grant,Cascade Valley Water Dist #2 COMMISSIONER #02,,,Anita L Graham,56
 Grant,Crescent Bar Sewer Dist #1 COMMISSIONER #01,,,Troy Davis,66
 Grant,Crescent Bar Sewer Dist #1 COMMISSIONER #3,,,Kevin Hepworth,63
-Grant,Grant County  Airport District #1 COMMISSIONER #01,,,Vincent Himsl,193
-Grant,Grant County  Airport District #1 COMMISSIONER #02,,,Kenneth F Broda,195
-Grant,Grant County  Airport District #1 COMMISSIONER #03,,,Karl L Gruber,199
+Grant,Grant County Airport District #1 COMMISSIONER #01,,,Vincent Himsl,193
+Grant,Grant County Airport District #1 COMMISSIONER #02,,,Kenneth F Broda,195
+Grant,Grant County Airport District #1 COMMISSIONER #03,,,Karl L Gruber,199
 Grays Harbor,Advisory Votes Advisory Vote No. 16 Engrossed Substitute House Bill 1597,,,Repealed,9875
 Grays Harbor,Advisory Votes Advisory Vote No. 16 Engrossed Substitute House Bill 1597,,,Maintained,3699
 Grays Harbor,Advisory Votes Advisory Vote No. 17 Engrossed House Bill 2163,,,Repealed,10461
@@ -1137,10 +1137,10 @@ Grays Harbor,City of Ocean Shores Position 1,,,Susan Conniry,1128
 Grays Harbor,City of Ocean Shores Position 1,,,John Lynn,1032
 Grays Harbor,City of Ocean Shores Position 3,,,Shannon Rubin,943
 Grays Harbor,City of Ocean Shores Position 3,,,Lisa Griebel,1083
-Grays Harbor,City of Ocean Shores  Position 5,,,Steve Ensley,1134
-Grays Harbor,City of Ocean Shores  Position 5,,,Randy D. Scott,878
+Grays Harbor,City of Ocean Shores Position 5,,,Steve Ensley,1134
+Grays Harbor,City of Ocean Shores Position 5,,,Randy D. Scott,878
 Grays Harbor,City of Ocean Shores Position 7,,,Robert Crumpacker,1161
-Grays Harbor,City of Ocean Shores Position 7,,,Carlos  Roldan,862
+Grays Harbor,City of Ocean Shores Position 7,,,Carlos Roldan,862
 Grays Harbor,City of Westport Position 1,,,Melissa Huerta,318
 Grays Harbor,City of Westport Position 3,,,Michael Bruce,150
 Grays Harbor,City of Westport Position 3,,,Louis Summers,300
@@ -1181,9 +1181,9 @@ Grays Harbor,Sch Dist 99 -Cosmopolis School 99 Director District 4 (at large),,,
 Grays Harbor,Sch Dist 99 -Cosmopolis School 99 Director District 4 (at large),,,Cindy Grenier,220
 Grays Harbor,Sch Dist 104 - Satsop School 104 Position 4,,,Shawna Williams,89
 Grays Harbor,Sch Dist 104 - Satsop School 104 Position 5,,,Terri Carl,91
-Grays Harbor,Sch Dist 117 - Wishkah School 117 Director District  2,,,Denny Van Blaricom Jr.,148
-Grays Harbor,Sch Dist 117 - Wishkah School 117 Director District  3,,,Travis Warren,126
-Grays Harbor,Sch Dist 172 - Ocosta School 172 Director District  2,,,Scott Jones,663
+Grays Harbor,Sch Dist 117 - Wishkah School 117 Director District 2,,,Denny Van Blaricom Jr.,148
+Grays Harbor,Sch Dist 117 - Wishkah School 117 Director District 3,,,Travis Warren,126
+Grays Harbor,Sch Dist 172 - Ocosta School 172 Director District 2,,,Scott Jones,663
 Grays Harbor,Sch Dist 172 - Ocosta School 172 Position 4,,,Hillary Bearden,707
 Grays Harbor,Sch Dist 300 - N River Director Position 1,,,Robert Sholes,32
 Grays Harbor,Sch Dist 300 - N River Director Position 2,,,Brian Carbaugh,29
@@ -1286,10 +1286,10 @@ Island,"NO WHIDBEY PK AND REC Commissioner, Position 2",,,Shane Hoffmire,2392
 Island,"NO WHIDBEY PK AND REC Commissioner, Position 4",,,Sean Merrill,4165
 Island,"NO WHIDBEY PK AND REC Commissioner, Position 5",,,Patricia (Pat) Hardin,2947
 Island,"NO WHIDBEY PK AND REC Commissioner, Position 5",,,Daniel (Dan) Brown,2110
-Island,"SO  WHIDBEY PK AND REC Commissioner, Position 2",,,Mark Helpenstell,3102
-Island,"SO  WHIDBEY PK AND REC Commissioner, Position 3",,,Joshua Alan Samuel Perry Coleman,2872
-Island,"SO  WHIDBEY PK AND REC Commissioner, Position 5",,,Bigi Giese,972
-Island,"SO  WHIDBEY PK AND REC Commissioner, Position 5",,,Matthew E. Simms,2931
+Island,"SO WHIDBEY PK AND REC Commissioner, Position 2",,,Mark Helpenstell,3102
+Island,"SO WHIDBEY PK AND REC Commissioner, Position 3",,,Joshua Alan Samuel Perry Coleman,2872
+Island,"SO WHIDBEY PK AND REC Commissioner, Position 5",,,Bigi Giese,972
+Island,"SO WHIDBEY PK AND REC Commissioner, Position 5",,,Matthew E. Simms,2931
 Island,"CEMETERY DIST ONE Commissioner, Position 1",,,Bryan Stucky,2248
 Island,"CEMETERY DIST ONE Commissioner, Position 1",,,Heidi Beck,2691
 Island,"CEMETERY DIST ONE Commissioner, Position 2",,,Mark Forbes,4190
@@ -1310,7 +1310,7 @@ Island,"CROCKETT LAKE WATER Commissioner, Position 1",,,Joe Biller,89
 Island,"JUNIPER BEACH WATER Commissioner, Position #2",,,Greg Hood,36
 Island,"JUNIPER BEACH WATER Commissioner, Position #5",,,Joanne B Wilson,37
 Island,"LAGOON POINT WATER Commissioner, Position 1",,,Paul Kukuk,152
-Island,"LAGOON POINT WATER Commissioner,  Position (5)",,,William C. Brown,148
+Island,"LAGOON POINT WATER Commissioner, Position (5)",,,William C. Brown,148
 Island,"LEDGEWOOD BCH WATER Commissioner, Position #1",,,Doug Martin,69
 Island,"LEDGEWOOD BCH WATER Commissioner, Position #2",,,Dale Hockstra,68
 Island,"LONG BEACH WATER Commissioner, Position #3",,,Deborah Engel,13
@@ -1776,7 +1776,7 @@ King,Enumclaw Fire Department Commissioner Position No. 1,,,Jenny Page,2508
 King,Enumclaw Fire Department Commissioner Position No. 1,,,Paul Fisher,1624
 King,Enumclaw Fire Department Commissioner Position No. 4,,,Jim Zoll,3288
 King,King County Fire Protection District 31 Commissioner Position No. 1,,,Gerry Bertellotti,12
-King,King County Fire Protection District 31 Commissioner  Position No. 3,,,Paul K. Reckamp,12
+King,King County Fire Protection District 31 Commissioner Position No. 3,,,Paul K. Reckamp,12
 King,King County Fire Protection District 34 Commissioner Position No. 1,,,Peter Lucarelli,4908
 King,King County Fire Protection District 34 Commissioner Position No. 3,,,Joe Pylant,4858
 King,Woodinville Fire &amp; Rescue Commissioner Position No. 1,,,Derek van Veen,8476
@@ -1813,8 +1813,8 @@ King,Covington Water District Commissioner Position No. 1,,,Barry Knowles,3205
 King,Covington Water District Commissioner Position No. 4,,,Brad Lake,6698
 King,Covington Water District Commissioner Position No. 4,,,Jeff Clark,2827
 King,Fall City Water District Commissioner Position No. 1,,,Eric Soderman,467
-King,Highline Water District Commissioner  Position No. 1,,,Todd Fultz,7718
-King,Highline Water District Commissioner  Position No. 1,,,Bryan Yager,2703
+King,Highline Water District Commissioner Position No. 1,,,Todd Fultz,7718
+King,Highline Water District Commissioner Position No. 1,,,Bryan Yager,2703
 King,Lake Forest Park Water District Commissioner Position No. 1,,,David A. Hammond,634
 King,North City Water District Commissioner Position No. 1,,,Ronald F. (Ron) Ricker,3966
 King,Woodinville Water District Commissioner Position No. 1,,,Karen Steeb,6986
@@ -1875,7 +1875,7 @@ King,King County Airport District Commissioner Position No. 2,,,Willie Gerrior,2
 King,King County Airport District Commissioner Position No. 3,,,Bob Therkelsen,2804
 King,King County Cemetery District No. 1 Commissioner Position No. 1,,,Jay Hanson,2971
 King,King County Cemetery District No. 1 Commissioner Position No. 2,,,John R. Kimble,2920
-King,Des Moines Pool Metropolitan Park Dist Commissioner  Position No. 3,,,Shane Young,3842
+King,Des Moines Pool Metropolitan Park Dist Commissioner Position No. 3,,,Shane Young,3842
 King,Des Moines Pool Metropolitan Park Dist Commissioner Position No. 5,,,Nancy Kuehnoel,2334
 King,Des Moines Pool Metropolitan Park Dist Commissioner Position No. 5,,,Gene S. Achziger,2840
 King,Fall City Metropolitan Park District Commissioner Position No. 3,,,Charles H. Kellogg,1090
@@ -1981,14 +1981,14 @@ Kitsap,PORT OF ILLAHEE DISTRICT NO. 6 Commissioner Position 1,,,John C. Burton,7
 Kitsap,PORT OF ILLAHEE DISTRICT NO. 6 Commissioner Position 2,,,Jonathan (Jon) Buesch,515
 Kitsap,PORT OF ILLAHEE DISTRICT NO. 6 Commissioner Position 2,,,Mike Mantzke,421
 Kitsap,PORT OF INDIANOLA DISTRICT NO. 7 Commissioner District 1,,,Jeff Henderson,472
-Kitsap,PORT OF KINGSTON DISTRICT NO. 9 Commissioner District  3,,,Laura Gronnvoll,1434
+Kitsap,PORT OF KINGSTON DISTRICT NO. 9 Commissioner District 3,,,Laura Gronnvoll,1434
 Kitsap,PORT OF MANCHESTER DISTRICT NO. 10 Commissioner Position 2,,,Dan C. Fallstrom,1073
 Kitsap,PORT OF MANCHESTER DISTRICT NO. 10 Commissioner Position 3,,,Robert (Bob) Ballard,836
 Kitsap,PORT OF MANCHESTER DISTRICT NO. 10 Commissioner Position 3,,,Shawn Murphy,510
 Kitsap,PORT OF POULSBO DISTRICT NO. 12 Commissioner Position 3,,,Jonothan (Jono) Saunders,1725
 Kitsap,PORT OF SILVERDALE DISTRICT NO. 14 Commissioner District 2,,,Henry C. Aus,3279
 Kitsap,PORT OF TRACYTON DISTRICT NO. 15 Commissioner District 1,,,William L. Mooney,1179
-Kitsap,PORT OF WATERMAN DISTRICT NO. 16 Commissioner District  1,,,Rod Reid,405
+Kitsap,PORT OF WATERMAN DISTRICT NO. 16 Commissioner District 1,,,Rod Reid,405
 Kitsap,KITSAP COUNTY SEWER DISTRICT NO. 7 Commissioner Position 2,,,Matt Blossom,58
 Kitsap,KITSAP COUNTY SEWER DISTRICT NO. 7 Commissioner Position 2,,,Christopher Dew,219
 Kitsap,WEST SOUND UTILITY DISTRICT NO. 1 Commissioner Position 2,,,David Helland,566
@@ -2113,7 +2113,7 @@ Klickitat,Washington State Advisory Vote No. 18 Engrossed House Bill 2242,,,Repe
 Klickitat,Washington State Advisory Vote No. 18 Engrossed House Bill 2242,,,Maintained,1555
 Klickitat,BINGEN MUNICIPAL City of Bingen Mayor,,,Betty J. Barnes,72
 Klickitat,BINGEN MUNICIPAL City of Bingen Mayor,,,Clinton Bryan,25
-Klickitat,BINGEN MUNICIPAL City of Bingen Council Pos.  #3,,,Phil Jones,82
+Klickitat,BINGEN MUNICIPAL City of Bingen Council Pos. #3,,,Phil Jones,82
 Klickitat,BINGEN MUNICIPAL City of Bingen Council Pos. #5,,,Catherine Kiewit,81
 Klickitat,GOLDENDALE MUNICIPAL City of Goldendale Council Pos. #4,,,Miland Walling,521
 Klickitat,GOLDENDALE MUNICIPAL City of Goldendale Council Pos. #5,,,Carmen Knopes,531
@@ -2138,7 +2138,7 @@ Klickitat,TROUT LAKE FIRE DISTRICT # 1 Trout Lake Fire District Pos. #3,,,Eula S
 Klickitat,BICKLETON FIRE DISTRICT # 2 Bickleton Fire District Pos. #1,,,Donald Slater,123
 Klickitat,BICKLETON FIRE DISTRICT # 2 Bickleton Fire District Pos. #2,,,Larry Jensen,114
 Klickitat,HUSUM FIRE DISTRICT # 3 Husum Fire District Pos. #2,,,Charles Virts,654
-Klickitat,CENTERVILLE FIRE DISTRICT # 5 Centerville Fire District Pos.  #1,,,Dan Rhoades,130
+Klickitat,CENTERVILLE FIRE DISTRICT # 5 Centerville Fire District Pos. #1,,,Dan Rhoades,130
 Klickitat,DALLESPORT FIRE DISTRICT # 6 Dallesport Fire District Pos. #1,,,Bradley Swing,209
 Klickitat,RURAL FIRE DISTRICT # 7 Rural 7 Fire District Pos. #2,,,David Ward,862
 Klickitat,GLENWOOD FIRE DISTRICT # 8 Glenwood Fire District Pos. #3,,,Bryan Keithly,143
@@ -2253,7 +2253,7 @@ Lewis,Eatonville School District #404 Director Dist. 2,,,Annaliza R. Klumpar,31
 Lewis,Evaline School District #36 Director Pos 3,,,Cassondra Williams,187
 Lewis,Evaline School District #36 Director Pos 4,,,Michael D Porter,189
 Lewis,Morton School District #214 Director Dist 2,,,Warren G. Dunlap,481
-Lewis,Morton School District #214  Director Pos 5 At-Large,,,Brandie A Dantinne,476
+Lewis,Morton School District #214 Director Pos 5 At-Large,,,Brandie A Dantinne,476
 Lewis,Mossyrock School District #206 Director Dist 2,,,Chris Coleman,654
 Lewis,Mossyrock School District #206 Director Dist 3,,,Tanissa Lovan,658
 Lewis,Mossyrock School District #206 Director Dist 4,,,Diane Hutchison,353
@@ -2523,8 +2523,8 @@ Okanogan,Advisory Votes Advisory Vote No. 17 Engrossed House Bill 2163,,,Repeale
 Okanogan,Advisory Votes Advisory Vote No. 17 Engrossed House Bill 2163,,,Maintained,1901
 Okanogan,Advisory Votes Advisory Vote No. 18 Engrossed House Bill 2242,,,Repealed,6561
 Okanogan,Advisory Votes Advisory Vote No. 18 Engrossed House Bill 2242,,,Maintained,2415
-Okanogan,OKANOGAN COUNTY Proposition No 1  Okanogan County Sales Tax for Juvenile Detention Facilities and Jails,,,Yes,5488
-Okanogan,OKANOGAN COUNTY Proposition No 1  Okanogan County Sales Tax for Juvenile Detention Facilities and Jails,,,No,3637
+Okanogan,OKANOGAN COUNTY Proposition No 1 Okanogan County Sales Tax for Juvenile Detention Facilities and Jails,,,Yes,5488
+Okanogan,OKANOGAN COUNTY Proposition No 1 Okanogan County Sales Tax for Juvenile Detention Facilities and Jails,,,No,3637
 Okanogan,State Senate,7,Republican,Shelly Short,3541
 Okanogan,State Senate,7,Democratic,Karen Hardy,1478
 Okanogan,State Representative (Pos. 1),7,Republican,Jacquelin Maycumber,3500
@@ -2612,7 +2612,7 @@ Okanogan,BRIDGEPORT SCHOOL 75J DIRECTOR #5,,,Tracy Zahn,8
 Okanogan,OKANOGAN SCHOOL 105 Director District 2,,,Rae Jean Kelley,552
 Okanogan,OKANOGAN SCHOOL 105 Director District 2,,,Jane A. Cline,328
 Okanogan,OKANOGAN SCHOOL 105 Director District 3,,,Monte Andrews,681
-Okanogan,BREWSTER SCHOOL 111-203J Director District 3,,,Maria A  Maldonado,188
+Okanogan,BREWSTER SCHOOL 111-203J Director District 3,,,Maria A Maldonado,188
 Okanogan,BREWSTER SCHOOL 111-203J Director District 3,,,Clark Cooper,192
 Okanogan,BREWSTER SCHOOL 111-203J Director District 5 At Large,,,Mario Camacho,303
 Okanogan,PATEROS SCHOOL 122-70J Director District 3,,,Parker Barth,238
@@ -2628,9 +2628,9 @@ Okanogan,GRAND COULEE DAM SCHOOL 301-304J SCHOOL DIRECTOR #05,,,Kelly N Steffens
 Okanogan,GRAND COULEE DAM SCHOOL 301-304J SCHOOL DIRECTOR #05,,,Richard Black,142
 Okanogan,REPUBLIC SCHOOL 309 SCHOOL DIRECTOR #1,,,Ralph C. Ellingson,11
 Okanogan,REPUBLIC SCHOOL 309 SCHOOL DIRECTOR #2,,,Neal Martin,10
-Okanogan,REPUBLIC SCHOOL 309 SCHOOL DIRECTOR  #5,,,Travis Fletcher,10
-Okanogan,REPUBLIC SCHOOL 309 Bonds to Construct and Remodel School Facilities  Proposition 1,,,Approved,15
-Okanogan,REPUBLIC SCHOOL 309 Bonds to Construct and Remodel School Facilities  Proposition 1,,,Rejected,13
+Okanogan,REPUBLIC SCHOOL 309 SCHOOL DIRECTOR #5,,,Travis Fletcher,10
+Okanogan,REPUBLIC SCHOOL 309 Bonds to Construct and Remodel School Facilities Proposition 1,,,Approved,15
+Okanogan,REPUBLIC SCHOOL 309 Bonds to Construct and Remodel School Facilities Proposition 1,,,Rejected,13
 Okanogan,METHOW VALLEY SCHOOL 350 Director District 2,,,Dana Stromberger,1583
 Okanogan,METHOW VALLEY SCHOOL 350 Director District 4 At Large,,,Gary L. Marchbank,1180
 Okanogan,METHOW VALLEY SCHOOL 350 Director District 4 At Large,,,Paul D. Budrow,793
@@ -2724,7 +2724,7 @@ Pacific,Naselle Grays River School District #155 Director District 5,,,Lonnie Ea
 Pacific,Willapa Valley School District #160 Director District 1,,,Tom Walker,463
 Pacific,Willapa Valley School District #160 Director District 4,,,Josh Christen,451
 Pacific,Willapa Valley School District #160 Director District 5,,,Tom Gray,410
-Pacific,School District #172 School 172 Director District  2,,,Scott Jones,148
+Pacific,School District #172 School 172 Director District 2,,,Scott Jones,148
 Pacific,School District #172 School 172 Position 4,,,Hillary Bearden,151
 Pacific,North River School District #200 Director Position 1,,,Robert Sholes,19
 Pacific,North River School District #200 Director Position 2,,,Brian Carbaugh,12
@@ -2734,8 +2734,8 @@ Pacific,School District #301 Director Dist 1,,,Jessi R. Cox,4
 Pacific,School District #301 Director Dist 2,,,Colin (Wolverine) Newell,4
 Pacific,School District #301 Director Dist 3,,,Trevor Kaech,0
 Pacific,School District #301 Director Dist 3,,,Ed Petersen,4
-Pacific,Emergency Med. Service 1 NORTH PACIFIC COUNTY EMS DISTRICT NO. 1  AMBULANCE AND EMERGENCY MEDICAL SERVICE FUNDING,,,Approved,1777
-Pacific,Emergency Med. Service 1 NORTH PACIFIC COUNTY EMS DISTRICT NO. 1  AMBULANCE AND EMERGENCY MEDICAL SERVICE FUNDING,,,Rejected,716
+Pacific,Emergency Med. Service 1 NORTH PACIFIC COUNTY EMS DISTRICT NO. 1 AMBULANCE AND EMERGENCY MEDICAL SERVICE FUNDING,,,Approved,1777
+Pacific,Emergency Med. Service 1 NORTH PACIFIC COUNTY EMS DISTRICT NO. 1 AMBULANCE AND EMERGENCY MEDICAL SERVICE FUNDING,,,Rejected,716
 Pacific,Peninsula Fire District #1 Commissioner Position 3,,,Thomas L. Downer,1631
 Pacific,Willapa Valley Fire District #3 Commissioner Position 2,,,Bob Jones,621
 Pacific,Naselle Fire District #4 Commissioner Position 3,,,Bryan Penttila,299
@@ -2806,9 +2806,9 @@ Pend Oreille,Riverside School District - 62 DIRECTOR DIST. #1,,,Gary Vanderholm,
 Pend Oreille,Riverside School District - 62 DIRECTOR DIST. #2,,,Scott Ellsworth,120
 Pend Oreille,Riverside School District - 62 DIRECTOR DIST. #2,,,Jon Roman,62
 Pend Oreille,Riverside School District - 62 DIRECTOR DIST. #5,,,Brandi Maynard,133
-Pend Oreille,Selkirk School  District - 70 SCHOOL DIRECTOR #1,,,Ryan Kiss,595
-Pend Oreille,Selkirk School  District - 70 SCHOOL DIRECTOR #2,,,SCOTT JUNGBLOM,563
-Pend Oreille,Selkirk School  District - 70 SCHOOL DIRECTOR - At Large #2,,,Larry Bear Holter,570
+Pend Oreille,Selkirk School District - 70 SCHOOL DIRECTOR #1,,,Ryan Kiss,595
+Pend Oreille,Selkirk School District - 70 SCHOOL DIRECTOR #2,,,SCOTT JUNGBLOM,563
+Pend Oreille,Selkirk School District - 70 SCHOOL DIRECTOR - At Large #2,,,Larry Bear Holter,570
 Pend Oreille,Fire District - 02 FIRE COMMISSIONER #2,,,PETE SMOLDON,207
 Pend Oreille,Fire District - 02 FIRE COMMISSIONER #2,,,Write-In: RICK STONE,266
 Pend Oreille,Fire District - 02 Annexation of Town of Ione into Pend Oreille County Fire District No. 2 Annex Ione into Fire 2,,,Yes,389
@@ -2938,7 +2938,7 @@ Pierce,CITY OF MILTON Council (Pos. 5),,,Todd Morton,992
 Pierce,CITY OF ORTING Mayor,,,Joshua Penner,1007
 Pierce,CITY OF ORTING Mayor,,,Joachim (Joe) Pestinger,642
 Pierce,CITY OF ORTING Council (Pos. 1),,,Tod Gunther,830
-Pierce,CITY OF ORTING Council (Pos. 1),,,Gregory  Hogan,716
+Pierce,CITY OF ORTING Council (Pos. 1),,,Gregory Hogan,716
 Pierce,CITY OF ORTING Council (Pos. 2),,,John Kelly,1051
 Pierce,CITY OF ORTING Council (Pos. 3),,,Douglas Bishop,759
 Pierce,CITY OF ORTING Council (Pos. 3),,,Michelle Gehring,780
@@ -3065,8 +3065,8 @@ Pierce,FIFE SCHOOL DISTRICT NO. 417 Director Dist. 4,,,Cheryl Reid-Simons,1713
 Pierce,FIFE SCHOOL DISTRICT NO. 417 Director Dist. 5,,,Kimberly Palmer Yee,1749
 Pierce,FIRE PROTECTION DISTRICT NO. 3 Commissioner (Pos. 3),,,Ryan J. Felix,2067
 Pierce,FIRE PROTECTION DISTRICT NO. 3 Commissioner (Pos. 3),,,Daniel R. Rankin,11319
-Pierce,FIRE PROTECTION DISTRICT NO. 5 Proposition No. 1  Six-Year Levy Lid Lift,,,Approved,8360
-Pierce,FIRE PROTECTION DISTRICT NO. 5 Proposition No. 1  Six-Year Levy Lid Lift,,,Rejected,4994
+Pierce,FIRE PROTECTION DISTRICT NO. 5 Proposition No. 1 Six-Year Levy Lid Lift,,,Approved,8360
+Pierce,FIRE PROTECTION DISTRICT NO. 5 Proposition No. 1 Six-Year Levy Lid Lift,,,Rejected,4994
 Pierce,FIRE PROTECTION DISTRICT NO. 5 Commissioner (Pos. 2),,,Zachary Smith,9326
 Pierce,FIRE PROTECTION DISTRICT NO. 6 Commissioner (Pos. 3),,,Rich Coleman,19812
 Pierce,FIRE PROTECTION DISTRICT NO. 6 Commissioner (Pos. 5),,,Matt Holm,12745
@@ -3077,10 +3077,10 @@ Pierce,FIRE PROTECTION DISTRICT NO. 13 Commissioner (Pos. 3),,,Dave Noll,415
 Pierce,FIRE PROTECTION DISTRICT NO. 14 Commissioner (Pos. 3),,,John W. Campbell,260
 Pierce,FIRE PROTECTION DISTRICT NO. 16 Commissioner (Pos. 3),,,Shawn Jensen,2414
 Pierce,FIRE PROTECTION DISTRICT NO. 16 Commissioner (Pos. 5),,,Keith Davies,2389
-Pierce,FIRE PROTECTION DISTRICT NO. 17 Proposition No. 1  Six-Year Levy Lid Lift - Fire Protection Services,,,Approved,1397
-Pierce,FIRE PROTECTION DISTRICT NO. 17 Proposition No. 1  Six-Year Levy Lid Lift - Fire Protection Services,,,Rejected,1642
-Pierce,FIRE PROTECTION DISTRICT NO. 17 Proposition No. 2  Six-Year Levy Lid Lift - Emergency Medical Services,,,Approved,1506
-Pierce,FIRE PROTECTION DISTRICT NO. 17 Proposition No. 2  Six-Year Levy Lid Lift - Emergency Medical Services,,,Rejected,1608
+Pierce,FIRE PROTECTION DISTRICT NO. 17 Proposition No. 1 Six-Year Levy Lid Lift - Fire Protection Services,,,Approved,1397
+Pierce,FIRE PROTECTION DISTRICT NO. 17 Proposition No. 1 Six-Year Levy Lid Lift - Fire Protection Services,,,Rejected,1642
+Pierce,FIRE PROTECTION DISTRICT NO. 17 Proposition No. 2 Six-Year Levy Lid Lift - Emergency Medical Services,,,Approved,1506
+Pierce,FIRE PROTECTION DISTRICT NO. 17 Proposition No. 2 Six-Year Levy Lid Lift - Emergency Medical Services,,,Rejected,1608
 Pierce,FIRE PROTECTION DISTRICT NO. 17 Commissioner (Pos. 3),,,Yanah G. Cook,418
 Pierce,FIRE PROTECTION DISTRICT NO. 17 Commissioner (Pos. 3),,,Kevin G. Kneeshaw,2208
 Pierce,FIRE PROTECTION DISTRICT NO. 17 Commissioner (Pos. 4),,,Alan (Skip) Simmons,1202
@@ -3090,8 +3090,8 @@ Pierce,FIRE PROTECTION DISTRICT NO. 18 Proposition No. 1 Excess Property Tax Lev
 Pierce,FIRE PROTECTION DISTRICT NO. 18 Commissioner (Pos. 1),,,Tom Marino,2126
 Pierce,FIRE PROTECTION DISTRICT NO. 18 Commissioner (Pos. 3),,,Arlene Dannat,2123
 Pierce,FIRE PROTECTION DISTRICT NO. 18 Commissioner (Pos. 4),,,Kevin Gorder,2104
-Pierce,FIRE PROTECTION DISTRICT NO. 21 Proposition No. 1  Six-Year Levy Lid Lift,,,Approved,4194
-Pierce,FIRE PROTECTION DISTRICT NO. 21 Proposition No. 1  Six-Year Levy Lid Lift,,,Rejected,3320
+Pierce,FIRE PROTECTION DISTRICT NO. 21 Proposition No. 1 Six-Year Levy Lid Lift,,,Approved,4194
+Pierce,FIRE PROTECTION DISTRICT NO. 21 Proposition No. 1 Six-Year Levy Lid Lift,,,Rejected,3320
 Pierce,FIRE PROTECTION DISTRICT NO. 21 Commissioner (Pos. 1),,,Jacob Koukel,1806
 Pierce,FIRE PROTECTION DISTRICT NO. 21 Commissioner (Pos. 1),,,Gerry W. Gustafson,4544
 Pierce,FIRE PROTECTION DISTRICT NO. 21 Commissioner (Pos. 4),,,Gina Blanchard-Reed,5378
@@ -3108,8 +3108,8 @@ Pierce,KEY PENINSULA METROPOLITAN PARK DIST Commissioner (Pos. 5),,,Kip Clinton,
 Pierce,METROPOLITAN PARK DISTRICT OF TACOMA Commissioner (Pos. 4),,,Andrea Smith,22574
 Pierce,METROPOLITAN PARK DISTRICT OF TACOMA Commissioner (Pos. 4),,,Stephanie Smith,8207
 Pierce,METROPOLITAN PARK DISTRICT OF TACOMA Commissioner (Pos. 5),,,Erik Hanberg,24096
-Pierce,PENINSULA METROPOLITAN PARK DISTRICT Proposition No. 1  Six-Year Levy Lid Lift,,,Approved,5646
-Pierce,PENINSULA METROPOLITAN PARK DISTRICT Proposition No. 1  Six-Year Levy Lid Lift,,,Rejected,4768
+Pierce,PENINSULA METROPOLITAN PARK DISTRICT Proposition No. 1 Six-Year Levy Lid Lift,,,Approved,5646
+Pierce,PENINSULA METROPOLITAN PARK DISTRICT Proposition No. 1 Six-Year Levy Lid Lift,,,Rejected,4768
 Pierce,PENINSULA METROPOLITAN PARK DISTRICT Commissioner (Pos. 5),,,Kirsten Gregory,3689
 Pierce,PENINSULA METROPOLITAN PARK DISTRICT Commissioner (Pos. 5),,,Amanda Babich,5166
 Pierce,ASHFORD WATER DISTRICT Commissioner (Pos. 1),,,Richard E. Johnson,38
@@ -3318,7 +3318,7 @@ Skamania,Advisory Votes Advisory Vote No. 17 Engrossed House Bill 2163,,,Repeale
 Skamania,Advisory Votes Advisory Vote No. 17 Engrossed House Bill 2163,,,Maintained,599
 Skamania,Advisory Votes Advisory Vote No. 18 Engrossed House Bill 2242,,,Repealed,1739
 Skamania,Advisory Votes Advisory Vote No. 18 Engrossed House Bill 2242,,,Maintained,661
-Skamania,HOSPITAL DISTRICT Commissioner  #1,,,Dale Grams,1577
+Skamania,HOSPITAL DISTRICT Commissioner #1,,,Dale Grams,1577
 Skamania,HOSPITAL DISTRICT Commissioner #2,,,Forest Hofer,1648
 Skamania,CEMETERY DISTRICT Commissioner #2,,,Jayne Borden,1655
 Skamania,PORT DISTRICT (OVERALL) Commissioner #1,,,Kevin Waters,1178
@@ -3717,12 +3717,12 @@ Spokane,CITY OF SPOKANE MUNICIPAL COURT JUDGE #1,,,Adam W. Papini,9681
 Spokane,CITY OF SPOKANE MUNICIPAL COURT JUDGE #1,,,Tracy Arlene Staab,27129
 Spokane,CITY OF SPOKANE MUNICIPAL COURT JUDGE #2,,,Mary C. Logan,29466
 Spokane,CITY OF SPOKANE MUNICIPAL COURT JUDGE #3,,,Michelle (Shelley) Szambelan,29532
-Spokane,CITY OF SPOKANE C D 1 DIST. #1  COUNCIL POSITION NO. 2,,,Kate Burke,4799
-Spokane,CITY OF SPOKANE C D 1 DIST. #1  COUNCIL POSITION NO. 2,,,Tim Benn,3430
-Spokane,CITY OF SPOKANE C D 2 DIST. #2  COUNCIL POSITION NO. 2,,,Breean L. Beggs,10434
-Spokane,CITY OF SPOKANE C D 2 DIST. #2  COUNCIL POSITION NO. 2,,,Andy Dunau,7565
-Spokane,CITY OF SPOKANE C D 3 DIST. #3  COUNCIL POSITION NO. 2,,,Candace Mumm,8276
-Spokane,CITY OF SPOKANE C D 3 DIST. #3  COUNCIL POSITION NO. 2,,,Matthew Howes,7311
+Spokane,CITY OF SPOKANE C D 1 DIST. #1 COUNCIL POSITION NO. 2,,,Kate Burke,4799
+Spokane,CITY OF SPOKANE C D 1 DIST. #1 COUNCIL POSITION NO. 2,,,Tim Benn,3430
+Spokane,CITY OF SPOKANE C D 2 DIST. #2 COUNCIL POSITION NO. 2,,,Breean L. Beggs,10434
+Spokane,CITY OF SPOKANE C D 2 DIST. #2 COUNCIL POSITION NO. 2,,,Andy Dunau,7565
+Spokane,CITY OF SPOKANE C D 3 DIST. #3 COUNCIL POSITION NO. 2,,,Candace Mumm,8276
+Spokane,CITY OF SPOKANE C D 3 DIST. #3 COUNCIL POSITION NO. 2,,,Matthew Howes,7311
 Spokane,CITY OF SPOKANE VALLEY COUNCIL POSITION NO. 1,,,Rod Higgins,8207
 Spokane,CITY OF SPOKANE VALLEY COUNCIL POSITION NO. 1,,,Chris Jackson,7938
 Spokane,CITY OF SPOKANE VALLEY COUNCIL POSITION NO. 2,,,J. Caleb Collier,6841
@@ -3968,7 +3968,7 @@ Thurston,"Town of Bucoda Town Council, Position No. 2",,,Steven Lyle,73
 Thurston,"Town of Bucoda Town Council, Position No. 3",,,Gary Givens,129
 Thurston,"Town of Bucoda Town Council, Position No. 4",,,Alan Vanell,124
 Thurston,"Town of Bucoda Town Council, Position No. 5",,,Robert F. Gordon,125
-Thurston,"City of Lacey City Council, Position No.  3",,,Rachel Young,6242
+Thurston,"City of Lacey City Council, Position No. 3",,,Rachel Young,6242
 Thurston,"City of Lacey City Council, Position No. 4",,,Cynthia Pratt,6239
 Thurston,"City of Lacey City Council, Position No. 5",,,Andy Ryder,6196
 Thurston,"City of Lacey City Council, Position No. 6",,,Robert Motzer,2378
@@ -3981,8 +3981,8 @@ Thurston,"City of Olympia City Council, Position No. 5",,,Allen Miller,5015
 Thurston,"City of Olympia City Council, Position No. 5",,,Lisa Parshley,8280
 Thurston,"City of Olympia City Council, Position No. 6",,,Jeannine Roe,6147
 Thurston,"City of Olympia City Council, Position No. 6",,,Renata Rollins,7159
-Thurston,"City of Olympia City Council, Position No.  7",,,Jim Cooper,10136
-Thurston,"City of Olympia City Council, Position No.  7",,,Daniel (Danny) Marsh,2786
+Thurston,"City of Olympia City Council, Position No. 7",,,Jim Cooper,10136
+Thurston,"City of Olympia City Council, Position No. 7",,,Daniel (Danny) Marsh,2786
 Thurston,"City of Olympia Municipal Court Judge, Position No. 1",,,Scott K. Ahlf,9235
 Thurston,City of Olympia Public Safety Levy Levy,,,Approved,8865
 Thurston,City of Olympia Public Safety Levy Levy,,,Rejected,4934
@@ -4011,8 +4011,8 @@ Thurston,"City of Yelm City Council, Position No. 3",,,Russ Hendrickson,534
 Thurston,"City of Yelm City Council, Position No. 3",,,Cody Colt,603
 Thurston,"City of Yelm City Council, Position No. 4",,,Tad Stillwell,903
 Thurston,"City of Yelm City Council, Position No. 5",,,Tracey Wood,884
-Thurston,"City of Yelm City Council, Position No.  7",,,James C. Blair,556
-Thurston,"City of Yelm City Council, Position No.  7",,,Terry Kaminski,627
+Thurston,"City of Yelm City Council, Position No. 7",,,James C. Blair,556
+Thurston,"City of Yelm City Council, Position No. 7",,,Terry Kaminski,627
 Thurston,Centralia School District No. 401-L Director Pos 1,,,Amy Buzzard,71
 Thurston,Centralia School District No. 401-L Director Pos 5,,,Tim Browning,49
 Thurston,Centralia School District No. 401-L Director Pos 5,,,Lori Fast,42
@@ -4096,8 +4096,8 @@ Wahkiakum,SCHOOL DISTRICT 200 Director #3,,,Susan M O'Connor,660
 Wahkiakum,SCHOOL DISTRICT 200 Director #5,,,Robin Westphall,639
 Wahkiakum,PORT DISTRICT 1 Commissioner #2,,,Bruce M. Holland,178
 Wahkiakum,PORT DISTRICT 1 Commissioner #2,,,Scott Anderson,340
-Wahkiakum,FIRE PROTECT DIST 1 Commissioner  #2,,,Ronald Kimmel,186
-Wahkiakum,FIRE PROTECT DIST 2 Commissioner  #2,,,Oliver van den Berghe,58
+Wahkiakum,FIRE PROTECT DIST 1 Commissioner #2,,,Ronald Kimmel,186
+Wahkiakum,FIRE PROTECT DIST 2 Commissioner #2,,,Oliver van den Berghe,58
 Wahkiakum,FIRE PROTECT DIST 3 Commissioner #2,,,Nick Nikkila,191
 Wahkiakum,FIRE PROTECT DIST 4 Commissioner #2,,,James McCoy,293
 Wahkiakum,SKAMOKAWA WATER-SEWER DIST Commissioner 1,,,David A. Blalock,17
@@ -4134,12 +4134,12 @@ Walla Walla,City of College Place City Council Position 3,,,Kisna A. Toruno,416
 Walla Walla,City of College Place City Council Position 5,,,Melodie Selby,936
 Walla Walla,City of Prescott City Council Position 1,,,William (Paul) Forney,54
 Walla Walla,City of Prescott City Council Position 2,,,Val Jacobson,52
-Walla Walla,City of  Walla Walla City Council Position 1,,,Riley Clubb,3113
-Walla Walla,City of  Walla Walla City Council Position 1,,,Jim Barrow,2323
-Walla Walla,City of  Walla Walla City Council Position 2,,,Marilee D. McQuarrie,2455
-Walla Walla,City of  Walla Walla City Council Position 2,,,Yazmin Bahena,2742
-Walla Walla,City of  Walla Walla City Council Position 3,,,Myron Huie,2730
-Walla Walla,City of  Walla Walla City Council Position 3,,,Devon Wootten,2535
+Walla Walla,City of Walla Walla City Council Position 1,,,Riley Clubb,3113
+Walla Walla,City of Walla Walla City Council Position 1,,,Jim Barrow,2323
+Walla Walla,City of Walla Walla City Council Position 2,,,Marilee D. McQuarrie,2455
+Walla Walla,City of Walla Walla City Council Position 2,,,Yazmin Bahena,2742
+Walla Walla,City of Walla Walla City Council Position 3,,,Myron Huie,2730
+Walla Walla,City of Walla Walla City Council Position 3,,,Devon Wootten,2535
 Walla Walla,Fire Protection District No. 2 Commissioner Position 1,,,Randy Farley,240
 Walla Walla,Fire Protection District No. 2 Commissioner Position 2,,,Richard J. Long,241
 Walla Walla,Fire Protection District No. 2 Commissioner Position 3,,,Jim Leid,249
@@ -4165,8 +4165,8 @@ Whatcom,Advisory Votes Advisory Vote No. 17 Engrossed House Bill 2163,,,Repealed
 Whatcom,Advisory Votes Advisory Vote No. 17 Engrossed House Bill 2163,,,Maintained,23214
 Whatcom,Advisory Votes Advisory Vote No. 18 Engrossed House Bill 2242,,,Repealed,32322
 Whatcom,Advisory Votes Advisory Vote No. 18 Engrossed House Bill 2242,,,Maintained,26553
-Whatcom,Whatcom County Proposition 2017-6  Public Safety and Jail Facilities Sales and Use Tax,,,Approved,25269
-Whatcom,Whatcom County Proposition 2017-6  Public Safety and Jail Facilities Sales and Use Tax,,,Rejected,35833
+Whatcom,Whatcom County Proposition 2017-6 Public Safety and Jail Facilities Sales and Use Tax,,,Approved,25269
+Whatcom,Whatcom County Proposition 2017-6 Public Safety and Jail Facilities Sales and Use Tax,,,Rejected,35833
 Whatcom,County Council District 1 Councilmember,,,Rud Browne,9869
 Whatcom,County Council District 1 Councilmember,,,Philip J. Morgan,2199
 Whatcom,County Council District 2 Councilmember,,,Todd Donovan,7596
@@ -4175,10 +4175,10 @@ Whatcom,County Council District 3 Councilmember,,,Rebecca Boonstra,5850
 Whatcom,County Council District 3 Councilmember,,,Tyler Byrd,6772
 Whatcom,"County Council At-Large Councilmember, Position A",,,Barry Buchanan,31405
 Whatcom,"County Council At-Large Councilmember, Position A",,,Mary Kay Robinson,28755
-Whatcom,Port of Bellingham All Commissioner District  1,,,Michael Alvarez Shepard,30418
-Whatcom,Port of Bellingham All Commissioner District  1,,,Dan Robbins,29152
-Whatcom,Port of Bellingham All Commissioner District  2,,,Ken Bell,30175
-Whatcom,Port of Bellingham All Commissioner District  2,,,Barry Wenger,28735
+Whatcom,Port of Bellingham All Commissioner District 1,,,Michael Alvarez Shepard,30418
+Whatcom,Port of Bellingham All Commissioner District 1,,,Dan Robbins,29152
+Whatcom,Port of Bellingham All Commissioner District 2,,,Ken Bell,30175
+Whatcom,Port of Bellingham All Commissioner District 2,,,Barry Wenger,28735
 Whatcom,City of Bellingham Council Ward 2,,,Gene Knutson,18500
 Whatcom,City of Bellingham Council Ward 4,,,Pinky Vargas,18598
 Whatcom,City of Bellingham Council Ward 6,,,Michael Lilliquist,17074
@@ -4230,17 +4230,17 @@ Whatcom,Ferndale School District 502 Director District 5,,,Andrew McLaurin,5770
 Whatcom,Blaine School District 503 Director District 3,,,Joan Lotze,3737
 Whatcom,Blaine School District 503 Director District 5,,,Michael (Mike) Dodd,1383
 Whatcom,Blaine School District 503 Director District 5,,,Laura McKinney,2969
-Whatcom,Lynden School District  504 Director Position 4,,,Stephan Jilk,4340
-Whatcom,Lynden School District  504 Director Position 5,,,Kelli Kettels,2469
-Whatcom,Lynden School District  504 Director Position 5,,,CJ Costanti,2436
+Whatcom,Lynden School District 504 Director Position 4,,,Stephan Jilk,4340
+Whatcom,Lynden School District 504 Director Position 5,,,Kelli Kettels,2469
+Whatcom,Lynden School District 504 Director Position 5,,,CJ Costanti,2436
 Whatcom,Meridian School District 505 Director District 2,,,Renier (Beaver) Elenbaas,1592
 Whatcom,Meridian School District 505 Director District 2,,,Jeannie Castro,1176
 Whatcom,Meridian School District 505 Director District 3,,,Brian A. Evans,2031
 Whatcom,Nooksack Valley School District 506 Director District 1,,,Randall Wright,1915
 Whatcom,Nooksack Valley School District 506 Director District 2,,,Stephen A. Jones,1913
-Whatcom,Mt Baker School District  507 Director District 1,,,Brian Kelly,2788
-Whatcom,Mt Baker School District  507 Director District 4,,,Nancy Workman,1737
-Whatcom,Mt Baker School District  507 Director District 4,,,Kelly Zender,1844
+Whatcom,Mt Baker School District 507 Director District 1,,,Brian Kelly,2788
+Whatcom,Mt Baker School District 507 Director District 4,,,Nancy Workman,1737
+Whatcom,Mt Baker School District 507 Director District 4,,,Kelly Zender,1844
 Whatcom,Concrete School District 11 Director District 1,,,Hulda (Hildi) Parker,5
 Whatcom,Concrete School District 11 Director District 3,,,Janet Culver,6
 Whatcom,"Concrete School District 11 Director District 4, At-Large",,,Allison Burton,6
@@ -4299,8 +4299,8 @@ Whatcom,Cemetery District 9 Commissioner Position 2,,,Tod Arnason,1245
 Whatcom,Cemetery District 10 Commissioner Position 2,,,Troy Luginbill,3971
 Whatcom,Cemetery District 10 Commissioner Position 3,,,Micah Moses,3744
 Whatcom,Cemetery District 11 Commissioner Position 2,,,Gerald Tenkley,147
-Whatcom,Point Roberts Park and Recreation District 1 Proposition 2017-7  Regular Property Tax Levies,,,Yes,268
-Whatcom,Point Roberts Park and Recreation District 1 Proposition 2017-7  Regular Property Tax Levies,,,No,114
+Whatcom,Point Roberts Park and Recreation District 1 Proposition 2017-7 Regular Property Tax Levies,,,Yes,268
+Whatcom,Point Roberts Park and Recreation District 1 Proposition 2017-7 Regular Property Tax Levies,,,No,114
 Whatcom,Point Roberts Park and Recreation District 1 Commissioner Position 3,,,Sonya Erica Liu,303
 Whatcom,Point Roberts Park and Recreation District 1 Commissioner Position 4,,,Arthur S. Reber,272
 Whatcom,Blaine-Birch Bay Park and Recreation District 2 Proposition 2017-8 Authorizing Continuing Property Tax Levy,,,Yes,3186
@@ -4359,8 +4359,8 @@ Whitman,FARMINGTON TOWN Council (2),,,Jaime Lopez,45
 Whitman,FARMINGTON TOWN Council (4),,,Brian Oliver,37
 Whitman,FARMINGTON TOWN Council (5),,,W Mark Hellinger,35
 Whitman,FARMINGTON TOWN Council (5),,,Jason Brausen,14
-Whitman,FARMINGTON TOWN Town of Farmington  Town of Farmington Proposition#1,,,Yes,30
-Whitman,FARMINGTON TOWN Town of Farmington  Town of Farmington Proposition#1,,,No,22
+Whitman,FARMINGTON TOWN Town of Farmington Town of Farmington Proposition#1,,,Yes,30
+Whitman,FARMINGTON TOWN Town of Farmington Town of Farmington Proposition#1,,,No,22
 Whitman,GARFIELD TOWN Mayor,,,Jarrod Pfaff,146
 Whitman,GARFIELD TOWN Mayor,,,Ray McCown,100
 Whitman,GARFIELD TOWN Council (4),,,David Jones,100
@@ -4423,7 +4423,7 @@ Whitman,ST JOHN TOWN Town of St John Proposition No. 2,,,Yes,128
 Whitman,ST JOHN TOWN Town of St John Proposition No. 2,,,No,62
 Whitman,CITY OF TEKOA Council (1),,,Carol Sturman,217
 Whitman,CITY OF TEKOA Council 3,,,Alyssa Heagy,130
-Whitman,CITY OF TEKOA Council 3,,,Jason C  Fletcher,133
+Whitman,CITY OF TEKOA Council 3,,,Jason C Fletcher,133
 Whitman,CITY OF TEKOA Council (4),,,Roy Schulz,222
 Whitman,CITY OF TEKOA Council (6),,,Wendy L Sienknecht,142
 Whitman,CITY OF TEKOA Council (6),,,Edward (Ted) Blaszak,123
@@ -4438,8 +4438,8 @@ Whitman,WASHTUCNA SCHOOL DISTRICT - 312 Director Position 1,,,Ginger McKenzie,0
 Whitman,WASHTUCNA SCHOOL DISTRICT - 312 Director Position 2,,,Teresa Correll,3
 Whitman,WASHTUCNA SCHOOL DISTRICT - 312 Director Position 4,,,Steve Crouse,3
 Whitman,WASHTUCNA SCHOOL DISTRICT - 312 Director Position 5,,,Jacob Sitton,3
-Whitman,LACROSSE SCHOOL DISTRICT - 126 LaCrosse School District No. 126  Proposition No. 1 Replacement Capital Levy,,,Yes,159
-Whitman,LACROSSE SCHOOL DISTRICT - 126 LaCrosse School District No. 126  Proposition No. 1 Replacement Capital Levy,,,No,96
+Whitman,LACROSSE SCHOOL DISTRICT - 126 LaCrosse School District No. 126 Proposition No. 1 Replacement Capital Levy,,,Yes,159
+Whitman,LACROSSE SCHOOL DISTRICT - 126 LaCrosse School District No. 126 Proposition No. 1 Replacement Capital Levy,,,No,96
 Whitman,LACROSSE SCHOOL DISTRICT - 126 Postion 1 at large,,,Kara Harder,177
 Whitman,LACROSSE SCHOOL DISTRICT - 126 Position 2 at large,,,Tami Schwartz,209
 Whitman,LACROSSE SCHOOL DISTRICT - 126 Position 3 at large,,,Harmon D Smith,178
@@ -4457,7 +4457,7 @@ Whitman,TEKOA SCHOOL DISTRICT - 265 Director District 5,,,Brandon VanDalsen,150
 Whitman,PULLMAN SCHOOL DISTRICT - 267 Director District 4,,,Karl M Johanson,1760
 Whitman,PULLMAN SCHOOL DISTRICT - 267 Director District 4,,,Nathan J Roberts,1978
 Whitman,PULLMAN SCHOOL DISTRICT - 267 Director District 5,,,Amanda Tanner,2174
-Whitman,PULLMAN SCHOOL DISTRICT - 267 Director District 5,,,Dean  Kinzer,1635
+Whitman,PULLMAN SCHOOL DISTRICT - 267 Director District 5,,,Dean Kinzer,1635
 Whitman,COLFAX SCHOOL DISTRICT - 300 Director District 5,,,Jennifer Hauser,747
 Whitman,PALOUSE SCHOOL DISTRICT - 301 Director District 1,,,Chris Cook,323
 Whitman,PALOUSE SCHOOL DISTRICT - 301 Director District 2,,,Joe Merrill,340
@@ -4524,12 +4524,12 @@ Whitman,TEKOA PARK DISTRICT - 6 District 6 Pos 2,,,Jon Hall,256
 Whitman,TEKOA PARK DISTRICT - 6 District 6 Pos 4,,,Fred Wagner,252
 Whitman,TEKOA PARK DISTRICT - 6 District 6 Pos 5,,,Deborah Groom,233
 Whitman,ENDICOTT PARK DISTRICT - 7 Position 1 at large,,,David Wingo,148
-Whitman,ENDICOTT PARK DISTRICT - 7 Position 2 at large,,,Anthony (Tony)  Anderson,152
+Whitman,ENDICOTT PARK DISTRICT - 7 Position 2 at large,,,Anthony (Tony) Anderson,152
 Whitman,ENDICOTT PARK DISTRICT - 7 Position 3 at large,,,Leslie Starrett,145
 Whitman,ENDICOTT PARK DISTRICT - 7 Position 4 at large,,,Amy Williams,138
 Whitman,ENDICOTT PARK DISTRICT - 7 Position 5 at large,,,Jenniffer (Jenny) Meyer,143
-Whitman,ENDICOTT PARK DISTRICT - 7 Endicott Park &amp; Recreation District No.7  Proposition No.1,,,Yes,116
-Whitman,ENDICOTT PARK DISTRICT - 7 Endicott Park &amp; Recreation District No.7  Proposition No.1,,,No,57
+Whitman,ENDICOTT PARK DISTRICT - 7 Endicott Park &amp; Recreation District No.7 Proposition No.1,,,Yes,116
+Whitman,ENDICOTT PARK DISTRICT - 7 Endicott Park &amp; Recreation District No.7 Proposition No.1,,,No,57
 Whitman,PORT DISTRICT - W Commissioner 2,,,Kristine Meyer,5764
 Yakima,Advisory Votes Advisory Vote No. 16 Engrossed Substitute House Bill 1597,,,Repealed,22175
 Yakima,Advisory Votes Advisory Vote No. 16 Engrossed Substitute House Bill 1597,,,Maintained,8677
