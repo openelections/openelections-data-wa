@@ -1,4 +1,4 @@
-# openelections-data-wa
+# openelections-data-wa [![Build Status](https://github.com/openelections/openelections-data-wa/actions/workflows/format_tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-wa/actions)
 
 This data comes from a database dump of the database that drives the pre-2007 election results search at http://www.sos.wa.gov/elections/results\_search.aspx.
 
